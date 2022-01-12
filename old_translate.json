@@ -524,7 +524,7 @@
 	"186:10": {
 		"eng_name": "§a§lDimensional Goal: Mars",
 		"eng_desc": "Mars has a few new ores you need to find like tungsten, uranium and desh. You can centrifuge uranium-238 for U-235 and plutonium-239, which can also be centrifuged to get Pu-241 if you happen to need it.",
-		"ru_name": "§a§lЦели измерений: Марс",
+		"ru_name": "§a§lЦелевые измерения: Марс",
 		"ru_desc": "На марсе вам нужно будет добыть несколько новых руд: вольфрамовые, урановые и деш. Вы можете центрифугировать уран-238 для получения U-235 и плутония-239, который так же может быть обработан для добычи Pu-241, если они вам понадобятся."
 	},
 	"191:10": {
@@ -536,74 +536,74 @@
 	"192:10": {
 		"eng_name": "Tricky Nuclear Fuel: MOX",
 		"eng_desc": "Under normal conditions, produces the same amount of power as uranium, but MOX produces more power the more you let the reactor heat up. Try to come up with a heat-neutral design as close to the limit as possible to take advantage of this. It lasts 1/2 the time, and produces more heat once the reactor is over 50%. A fuel for all the engineers out there.\n\n§3You'll need to run a uranium reactor for a while to get some plutonium if you don't have another way to get it. Remember that there's more than 1 type!\n\n§4Make sure to test in creative and/or use protection against explosions!",
-		"ru_name": "Хитрое ядерное топливо: Mox",
-		"ru_desc": "При нормальных условиях производит такое же количество энергии, как уран, но MOX производит больше мощности, тем больше вы позволяете реактору нагреваться. Попробуйте придумать теплый дизайн, как можно ближе к пределу, чтобы воспользоваться этим. Это длится 1/2 времени и производит больше тепла после того, как реактор превышает 50%. Топливо для всех инженеров там.\n\nВам нужно на некоторое время запускать реактор урана, чтобы получить немного плутония, если у вас нет другого способа получить его. Помните, что есть более 1 типа!\n\nОбязательно проверьте творческий и / или использовать защиту от взрывов!"
+		"ru_name": "Каверзное ядерное топливо: Mox",
+		"ru_desc": "В обычных условиях производит столько же энергии, сколько и уран, но МОХ-топливо производит тем больше энергии, чем сильнее вы разогреваете реактор. Попробуйте разработать нейтральный к теплу дизайн, близкий к безопасному пределу тепла настолько, насколько это возможно. МОХ-топливо расходуется в 2 раза быстрее чем уран, создавая в 150% больше тепла. Топливо для всех местных инженеров.\n\n§3Для получения плутония прогоните уран в реакторе, если у вас нет иных путей его добычи. Не забывайте, плутоний бывает разных типов!\n\n§4Не забудьте проверить в креативе и/или используйте защиту от взрывов!"
 	},
 	"195:10": {
 		"eng_name": "§a§lIncreasing the Capacity",
 		"eng_desc": "To unleash the full potential of your reactor, you have to attach six reactor chambers to it.",
-		"ru_name": "§a§lУвеличить емкость",
-		"ru_desc": "Чтобы развязать полный потенциал вашего реактора, вы должны прикрепить шесть реакторных камер к нему."
+		"ru_name": "§a§lУвеличение вместимости",
+		"ru_desc": "Вам нужно прикрепить 6 реакторных камер, если вы хотите раскрыть весь потенциал реактора."
 	},
 	"198:10": {
 		"eng_name": "Alternate Nuclear Fuel: Tiberium",
 		"eng_desc": "They're the same as uranium but produce half as much heat. Given that there's no reactor designs floating around, and the fact that you need to go to Ross128ba, a T5 rocket (LuV) planet to get the tiberium, I'm gonna say they're probably not worth it. If you disagree, make a design and show it to people, 'kay?",
-		"ru_name": "Альтернативное ядерное топливо: Тибер",
-		"ru_desc": "Они такие же, как уран, но производят половину нагрева. Учитывая, что нет конструкций реактора, плавающих вокруг, и тот факт, что вам нужно отправиться в Ross128ba, планету T5 (LUV), чтобы получить Тибериума, я собираюсь сказать, что они, вероятно, не стоят этого. Если вы не согласны, сделайте дизайн и покажите его людям, «Кей?"
+		"ru_name": "Альтернативное ядерное топливо: Тиберий",
+		"ru_desc": "Работает точно так же, но производит в два раза меньше тепла. Учитывая, что не существует дизайнов с тиберием, плюс вам нужно добраться до Ross128ba на ракете пятого уровня (LuV) чтобы получить тиберий, я бы сказал, что оно того не стоит. Если же вы так не считаете - разработайте дизайн и покажите его нам, ладно?"
 	},
 	"201:10": {
 		"eng_name": "§c§lAutomated Mining",
 		"eng_desc": "The QED enables you to assemble the most convenient device for mining: The ender quarry.\n\nAs 0lafe says, \"This small black box is life-changing\" and \"Sympathy for the amount of dense obsidian plates you need.\"\n\nGuess you better get compressing!\n\n§4NOTE: It's best to place your quarry and markers on orevein boundaries. This way you start getting ores right away, especially from planets.",
-		"ru_name": "§c§lАвтоматизированная добыча",
-		"ru_desc": "QED позволяет собрать самое удобное устройство для добычи: карьерный карьер.\n\nКак говорит 0Lafe: «Этот маленький черный ящик - это изменение жизни» и «сочувствие к количеству плотных обсидианских тарелок, которые вам нужны».\n\nУгадай, что вам лучше получить сжимание!\n\nПримечание. Лучше всего размещать свой карьер и маркеры на границы Orevein. Таким образом, вы начинаете получать руды сразу, особенно от планет."
+		"ru_name": "§c§lАвтоматизированное шахтёрство",
+		"ru_desc": "С помощью QED вы можете собрать самое удобное устройство для добычи руд: Эндер карьер.\n\nКак говорит 0lafe: \"Эта маленькая коробочка меняет жизнь\" и \"Сочувствую количеству плотных обсидиановых пластин, которые вам придётся сделать\".\n\nПолагаю, тебе лучше начать сжимать!\n\n§4ПРИМЕЧАНИЕ: Лучше всего размещать карьер и маркеры на границах жилы. Таким образом вы будете получать руды сразу, особенно на иных планетах."
 	},
 	"202:10": {
 		"eng_name": "§c§lAccelerating Things",
 		"eng_desc": "If an ender quarry won't satisfy your needs for MOOORE. A speed upgrade is required.",
-		"ru_name": "§c§lУскоряющие вещи",
-		"ru_desc": "Если Ander Carry не удовлетворит ваши потребности в Mooore. Требуется обновление скорости."
+		"ru_name": "§c§lУскоряемся",
+		"ru_desc": "Если эндер карьер не удовлетворяет ваши нужды во всём и сразу - вам нужно улучшение скорости."
 	},
 	"204:10": {
 		"eng_name": "Load and Unload the Rocket",
 		"eng_desc": "What use has an automated rocket, if you can't load and unload it with automation?",
-		"ru_name": "Нагрузка и разгрузка ракеты",
-		"ru_desc": "Какое использование имеет автоматизированную ракету, если вы не можете загрузить и разгрузить его автоматизацией?"
+		"ru_name": "Загрузка и выгрузка из ракеты",
+		"ru_desc": "В чем смысо автоматизированной ракеты, если вы не можете загружать и выгружать из неё предметы автоматически?"
 	},
 	"207:10": {
 		"eng_name": "§a§lTurret Base Tier 4",
 		"eng_desc": "Even more range, power and upgrade slots.",
-		"ru_name": "§a§lБаза башни 4",
-		"ru_desc": "Еще больше диапазона, мощности и модернизации слотов."
+		"ru_name": "§a§lТурельная база 4-го уровня",
+		"ru_desc": "Ещё больший радиус, ещё больше энергии, ещё больше слотов для улучшений."
 	},
 	"208:10": {
 		"eng_name": "§a§lProtect Your Base: Tier 4",
 		"eng_desc": "The small parts for the powerful turrets.",
-		"ru_name": "§a§lЗащитите вашу базу: уровень 4",
-		"ru_desc": "Небольшие детали для мощных турелей."
+		"ru_name": "§a§lЗащита базы: Уровень 4",
+		"ru_desc": "Маленькие детали для могучих турелей."
 	},
 	"209:10": {
 		"eng_name": "§a§lMake Love, Not War",
 		"eng_desc": "For those who don't want to kill things. Just teleport them away, however this takes a large amount of power.",
-		"ru_name": "§a§lЗаниматься любовью, не война",
-		"ru_desc": "Для тех, кто не хочет убивать вещи. Просто телепортируйте их, однако это принимает большое количество власти."
+		"ru_name": "§a§lЛюбите, а не воюйте.",
+		"ru_desc": "Для тех, не хочет пачкать руки в крови. Просто телепортируйте их прочь, но это очень затратно в плане энергии."
 	},
 	"210:10": {
 		"eng_name": "§a§lWhy Grenades...",
 		"eng_desc": "...when you can use rockets? Yes, rockets! They search and destroy, and go off with a huge boom.",
-		"ru_name": "§a§lПочему гранаты ...",
-		"ru_desc": "... Когда вы можете использовать ракеты? Да, ракеты! Они ищут и уничтожают и уходят с огромным бумом."
+		"ru_name": "§a§lЗачем гранаты...",
+		"ru_desc": "...когда вы можете использовать ракеты? Да, ракеты! Они ищут, уничтожают и уходят с большим бабахом."
 	},
 	"211:10": {
 		"eng_name": "§a§lTier 4 Fence and Walls",
 		"eng_desc": "Another upgrade for your walls. One more to go!",
-		"ru_name": "§a§lУровень 4 забора и стены",
-		"ru_desc": "Еще одно обновление для ваших стен. Еще один, чтобы пойти!"
+		"ru_name": "§a§lЗаборы и стены 4-го уровня",
+		"ru_desc": "Очередное улучшение ваших стен! Осталось ещё одно!"
 	},
 	"214:10": {
 		"eng_name": "§b§lThis is the End.... ?",
 		"eng_desc": "The end of the handholding maybe. However! This is just the start of your journey, as you'll have access to even more powerful and awesome stuff. You have proven yourself worthy, and mastered the challenges up to this Tier. Congratulations!",
 		"ru_name": "§b§lЭто конец.... ?",
-		"ru_desc": "Конец подачи руки может быть. Тем не мение! Это только начало вашего путешествия, поскольку у вас будет доступ к еще более мощным и потрясающим материалам. Вы доказали себя достойным и освоили проблемы до этого уровня. Поздравляю!"
+		"ru_desc": "Конец держания за руки, наверное. Тем не менее! Это лишь начало вашего приключения, в котором вы будете получать доступ к всё более мощным и великолепным вещам. Вы доказали своё достоинство и прошли через все тернии, добравшись до этого тира. Поздравляем!"
 	},
 	"216:10": {
 		"eng_name": "Portable Clean Energy IV",
@@ -614,32 +614,32 @@
 	"220:10": {
 		"eng_name": "§b§lProtect Your Base: Tier 5",
 		"eng_desc": "Tough materials, for tough weapons. Railguns, and lasers, and... stuff. I assume you want a lot of those soon.",
-		"ru_name": "§b§lЗащитите свою базу: уровень 5",
-		"ru_desc": "Жесткие материалы, для жесткого оружия. Железнодорожные и лазеры и ... вещи. Я предполагаю, что вы хотите много тех в ближайшее время."
+		"ru_name": "§b§lЗащитита базы: Уровень 5",
+		"ru_desc": "Жёсткие материалы для жёсткого оружия. Рельсотроны, лазеры и... прочее. Думаю вам скоро потребуется немало пушек."
 	},
 	"221:10": {
 		"eng_name": "§b§lTurret Base Tier 5",
 		"eng_desc": "The last one, I promise. Used for the most powerful turrets available. You wonder if they might help you take out some more... \"Dangerous\" enemies?",
-		"ru_name": "§b§lБаза Turret Tier 5",
-		"ru_desc": "Последний, я обещаю. Используется для самых мощных турелей. Вы задаетесь вопросом, могут ли они помочь вам выделить еще ... «опасные» враги?"
+		"ru_name": "§b§lТурельная база 5-го уровня",
+		"ru_desc": "Последняя, клянусь. Используется для самых мощных турелей. Интересно, могут ли они помочь вас м более... \"Опасными\" врагами?"
 	},
 	"222:10": {
 		"eng_name": "§b§lPewPew!",
 		"eng_desc": "Requires no ammo, but still does a ton of damage. All you need to do is feed it power, a lot of power.",
-		"ru_name": "§b§lPewpew!",
-		"ru_desc": "Не требует боеприпасов, но все равно делает тонну ущерба. Все, что вам нужно сделать, это кормить его питание, много мощности."
+		"ru_name": "§b§lПиу-пиу!",
+		"ru_desc": "Не требует боеприпасов, но всё равно делает тонны урона. Всё что вам надо - запитать её большим количеством энергии."
 	},
 	"223:10": {
 		"eng_name": "§b§lRailguns, What Else",
 		"eng_desc": "Massive power, and a wonderful sound when they fire. I recommend to use upgrades to increase range and damage.",
-		"ru_name": "§b§lRailguns, что еще",
-		"ru_desc": "Массивная власть и замечательный звук, когда они огонь. Я рекомендую использовать обновления для увеличения диапазона и повреждения."
+		"ru_name": "§b§lРельсотроны, что ж ещё?",
+		"ru_desc": "Громадная мощь и великолепный звук выстрела. Советую использовать улучшения радиуса и урона."
 	},
 	"224:10": {
 		"eng_name": "Witchy (Wo)man",
 		"eng_desc": "If you've made the spinning wheel and done the research, you can make these as soon as you make a 50 vis wand. They're very helpful.",
-		"ru_name": "Ведьмаки/Колдуньи",
-		"ru_desc": "Если вы уже сделали прялку и провели исследование, вы можете сделать их, как только сделаете палочку 50 vis. Ониочень полезны."
+		"ru_name": "Ведьма(к)",
+		"ru_desc": "Сделав прялку и закончив изучение, вы можете создать себе этот комплект, если у вас есть палочка на 50 вис. Это крайне полезно."
 	},
 	"228:10": {
 		"eng_name": "Tier 2 Sigils",
@@ -651,13 +651,13 @@
 		"eng_name": "Better Screws",
 		"eng_desc": "Unfortunately, your aluminium screws don't work with the greatwood rod. Somehow, the wood seems to repel the material. Luckily, you already have a blast furnace, so you can get a better material than aluminium.",
 		"ru_name": "Лучшие винты",
-		"ru_desc": "К сожалению, ваши алюминиевые винты не работают с урезанным ударом. Как-то, дерево, кажется, отталкивает материал. К счастью, у вас уже есть доменная печь, поэтому вы можете получить лучший материал, чем алюминий."
+		"ru_desc": "Увы, ваши алюминиевые винты не подходят стержню великого дерева. Древесина каким-то образом отторгает материал. Хорошо, что у вас есть доменная печь, так что вы можете получить материал получше алюминия."
 	},
 	"236:10": {
 		"eng_name": "A More Powerful \"Scale\"",
 		"eng_desc": "The naga scales are weak, they can only hold a very limited amount of vis. You need a better, more powerful component to store vis in your wand. You've heard rumors about an evil wizard in the Twilight Forest. Maybe he has... something... that can be used?",
-		"ru_name": "Более мощный «масштаб»",
-		"ru_desc": "Весы Naga слабы, они могут проводить только очень ограниченное количество видов. Вам нужен лучший, более мощный компонент для хранения в вашей палочке. Вы слышали слухи о злой волшебстве в сумеречном лесу. Может быть, у него есть ... что-то ... Это можно использовать?"
+		"ru_name": "\"Чешуя\" помощнее",
+		"ru_desc": "Чешуя Наги достаточно слаба и может держать крайне малые объёмы вис. Вы нуджаетесь в лучшем, более мощном материале чтобы хранить вис в вашем жезле. До вас дошли слухи о злом волшебнике в Сумеречном лесу. Быть может у него есть... что-то... что можно искользовать?"
 	},
 	"238:10": {
 		"eng_name": "Fuuuuuu...(sion)!",
