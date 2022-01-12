@@ -2267,60 +2267,60 @@
 		"ru_name": "§6§l2x сталь",
 		"ru_desc": "Изготовление стали так медленно. Если у вас достаточно кирпича и глины, постройте второй BBF. Постройте его к первому, чтобы они могли поделиться стеной, и вы сэкономите кирпича, глиняные и бетон."
 	},
-	"701:10": {
-		"eng_name": "Ascended",
-		"eng_desc": "You feel empowered, light, almost like a ghost.",
-		"ru_name": "Вознесенный",
-		"ru_desc": "Вы чувствуете возможности, свет, почти как призрак."
-	},
-	"702:10": {
-		"eng_name": "Tier 5 slates",
-		"eng_desc": "1023 Buckets of blood in one slate! How much more I can store, oh I wish I would know. Then I add one and check if it works. 1024 buckets of blood in one slate! ... ...",
-		"ru_name": "Tier 5 Slates.",
-		"ru_desc": "1023 ведра крови в одном шифере! Насколько еще я могу хранить, о, я бы хотел знать. Затем я добавляю один и проверяю, работает ли это.1024 ведра кровь в одном шифере!... ... ..."
-	},
-	"703:10": {
-		"eng_name": "Powerful Shards",
-		"eng_desc": "The demons summoned are rather strong, but their souls contain immense power!",
-		"ru_name": "Мощные осколки",
-		"ru_desc": "Демоны вызвали довольно сильными, но их души содержат огромную силу!"
-	},
-	"704:10": {
-		"eng_name": "Tier 4 Slates",
-		"eng_desc": "Tier 4 slates: Getting close.",
-		"ru_name": "Уровень 4 сланца",
-		"ru_desc": "Tier 4 Slates: приближаются."
-	},
-	"706:10": {
-		"eng_name": "Ethereal Chalk",
-		"eng_desc": "Top tier chalk, for fancy wall paintings?",
-		"ru_name": "Эфирный мел",
-		"ru_desc": "Лучший мелок топ, для модных картин на стенах?"
-	},
-	"707:10": {
-		"eng_name": "Archmage Orb. Let Them Come!",
-		"eng_desc": "Your tier 5 orb.",
-		"ru_name": "Архимаги орб. Пусть они придут!",
-		"ru_desc": "Ваш уровень 5 Орб."
-	},
-	"708:10": {
-		"eng_name": "Master Orb: Getting Close",
-		"eng_desc": "Your tier 4 orb.",
-		"ru_name": "Мастер Орб: приближается",
-		"ru_desc": "Ваш уровень 4 орба."
-	},
-	"709:10": {
-		"eng_name": "Elemental Chalk II",
-		"eng_desc": "Enhanced elemental chalk, to write \"darker\" runes than you're used to...",
-		"ru_name": "Элементный мел",
-		"ru_desc": "Улучшенный элементный мел, писать «темные» руны, чем привыкли ..."
-	},
-	"710:10": {
-		"eng_name": "Tier 4 Runes",
-		"eng_desc": "Runes of Superior Capacity increase the Altar's size by 10% multiplicatively. If you have more than 14 of the lesser versions, it's more efficient to use these.\n\nRunes of the Orb increase the soul network size by 2% each. You'll need them later on.",
-		"ru_name": "Уровень 4 руны",
-		"ru_desc": "Руны превосходной мощности увеличивают размер алтаря на 10% мультипликации. Если у вас более 14 меньших версий, это более эффективно использовать их.\n\nРуны ORB увеличивают размер сети души на 2% каждый. Вам понадобится их позже."
-	},
+    "701:10": {
+        "eng_name": "Ascended",
+        "eng_desc": "You feel empowered, light, almost like a ghost.",
+        "ru_name": "Вознесшийся",
+        "ru_desc": "Вы ощущаете едва заметное, почти призрачное, предчувствие возможностей."
+    },
+    "702:10": {
+        "eng_name": "Tier 5 slates",
+        "eng_desc": "1023 Buckets of blood in one slate! How much more I can store, oh I wish I would know. Then I add one and check if it works. 1024 buckets of blood in one slate! ... ...",
+        "ru_name": "Плитки 5 тира",
+        "ru_desc": "1023 ведра крови в одной плитке! Хотел бы я знать, сколько еще я смогу хранить. Добавлю еще ведро, и проверю, работает ли это. 1024 ведра крови в одной плитке!... ... ..."
+    },
+    "703:10": {
+        "eng_name": "Powerful Shards",
+        "eng_desc": "The demons summoned are rather strong, but their souls contain immense power!",
+        "ru_name": "Мощные осколки",
+        "ru_desc": "Вызванные демоны довольно сильны, но и их души содержат огромную силу!"
+    },
+    "704:10": {
+        "eng_name": "Tier 4 Slates",
+        "eng_desc": "Tier 4 slates: Getting close.",
+        "ru_name": "Плитки 4 тира",
+        "ru_desc": "Плитки 4 тира: всё ближе."
+    },
+    "706:10": {
+        "eng_name": "Ethereal Chalk",
+        "eng_desc": "Top tier chalk, for fancy wall paintings?",
+        "ru_name": "Эфирный мел",
+        "ru_desc": "Лучший мелок, для модных картин на стенах?"
+    },
+    "707:10": {
+        "eng_name": "Archmage Orb. Let Them Come!",
+        "eng_desc": "Your tier 5 orb.",
+        "ru_name": "Кровавый Шар Архимага. Пусть они придут!",
+        "ru_desc": "Ваш кровавый шар 5 тира."
+    },
+    "708:10": {
+        "eng_name": "Master Orb: Getting Close",
+        "eng_desc": "Your tier 4 orb.",
+        "ru_name": "Кровавый Шар Мастера: всё ближе",
+        "ru_desc": "Ваш кровавый шар 4 тира."
+    },
+    "709:10": {
+        "eng_name": "Elemental Chalk II",
+        "eng_desc": "Enhanced elemental chalk, to write \"darker\" runes than you're used to...",
+        "ru_name": "Элементный мел 2",
+        "ru_desc": "Улучшенный элементный мел, чтобы писать более \"темные\" руны, чем вы привыкли..."
+    },
+    "710:10": {
+        "eng_name": "Tier 4 Runes",
+        "eng_desc": "Runes of Superior Capacity increase the Altar's size by 10% multiplicatively. If you have more than 14 of the lesser versions, it's more efficient to use these.\n\nRunes of the Orb increase the soul network size by 2% each. You'll need them later on.",
+        "ru_name": "Руны 4 тира",
+        "ru_desc": "Руна улучшенной ёмкости увеличивают вместимость алтаря на 10% мультипликативно. Если у вас более 14 малых версий, это более эффективно использовать их.\n\nРуны шара увеличивают размер сети души на 2% каждый. Вам это понадобится позже."
+    },
 	"711:10": {
 		"eng_name": "Tier 5 Runes",
 		"eng_desc": "The final frontier: There are not many runes available. The acceleration rune reduces the tick time until the next buffer I/O interaction. It starts at 20, and is reduced by 1 for each rune, with the minimum being 1.",
