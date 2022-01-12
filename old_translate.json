@@ -467,18 +467,18 @@
 		"ru_name": "§6§lСжечь их. Сжечь их все!",
 		"ru_desc": "Хммм, хрустящий бекон. Что произойдет, если вы включите нейтральные мобы в целом ...?"
 	},
-	"161:10": {
-		"eng_name": "Paying the Highest Price",
-		"eng_desc": "When regular magic just isn't enough, you need something... stronger. Which is paid with blood. Your blood, and maybe others'.\n\nIn tier 1 you only need to place the blood altar. Plan for the configuration to grow in size up to 23x23 for a single altar.\n\nKeep in mind that you get less blood, and use more when crafting in GTNH. Plan for pain and frustration too.\n\nThe altar has a 10,000L blood tank, plus a 1,000L I/O buffer (you can pump in and out, but the rate is pitifully low at the start). Blood will flow to the I/O buffer until it's full, so be aware of that before your first craft.",
-		"ru_name": "Оплата самая высокая цена",
-		"ru_desc": "Когда обычная магия просто недостаточно, вам что-то нужно ... сильнее. Который оплачивается кровью. Твоя кровь, а может быть, другие ».\n\nВ Tier 1 вам нужно только разместить кровное алтарь. Планируйте конфигурацию, чтобы расти в размере до 23x23 для одного алтаря.\n\nИмейте в виду, что вы получите меньше крови, и используете больше при совершении в GTNH. План боли и разочарования тоже.\n\nALTAR имеет бак для крови на 10 000 л, плюс буфер ввода / вывода ввода-высы в 1,000 л (вы можете накачать и выходить, но скорость жалко низкая в начале). Кровь будет течь к буферу ввода / вывода, пока он не будет полностью, поэтому будьте в курсе этого перед вашим первым ремеслом."
-	},
-	"164:10": {
-		"eng_name": "Portable Battery...",
-		"eng_desc": "Using this binds it to you (expect to do that a lot), and consumes one heart while depositing 200LP in your 'soul network'. You can draw upon the soul network for anything that needs LP such as Alchemy or Rituals. If you want to automate it, you can put it into your altar for a 1:1 conversion of blood. \n\nThe highest tier orb you have bound will be considered the maximum limit to LP in your network, but you'll need to put it into the appropriately tiered altar to keep absorbing blood.",
-		"ru_name": "Портативный аккумулятор ...",
-		"ru_desc": "Использование этого связывает его к вам (ожидайте сделать это много) и потребляет одно сердце во время внесения 200л. В вашей «сети души». Вы можете нарисовать сеть Soul для всего, что требует LP, таких как алхимия или ритуалы. Если вы хотите автоматизировать его, вы можете поместить его в свой алтарь для преобразования крови 1: 1.\n\nСамый высокий уровень ORB, который у вас есть граница, будет считаться максимальным пределом LP в вашей сети, но вам нужно будет поместить его в соответственно многоуровневый алтарь, чтобы поглощать крови."
-	},
+    "161:10": {
+        "eng_name": "Paying the Highest Price",
+        "eng_desc": "When regular magic just isn't enough, you need something... stronger. Which is paid with blood. Your blood, and maybe others'.\n\nIn tier 1 you only need to place the blood altar. Plan for the configuration to grow in size up to 23x23 for a single altar.\n\nKeep in mind that you get less blood, and use more when crafting in GTNH. Plan for pain and frustration too.\n\nThe altar has a 10,000L blood tank, plus a 1,000L I/O buffer (you can pump in and out, but the rate is pitifully low at the start). Blood will flow to the I/O buffer until it's full, so be aware of that before your first craft.",
+        "ru_name": "Оплата высочайшей ценой",
+        "ru_desc": "Когда обычной магии просто недостаточно, вам нужно что-то... сильнее. Что оплачивается кровью. Вашей кровью, а может быть, чужой.\n\nНа 1 уровне вам нужно просто разместить кровавый алтарь. Планируйте конфигурацию, чтобы увеличить его в размере до 23x23 для одного алтаря.\n\nИмейте в виду, что вы получаете меньше крови, и тратите больше при крафте в GTNH. Готовьтесь к боли и страданиям.\n\nАлтарь имеет бак для крови на 10,000L, плюс буфер ввода/вывода в 1,000L (вы можете перекачивать кровь внутрь и наружу, но скорость предельно низкая в начале развития). Кровь будет течь к буферу ввода/вывода, пока он не будет запонен, убедитесь в этом перед вашим первым крафтом."
+    },
+    "164:10": {
+        "eng_name": "Portable Battery...",
+        "eng_desc": "Using this binds it to you (expect to do that a lot), and consumes one heart while depositing 200LP in your 'soul network'. You can draw upon the soul network for anything that needs LP such as Alchemy or Rituals. If you want to automate it, you can put it into your altar for a 1:1 conversion of blood. \n\nThe highest tier orb you have bound will be considered the maximum limit to LP in your network, but you'll need to put it into the appropriately tiered altar to keep absorbing blood.",
+        "ru_name": "Портативная батарея ...",
+        "ru_desc": "Использование этого связывает его с вами (ожидайте делать это часто), и потребляет одно сердце, перенося 200LP в вашу \"сеть души\". Вы можете использовать сеть души для всего, что требует LP, например, для алхимии или ритуалов. Если вы хотите автоматизировать это, вы можете поместить кровавый шар в свой алтарь для передачи крови 1:1 из алтаря в сеть.\n\nСамый высокий уровень кровавого шара, с которым вы связаны, будет считаться максимальным пределом LP в вашей сети, но вам нужно будет поместить его в алтарь соответствующего уровня, чтобы поглощать кровь."
+    },
 	"171:10": {
 		"eng_name": "§9§lAlmost Like Steel",
 		"eng_desc": "Next-gen protection against nasty zombies, creepers and other \"stuff\".",
@@ -2276,7 +2276,7 @@
     "702:10": {
         "eng_name": "Tier 5 slates",
         "eng_desc": "1023 Buckets of blood in one slate! How much more I can store, oh I wish I would know. Then I add one and check if it works. 1024 buckets of blood in one slate! ... ...",
-        "ru_name": "Плитки 5 тира",
+        "ru_name": "Плитки 5 уровня",
         "ru_desc": "1023 ведра крови в одной плитке! Хотел бы я знать, сколько еще я смогу хранить. Добавлю еще ведро, и проверю, работает ли это. 1024 ведра крови в одной плитке!... ... ..."
     },
     "703:10": {
@@ -2288,8 +2288,8 @@
     "704:10": {
         "eng_name": "Tier 4 Slates",
         "eng_desc": "Tier 4 slates: Getting close.",
-        "ru_name": "Плитки 4 тира",
-        "ru_desc": "Плитки 4 тира: всё ближе."
+        "ru_name": "Плитки 4 уровня",
+        "ru_desc": "Плитки 4 уровня: всё ближе."
     },
     "706:10": {
         "eng_name": "Ethereal Chalk",
@@ -2301,13 +2301,13 @@
         "eng_name": "Archmage Orb. Let Them Come!",
         "eng_desc": "Your tier 5 orb.",
         "ru_name": "Кровавый Шар Архимага. Пусть они придут!",
-        "ru_desc": "Ваш кровавый шар 5 тира."
+        "ru_desc": "Ваш кровавый шар 5 уровня."
     },
     "708:10": {
         "eng_name": "Master Orb: Getting Close",
         "eng_desc": "Your tier 4 orb.",
         "ru_name": "Кровавый Шар Мастера: всё ближе",
-        "ru_desc": "Ваш кровавый шар 4 тира."
+        "ru_desc": "Ваш кровавый шар 4 уровня."
     },
     "709:10": {
         "eng_name": "Elemental Chalk II",
@@ -2318,7 +2318,7 @@
     "710:10": {
         "eng_name": "Tier 4 Runes",
         "eng_desc": "Runes of Superior Capacity increase the Altar's size by 10% multiplicatively. If you have more than 14 of the lesser versions, it's more efficient to use these.\n\nRunes of the Orb increase the soul network size by 2% each. You'll need them later on.",
-        "ru_name": "Руны 4 тира",
+        "ru_name": "Руны 4 уровня",
         "ru_desc": "Руна улучшенной ёмкости увеличивают вместимость алтаря на 10% мультипликативно. Если у вас более 14 малых версий, это более эффективно использовать их.\n\nРуны шара увеличивают размер сети души на 2% каждый. Вам это понадобится позже."
     },
 	"711:10": {

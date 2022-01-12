@@ -1,17 +1,4 @@
 {
-    "161:10": {
-        "eng_name": "Paying the Highest Price",
-        "eng_desc": "When regular magic just isn't enough, you need something... stronger. Which is paid with blood. Your blood, and maybe others'.\n\nIn tier 1 you only need to place the blood altar. Plan for the configuration to grow in size up to 23x23 for a single altar.\n\nKeep in mind that you get less blood, and use more when crafting in GTNH. Plan for pain and frustration too.\n\nThe altar has a 10,000L blood tank, plus a 1,000L I/O buffer (you can pump in and out, but the rate is pitifully low at the start). Blood will flow to the I/O buffer until it's full, so be aware of that before your first craft.",
-        "ru_name": "Оплата самая высокая цена",
-        "ru_desc": "Когда обычная магия просто недостаточно, вам что-то нужно ... сильнее. Который оплачивается кровью. Твоя кровь, а может быть, другие ».\n\nВ Tier 1 вам нужно только разместить кровное алтарь. Планируйте конфигурацию, чтобы расти в размере до 23x23 для одного алтаря.\n\nИмейте в виду, что вы получите меньше крови, и используете больше при совершении в GTNH. План боли и разочарования тоже.\n\nALTAR имеет бак для крови на 10 000 л, плюс буфер ввода / вывода ввода-высы в 1,000 л (вы можете накачать и выходить, но скорость жалко низкая в начале). Кровь будет течь к буферу ввода / вывода, пока он не будет полностью, поэтому будьте в курсе этого перед вашим первым ремеслом."
-    },
-    "164:10": {
-        "eng_name": "Portable Battery...",
-        "eng_desc": "Using this binds it to you (expect to do that a lot), and consumes one heart while depositing 200LP in your 'soul network'. You can draw upon the soul network for anything that needs LP such as Alchemy or Rituals. If you want to automate it, you can put it into your altar for a 1:1 conversion of blood. \n\nThe highest tier orb you have bound will be considered the maximum limit to LP in your network, but you'll need to put it into the appropriately tiered altar to keep absorbing blood.",
-        "ru_name": "Портативный аккумулятор ...",
-        "ru_desc": "Использование этого связывает его к вам (ожидайте сделать это много) и потребляет одно сердце во время внесения 200л. В вашей «сети души». Вы можете нарисовать сеть Soul для всего, что требует LP, таких как алхимия или ритуалы. Если вы хотите автоматизировать его, вы можете поместить его в свой алтарь для преобразования крови 1: 1.\n\nСамый высокий уровень ORB, который у вас есть граница, будет считаться максимальным пределом LP в вашей сети, но вам нужно будет поместить его в соответственно многоуровневый алтарь, чтобы поглощать крови."
-    },
-
     "711:10": {
         "eng_name": "Tier 5 Runes",
         "eng_desc": "The final frontier: There are not many runes available. The acceleration rune reduces the tick time until the next buffer I/O interaction. It starts at 20, and is reduced by 1 for each rune, with the minimum being 1.",
