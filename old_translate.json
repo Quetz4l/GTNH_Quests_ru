@@ -2363,204 +2363,204 @@
 		"ru_name": "Цветочная сила",
 		"ru_desc": "Растущие красители на палочках посева? Попробуйте посадить несколько цветов. Если вы пересекаете роза и цветы одуванчика, возможно, вы получите новый цветок и новые красители с разными цветами.\n\nВам нужно будет посадить 4 ванильных цветов, чтобы получить их в охрану. Они также не сажают, если они не находятся в ярком свете.\n\nЧтобы получить «семена роза» размещать маки. Честно говоря, есть несколько цветов, которые вы можете использовать, хотя.\n\nЕсли вы действительно хотите эти красители, вместо этого сделайте кактус радуги."
 	},
-	"727:10": {
-		"eng_name": "§1§2§lBetter Than Barrels",
-		"eng_desc": "While barrels offer a slot for a single item, drawers can have up to 4 slots each (holding 16 stacks per slot). Once you reach HV you can combine them with some ProjectRed pipes to set up a \"ghetto ME storage system\" (Tec2k17).\n\nJust watch out, they do come with some downsides. You won't be able to make them point up or down, and you can only acces the contents from the front (automation can use any side). \n\n§4Also, if placed on top of a hopper, they can bug out and void items when the hopper is full. THIS WILL EAT BACKPACKS! If you plan on that, use barrels or chests instead.",
-		"ru_name": "§1§2§lЛучше, чем бочонки",
-		"ru_desc": "В то время как бочки предлагают слот для одного элемента, ящики могут иметь до 4 слотов каждый (удерживающий 16 стеков на слот). После того, как вы достигнете HV, вы можете объединить их с некоторыми проектированными трубами, чтобы создать «систему хранения Ghetto Me Me» (TEC2K17).\n\nПросто остерегайтесь, они приходят с некоторыми нисходящими. Вы не сможете заставить их указывать вверх или вниз, и вы можете только вставлять только содержимое спереди (автоматизация может использовать любую сторону).\n\nКроме того, если размещены на вершине бункера, они могут ошибоваться и пустоты, когда бункер заполнен. Это будет есть рюкзаки! Если вы планируете на это, вместо этого используйте бочки или сундуки."
-	},
-	"728:10": {
-		"eng_name": "§2§lCompact Drawers",
-		"eng_desc": "They are very compact and add some fanciness to your glorious dirt base. ",
-		"ru_name": "§2§lКомпактные ящики",
-		"ru_desc": "Они очень компактны и добавляют какую-то фантастику на вашу славную грязную базу."
-	},
-	"729:10": {
-		"eng_name": "§2§lFraming Drawers",
-		"eng_desc": "Now you can really make some swaggy and even FANCIER drawers using this table, all you have to do is place some decorative blocks (works with almost ALL decorative blocks) and it will take their texture, the TOP left is the outer Square bottom left is for the front face and top right is for the borders.",
-		"ru_name": "§2§lЯщики обрамления",
-		"ru_desc": "Теперь вы действительно можете сделать несколько Swaggy и даже любительских ящиков, используя эту таблицу, все, что вам нужно сделать, это поместить некоторые декоративные блоки (работает практически с всеми декоративными блоками), и она возьмет их текстуру, левая левая - это верхнее квадратное левое местоДля переднего лица и справа вверху для границ."
-	},
-	"747:10": {
-		"eng_name": "§5§lDiodes",
-		"eng_desc": "Good circuits need diodes. There are two main ways to craft them. Right now you have to use the Gallium Arsenide method with fine copper wires and molten glass. Later when you get an EBF you can use it to make silicon wafers to make even more. Note that the wafers are way easier to get than gallium, so even a reduced amount is still worth it.\n\nMake sure you check all the NEI recipes for advanced items instead of just using the first one you find. You can use annealed copper wires and polyethylene to increase your output even more. \n",
-		"ru_name": "§5§lДиоды",
-		"ru_desc": "Хорошие цепи нуждаются в диодах. Существует два основных способа создавать их. Сейчас вы должны использовать метод арсенида галлия с мелким медным проводами и расплавленным стеклом. Позже, когда вы получите EBF, вы можете использовать его, чтобы сделать кремниевые вафли сделать еще больше. Обратите внимание, что вафли легче получить, чем галлий, поэтому даже уменьшенная сумма все еще стоит того.\n\nУбедитесь, что вы проверяете все рецепты NEI для расширенных элементов, а не просто используя первый, который вы найдете. Вы можете использовать отожженные медные провода и полиэтилен, чтобы увеличить ваш вывод еще больше."
-	},
-	"750:10": {
-		"eng_name": "§6§lMolten Plastic",
-		"eng_desc": "Molten polyethylene can be made in a chemical reactor using ethylene, compressed air cells or oxygen - using oxygen gives a 50% boost. Use a mold for making plates in a fluid solidifier to make plastic sheets.",
-		"ru_name": "§6§lРасплавленный пластик",
-		"ru_desc": "Расплавленный полиэтилен может быть изготовлен в химическом реакторе с использованием этилена, сжатых воздушных клеток или кислорода - с использованием кислорода дает 50% -ное повышение. Используйте пресс-форм для изготовления пластин в жидком композифере, чтобы сделать пластиковые листы."
-	},
-	"752:10": {
-		"eng_name": "§6§lSilicon Plate",
-		"eng_desc": "Advanced circuits require transistors, which are made out of silicon plates, fine tin wire and molten polyethylene.",
-		"ru_name": "§6§lСиликоновая пластина",
-		"ru_desc": "Расширенные цепи требуют транзисторов, которые изготовлены из кремниевых пластин, тонкой оловой проволоки и расплавленного полиэтилена."
-	},
-	"756:10": {
-		"eng_name": "§6§lLess Power Loss",
-		"eng_desc": "When you reach MV tier you can make your own duct tape in case you have to move your multiblock machines around. Duct tape will fix all maintenance problems in any multiblock machine.",
-		"ru_name": "§6§lМеньше потерь мощности",
-		"ru_desc": "Когда вы достигнете MV Tier, вы можете сделать свою собственную ленту в том случае, если вы должны перемещать свои мультиблочные машины вокруг. Клейкая лента исправит все проблемы обслуживания в любом мультиблок."
-	},
-	"761:10": {
-		"eng_name": "§6§lPowderbarrels",
-		"eng_desc": "Powderbarrels are twice as good as dynamite in the implosion compressor. Craft one stack.",
-		"ru_name": "§6§lПороховые бочки",
-		"ru_desc": "Пороховые бочки вдвое хуже, чем динамит в импульсном компрессоре. Скрафти один стак."
-	},
-	"762:10": {
-		"eng_name": "§6§lTNT",
-		"eng_desc": "TNT is much more powerful than the powderbarrel but much harder to craft. There are LV and HV ways to craft. At LV you need heavy or light fuel to make some toluene which can be solidified to gelled toluene. Alternatively you can use sugar and plastic dust in a chemical reactor to make toluene more efficiently. Mix it with sulfuric acid to make TNT.\n\nThe HV way requires an oil cracking unit to make all kinds of cracked fuel or cracked naphta and a distillation tower to extract toluene from that.",
-		"ru_name": "§6§lТНТ",
-		"ru_desc": "TNT гораздо сильнее, чем порошковая, но намного сложнее для ремесла. Есть LV и HV-пути для ремесла. При ЛВ вам нужно тяжелое или легкое топливо, чтобы сделать какой-то толуол, который можно затвердевать для гелевого толуола. В качестве альтернативы вы можете использовать сахарную и пластиковую пыль в химическом реакторе, чтобы сделать толуол более эффективно. Смешайте его с серной кислотой, чтобы сделать TNT.\n\nHV Way требует от блок растрескивания нефти, чтобы сделать всевозможные потрескавшиеся топлива или взломанную нафту и дистилляционную башню для извлечения толуола от этого."
-	},
-	"763:10": {
-		"eng_name": "§6§liTNT",
-		"eng_desc": "Industrial TNT is the HV variant of TNT. It explodes with more power, yet does not destroy blocks when it explodes.",
-		"ru_name": "§6§liTNT",
-		"ru_desc": "Промышленный TNT - это вариант HV TNT. Он взрывается с большей мощностью, но не разрушает блоки, когда он взрывается."
-	},
-	"764:10": {
-		"eng_name": "§6§lDynamite",
-		"eng_desc": "Dynamite is the most basic explosive you can use in the implosion compressor.\nMix some paper, string and glyceryl trinitrate in a chemical reactor to get dynamite.",
-		"ru_name": "§6§lДинамит",
-		"ru_desc": "Динамит является наиболее основным взрывным веществом, которое вы можете использовать в имплосковом компрессоре.\nСмешайте немного бумаги, строку и глицерил тринитрата в химическом реакторе, чтобы получить динамит."
-	},
-	"769:10": {
-		"eng_name": "§9§lPlaying With Dust",
-		"eng_desc": "This machine will help you turn dust into crystals which you will need for high tier recipes. ",
-		"ru_name": "§9§lИгра с пылью",
-		"ru_desc": "Эта машина поможет вам повернуть пыль в кристаллы, которые вам понадобится для рецептов высокого уровня."
-	},
-	"770:10": {
-		"eng_name": "§9§lAvengers, Assemble! 3",
-		"eng_desc": "You know what this does. :D",
-		"ru_name": "§9§lМстители, собирают!3.",
-		"ru_desc": "Вы знаете, что это делает.: D."
-	},
-	"775:10": {
-		"eng_name": "Carbon Parts",
-		"eng_desc": "These are the first parts you will need for your beloved nano armor.",
-		"ru_name": "Углеродные части",
-		"ru_desc": "Это первые части, которые вам понадобится для любимой нано-брони."
-	},
-	"776:10": {
-		"eng_name": "Seeing Things Brighter",
-		"eng_desc": "The nano helmet is a bit special. It will provide you with night vision as long as you have energy! Don't turn it on in bright areas or you'll be blinded!",
-		"ru_name": "Видеть вещи ярче",
-		"ru_desc": "Нано-шлем немного особенный. Это даст вам ночное видение, пока у вас есть энергия! Не включайте его в светлых районах, или вы будете слепыми!"
-	},
-	"777:10": {
-		"eng_name": "Are Those Green Diamonds? ",
-		"eng_desc": "They may not be green diamonds but they are needed for your nano armor.",
-		"ru_name": "Эти зеленые бриллианты?",
-		"ru_desc": "Они не могут быть зелеными бриллиантами, но они необходимы для вашей нано-брони."
-	},
-	"778:10": {
-		"eng_name": "§7§6§lCarbon Plates",
-		"eng_desc": "Carbon plates are needed for the nano armor. Go check out the armor chapter.",
-		"ru_name": "§7§6§lУглеродные пластины",
-		"ru_desc": "Углеродные плиты необходимы для нано-брони. Перейдите посмотрите в главу доспеха."
-	},
-	"779:10": {
-		"eng_name": "Carbon Skin",
-		"eng_desc": "You can stop worrying about some mobs for now. This will help you survive a bit and will give you some of that SWAG. Your journey doesn't stop here traveller, as quantum armor awaits you!\n\n§3PS: The nano suit also acts as hazmat gear.",
-		"ru_name": "Углеродная кожа",
-		"ru_desc": "Вы можете перестать беспокоиться о некоторых мобах на данный момент. Это поможет вам немного выжить и даст вам некоторые из этого Swag. Ваше путешествие не останавливается здесь путешественника, так как ждет квантовая броня!\n\nPS: Нано-костюм также действует как Gazmat Gear."
-	},
-	"780:10": {
-		"eng_name": "§6§lOrganic Way",
-		"eng_desc": "Bio carbon plates are made out of raw carbon mesh. Put it in the electric blast furnace to make carbon plates.",
-		"ru_name": "§6§lОрганический путь",
-		"ru_desc": "Био углеродные пластины изготавливаются из сырой углеродной сетки. Положите его в электрическую доменную печь, чтобы сделать углеродные пластины."
-	},
-	"786:10": {
-		"eng_name": "§6§lSteam is Never Enough",
-		"eng_desc": "Now you can make advanced circuits, which means it's time to build a large steel boiler. This boiler is one and a half times more efficient than a bronze one, and that means we need 5 more steam turbines. Don't forget to monitor the water level!",
-		"ru_name": "§6§lПар никогда не бывает достаточно",
-		"ru_desc": "Теперь вы можете сделать продвинутые схемы, что означает пришло время построить большой стальной котел. Этот котел имеет полтора раза более эффективным, чем бронзовая, и это означает, что нам нужно еще 5 паровых турбин. Не забудьте отслеживать уровень воды!"
-	},
-	"790:10": {
-		"eng_name": "§9§lNano Crystal",
-		"eng_desc": "Nano crystals are used for making the nano armor.",
-		"ru_name": "§9§lНано кристалл",
-		"ru_desc": "Нано кристаллы используются для создания нано-брони."
-	},
-	"796:10": {
-		"eng_name": "Sensor Lens",
-		"eng_desc": "The night vision goggles need special sensor lenses to work.",
-		"ru_name": "Линз датчика",
-		"ru_desc": "Очки ночного видения нужны специальные линзы датчика для работы."
-	},
-	"797:10": {
-		"eng_name": "Advanced Heat Exchanger",
-		"eng_desc": "The night vision goggles need advanced heat exchangers to work.",
-		"ru_name": "Усовершенствованный теплообменник",
-		"ru_desc": "Очки ночного видения нужны передовые теплообменники для работы."
-	},
-	"798:10": {
-		"eng_name": "Iron Capped Greatwood Wand",
-		"eng_desc": "Making a gold capped greatwood wand requires 30 vis, but your old wand's limit is 25. So first create an iron or copper capped greatwood wand reload it with 50 vis and then later on in the next quest create a gold capped greatwood wand.",
-		"ru_name": "Железный слон Великолепной палочкой",
-		"ru_desc": "Создание золота Coated Breathwood Wand требует 30 видов, но ваш предел вашего старого палочки 25. Итак, сначала создайте железо или медь, ограниченное Breatwood Broad, перезагружая его с 50 вариантом, а затем позже в следующем квесте создать золотую лобную палочку."
-	},
-	"799:10": {
-		"eng_name": "Don't Try to Dive With It",
-		"eng_desc": "Combining a scuba helmet with a nano helmet in an assembling machine will give you a nano scuba helmet. You'd better not try to dive with it because you can't. It is a part of the new quantum suit helmet.",
-		"ru_name": "Не пытайтесь погрузиться с этим",
-		"ru_desc": "Объединение шлема акваланги с нано-шлемом в монтажном машине даст вам нано-аквалангирующий шлем. Тебе лучше не пытаться погрузиться с этим, потому что вы не можете. Это часть нового квантового шлема костюма."
-	},
-	"800:10": {
-		"eng_name": "Plated Leggings - Better Not Try to Wear It",
-		"eng_desc": "Combining stainless steel platings with some nano leggings in the assembler gives you nano plated leggings. Better not try to wear them because you can't. They are part of the new quantum suit leggings.",
-		"ru_name": "Покрытые леггинсы - лучше не пытаться носить его",
-		"ru_desc": "Объединение цепочек из нержавеющей стали с некоторыми наногинги в ассемблере дает вам нанонаправленные леггинсы. Лучше не пытаться носить их, потому что вы не можете. Они являются частью нового квантового костюма леггинсов."
-	},
-	"801:10": {
-		"eng_name": "Don't Try to Walk With It",
-		"eng_desc": "Combining some rubber boots with nano boots in the Assembler gives you Nano Rubber Boots. Better not try to put them on because you can't. They are part of the new quantum suit boots.",
-		"ru_name": "Не пытайся ходить с этим",
-		"ru_desc": "Сочетание некоторых резиновых сапог с нано-сапогами в ассемблере дает вам нано резиновые сапоги. Лучше не пытаться надеть их, потому что вы не можете. Они являются частью новых квантовых костюмов."
-	},
-	"802:10": {
-		"eng_name": "Iridium Plated",
-		"eng_desc": "Plating all your armor parts with iridium alloy casings gives them a better durability. Before you can wear these quantum armor parts you need to activate them with some quantum crystals.",
-		"ru_name": "Иридий покрыл",
-		"ru_desc": "Покрытие всех ваших доспехов с помощью сплавов иридий сплавов придает им лучшую долговечность. Прежде чем носить эти квантовые части брони, вам нужно активировать их с помощью некоторых квантовых кристаллов."
-	},
-	"803:10": {
-		"eng_name": "Quantum Armor",
-		"eng_desc": "The quantum armor is a high tier and very durable armor with a lot of features like night vision, fall damage reduction and running very fast.",
-		"ru_name": "Квантовая доспеха",
-		"ru_desc": "Квантовая броня представляет собой высокий уровень и очень прочный доспех с большим количеством функций, таких как ночное видение, снижение урона падения и работает очень быстро."
-	},
-	"804:10": {
-		"eng_name": "Quantum Crystal ",
-		"eng_desc": "The quantum crystal is needed to turn quantum armor parts into wearable quantum armor.",
-		"ru_name": "Квантовый кристалл",
-		"ru_desc": "Квантовый кристалл необходим для поворота квантовых доспехов в носимых квантовых доспехах."
-	},
-	"805:10": {
-		"eng_name": "§a§lLapotron Dust",
-		"eng_desc": "Lapotron crystals require you to mix your energium dust with some lapis dust.",
-		"ru_name": "§a§lЛапотронная пыль",
-		"ru_desc": "Кристаллы лапотрона требуют, чтобы вы смешивали вашу пыль энергии с помощью пыли LAPIS."
-	},
-	"806:10": {
-		"eng_name": "§a§lLapotron Crystal",
-		"eng_desc": "With your new HV mixer you can make lapotron dust. Place it in an autoclave to make some raw lapotron crystals. With an EV assembler and advanced circuits you can make lapotron crystals which store up to 10 million EU.",
-		"ru_name": "§a§lЛапутрон кристалл",
-		"ru_desc": "С вашим новым микшером HV вы можете сделать лапотронную пыль. Поместите его в автоклаве, чтобы сделать некоторые изысканные кристаллы лапотрона. С помощью ассемблера EV и продвинутыми цепи вы можете сделать кристаллы лапотрона, которые хранят до 10 миллионов ЕС."
-	},
-	"809:10": {
-		"eng_name": "Dire Crafting Table",
-		"eng_desc": "The Avaritia 9x9 dire crafting table...is no longer used to make rockets :(. But you can still make it, if you want solars, kinetics, or whatnot. First of all you need 81 crafting tables to make a double compressed crafting table, a few HV components, wafers and a crystal matrix. And yes, you do need that many nether stars.",
-		"ru_name": "Грязный крафт",
-		"ru_desc": "The Avaritia 9x9 Crafting стол ... больше не используется для изготовления ракетов :(. Но вы все равно можете сделать это, если вы хотите солнечные, кинетики или Whatnot. В первую очередь вам нужны 81 крафтация, чтобы сделать двойное сжатоеТаблица, несколько компонентов HV, вафли и кристаллическая матрица. И да, вам нужна, что многие звезды Нидер."
-	},
+    "727:10": {
+        "eng_name": "§1§2§lBetter Than Barrels",
+        "eng_desc": "While barrels offer a slot for a single item, drawers can have up to 4 slots each (holding 16 stacks per slot). Once you reach HV you can combine them with some ProjectRed pipes to set up a \"ghetto ME storage system\" (Tec2k17).\n\nJust watch out, they do come with some downsides. You won't be able to make them point up or down, and you can only acces the contents from the front (automation can use any side). \n\n§4Also, if placed on top of a hopper, they can bug out and void items when the hopper is full. THIS WILL EAT BACKPACKS! If you plan on that, use barrels or chests instead.",
+        "ru_name": "§1§2§lЛучше, чем бочки",
+        "ru_desc": "В то время как бочки предлагают слот для одного элемента, ящики могут иметь до 4 слотов каждый (содержащий 16 стеков на слот). После того, как вы достигнете HV, вы можете объединить их с некоторыми ProjectRed трубами, чтобы создать «систему хранения МЭ из гетто» (Tec2k17).\n\nПросто остерегайтесь, они имеют некоторые недостатки. Вы не сможете повернуть их вверх или вниз, и вы можете вставлять содержимое только спереди (автоматизация может использовать любую сторону).\n\n§4Кроме того, если размещены над воронкой, они могут баговаться и уничтожить предметы, когда воронка заполнена. Это будет сжирать целые рюкзаки! Если вы планируете это, лучше используйте бочки или сундуки."
+    },
+    "728:10": {
+        "eng_name": "§2§lCompact Drawers",
+        "eng_desc": "They are very compact and add some fanciness to your glorious dirt base. ",
+        "ru_name": "§2§lКомпактные ящики",
+        "ru_desc": "Они очень компактны и добавляют какую-то фантастику на вашу славную грязную базу."
+    },
+    "729:10": {
+        "eng_name": "§2§lFraming Drawers",
+        "eng_desc": "Now you can really make some swaggy and even FANCIER drawers using this table, all you have to do is place some decorative blocks (works with almost ALL decorative blocks) and it will take their texture, the TOP left is the outer Square bottom left is for the front face and top right is for the borders.",
+        "ru_name": "§2§lОбрамленные ящики",
+        "ru_desc": "Теперь вы действительно можете сделать несколько роскошных и даже МОДНЫХ ящиков, используя этот стлик, все, что вам нужно сделать, это поместить немного декоративных блоков (работает практически со ВСЕМИ декоративными блоками), и она возьмет их текстуру. Нижний слот - лицевая сторона; верхний ПРАВЫЙ - грани; Верхний ЛЕВЫЙ - оставшиеся поверхности."
+    },
+    "747:10": {
+        "eng_name": "§5§lDiodes",
+        "eng_desc": "Good circuits need diodes. There are two main ways to craft them. Right now you have to use the Gallium Arsenide method with fine copper wires and molten glass. Later when you get an EBF you can use it to make silicon wafers to make even more. Note that the wafers are way easier to get than gallium, so even a reduced amount is still worth it.\n\nMake sure you check all the NEI recipes for advanced items instead of just using the first one you find. You can use annealed copper wires and polyethylene to increase your output even more. \n",
+        "ru_name": "§5§lДиоды",
+        "ru_desc": "Хорошие цепи нуждаются в диодах. Существует два основных способа создавать их. Сейчас вы должны использовать метод арсенида галлия с тонкими медными проводами и расплавленным стеклом. Позже, когда у вас будет EBF, вы можете использовать его, чтобы сделать кремниевые подложки, чтобы сделать еще больше диодов. Обратите внимание, что подложки легче получить, чем галлий, поэтому даже уменьшенное количество диодов в рецепте все еще стоит того.\n\nУбедитесь, что вы проверяете все рецепты NEI для продвинутых компонентов, а не просто используете первый, который вы найдете. Вы можете использовать отожженные медные провода и полиэтилен, чтобы увеличить продукцию еще больше."
+    },
+    "750:10": {
+        "eng_name": "§6§lMolten Plastic",
+        "eng_desc": "Molten polyethylene can be made in a chemical reactor using ethylene, compressed air cells or oxygen - using oxygen gives a 50% boost. Use a mold for making plates in a fluid solidifier to make plastic sheets.",
+        "ru_name": "§6§lРасплавленный пластик",
+        "ru_desc": "Расплавленный полиэтилен может быть изготовлен в химическом реакторе с использованием этилена, капсул со сжатым воздухом или кислородом - с использованием кислорода дает 50%-ное повышение. Используйте пресс-формы для изготовления пластин в жидкостном отвердителе, чтобы сделать пластиковые листы."
+    },
+    "752:10": {
+        "eng_name": "§6§lSilicon Plate",
+        "eng_desc": "Advanced circuits require transistors, which are made out of silicon plates, fine tin wire and molten polyethylene.",
+        "ru_name": "§6§lСиликоновая пластина",
+        "ru_desc": "Продвинутые микросхемы требуют транзисторов, которые изготавливаются из кремниевых пластин, тонкой оловянной проволоки и расплавленного полиэтилена."
+    },
+    "756:10": {
+        "eng_name": "§6§lLess Power Loss",
+        "eng_desc": "When you reach MV tier you can make your own duct tape in case you have to move your multiblock machines around. Duct tape will fix all maintenance problems in any multiblock machine.",
+        "ru_name": "§6§lМеньшие потери мощности",
+        "ru_desc": "Когда вы достигнете MV тира, вы можете сделать свою собственную клейкую ленту в том случае, если вы должны перемещать свои мультиблочные машины куда-либо. Клейкая лента исправит все проблемы обслуживания в любом мультиблоке."
+    },
+    "761:10": {
+        "eng_name": "§6§lPowderbarrels",
+        "eng_desc": "Powderbarrels are twice as good as dynamite in the implosion compressor. Craft one stack.",
+        "ru_name": "§6§lПороховые бочки",
+        "ru_desc": "Пороховые бочки вдвое хуже, чем динамит в имлозивном компрессоре. Скрафтите один стак."
+    },
+    "762:10": {
+        "eng_name": "§6§lTNT",
+        "eng_desc": "TNT is much more powerful than the powderbarrel but much harder to craft. There are LV and HV ways to craft. At LV you need heavy or light fuel to make some toluene which can be solidified to gelled toluene. Alternatively you can use sugar and plastic dust in a chemical reactor to make toluene more efficiently. Mix it with sulfuric acid to make TNT.\n\nThe HV way requires an oil cracking unit to make all kinds of cracked fuel or cracked naphta and a distillation tower to extract toluene from that.",
+        "ru_name": "§6§lТНТ",
+        "ru_desc": "TNT гораздо мощнее, чем пороховая бочка, но намного сложнее крафтится. Есть LV и HV пути для производства. В LV вам нужно тяжелое или легкое топливо, чтобы сделать немного толуола, который можно отвердить для гелеобразного толуола. В качестве альтернативы вы можете использовать сахарную и пластиковую пыль в химическом реакторе, чтобы сделать толуол более эффективно. Смешайте его с серной кислотой, чтобы сделать TNT.\n\nВ HV вы можете использовать крекинговую установку и производить различное катализированное топливо и нафту для получения из них толуола, а так же дистилляционную башню для извлечения толуола из этого."
+    },
+    "763:10": {
+        "eng_name": "§6§liTNT",
+        "eng_desc": "Industrial TNT is the HV variant of TNT. It explodes with more power, yet does not destroy blocks when it explodes.",
+        "ru_name": "§6§liTNT",
+        "ru_desc": "Промышленный TNT - это HV вариант TNT. Он взрывается с большей мощностью, но не разрушает блоки."
+    },
+    "764:10": {
+        "eng_name": "§6§lDynamite",
+        "eng_desc": "Dynamite is the most basic explosive you can use in the implosion compressor.\nMix some paper, string and glyceryl trinitrate in a chemical reactor to get dynamite.",
+        "ru_name": "§6§lДинамит",
+        "ru_desc": "Динамит является основным взрывным веществом, которое вы можете использовать в имплозивном компрессоре.\nСмешайте немного бумаги, нити и глицерил тринитрата в химическом реакторе, чтобы получить динамит."
+    },
+    "769:10": {
+        "eng_name": "§9§lPlaying With Dust",
+        "eng_desc": "This machine will help you turn dust into crystals which you will need for high tier recipes. ",
+        "ru_name": "§9§lИгра с пылью",
+        "ru_desc": "Эта машина поможет вам обернуть пыль в кристаллы, которые вам понадобится для рецептов высокого уровня."
+    },
+    "770:10": {
+        "eng_name": "§9§lAvengers, Assemble! 3",
+        "eng_desc": "You know what this does. :D",
+        "ru_name": "§9§lСобери их всех! 3",
+        "ru_desc": "Вы знаете, что оно делает. :D"
+    },
+    "775:10": {
+        "eng_name": "Carbon Parts",
+        "eng_desc": "These are the first parts you will need for your beloved nano armor.",
+        "ru_name": "Углеродные части",
+        "ru_desc": "Это первые части, которые вам понадобится для любимой нано-брони."
+    },
+    "776:10": {
+        "eng_name": "Seeing Things Brighter",
+        "eng_desc": "The nano helmet is a bit special. It will provide you with night vision as long as you have energy! Don't turn it on in bright areas or you'll be blinded!",
+        "ru_name": "Видеть вещи ярче",
+        "ru_desc": "Нано-шлем немного особенный. Он даст вам ночное видение, пока в нем есть энергия! Не включайте его в светлых районах, иначе ослепните!"
+    },
+    "777:10": {
+        "eng_name": "Are Those Green Diamonds? ",
+        "eng_desc": "They may not be green diamonds but they are needed for your nano armor.",
+        "ru_name": "Это что, зеленые бриллианты?",
+        "ru_desc": "Это не может быть зелеными бриллиантами, но они необходимы для вашей нано-брони."
+    },
+    "778:10": {
+        "eng_name": "§7§6§lCarbon Plates",
+        "eng_desc": "Carbon plates are needed for the nano armor. Go check out the armor chapter.",
+        "ru_name": "§7§6§lУглеродные пластины",
+        "ru_desc": "Углеродные пластины необходимы для нано-брони. Посмотрите в главе доспехов."
+    },
+    "779:10": {
+        "eng_name": "Carbon Skin",
+        "eng_desc": "You can stop worrying about some mobs for now. This will help you survive a bit and will give you some of that SWAG. Your journey doesn't stop here traveller, as quantum armor awaits you!\n\n§3PS: The nano suit also acts as hazmat gear.",
+        "ru_name": "Углеродная кожа",
+        "ru_desc": "Вы можете перестать беспокоиться о некоторых мобах в данный момент. Это немного поможет вам выживать, и придаст вам модный вид. Ваше путешествие не заканчивается здесь, путешественник, так как вас ждет квантовая броня!\n\n§3PS: Нано-костюм также действует как костюмы химзащиты."
+    },
+    "780:10": {
+        "eng_name": "§6§lOrganic Way",
+        "eng_desc": "Bio carbon plates are made out of raw carbon mesh. Put it in the electric blast furnace to make carbon plates.",
+        "ru_name": "§6§lОрганический путь",
+        "ru_desc": "Био-углеродные пластины изготавливаются из заготовки углеродной сетки. Положите его в электрическую доменную печь, чтобы сделать углеродные пластины."
+    },
+    "786:10": {
+        "eng_name": "§6§lSteam is Never Enough",
+        "eng_desc": "Now you can make advanced circuits, which means it's time to build a large steel boiler. This boiler is one and a half times more efficient than a bronze one, and that means we need 5 more steam turbines. Don't forget to monitor the water level!",
+        "ru_name": "§6§lПара всегда недостаточно",
+        "ru_desc": "Теперь вы можете сделать продвинутые микросхемы, и это означает, что пришло время построить большой стальной котел. Этот котел в полтора раза более эффективнен, чем бронзовый, а так же, что вам нужно еще 5 паровых турбин. Не забудьте отслеживать уровень воды!"
+    },
+    "790:10": {
+        "eng_name": "§9§lNano Crystal",
+        "eng_desc": "Nano crystals are used for making the nano armor.",
+        "ru_name": "§9§lНано кристалл",
+        "ru_desc": "Нано кристаллы используются для создания нано-брони."
+    },
+    "796:10": {
+        "eng_name": "Sensor Lens",
+        "eng_desc": "The night vision goggles need special sensor lenses to work.",
+        "ru_name": "Сенсорика",
+        "ru_desc": "Очки ночного видения нуждаются в специальных сенсорных линзах для работы."
+    },
+    "797:10": {
+        "eng_name": "Advanced Heat Exchanger",
+        "eng_desc": "The night vision goggles need advanced heat exchangers to work.",
+        "ru_name": "Усовершенствованный теплообменник",
+        "ru_desc": "Очки ночного видения нуждаются в продвинутом теплообменнике для работы."
+    },
+    "798:10": {
+        "eng_name": "Iron Capped Greatwood Wand",
+        "eng_desc": "Making a gold capped greatwood wand requires 30 vis, but your old wand's limit is 25. So first create an iron or copper capped greatwood wand reload it with 50 vis and then later on in the next quest create a gold capped greatwood wand.",
+        "ru_name": "Окованная железом палочка из великого древа",
+        "ru_desc": "Создание окованной золотом палочки из великого древа требует 30 vis, но предел вашей старой палочки - 25. Что-ж, сначала создайте окованную железом или медью палочку из великого древа, зарядите её на 50 vis, а позже (в следующем квесте) создайте окованную золотом палочку из великого древа."
+    },
+    "799:10": {
+        "eng_name": "Don't Try to Dive With It",
+        "eng_desc": "Combining a scuba helmet with a nano helmet in an assembling machine will give you a nano scuba helmet. You'd better not try to dive with it because you can't. It is a part of the new quantum suit helmet.",
+        "ru_name": "Не пытайтесь нырять в этом",
+        "ru_desc": "Объединение шлема акваланга с нано-шлемом в сборщике даст вам шлем нано-акваланга. Вам лучше не пытаться нырять в этом, потому что вы не сможете. Это часть нового квантового шлема."
+    },
+    "800:10": {
+        "eng_name": "Plated Leggings - Better Not Try to Wear It",
+        "eng_desc": "Combining stainless steel platings with some nano leggings in the assembler gives you nano plated leggings. Better not try to wear them because you can't. They are part of the new quantum suit leggings.",
+        "ru_name": "Латные штаны - лучше не пытаться носить их",
+        "ru_desc": "Объединение обшивки из нержавеющей стали с нано-штанами в сборщике дает вам нано-обшитые штаны. Лучше не пытаться носить их, потому что вы не можете. Они являются частью новых квантовых штанов."
+    },
+    "801:10": {
+        "eng_name": "Don't Try to Walk With It",
+        "eng_desc": "Combining some rubber boots with nano boots in the Assembler gives you Nano Rubber Boots. Better not try to put them on because you can't. They are part of the new quantum suit boots.",
+        "ru_name": "Не пытайся ходить в этом",
+        "ru_desc": "Сочетание резиновых сапог с нано-сапогами в сборщике даст вам резиновые нано сапоги. Лучше не пытайтесь надеть их, потому что вы не можете. Они являются частью новых квантовых сопогов."
+    },
+    "802:10": {
+        "eng_name": "Iridium Plated",
+        "eng_desc": "Plating all your armor parts with iridium alloy casings gives them a better durability. Before you can wear these quantum armor parts you need to activate them with some quantum crystals.",
+        "ru_name": "Иридиевые платины",
+        "ru_desc": "Покрытие всех ваших доспехов с помощью сплавов иридия придаст им повышенную прочность. Прежде чем носить эти квантовые части брони, вам нужно активировать их с помощью квантовых кристаллов."
+    },
+    "803:10": {
+        "eng_name": "Quantum Armor",
+        "eng_desc": "The quantum armor is a high tier and very durable armor with a lot of features like night vision, fall damage reduction and running very fast.",
+        "ru_name": "Квантовый доспех",
+        "ru_desc": "Квантовая броня представляет собой невероятно прочный и защищенный доспех с большим количеством функций, таких как ночное видение, снижение урона от падения и быстрый бег."
+    },
+    "804:10": {
+        "eng_name": "Quantum Crystal ",
+        "eng_desc": "The quantum crystal is needed to turn quantum armor parts into wearable quantum armor.",
+        "ru_name": "Квантовый кристалл",
+        "ru_desc": "Квантовый кристалл необходим для активации квантовых доспехов, прежде чем вы сможете надеть их."
+    },
+    "805:10": {
+        "eng_name": "§a§lLapotron Dust",
+        "eng_desc": "Lapotron crystals require you to mix your energium dust with some lapis dust.",
+        "ru_name": "§a§lЛазуротроновая пыль",
+        "ru_desc": "Для производства лапотронных кристаллов вам понадобится смешать энергопыль с пылью ляписа."
+    },
+    "806:10": {
+        "eng_name": "§a§lLapotron Crystal",
+        "eng_desc": "With your new HV mixer you can make lapotron dust. Place it in an autoclave to make some raw lapotron crystals. With an EV assembler and advanced circuits you can make lapotron crystals which store up to 10 million EU.",
+        "ru_name": "§a§lЛазуротроновый кристалл",
+        "ru_desc": "С вашим новым миксером HV вы можете сделать лапотронную пыль. Поместите его в автоклаве, чтобы сделать некоторые изысканные кристаллы лапотрона. С помощью ассемблера EV и продвинутыми цепи вы можете сделать кристаллы лапотрона, которые хранят до 10 миллионов ЕС."
+    },
+    "809:10": {
+        "eng_name": "Dire Crafting Table",
+        "eng_desc": "The Avaritia 9x9 dire crafting table...is no longer used to make rockets :(. But you can still make it, if you want solars, kinetics, or whatnot. First of all you need 81 crafting tables to make a double compressed crafting table, a few HV components, wafers and a crystal matrix. And yes, you do need that many nether stars.",
+        "ru_name": "Ужасный верстак",
+        "ru_desc": "Крафтовый стол 9x9 из Avaritia... больше не используется для изготовления ракетов :(. Но вы все равно можете сделать их, если хотите солнечные, кинетически или другие генераторы. В первую очередь вам нужен 81 крефтовый сто, чтобы сделать крафтовые столы двойной платности, несколько HV компонентов, подложки и кристаллическая матрица. И да, вам нужно много адских звезд."
+    },
 	"810:10": {
 		"eng_name": "Rocket Tier 1",
 		"eng_desc": "After hours of hard work and a few stacks of TNT your first rocket is finally ready. But before you can go to the Moon you need to actually craft it.",
