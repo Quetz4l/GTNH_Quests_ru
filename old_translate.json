@@ -2355,13 +2355,13 @@
 		"eng_name": "Weeds",
 		"eng_desc": "Weeds will show up from time to time on empty or double crop sticks. They will spread from there an take over all your precious crops, so harvest the weed with your weed trowel before you start desiring to reload the last backup. Later you can make some Weed-EX to prevent them from appearing (until it runs out).",
 		"ru_name": "Сорняки",
-		"ru_desc": "Сорняки время от времени появляются на пустых или двойных урожаях. Они будут распространяться от туда захватить все ваши драгоценные культуры, поэтому собирайте сорняк с вашим сорняком, прежде чем начать желать перезагрузить последнюю резервную копию. Позже вы можете сделать немного Weed-Ex, чтобы предотвратить их появления (пока он не закончится)."
+		"ru_desc": "Время от времени сорняки прорастают на пустых или двойных жёрдочках. Они распостраняются от места появления, пожирая весь ваш драгоценный урожай, так что срубайте сорняки лопаткой для сорняков, прежде чем загружать бекап. Позже вам станет доступно средство от сорняков, предотвращающее появление оных (до тех пор, пока не закончится)."
 	},
 	"725:10": {
 		"eng_name": "Flower Power",
 		"eng_desc": "Growing dyes on crops sticks? Try to plant some flowers. If you cross breed Rose and Dandelion flowers maybe you'll get a new flower and new dyes with different colors.\n\nYou will need to plant 4 vanilla flowers to get them on a cropstick. They also don't plant unless they are in bright light.\n\nTo get \"Rose Seeds\" place poppies. Honestly there's several flowers you can use, though.\n\n§3If you actually want these for dyes, go make the rainbow cactus instead.",
-		"ru_name": "Цветочная сила",
-		"ru_desc": "Растущие красители на палочках посева? Попробуйте посадить несколько цветов. Если вы пересекаете роза и цветы одуванчика, возможно, вы получите новый цветок и новые красители с разными цветами.\n\nВам нужно будет посадить 4 ванильных цветов, чтобы получить их в охрану. Они также не сажают, если они не находятся в ярком свете.\n\nЧтобы получить «семена роза» размещать маки. Честно говоря, есть несколько цветов, которые вы можете использовать, хотя.\n\nЕсли вы действительно хотите эти красители, вместо этого сделайте кактус радуги."
+		"ru_name": "Сила Цветов",
+		"ru_desc": "Выращивать красители на жёрдочках? Попробуйте посадить цветов. Выводя гибриды розы и одуванчика вы, возможно, получите новые цветы и новые красители разных цветов.\n\nЧтобы разместить цветы на жёрдочки, вам нужно посадить 4 ванильных цветка. Так же вам нужны источники яркого света, иначе вы не сможете посадить их.\n\nПосадите мак чтобы получить \"семена розы\". Так-то, многие цветы можно использовать.\n\n§3Если вы и правда занимаетесь этим ради красителей - вырастите лучше радужный кактус"
 	},
     "727:10": {
         "eng_name": "§1§2§lBetter Than Barrels",
