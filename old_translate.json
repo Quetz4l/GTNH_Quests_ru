@@ -2321,36 +2321,36 @@
         "ru_name": "Руны 4 уровня",
         "ru_desc": "Руна улучшенной ёмкости увеличивают вместимость алтаря на 10% мультипликативно. Если у вас более 14 малых версий, это более эффективно использовать их.\n\nРуны шара увеличивают размер сети души на 2% каждый. Вам это понадобится позже."
     },
-	"711:10": {
-		"eng_name": "Tier 5 Runes",
-		"eng_desc": "The final frontier: There are not many runes available. The acceleration rune reduces the tick time until the next buffer I/O interaction. It starts at 20, and is reduced by 1 for each rune, with the minimum being 1.",
-		"ru_name": "Уровень 5 рун",
-		"ru_desc": "Final Frontier: существует не так много рун. Руна ускорения уменьшает время тика до следующего взаимодействия ввода-вывода ввода-вывода буфера. Он начинается с 20, и уменьшается на 1 для каждого руны, с минимальным быть 1."
-	},
-	"712:10": {
-		"eng_name": "Advanced Rituals",
-		"eng_desc": "More powerful rituals require dusk runes. With your new dusk chalk, you can enhance your ritual diviner to place those. Allowing you to perform a lot more rituals.",
-		"ru_name": "Расширенные ритуалы",
-		"ru_desc": "Более мощные ритуалы требуют сумеренных рун. С вашим новым мелом сумерки вы можете улучшить ваш ритуальный диван, чтобы разместить их. Позволяя вам выполнить намного больше ритуалов."
-	},
-	"720:10": {
-		"eng_name": "Weeds II",
-		"eng_desc": "Weeds, weeds, and more weeds. You get so many of them while cross breeding. \n\nNeed some biogas cells for your power production in exchange? Or maybe some glowstone to light up your fields?",
-		"ru_name": "Сорняки II.",
-		"ru_desc": "Сорняки, сорняки и больше сорняков. Вы получаете так много из них во время перекрестного разведения.\n\nНужны некоторые клетки Biogas для вашего производства электроэнергии в обмен? Или, может быть, какой-то защелкивающий камень, чтобы зажечь ваши поля?"
-	},
-	"722:10": {
-		"eng_name": "Speed Up Your Plant Growth",
-		"eng_desc": "To speed up the growth process a bit you can use a fertilizer. You will note, however, that bone meal no longer works. A bit of ash, apatite or calcite mixed with some water in a chemical reactor will give you the fertilizer you need. Apply by hand.",
-		"ru_name": "Ускорить рост растений",
-		"ru_desc": "Чтобы ускорить процесс роста немного, вы можете использовать удобрение. Однако вы отметите, что костная еда больше не работает. Немного зола, апатита или кальцита, смешанного с некоторыми водой в химическом реакторе, даст вам удобрение, которое вам нужно. Применять вручную."
-	},
-	"723:10": {
-		"eng_name": "Potatos, Carrots, Pumpkins and Melons",
-		"eng_desc": "Your seeds have three different values: Growth, gain, and resistance (GGR).\n\nThe only way to change a crop's GGR without 3rd party tools (like NBTedit!) is through cross breeding. When two plants cross-breed, the resulting plant will have a GGR score that is between both \"parent\" plants' GGR. Sometimes it will also be a little bit higher or lower. Thus, to obtain high GGR scores you must go through numerous generations of crossbreeding.\n\nThe highest score for GGR is 31, while the lowest is 0.\n\n§3BTW, if you want to skip all this BS, the nbtedit command is /nbtedit me, click root in the upper left, then scroll down to inventory, and find the seedbag (empty your inventory first to make it easier) and click on the icons until you find the page with the stats. Once you've found the GGR stats, select one and click edit in the upper left, make sure to save.\n\n§4Remember that you can §5permanantly brick your character!§4 So make a backup first if you don't know what you're doing, or want to edit your actual character.§r\n\nOf course, you can't do any of this on a server.",
-		"ru_name": "Картофель, морковь, тыквы и дыни",
-		"ru_desc": "У ваших семян есть три разных значения: рост, усиление и сопротивление (GGR).\n\nЕдинственный способ изменить GGR находки без 3-го вечеринок (например, NBTEDIT!) - через перекрестное разведение. Когда два растения кросс-породы, получаемое растение будет иметь балл GGR, который находится между обоими «родительскими» растениями GGR. Иногда это также будет немного выше или ниже. Таким образом, получить высокие баллы GGR, вы должны пройти многочисленные поколения поперечины.\n\nСамый высокий балл для GGR - 31, а самая низкая 0.\n\nКстати, если вы хотите пропустить все это BS, команда NBTEDIT IS / NBTEDIT ME, нажмите root в верхнем левом углу, затем прокрутите вниз до инвентаризации и найдите семейный мешок (сначала пусть ваш инвентарь, чтобы сначала пропустить) и нажмите на Значки, пока не найдете страницу с статистикой. Как только вы нашли статистику GGR, выберите One и нажмите «Изменить» в левом верхнем углу, убедитесь, что сохранить.\n\nПомните, что вы можете постоянно кирпичать ваш персонаж! Итак, сначала сделайте резервную копию, если вы не знаете, что вы делаете или хотите редактировать свой фактический персонаж.\n\nКонечно, вы не можете сделать ни одно из этого на сервере."
-	},
+    "711:10": {
+        "eng_name": "Tier 5 Runes",
+        "eng_desc": "The final frontier: There are not many runes available. The acceleration rune reduces the tick time until the next buffer I/O interaction. It starts at 20, and is reduced by 1 for each rune, with the minimum being 1.",
+        "ru_name": "Руны 5 уровня",
+        "ru_desc": "Последний рубеж: остается не так уж и много рун. Руна ускорения уменьшает время тика до следующего взаимодействия ввода/вывода буфера. Он начинается с 20, и уменьшается на 1 для каждого руны, до минимума в 1."
+    },
+    "712:10": {
+        "eng_name": "Advanced Rituals",
+        "eng_desc": "More powerful rituals require dusk runes. With your new dusk chalk, you can enhance your ritual diviner to place those. Allowing you to perform a lot more rituals.",
+        "ru_name": "Продвинутые ритуалы",
+        "ru_desc": "Более мощные ритуалы требуют сумеренных рун. С вашим новым мелом сумерек вы можете улучшить ваш предсказатель ритуала, чтобы разместить их. Позволяет вам выполнить намного больше ритуалов."
+    },
+    "720:10": {
+        "eng_name": "Weeds II",
+        "eng_desc": "Weeds, weeds, and more weeds. You get so many of them while cross breeding. \n\nNeed some biogas cells for your power production in exchange? Or maybe some glowstone to light up your fields?",
+        "ru_name": "Сорняки II",
+        "ru_desc": "Сорняки, сорняки и больше сорняков. Вы получаете их так много во время перекрестного разведения.\n\nНужно немного копсул биогаза для вашего производства электроэнергии в обмен? Или, может быть, немного светокамня, чтобы осветить ваши поля?"
+    },
+    "722:10": {
+        "eng_name": "Speed Up Your Plant Growth",
+        "eng_desc": "To speed up the growth process a bit you can use a fertilizer. You will note, however, that bone meal no longer works. A bit of ash, apatite or calcite mixed with some water in a chemical reactor will give you the fertilizer you need. Apply by hand.",
+        "ru_name": "Ускорение роста ваших растений",
+        "ru_desc": "Чтобы немного ускорить процесс роста, вы можете использовать удобрение. Однако вы отметите, что костная мука больше не работает. Немного золы, апатита или кальцита, смешанного с некоторым количеством воды в химическом реакторе, даст вам удобрение, которое подойдёт. Применять вручную."
+    },
+    "723:10": {
+        "eng_name": "Potatos, Carrots, Pumpkins and Melons",
+        "eng_desc": "Your seeds have three different values: Growth, gain, and resistance (GGR).\n\nThe only way to change a crop's GGR without 3rd party tools (like NBTedit!) is through cross breeding. When two plants cross-breed, the resulting plant will have a GGR score that is between both \"parent\" plants' GGR. Sometimes it will also be a little bit higher or lower. Thus, to obtain high GGR scores you must go through numerous generations of crossbreeding.\n\nThe highest score for GGR is 31, while the lowest is 0.\n\n§3BTW, if you want to skip all this BS, the nbtedit command is /nbtedit me, click root in the upper left, then scroll down to inventory, and find the seedbag (empty your inventory first to make it easier) and click on the icons until you find the page with the stats. Once you've found the GGR stats, select one and click edit in the upper left, make sure to save.\n\n§4Remember that you can §5permanantly brick your character!§4 So make a backup first if you don't know what you're doing, or want to edit your actual character.§r\n\nOf course, you can't do any of this on a server.",
+        "ru_name": "Картофель, морковь, тыквы и дыни",
+        "ru_desc": "У ваших семян есть три разных значения: рост, усиление и сопротивление (GGR).\n\nЕдинственный способ изменить GGR без сторонних инструментов (например, NBTedit!) - через перекрестное разведение. Когда два растения скрещиваются, получаемое растение будет иметь значение GGR, которое будет средним от «родительских» значений GGR. Иногда оно также будет немного выше или ниже. Таким образом, чтобы получить высокие значения GGR, вы должны пройти многочисленные поколения скрещиваний.\n\nСамое высокое значение GGR - 31, а самое низкое 0.\n\n§3Кстати, если вы хотите пропустить все это дерьмо, команда NBTEDIT это '/nbtedit me', нажмите root в верхнем левом углу, затем прокрутите вниз до инвентаря и найдите семенной мешок (сначала опустошите ваш инвентарь, чтобы было проще) и нажимайте на иконки, пока не найдете страницу с статистикой. Как только вы нашли статистику GGR, выберите её и нажмите «Edit» в левом верхнем углу, убедитесь, что сохранили результат.\n\n§4Помните, что вы можете §5сломать вашего персонажа!§4 Так что сначала сделайте резервную копию, если вы не знаете, что вы делаете или хотите редактировать своего основного персонажа.§r\n\nКонечно, вы не можете сделать этог на сервере."
+    },
 	"724:10": {
 		"eng_name": "Weeds",
 		"eng_desc": "Weeds will show up from time to time on empty or double crop sticks. They will spread from there an take over all your precious crops, so harvest the weed with your weed trowel before you start desiring to reload the last backup. Later you can make some Weed-EX to prevent them from appearing (until it runs out).",
