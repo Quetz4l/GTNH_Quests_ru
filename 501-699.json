@@ -1,0 +1,1196 @@
+{
+	"501:10": {
+		"ru_name": "Найдите пчел",
+		"ru_desc": "Дальше нужно поискать пчелиные ульи. Всего можно найти 11 видов мирных пчел, из которых 8 расположены в Overworld. Для этого квеста подойдет любой вид пчел.",
+		"eng_name": "Go Find Some Bees",
+		"eng_desc": "The next thing to do: Find a few bee hives around the world. There are 11 mundane bees that can be found, of which 8 are located in the Overworld. Any kind of bee will work for this quest."
+	},
+	"502:10": {
+		"ru_name": "Новый дом",
+		"ru_desc": "Теперь, когда вы сломали ульи бедных пчел, вы должны построить им новый дом. Пчелиный домик не даст пчелам мутировать в новые виды, но он все равно понадобится чтобы получить соты, из которых вы сможете сделать более продвинутые ульи. Скорость производства сот не так уж и плоха, но их нельзя автоматизировать.\n\nСовет - посадите ванильные саженцы рядом с ульями, так как Bee House дает трехкратный бонус к опылению по сравнению с продвинутыми ульями. Пчелы начнут их опылять, и, если вам повезет, саженцы начнут скрещиваться. Начинайте с дуба и березы - они дадут вам неплохой набор стартовых деревьев из Forestry.\n\nКонечно, если делать это неосторожно, вас завалит лагучими бабочками ...\n\nТакже вы могли заметить что пчелы со свойством 'flower' распостраняют цветы. Таким образом можно получить, например, лаванду. Если вам не нравятся цветы повсюду, вы можете убрать блоки земли и травы, убрать свойство 'flower' у пчел или уменьшить их скорость/радиус опыления.",
+		"eng_name": "A New Home",
+		"eng_desc": "Now that you've destroyed the poor bees' homes, you should build them a new one. The humble Bee House will not let your bees mutate into new species. But you'll need the combs anyways for better housing. The production rate isn't too bad, but they cannot be automated.\n\nOne tip - Put some vanilla saplings near the Bee Houses. Bee Houses give a natural boost of 3x to pollination vs better housing. The bees will pollinate them and you might get lucky and start getting some Forestry tree crossbreeding. Stick with Oak and Birch trees, they'll give you a nice mix of starter Forestry trees.\n\nOf course, if you do this without taking precautions, you may find yourself swarmed by laggy butterflies...\n\nYou may also notice that bees with the 'flower' type flower spread flowers. This can be used to get, say, lavender among others. If you don't like them spreading them everywhere, replace the dirt/grass blocks, remove the trait, or reduce the pollination speed/territory."
+	},
+	"503:10": {
+		"ru_name": "Проанализировать их всех",
+		"ru_desc": "Каждая пчела имеет свойства, которые определяют то, что делает пчела, как она ведет себя во время дождя или ночью, и ещё несколько других аспектов. Обязательно следите за этими свойствами. Этот комплект не очень хорош, так как он не дает вам информацию о неактивных свойствах, но лучше это чем ничего.\n\nВам понадобится бумага для анализа каждой пчелы.",
+		"eng_name": "Analyze Them All",
+		"eng_desc": "Every bee has multiple properties that define what the bee does, how it behaves in rain or at night, and a couple of other aspects. It is mandatory to keep track of those properties. This kit isn't very good since it doesn't give you information on their Inactive attributes, but waste not, want not.\n\nYou'll need to use paper to analyze each bee."
+	},
+	"504:10": {
+		"ru_name": "Сканировать или не сканировать",
+		"ru_desc": "Для того, чтобы вкатиться в скрещивание пчел, вам нужен способ увидеть все свойства, активные и неактивные. Вам надо будет выводить так называемых «чистокровных» пчел, то есть тех у которых, как «активные», так и «неактивные» свойства идентичны.\n\n§3Кстати, «продвинутые» версии анализатора не обязательно лучше, просто у них больше функций. Используйте тот, который вам нравится.",
+		"eng_name": "Scan or not to scan",
+		"eng_desc": "In order to get into bee breeding, you need a way to see all the traits, active and inactive. You only want to breed so called \"pure\" bees; For those, both \"Active\" and \"Inactive\" traits are identical.\n\n§3BTW, it's not like the more 'advanced' versions are actually better, just that they have more functions. Use the one you like."
+	},
+	"505:10": {
+		"ru_name": "Анализатор высшего уровня",
+		"ru_desc": "Лучший возможный анализатор, для сканирования и анализирования всего и вся.",
+		"eng_name": "Top-Tier Analyser",
+		"eng_desc": "The best you can get, for all your scanning and analysing needs."
+	},
+	"506:10": {
+		"ru_name": "Игра в Бога",
+		"ru_desc": "Чтобы продолжить заниматься пчелами, их разведением и мутациями вам понадобится мутаген. Эту зеленоватую, вонючую жидкость можно получить из бактериального осадка, который, похоже, находится только на Марсе. Вы сможете продолжить эту цепочку квестов как только вы попадете на Марс.\n\nТем временем вы можете начать работать с модом Genetics, ведь все мы все знаем что Gendustry это слишком просто... Гляньте рецепты, и вы поймете, почему вам стоит начать именно с Genetics.\n\n§3Вы сможете сделать больше бактериального ила в Bacterial Vat, как сможете его построить.",
+		"eng_name": "To Play God",
+		"eng_desc": "In order to continue with bees, to mutate and breed them as you like, you need mutagen. This greenish, smelly liquid needs to be refined from bacterial sludge that seems to be available only on Mars. You will be able to continue, once you've arrived there.\n\nIn the meantime you can start working with the Genetics mod, since we all know Gendustry is too easy... Check out the recipes and you will understand why you should look into the Genetics mod.\n\n§3Make sure to make more with the Vat once you can actually make it."
+	},
+	"507:10": {
+		"ru_name": "Улучшенный улей",
+		"ru_desc": "Пчелиный домик полезен для стабилизации мутаций, например, если вы успешно вывели две разных пчелы, и их пассивные свойства отличаются от активных.\n\nНо для скрещивания и получения новых видов, вам понадобится кое-что другое - пасека. Для крафта потребуется Плотник и Пропитанные рамки, наряду с растительным маслом и креозотом. Или, если вам повезет, вы можете найти жителя пчеловода для торговли с ним. Может быть, вы можете * помочь * деревенским жителям сделать больше жителей пчеловодов? Если бы только купидон и его лук были рядом ...\n\nСкорость производства в пустой пасеке низкая - ниже, чем у пчелиного домика. Но пасека имеет два больших преимущества - рамки и автоматизация. Здесь вы можете использовать свои необработанные или пропитанные рамки, чтобы повысить выход ресурсов - это повышение мультипликативно. Это значит что 3 х2 рамки дадут вам 2 * 2 * 2 = 8x повышение продукции! Вы также можете автоматизировать ввод / вывод пчел и их продукции, но, к сожалению, не рамок.\n\nКроме того, проверьте мод  Genetics - в нем есть несколько полезных машин. Акклиматизатор может дать придирчивым пчелам гораздо более высокую толерантность к температуре или влажности без необходимости выводить эти свойства через скрещивание.",
+		"eng_name": "Upgraded Home",
+		"eng_desc": "The Bee House can be used to stabilize mutations, for example if you have successfully bred two different bees, but the passive traits are different from the active ones. \n\nTo actually breed those together to get a new species, you'll need something different - the Apiary. Building them will require a Carpenter and Impregnated frames, along with Seedoil and Creosote - quite a bit of industrialization! Or, if you're lucky, you can find a beekeeper villager to trade with for useful items. Maybe you can help the villagers *get lucky* to make more beekeeper villagers? If only Cupid and his bow were around...\n\nProduction rates in an empty Apiary are low - lower than a Bee House by quite a bit, in fact.  But the Apiary has two big advantages - Frames, and Automation. You can now use your Untreated or Impregnated frames in here to boost output - and the boost is multiplied. So 3 x2 frames gives you 2 * 2 * 2 = 8x extra output! You can also automate I/O for the bees and their products, though not frames unfortunately.\n\nAlso, you should check the Genetics mod for useful machines. The Acclimatiser can give very picky bees a much wider temperature or humidity tolerance without having to breed it into them."
+	},
+	"508:10": {
+		"ru_name": "Мутатрон",
+		"ru_desc": "Мутации могут быть скучными, они раздражают, и во многих случаях расстраивают. С помощью этой машины вы получите 100-процентную чистую мутацию. Если комбинация принцессы и дрона может привести к нескольким видам мутаций, результат получится случайный. Но кого это волнует?\n\n§3Теперь вы можете обменять свои лишние Bees Advanced лутбеги на Bees Expert в последней вкладке квестов.\n\n§3Если вы пропустили нужное вам свойство в процессе скрещивания, эта машина даст вам возможность получить его снова.\n\nВам понадобятся Naquadah Bees, чтобы сделать эту и другие машины из Gendustry.",
+		"eng_name": "Mutatron",
+		"eng_desc": "Mutations can be boring, they can be annoying, and most times, they are frustrating. With this machine, you will get a 100 percent pure bred mutation. If the combination of princess and drone can result in multiple mutations, the outcome is random. But who cares?\n\n§3You can now upgrade your leftover Bees Advanced bags to Bees Expert in the last quest tab.\n\nIf you missed grabbing an effect from a species, this is a way to get it again.\n\nYou'll need naquadah bees to make this, or the other Gendustry machines."
+	},
+	"509:10": {
+		"ru_name": "Генетический пробоотборник",
+		"ru_desc": "С помощью этой машины вы можете извлечь случайное свойство из любой пчелы, саженца, бабочки или цветка. Пчела / саженец / бабочка / цветок будут уничтожены в процессе. Каждый процесс требует Образец пустого гена и Генетическую лабораторную посуду.",
+		"eng_name": "Genetic Sampler",
+		"eng_desc": "With this machine, you can extract a random trait from any bee, sapling, butterfly or flower. The bee/sapling/butterfly/flower will be destroyed in this process. Each process requires an empty gene sample and some labware.\n\n"
+	},
+	"510:10": {
+		"ru_name": "Генетическая лабораторная посуда",
+		"ru_desc": "Будьте готовы. Чтобы всерьез заняться пчелами, вам понадобятся стаки алмазов. Я не шучу, стаки! Советую начать работать над алмазной пчелой!",
+		"eng_name": "Diamondware",
+		"eng_desc": "Also known as labware. Be prepared. In order to do serious bee-work, you need stacks of diamonds. I'm not joking, stacks! Better start working on that diamond bee!"
+	},
+	"511:10": {
+		"ru_name": "Генетическое импринтер",
+		"ru_desc": "С помощью этой машины вы можете вводить образцы генов, что позволяет изменить любое свойство вашей пчелы, дерева или бабочки. Образец гена не расходуется. Шанс успеха составляет 100%, для каждого ввода используется одна Генетическая лабораторная посуда",
+		"eng_name": "Genetic Imprinter",
+		"eng_desc": "With this powerful machine, you can inject gene samples, which allows you to alter any aspect of your bee, tree or butterfly. The gene sample (or pattern) will not be destroyed. The success rate is 100%, and one labware is consumed per injection."
+	},
+	"512:10": {
+		"ru_name": "Генетический транспозер",
+		"ru_desc": "Образцы ДНК видов и свойств довольно ценны. Всегда держите хотя бы один образец каждого гена который вы можете получить в сундуке где-то в безопасности. Используя эту машину, вы можете скопировать любой образец гена, по цене Колбы без сыворотки и Лабораторной посуды.\n\nНа самом деле вам не нужно хранить их все если вы не собираетесь их использовать.",
+		"eng_name": "Genetic Transposer",
+		"eng_desc": "DNA samples of species and/or traits are pretty valuable. You always should keep at least one of each gene sample you get your hand on in a chest somewhere safe. By using this machine, you are able to copy any gene sample, for the cost of an empty serum vial and some labware.\n\n§3You don't actually need to keep all of them if you don't intend to use them of course."
+	},
+	"513:10": {
+		"ru_name": "Продвинутый мутатрон",
+		"ru_desc": "Более продвинутая версия мутатрона. Он использует больше энергии для мутации, зато теперь вы можете выбрать, какую мутацию вы хотите иметь. Эта машина обязательна для высокоуровневых пчел.\n\n§3Вам понадобятся нейтрониевые пчелы чтобы сделать его.",
+		"eng_name": "Advanced Mutatron",
+		"eng_desc": "A more advanced version of the mutatron. It uses more energy to mutate a drone with a princess, and you can select which mutation you want to have. This machine is a must-have for high-tier bees.\n\n§3You'll need neutronium bees to make this."
+	},
+	"514:10": {
+		"ru_name": "Образец пустого гена",
+		"ru_desc": "Чтобы получить различные черты из пчелы, вам нужно много энергии, Лабораторной посуды и Образцов пустого гена. Их не нужно слишком много, вы всегда можете просто бросить их в печь, чтобы удалить ДНК свойств, которые вам не нужны.\n\nТем временем вы можете начать работать с модом Genetics, ведь все мы все знаем что Gendustry это слишком просто... Genetics используется для пчел, деревьев и цветов из Botany, поэтому у этого мода своя собственная ветка квестов. Gendustry крайне хорош для выведения пчел, но взамен он требует крайне дорогое оборудование.",
+		"eng_name": "Blank Gene Samples",
+		"eng_desc": "To get the various traits from a bee, you need a lot of power, labware and an empty gene sample. You don't need a lot of those, as you can just throw them in a furnace to remove remaining DNA of traits you don't need or want. \n\nIn the meantime you can start working with the Genetics mod, since we all know Gendustry is too easy... Genetics is used for bees, trees, and Botany flowers so it gets its own quest tab. Gendustry is really good for bees, but will require top tier equipment."
+	},
+	"515:10": {
+		"ru_name": "Генетический шаблон",
+		"ru_desc": "Шаблоны используются для объединения нескольких образцов гена в одну большую партию. Его можно использовать для применения нескольких свойств сразу, но вы также можете клонировать пчелу из жидкой ДНК и белка, если вам удастся всунуть все 13 черт в один шаблон. Эти шаблоны можно скопировать, также как и образцы генов.",
+		"eng_name": "Genetic Template",
+		"eng_desc": "Templates are used to combine multiple gene samples into one large batch. It can be used to apply multiple traits at once, but you can also replicate a bee from liquid DNA and protein, if you manage to fill all 13 traits in one template. These templates can also be copied, just like the small samples."
+	},
+	"516:10": {
+		"ru_name": "Довольно жестокая утилизация",
+		"ru_desc": "Занимаясь пчелами, у вас накопится много лишних трутней.(Или саженцев, если вы занимаетесь деревьями). Вместо того, чтобы выбрасывать их, вы можете превратить их в ... что-то полезное.",
+		"eng_name": "A Rather Cruel Disposal",
+		"eng_desc": "You probably will end up with a lot of excess drones while doing bees. (Or saplings if you do trees). Instead of throwing them away, you could also turn them into... Something useful."
+	},
+	"517:10": {
+		"ru_name": "Протеиновый разжижитель",
+		"ru_desc": "Эта машина превращает сырое мясо в жидкий белок, который используется для создания пчел с нуля.",
+		"eng_name": "Arnie's Blender",
+		"eng_desc": "They say breakfast is the most important meal of the day. This machine turns raw meat into liquid protein, which is used to create bees from scratch. Which has §oabsolutely§  nothing§r to do with breakfast."
+	},
+	"518:10": {
+		"ru_name": "Да будет свет",
+		"ru_desc": "Закончились принцессы? Слишком лень идти искать ульи? Не проблема. С помощью этого маленького устройства а так же кучи энергии, жидкого ДНК и белка, вы сможете создать любую пчелу, какую только захотите. Единственный недостаток: все пчелы будут низкой породы, что означает, что они умрут после случайного количества циклов.\n\nКонечно, есть улучшение для промышленной пасеки, которое позволит бороться с этим",
+		"eng_name": "And There Shall be Light",
+		"eng_desc": "Out of princesses to inject traits to? Too lazy to find hives and get more bees? Not a problem. With this nifty little device, you can use a ton of power, liquid DNA and protein to create any bee you wish to have. The only drawback is: All bees will be ignoble, which means they will die after a random amount of cycles.\n\nOf course, there's an upgrade for the industrial apiary to deal with that"
+	},
+	"519:10": {
+		"ru_name": "Только лучшее: температура",
+		"ru_desc": "Продвигаясь к лучшим возможным пчелам вы должны собрать только лучшие свойства из лучших.\n\nЗначение «нет» предназначено для тестирования, а «3» - это то, что у вас будет большую часть времени. «3» достаточно для того, чтобы покрыть все требования к температуре, если вы работаете в области с нормальной температурой. Вы можете достичь значения «5» используя акклиматизатор если хотите по какой-то причине заставить работать адских пчел в арктическом климате.",
+		"eng_name": "Only the Best: Temperature",
+		"eng_desc": "On your way to awesome bees, you have to collect only the best traits available.\n\n§3None is for testing jubilant state, while 3 is what you'll have on most of the time. You can hit all temp reqs with 3 if you work in a normal temp area. You can go up to 5 if you use the acclimatizer and want nether bees working in an icy area for some reason."
+	},
+	"520:10": {
+		"ru_name": "Только лучшее: влажность",
+		"ru_desc": "Продвигаясь к лучшим возможным пчелам вы должны собрать только лучшие свойства из лучших.\n\nЗначение «нет» предназначено для тестирования, а «2» - это то, что у вас будет большую часть времени. Нет смысла делать значения выше 3, так как требования пчел не заходят так далеко.",
+		"eng_name": "Only the Best: Humidity",
+		"eng_desc": "On your way to awesome bees, you have to collect only the best traits available.\n\n§3None is for testing jubilant state, while 2 is what you'll have on most of the time. 3+ don't do anything as the range doesn't go that high."
+	},
+	"521:10": {
+		"ru_name": "Только лучшее: плодовитость",
+		"ru_desc": "Продвигаясь к лучшим возможным пчелам вы должны собрать только лучшие свойства из лучших.\n\nЗначение «4» великолепно во время скрещивания пчел, но «1» лучше подходит для производства ресурсов.",
+		"eng_name": "Only the Best: Fertility",
+		"eng_desc": "On your way to awesome bees, you have to collect only the best traits available. Bees bees everywhere!\n\n§3F4 is great while breeding bees, but F1 is what you want to use when producing stuff."
+	},
+	"522:10": {
+		"ru_name": "Элитные виды: дракониевые",
+		"ru_desc": "Продвигаясь к лучшим возможным пчелам вы должны собрать только лучшие свойства из лучших.",
+		"eng_name": "Highend species: Draconic",
+		"eng_desc": "On your way to awesome bees, you have to collect only the best traits available."
+	},
+	"523:10": {
+		"ru_name": "Элитные виды: докторские",
+		"ru_desc": "Продвигаясь к лучшим возможным пчелам вы должны собрать только лучшие свойства из лучших.",
+		"eng_name": "Highend species: Doctoral",
+		"eng_desc": "On your way to awesome bees, you have to collect only the best traits available."
+	},
+	"524:10": {
+		"ru_name": "Только лучшее: Speed Blinding",
+		"ru_desc": "Продвигаясь к лучшим возможным пчелам вы должны собрать только лучшие свойства из лучших.",
+		"eng_name": "Only the Best: Speed Blinding",
+		"eng_desc": "On your way to awesome bees, you have to collect only the best traits available. Buzz buzz buzz, working hard and really buzzing!"
+	},
+	"525:10": {
+		"ru_name": "Элитные виды: кремний",
+		"ru_desc": "Продвигаясь к лучшим возможным пчелам вы должны собрать только лучшие свойства из лучших.",
+		"eng_name": "Highend species: Silicon",
+		"eng_desc": "On your way to awesome bees, you have to collect only the best traits available."
+	},
+	"526:10": {
+		"ru_name": "Только лучшее: дождь",
+		"ru_desc": "Продвигаясь к лучшим возможным пчелам вы должны собрать только лучшие свойства из лучших. Пчеловодство под дождем! Обязательно накройте ваши GT машины!",
+		"eng_name": "Only the Best: Rain",
+		"eng_desc": "On your way to awesome bees, you have to collect only the best traits available. Beekeeping in the rain!  Make sure to keep your GT machines covered!"
+	},
+	"527:10": {
+		"ru_name": "Только лучшее: день и ночь",
+		"ru_desc": "Продвигаясь к лучшим возможным пчелам вы должны собрать только лучшие свойства из лучших. Пчелы будут работать день и ночь напролет!",
+		"eng_name": "Only the Best: Day and Night",
+		"eng_desc": "On your way to awesome bees, you have to collect only the best traits available. Bee working day and night, all night and all day long!"
+	},
+	"528:10": {
+		"ru_name": "Только лучшее: пещерные",
+		"ru_desc": "Продвигаясь к лучшим возможным пчелам вы должны собрать только лучшие свойства из лучших. Пещерные челы могут работать в ульях, накрытых сверху - конечно же накрытых другими ульями!",
+		"eng_name": "Only the Best: Cave",
+		"eng_desc": "On your way to awesome bees, you have to collect only the best traits available. Bees with Cave can work in housing that is covered - by more housing!"
+	},
+	"529:10": {
+		"ru_name": "§5§lТы будешь ненавидеть это # 5",
+		"ru_desc": "Пятый предмет, который вам понадобится в большом количестве. Для микроволновой печи, сканера, и др.",
+		"eng_name": "§5§lYou're gonna hate this #5",
+		"eng_desc": "The fifth item you'll need a lot of. For the microwave, the scanner, the precision laser engraver, etc."
+	},
+	"530:10": {
+		"ru_name": "§5§lТы будешь ненавидеть это # 6",
+		"ru_desc": "Шестой предмет,  который вам понадобится в большом количестве. Для сканера и Seismic prospector.",
+		"eng_name": "§5§lYou're gonna hate this #6",
+		"eng_desc": "The sixth item you'll need a lot of. For the scanner and the seismic prospector."
+	},
+	"531:10": {
+		"ru_name": "§5§lСканирование пчел, семян и многого другого!",
+		"ru_desc": "Автоматизируйте сканирование ваших пчел, саженцей или семян. Позже эта машина становится очень полезной для сканирования деталей высокоуровневых машин для Assembly line или же при сканировании материалов для последующей репликации с помощью UU материи. Data sticks с необработанными данными георазведки также нуждаются в сканере.",
+		"eng_name": "§5§lScanning bees, crops and moooooore!",
+		"eng_desc": "Automate your bee, sapling, or crop scanning. Later on, this machine gets very useful for scanning high tier machine parts for the assembly line research data or to fill data orbs with data for the UU matter production. Data sticks with raw prospecting data need a scanner too."
+	},
+	"532:10": {
+		"ru_name": "§5§lПодрыв жидкостей для получения энергии",
+		"ru_desc": "Вы, вероятно, насобирали много креозота и, возможно, даже построили свою первую Electric Blast Furnace. Креозот будет неплохим топливом на данный момент. Поэтому постарайтесь построить несколько генераторов внутреннего сгорания и используйте их параллельно с паром в качестве вторичного источника питания. Одноблочные генераторы будут использовать топливо только если механизмы нуждаются в энергии.\n\nЧтобы извлечь креозот из ваших коксовых печей, можно использовать ведра или ячейки, если хотите делать это вручную, сливать креозот с помощью Faucet из TiCon в жидкостные трубы, или выкачивать его используя электрический насос из квеста Ты будешь ненавидеть это # 2.\n\n\nЕсли вы хотите использовать этот генератор не просто как потребитель лишнего креозота, советую Light fuel - его очень легко сделать, и оно выдает довольно много энергии",
+		"eng_name": "§5§lExploding Fluids For Power",
+		"eng_desc": "You probably collected a ton of creosote and maybe even have built your first ELECTRIC blast furnace. Creosote will be a good fuel for the moment. So try to build a few of the combustion generators and use them besides steam as a secondary power source. Small generators will only use fuel if there is EU demand.\n\nTo extract the creosote from your coke ovens, you can use buckets or cells to do it by hand, or the TiCon faucet into GT fluid pipes, or an electric pump cover from You're Going to Hate This #2.\n\n\nLight Fuel is really easy to make, so that's probably the best for now. You can also use it for Creosote, but the fuel efficiency is terrible."
+	},
+	"533:10": {
+		"ru_name": "§4§5§lВодород, метан или природный газ",
+		"ru_desc": "Некоторые центробежные процессы оставляют за собой такие газы как водород и метан. Бросьте в центрифугу немного коричневого и желтого лимонита, чтобы получить водород, или лишнюю пищу, чтобы получить метан. Дерево даст 60 mb метана за штуку. Может быть, пришло время построить ферму дерева из Forestry? Вы так же можете начать перерабатывать нефть в Refinery gas или Naphta для сжигания в этом генераторе.\n\nГазовые турбины производят такое же количество загрязнения как и генераторы внутреннего сгорания, но топливо для них, как правило, не такое эффективное. Какой источник питания использовать - зависит от вас.",
+		"eng_name": "§4§5§lHydrogen, methane or some farts... (Natural gas) ",
+		"eng_desc": "Some centrifugal processes leave gases behind like hydrogen or methane. Centrifuge some brown and yellow limonite to get hydrogen or dump your unused food in a centrifuge to get methane gas. Wood will even give 60 mb per log. Maybe it's time to build a forestry tree farm. Or you can start refining oil into refinery gas or naphtha to burn.\n\nGas turbines produce half the pollution of combusion generators, but their fuels are generally not as efficient. The choice is up to you which power source you use."
+	},
+	"534:10": {
+		"ru_name": "§4§3§lЗагрязнение чего ....?",
+		"ru_desc": "Если вы долго будете держать bricked blast furnace включенной, вы иногда будете ощущать головные боли, тошноту и другие странные эффекты. Да, это загрязнение ... от переплавки такого большого количества стали. Если вы можете собрать несколько резиновых листов, я обменяю вам их на полный костюм химзащиты.",
+		"eng_name": "§4§3§lPollution what....?",
+		"eng_desc": "If you are running your bricked blast furnace for a long time you will sometimes get headaches, nausea and other weird effects. Yes this is pollution... from making so much steel. If you can collect some rubber sheets, I will trade you a complete hazmat suit."
+	},
+	"535:10": {
+		"ru_name": "§1§2§lОбработка редстоуна в начале игры",
+		"ru_desc": "Вам интересно как обработать редстоун руду без мацератора? Ну, вы можете сломать её своим Gregtech молотом и получить измельченную руду. Затем положите молот и измельченную руду в окно крафта, чтобы получить impure redstone dust. После этого заполните котел водой и бросьте в него пыль - Ctrl-Q выбросит целый стек. Так же вам понадобится железное ведро, так как глиняное не подходит для этой задачи. Таким образом вы получите чистый редстоун для красного сплава.",
+		"eng_name": "§1§2§lRedstone, early game processing",
+		"eng_desc": "Are you wondering how to process redstone without a macerator? Well you can mine it with a gregtech hammer (you can place the ore you got back down to do this) and get the crushed ore. Then use the hammer in the crafting table to get some impure redstone dust. After this, fill a cauldron with water and drop the dust in it - CTRL-Q drops a whole stack but you will need a new iron bucket as the fired clay bucket just isnt fit for the task. You will get pure redstone dust for your red alloy ingots."
+	},
+	"536:10": {
+		"ru_name": "§3§lНачальные провода",
+		"ru_desc": "§3§lНачальные провода, из красного сплава и олова, например, могут быть сделаны в столе для крафта. Для медных проводов понадобится alloy smelter. Итак, давайте сделаем форму для резиновых пластин.",
+		"eng_name": "§3§lLow tier wires",
+		"eng_desc": "Low tier wires like red alloy and tin can be made in a crafting table. Copper wire requires an alloy smelter. So let's make a mold for the rubber plates."
+	},
+	"537:10": {
+		"ru_name": "Время убивать (ведьм)",
+		"ru_desc": "Ведьмы всегда инфернальные и очень опасные. Они бросают у вас зелья, так что будьте осторожны.",
+		"eng_name": "Time to kill (Witch)",
+		"eng_desc": "Witches bring stitches because they are always infernal and very dangerous. Be careful since they throw potions at you."
+	},
+	"538:10": {
+		"ru_name": "§5§lБазовая рудопромывочная машина",
+		"ru_desc": "Дробление руд обычно удваивает выход ресурсов. Если вы хотите ещё больше, сделайте рудопромывочную машину и вымыйте редкие материалы из измельченной руды.",
+		"eng_name": "§5§lBasic ore washer",
+		"eng_desc": "Macerating ores usually doubles the output. If you want MOOOOOOORE, craft an ore washer and wash out some rare materials."
+	},
+	"539:10": {
+		"ru_name": "§5§lКарусель, карусель ...",
+		"ru_desc": "После очистки вашей руды вы можете бросить её в центрифугу, чтобы получить еще больше побочных продуктов.",
+		"eng_name": "§5§lRound and round and round...",
+		"eng_desc": "After purification of your ore dust, you can centrifuge it to get even more byproducts out of the dust."
+	},
+	"540:10": {
+		"ru_name": "§5§lКрайне осторое лезвие для пилы",
+		"ru_desc": "Скомбинируйте кобальтовую латунь и алмазную пыль чтобы получить крайне острое лезвие для cutting machine.",
+		"eng_name": "§5§lA truly sharp saw blade",
+		"eng_desc": "Combining cobalt brass and diamond dust makes a really sharp saw blade for your cutting machine."
+	},
+	"541:10": {
+		"ru_name": "§5§lНовый сплав - кобальтовая латунь",
+		"ru_desc": "Если вы хотите резать алмазные блоки на пластины, то пришло время получить новый сплав - «кобальтовая латунь».\nСначала вам нужно сделать латунь из цинка (можно найти только в небольших рудах в Overworld, в адском сфалерите или в качестве побочного продукта центрифугирования олова или тетраэдрита) и меди. Смешайте его с алюминиевой и кобальтовой пылью (можно центрифугировать из различных материалов), чтобы получить пыль кобальтовой латуни.\n\nРаз вы зашли так далеко, мы думаем, что вы сможете посмотреть нужные вам руды с помощью NEI.",
+		"eng_name": "§5§lA new alloy - Cobalt Brass",
+		"eng_desc": "If you want to cut diamond blocks into plates, it's time to get a new alloy 'cobalt brass'.\nFirst you need to make brass out of zinc (only found in small ores in the Overworld, in Nether Sphalerite, or as a centrifuge byproduct from tin or tetrahedrite) and copper. Mix it with aluminium and cobalt dust (can be centrifuged from various materials) to get the cobalt brass dust.\n\nNow that you have come this far, we think that you are able to look up the ores that you need by yourself with the help of NEI."
+	},
+	"542:10": {
+		"ru_name": "В§5В§lЭлектрическая сепарация пыли",
+		"ru_desc": "Используя силу электричества, можно получить еще больше ресурсов из пыли. Каким-то образом. Без катализаторов, электролитов и прочего. Слушай, не спрашивай меня, как это работает, это просто работает, хорошо?",
+		"eng_name": "В§5В§lElectrically Separating Dusts",
+		"eng_desc": "Using the power of electricity you can get even more out of your dusts. Somehow. With no catalysts, electrolytes, or anything. Look, don't ask me how it works, it just does, ok?"
+	},
+	"543:10": {
+		"ru_name": "§5§lC9H8O4 ... NaCl ... H2O ...",
+		"ru_desc": "Хотите сделать Cetane-Boosted дизель, пластик или химические красители? Значит пришло время делать химический реактор.\n\nПодсказка: Вы можете использовать слот батареи и другой дополнительный слот в графическом интерфейсе для хранения неиспользуемых схем.",
+		"eng_name": "§5§lC9H8O4...NaCl...H2O...",
+		"eng_desc": "Want to make some cetane-boosted diesel, plastic or some chemical dyes? Then it's time to craft a chemical reactor.\n\n§4Hint: You can use the battery slot and other extra slot in the GUI to store unused configuration circuits."
+	},
+	"544:10": {
+		"ru_name": "§5§lЭлектрический компрессор",
+		"ru_desc": "Настоятельно рекомендуем сделать себе электрический компрессор, так как намного эффективнее использовать EU для сжатия чем пар.",
+		"eng_name": "§5§lCompact? Or is it?",
+		"eng_desc": "It is a compressor but that doesn't mean it is compact... \n\n§4Hint:\nIt is highly recommended to get one of these electric compressors, as the efficiency in terms of coal/steam used to compress something is a lot better when using EU."
+	},
+	"545:10": {
+		"ru_name": "§3§5§lВсасывание ... приятно",
+		"ru_desc": "Я надеюсь, что вы не думаете о том, что думаю я, о чем думаете вы ...\n\nПодсказка:\nНастоятельно рекомендуем сделать себе электрический экстрактор, так как намного эффективнее использовать EU для его экстракции чем пар.",
+		"eng_name": "§3§5§lSuction device... nice",
+		"eng_desc": "I hope you are not thinking about what I am thinking you are thinking about... \n\nHint:\nIt is highly recommended to get one of these, as the efficiency in terms of coal/steam used to extracting something is a lot better when using EU."
+	},
+	"546:10": {
+		"ru_name": "§5§lЗдравствуйте, барон, как ваше черное золото сегодня?",
+		"ru_desc": "Во время ваших путешествий вы могли видеть большие нефтяные гейзеры. Пришло время сделать помпу и выкачать это черное золото к себе в хранилище. Нефть можно сжигать сразу в генераторе внутреннего сгорания (прямо на месте, чтобы запитать помпу например?), или же переработать, получив при этом более эффективное топливо и побочные ресурсы.\n\nВозьмите с собой Генератор внутреннего сгорания или же буффер с батарейками для запитывания помпы. Помпа может автоматически выводить жидкость наверх.\nУстановка нескольких насосов один над другим сделает их быстрее, в этом случае нефть надо забирать из нижней части вышки с помощью насоса.\n\nЧем выше нефтяной гейзер, тем больше под ним нефти, но LV помпу лучше ставить над невысокими гейзерами, поскольку ей не хватит радиуса действия для выкачки всей скважины. Поэтому оставьте высокие гейзеры для MV помпы.\n\nБуровые трубы необходимы для выкачки нефти. Как только они упрутся в какой-либо блок, и рядом не будет жидкостей которые можно выкачать, они начнут подниматься обратно. Тоже самое произойдет если ударить помпу киянкой. Радиус действия помпы можно регулировать отверткой.\n\nЭто GT машина, поэтому не забывайте укрыть её (и её источник энергии!) от дождя со всех сторон. И установите точку с помощью Journeymaps, чтобы вы не забыли, где вы её поставили!",
+		"eng_name": "§5§lHello Baron, how is your black gold today?",
+		"eng_desc": "During your travels you may have seen some of these huge oil spouts. Now it's time to go make a pump and put this black gold into tanks. Oil can be burned directly in a combustion generator or be refined for better fuels and crafting materials. \nMining pipes are needed for pumping the oil.\n\nBring a combustion generator with you to power the pump. Thanks to the advancement of technology the pumping machine can auto output on top.\n\nStacking multiple pumps makes them work faster. In that case, oil has to be removed from the bottom of the stack using a pump cover.\n\nTaller spouts have more oil! But for the LV pump, it is better to use the short spouts since it doesn't have much range. Save the taller spouts for MV pumps. \n\nThese are GT machines, so remember to protect them (and their power sources!) from rain on any side. And set a waypoint with Journeymaps so you don't forget where you placed it!"
+	},
+	"547:10": {
+		"ru_name": "§5§lВаша нефть слишком сырая? Очистите её!",
+		"ru_desc": "Сжигать нефть в генераторе является очень неэффективным способом получения энергии. Каждое ведро / ячейка нефти дает вам 20 000 EU. Пришло время попытаться очистить её ...",
+		"eng_name": "§5§lYour oil is too Crude? Refine it!",
+		"eng_desc": "Burning oil in the combustion generator is a very inefficient way of producing power. Every bucket/cell of oil only gives you 20,000 EU. Time to try and refine it..."
+	},
+	"548:10": {
+		"ru_name": "§5§lЛегкое серное топливо",
+		"ru_desc": "Первый шаг - это дистиллировать нефть в легкое серное топливо, которое выдает 40 000 EU за ячейку.",
+		"eng_name": "§5§lLight Sulfuric Fuel",
+		"eng_desc": "The first step is to distill your oil into light sulfuric fuel, that has a burn value of 40,000 EU."
+	},
+	"549:10": {
+		"ru_name": "§5§lЛегкое топливо",
+		"ru_desc": "Смешивая водород и легкое серное топливо в химическом реакторе, вы получите легкое топливо, которое выдает целых 305,000 EU за ячейку.\n\nОставшиеся ячейки сероводорода могут быть использованы позже для получения серной кислоты для TNT/iTNT или или кислотных батарей.\n\nВ MV тире вы можете сделать дизель из легкого и тяжелого топлива.",
+		"eng_name": "§5§lLight fuel",
+		"eng_desc": "By adding hydrogen to sulfuric light fuel in a chemical reactor you can produce some light fuel with the very high burn value of 305,000 EU.\n\nThe remaining hydrogen sulfide cells can be used later to produce some sulfuric acid for your TNT/iTNT or acid batteries.\n\nIn MV age you can make diesel out of light and heavy fuel."
+	},
+	"550:10": {
+		"ru_name": "§5§lH, значит водород... Остальной алфавит слишком сложный...",
+		"ru_desc": "Бросьте в центрифугу немного коричневого или желтого лимонита, чтобы получить водород, или же электролизируйте воду чтобы получать водород из жидкости",
+		"eng_name": "§5§lH like Hydrogen... rest of the alphabet is too complicated...",
+		"eng_desc": "Centrifuge some brown or yellow limonite dust to get some hydrogen, or use an Electrolyser with some water to produce it in a fluid form."
+	},
+	"551:10": {
+		"ru_name": "§5§lТяжелое серное топливо",
+		"ru_desc": "Второй шаг - это дистиллировать нефть в тяжелое серное топливо, которое выдает 40 000 EU за ячейку.",
+		"eng_name": "§5§lHeavy Sulfuric fuel",
+		"eng_desc": "The second step is to distill your oil into heavy sulfuric fuel, that has a burn value of 40,000 EU."
+	},
+	"552:10": {
+		"ru_name": "§5§lТяжелое топливо",
+		"ru_desc": "Смешивая водород и тяжелое серное топливо в химическом реакторе, вы получите тяжелое топливо которое выдает 240,000 EU за ячейку.\n\nОставшиеся ячейки сероводорода могут быть использованы позже для получения серной кислоты для TNT/iTNT или или кислотных батарей.\n\nВ MV тире вы можете сделать дизель из легкого и тяжелого топлива.",
+		"eng_name": "§5§lHeavy fuel",
+		"eng_desc": "By adding hydrogen to sulfuric heavy fuel in a chemical reactor you can produce some heavy fuel with the burn value of 240,000 EU.\n\nThe remaining hydrogen sulfide cells can be used later to produce some sulfuric acid for your TNT/iTNT or acid batteries.\n\nIn MV age you can make diesel out of heavy and light fuel."
+	},
+	"553:10": {
+		"ru_name": "§6§lДизель",
+		"ru_desc": "Смешивая легкое и тяжелое топливо в MV миксере вы получите дизель. Дизель очень хорошо горит в генераторе внутреннего сгорания, выдавая 480 000 EU на ячейку.",
+		"eng_name": "§6§lDiesel fuel",
+		"eng_desc": "Mixing your light and heavy fuel together gives you some diesel. You need the MV mixer for it. It burns very well in the combustion generator with a burn value of 480,000 EU per cell."
+	},
+	"554:10": {
+		"ru_name": "§5§lМиксер",
+		"ru_desc": "Миксер - это очень полезное устройство, в нем вы сможете смешивать разнообразные жидкости и предметы. Более того, большинство рецептов в миксере дают бонус по сравнению с ручным крафтом!\n\nПодсказка: Вы можете использовать слот батареи и второй дополнительный слот в графическом интерфейсе для хранения неиспользуемых схем.",
+		"eng_name": "§5§lHey DJ, Mix it!",
+		"eng_desc": "The mixer is a very useful device. You can mix all kinds of fluids and items. Useful to prevent dust from falling to the ground when crafting - most mixer recipes give a slight boost over hand crafting!\n\n§4Hint: You can use the battery slot and other extra slot in the GUI to store unused configuration circuits."
+	},
+	"555:10": {
+		"ru_name": "§5§lN, значит азот",
+		"ru_desc": "Вы можете получить азот центрифугируя... воздух. Этот процесс занимает много времени, особенно на LV тире.",
+		"eng_name": "§5§lN like nitrogen... Hide, alphabet strikes again!",
+		"eng_desc": "You can get some nitrogen by centrifuging... air. This process takes a long time, especially at the LV tier."
+	},
+	"556:10": {
+		"ru_name": "§6§lТринитрат глицерина",
+		"ru_desc": "Дети, сегодня мы сделаем тринитрат глицерина (aka нитроглицерин).\n    - Химия 101.",
+		"eng_name": "§6§lGlyceryl trini...... what?",
+		"eng_desc": "Kids, today we will make some glyceryl trinitrate (aka Nitroglycerin) with some glycerol.\n    - Chemistry 101"
+	},
+	"557:10": {
+		"ru_name": "§9§lНитро!(Cetane-Boosted Diesel)",
+		"ru_desc": "720,000 EU на ячейку. Да, да, это очень круто! Сделайте Cetane-Boosted Diesel и запитайте им двигатель внутреннего сгорания.",
+		"eng_name": "§9§lNITRO! (Cetane-boosted diesel)",
+		"eng_desc": "720,000 EU per cell. Yes, yes, this is very good! Make some cetane-boosted diesel fuel and power your Combustion Engine with it."
+	},
+	"558:10": {
+		"ru_name": "В§3В§lКак мне носить все эти предметы?",
+		"ru_desc": "После того, как вы сделаете свою первую сталь, вы сможете изготовить маленький рюкзак. В этот рюкзак можно положить много из тех вещей которые полезно иметь под рукой. С его 36 слотами он немного больше, чем сундук. Позже вы сможете улучшить свой рюкзак и сделать его больше. Вы можете надеть его на спину и настроить на автоматический сбор вещей. \n\nВ§4В настройках управления найдите раздел \"Backpacks\" и в нем кнопку \"Open Backpacks\" и переназначьте её на новую клавишу.\n\nПривязка клавиш работает только после добавления рюкзака в слот спины, что можно сделать с помощью Shift+<Кнопка открытия рюкзака>.\n\nВ§4Максимум можно иметь 4 рюкзака в инвентаре одновременно.",
+		"eng_name": "В§3В§lHow Can I Carry All These Items?",
+		"eng_desc": "After you make your first steel you're able to craft the small backpack. In this bag you can put a lot of the stuff you want to carry around. With 36 slots it's a bit bigger than a small chest. Later you can make it even larger. You can put one on your back and set it to automatically pick up stuff. \n\nВ§4Check out the \"Backpacks\" control configuration \"Open Backpacks\" and remap it to a new key.\n\nThe key binding only works after the backpack is added to the back slot, which can be done using Shift+<Open Backpacks Key>.\n\nВ§4The maximum you can have in your inventory at once is 4."
+	},
+	"559:10": {
+		"ru_name": "§6§lКотёл низкого давления",
+		"ru_desc": "Котёл низкого давления - самый простой способ для хранения пара. Его надо устанавливать над камерой сгорания чтобы производить пар. Чем больше бойлер, тем медленнее его нагревается, но в то же время он будет производить больше пара.\n\nПар можно извлечь прикрепив трубу непосредственно к котлу.",
+		"eng_name": "§6§lLow pressure boiler tank",
+		"eng_desc": "The low pressure boiler tank is the easiest way to store steam. The firebox needs this tank on top to produce steam. The bigger the boiler the slower it heats up, but it will produce more steam when heated up.\n\nExtract steam by attaching a pipe to the boiler tank."
+	},
+	"560:10": {
+		"ru_name": "§6§lПаровая энергия из Railcraft",
+		"ru_desc": "Вы можете использовать бойлеры из railcraft как альтернативный способ получать пар. Им требуется хотя бы одна камера сгорания.\nУ них есть несколько возможных размеров: (1x1 который вам предлагают сделать в этом квесте) 2x2 и 3x3.\n\nБойлер нуждается в воде и угле. Убедитесь что вода не закончится, или... БА-БАХ!.\n\nКаждый котел нуждается в 1, 2 или 3 слоях котлов сверху, равным основанию (1x1x1, 2x2x2 или 3x3x3).",
+		"eng_name": "§6§lRailcraft steam power",
+		"eng_desc": "As an alternative way to make steam you can use the railcraft boilers. They require at least one firebox.\nMore than one size is possible: (1x1 mentioned above) 2x2 and 3x3. \n\nProvide water and coal to the firebox. Make sure you don't run out of water or...BOOM.\n\nEach boiler needs 1, 2 or 3 layers of tanks on top, equal to the size (1x1x1, 2x2x2, or 3x3x3)."
+	},
+	"561:10": {
+		"ru_name": "§6§lЖидкотопливный бойлер",
+		"ru_desc": "Креозот в пар! После того, как вы сделаете свою первую сталь, вы сможете создать жидкотопливный бойлер.\nДизель, этанол, креозот и биодизель отлично подойдут для него.",
+		"eng_name": "§6§lLiquid fuelled firebox",
+		"eng_desc": "Cresosote oil into steam! After you make your first steel you are able to craft a liquid fueled firebox.\nDiesel, ethanol, creosote and biodiesel all work well here."
+	},
+	"562:10": {
+		"ru_name": "§6§lКотёл высокого давления",
+		"ru_desc": "После того, как вы сделаете сталь, вы сможете создать котёл высокого давления. Обновленная версия имеет температуру выше и производит больше пара, чем версия с низким давления. Он долго разогревается, поэтому не забывайте подбрасывать уголь!\n\nПар можно извлечь прикрепив трубу непосредственно к котлу.",
+		"eng_name": "§6§lHigh pressure boiler tank",
+		"eng_desc": "After you make steel you are able to craft a high pressure boiler tank. The upgraded version increases the temperature and produces more steam than the low pressure version. It will take longer to warm up, so make sure to keep it well fed!\n\nExtract steam by attaching a pipe to the boiler tank."
+	},
+	"563:10": {
+		"ru_name": "§3§lКнижные полки ...? Ах лесное хозяйство ... Multiblock Farms!",
+		"ru_desc": "Книжная полка может быть сделана только с древесными планками, которые сделаны в компрессоре. Возможно, кто-то думает, что это немного сумасшедший ...\n\nЭто разблокирует лесного хозяйства, отличный инструмент для того, чтобы сохранить вашу ремеслецию от вождения вас безумно.",
+		"eng_name": "§3§lBookshelves...? Ah forestry... Multiblock farms!",
+		"eng_desc": "The bookshelf can only be made with wood planks, which are made in a compressor. Perhaps someone thinks this is a bit crazy...\n\n§4This will unlock the Forestry Worktable, a great tool for keeping your crafting from driving you insane."
+	},
+	"564:10": {
+		"ru_name": "Лесной базовый> продвинутый",
+		"ru_desc": "Три основных лесника лотереобогов дают лучшую = продвинутые лесники лотбаг.",
+		"eng_name": "Forestry Basic > Advanced",
+		"eng_desc": "Three basic foresters lootbags give a better one = Advanced Foresters Lootbag."
+	},
+	"565:10": {
+		"ru_name": "Лесной идущий> Эксперт",
+		"ru_desc": "Три продвинутых лесников лотбоксов дают лучшую = экспертные лесники лотбаг.",
+		"eng_name": "Forestry Advanced > Expert",
+		"eng_desc": "Three advanced foresters lootbags give a better one = Expert Foresters Lootbag."
+	},
+	"566:10": {
+		"ru_name": "Космические захватчики Луна> Космические захватчики Марс",
+		"ru_desc": "Три космических захватчиков Moon Lootbags дают лучшую = космические захватчики Mars Lootbag.",
+		"eng_name": "Space Invaders Moon > Space Invaders Mars",
+		"eng_desc": "Three space invaders Moon lootbags give a better one = Space Invaders Mars Lootbag."
+	},
+	"567:10": {
+		"ru_name": "Космические захватчики Марс> Космические захватчики Астероиды",
+		"ru_desc": "Три космических захватчиков Mars Lootbags дают лучшую = космические захватчики астероиды лотбаг.",
+		"eng_name": "Space Invaders Mars > Space Invaders Asteroids",
+		"eng_desc": "Three space invaders Mars lootbags give a better one = Space Invaders Asteroids Lootbag."
+	},
+	"568:10": {
+		"ru_name": "Новичок> Адепт",
+		"ru_desc": "Три новичка лот-мешки дают лучший = Adept Lootbag.",
+		"eng_name": "Novice > Adept",
+		"eng_desc": "Three novice lootbags give a better one = Adept Lootbag."
+	},
+	"569:10": {
+		"ru_name": "Адепт> Мастер",
+		"ru_desc": "Три адепта лот-мешки дают лучшую = Master Lootbag.",
+		"eng_name": "Adept > Master",
+		"eng_desc": "Three adept lootbags give a better one = Master Lootbag."
+	},
+	"570:10": {
+		"ru_name": "Мастер> Бабуштель",
+		"ru_desc": "Три мастера лот-мешки дают лучший = Grashmaster Lootbag.",
+		"eng_name": "Master > Grandmaster",
+		"eng_desc": "Three master lootbags give a better one = Grandmaster Lootbag."
+	},
+	"571:10": {
+		"ru_name": "Гроссмейстер> Бабуштель Уникальный",
+		"ru_desc": "Шестнадцать гроссмейстеров лот-мешки дают лучший = Grashmaster уникальный лотбокс.",
+		"eng_name": "Grandmaster > Grandmaster Unique",
+		"eng_desc": "Sixteen grandmaster lootbags give a better one = Grandmaster Unique Lootbag."
+	},
+	"572:10": {
+		"ru_name": "BM NOWICE> BM ADEPT",
+		"ru_desc": "Три BM Nowice Lootbags дают лучший = BM Adept Lootbag.",
+		"eng_name": "BM Novice > BM Adept",
+		"eng_desc": "Three BM novice lootbags give a better one = BM Adept Lootbag."
+	},
+	"573:10": {
+		"ru_name": "BM Adept> BM Master",
+		"ru_desc": "Три BM Adept Lootbags дают лучший один = BM Master Lootbag.",
+		"eng_name": "BM Adept > BM Master",
+		"eng_desc": "Three BM adept lootbags give a better one = BM Master Lootbag."
+	},
+	"574:10": {
+		"ru_name": "Bee Basic> Advanced",
+		"ru_desc": "Три основных пчела лот-мешки дают лучшую = продвинутую пчела лотере.",
+		"eng_name": "Bee Basic > Advanced",
+		"eng_desc": "Three basic bee lootbags give a better one = Advanced Bee Lootbag."
+	},
+	"575:10": {
+		"ru_name": "Bee Advanced> Expert",
+		"ru_desc": "Три продвинутых пчела лот-мешки дают лучшую = экспертную пчелу лотере.",
+		"eng_name": "Bee Advanced > Expert",
+		"eng_desc": "Three advanced bee lootbags give a better one = Expert Bee Lootbag."
+	},
+	"576:10": {
+		"ru_name": "Верстак 2.0",
+		"ru_desc": "Верстак для ручного крафта который может запомнить последние девять рецептов. Нажмите ЛКМ по рецепту с правой стороны, чтобы автоматически заполнить сетку крафта. Нажмите ПКМ, чтобы запомнить рецепт и защитить его от перезаписи.\n\nРесурсы должны находиться во внутреннем инвентаре, сетка крафта - это только визуальное представление.\n\nРабочий стол лесного хозяйства является супер-полезным, и может уменьшить тедуцию многих общих рабочих мест, потому что вы можете нажать «Перетащите в ряд элементов», и он будет использовать инструменты в собственном инвентаре для продолжения создания.\n\nКонкретно:\nСоздание <item x> с (ведром Y> - поставить все ингредиенты в таблицу, и если рецепт выбран, переключите результат, чтобы построить их все сразу (пока у вас нет)\nСоздание пресной воды для PAM - так же, как указано выше, но нет второго предмета\nИзготовление кирпичей глины - деревянная форма автоматически повторно используется\nДелать все, что использует инструмент - также автоматически повторно используется, в то время как потребляет долговечность",
+		"eng_name": "Working Table 2.0",
+		"eng_desc": "A manual crafting table which remembers the last nine used recipes. Left click one of the recipes shown in the right-hand side to automatically fill in the crafting grid. Right-click to lock a memorized recipe and prevent a newer recipe from bumping it off.\n\nResources need to go into the internal inventory. The crafting matrix is only a visual representation.\n\nThe Forestry worktable is super-useful, and can reduce the tedium of many common jobs because you can click-drag across a row of items, and it will use tools in its own inventory to continue crafting.\n\nSpecifically:\nMaking <Item X> with (Bucket of Y> - Put all the ingredients into the table, and if the recipe is selected, shift click the result to craft them all at once (until you run out)\nMaking fresh water for Pam's - Same as above, but no second item\nMaking clay bricks - The wooden form is automatically reused\nMaking anything that uses a tool - Also automatically reused, while consuming durability"
+	},
+	"577:10": {
+		"ru_name": "Прочный корпус",
+		"ru_desc": "Прочный корпус является основой для почти всех машин в Forestry, по сути являясь эквивалентом machine casing.",
+		"eng_name": "Forestry core block",
+		"eng_desc": "This sturdy casing is the basis for almost all machines in Forestry, essentially being the forestry equivalent of a machine casing."
+	},
+	"578:10": {
+		"ru_name": "Плотник",
+		"ru_desc": "Плотник похож на автоматический верстак, он имеет внутренний инвентарь и слот для хранения для рецептов. Для некоторых рецептов нужны жидкости, например вода, креозот, мед или расплавленный редстоун. С помощью плотника вы можете сделать блоки фермы, рюкзаки, анализаторы и многое другое.\n\nПлотник нуждается в энергии для работы - вы можете подключить его к GT кабелю или к буфферу с батарейками или же сделать RF генераторы из Forestry, Railcraft или Buildcraft.\n\nPS: Да, его сложно автоматизировать, поэтому просто сделайте по одному для каждого нужного вам рецепта.",
+		"eng_name": "The Carpenter",
+		"eng_desc": "The carpenter is similar to an automatic crafting table. It has an item input slot and a storage slot for the recipes. Some recipes need an additional fluid like water, creosote, honey or molten redstone. With the carpenter you can make farmblocks, woven backpacks, bee and tree analysers and many more.\n\nThe carpenter needs power to work. You can use a GT cable or a battery box to connect to the machine or make some forestry, railcraft or buildcraft RF engines.\n\n§3PS: Yes it's a pain in the ass to automate, just make one for each thing you want to make."
+	},
+	"579:10": {
+		"ru_name": "§5§lРасплавленный красник?",
+		"ru_desc": "Как вы могли уже слышать, некоторые рецепты в плотнике нуждаются в жидком редстоуне.\nЧтобы его получить, вам понадобится fluid extractor.",
+		"eng_name": "§5§lMolten redstone?",
+		"eng_desc": "You heard that the carpenter needs some molten redstone for a few recipes. \nConverting redstone dust into a fluid requires a fluid extractor. Let's build one."
+	},
+	"580:10": {
+		"ru_name": "Электроламповый завод",
+		"ru_desc": "Электроламповый завод используется для производства электронных ламп и окрашенного стекла. Для работы он нуждается в Redstone Flux (RF) энергии.\n\nОн также будет вашей первой машиной, сделанной в плотнике. Для работы завода в нём надо поддерживать определенную температуру. Чем больше энергии будет подведено к нему, тем горячее он будет. Если же энергии будет не хватать, он начнет остывать. Завод потребляет энергию всё время, так что отключайте его пока он простаивает.",
+		"eng_name": "Thermionic Fabricator",
+		"eng_desc": "The thermionic fabricator is used to craft electron tubes and stained glass. It requires redstone flux (RF) energy to run.\n\nIt is your first machine made in the carpenter. Once warmed up, it needs to maintain a certain heat level to operate. The amount of power supplied will determine how much heat will be generated. If you do not supply enough power to maintain the current temperature it will slowly drop. It will continuously draw power, so disconnect it if you don't need it."
+	},
+	"581:10": {
+		"ru_name": "Электронные лампы",
+		"ru_desc": "Прежде чем делать первый блок фермы, вам нужно скрафтить апатитовые лампы. Сначала сделайте несколько апатитовых стержней с помощью lathe, затем используйте forge hammer, чтобы изготовить из них длинные апатитовые стержни. Ещё вам понадобятся золотые болты и пластина из красного сплава.\n\nПоложите стекло или песок в электроламповый завод и сделайте свои первые лампы.\n\n§3Дешевле изготавливать лампы в circuit assembler. Напомните, зачем мы заставили вас сделать электроламповый завод?",
+		"eng_name": "A Series of Tubes",
+		"eng_desc": "Before you can craft your first farm block you need apatite tubes. Make some apatite rods first with a lathe, then use a forge hammer to join them into long apatite rods. You need golden bolts and a red alloy plate.\n\nPut some glass or sand into your thermionic fabricator and make your first tubes.\n\n§3You can also use the circuit assembler for a better output. Why did we have you make the TF again?"
+	},
+	"582:10": {
+		"ru_name": "Мультиферма",
+		"ru_desc": "Для самой маленькой возможной фермы требуется 36 блоков фермы (3x4x3 - в то время как самая большая 5x4x5 или же 100 блоков фермы). Поместите базовые блоки, соответствующие созданию типа фермы. В этом случае каменные кирпичи. Он будет искать выше этих блоков для сельскохозяйственных культур, саженцев, грязи, сельхозугодий, что бы она не поддерживает. Вы можете разместить эти блоки рядом или под многоразовой структурой, но не выше.\n\nВы можете использовать режим Orchard для сбора продуктов PAM и продуктов Natura, дендрарий для деревьев и так далее. Вы даже можете смешивать и сопоставлять режимы на одной и той же ферме - журнал и собирать фрукты из деревьев, например. Пока они на разных сторонах, по крайней мере.",
+		"eng_name": "The Multifarm",
+		"eng_desc": "The smallest farm you can build requires 36 farm blocks (3x4x3 - the largest is 5x4x5 or 100 farm blocks). Place the underlying blocks corresponding to the farm type you built. In this case, Stone Bricks. It will search above these blocks for crops, saplings, dirt, farmland, whatever it supports. You can place these blocks beside or under the multi structure, but not above.\n\nYou can use Orchard mode to collect Pam foods and Natura products, Arboretum for trees, and so on. You can even mix and match modes on the same farm - logging and collecting fruit from trees, for example. So long as they're on different sides, at least."
+	},
+	"583:10": {
+		"ru_name": "Логика фермы",
+		"ru_desc": "Эта плата позволяет выбрать тип фермы (в сочетании с правильными электронными лампами), вместо растущих по умолчанию деревьев. Так что если вам нужны именно деревья, он вам не понадобится.\n\nЗа каждый уровень платы вы можете настроить 1/4 площади фермы.",
+		"eng_name": "Farm Logic",
+		"eng_desc": "This chip allows you to select the farm type (when combined with the right electron tubes), and not use the default of growing trees. Unless that's what you want, in which case you don't need it. \n\nFor each circuit tier, you can configure 1/4 more of your farm."
+	},
+	"584:10": {
+		"ru_name": "Изменение конфигурации печатных плат",
+		"ru_desc": "(Лесное хозяйство) Паяльнинг-утюг - это инструмент, используемый для прикрепления электронных трубок к монтажным доскам, чтобы манипулировать тем, как работает электрический двигатель или программировать мультифаррмы, а также модернизировать сжатую или центрифугу. Честно говоря, вы, вероятно, используете его только для многофарма.\n\nПосле того, как электронные трубки были прикреплены к печатной плате, они не могут быть удалены, заменены только. Цветная плата автоматически создана автоматически, как только будет выполнено основные требования рецепта, поэтому лучшее практика для первого размещения электронных трубок, а затем добавить плату.\n\nПаяльное утюг также можно использовать для удаления монтажной платы из электрических двигателей, многорасположенных, сжимающих и центрифуги, открывая графический интерфейс машины и нажав на щелчок с паяльником на слоте платы.",
+		"eng_name": "Changing Your Foresty Circuit Configuration",
+		"eng_desc": "The (forestry) soldering iron is a tool used for attaching electron tubes to circuit boards in order to manipulate how an electrical engine works or to program multifarms, as well as upgrading the squeezer or centrifuge. Honestly, you'll probably only use it for the multifarm though.\n\nOnce electron tubes have been attached to a circuit board they cannot be removed, only replaced. The circuit board is automatically crafted as soon as the basic recipe requirements are met, so it's best practice to first place your electron tubes and then add the circuit board.\n\nThe soldering iron can also be used to remove the circuit board from electrical engines, multifarms, squeezers and centrifuges by opening the machine's GUI and left clicking with the soldering iron on the circuit board slot."
+	},
+	"585:10": {
+		"ru_name": "Нагревательные катушки",
+		"ru_desc": "Ваш электроламповый завод нуждается в нагревательных катушках для работы. Они изготавливаются из стальных стержней (нужен Polarizer) и медной проволоки.\n\n§3Напомните, зачем для этого отдельный квест?",
+		"eng_name": "Heating Coils",
+		"eng_desc": "Your thermionic fabricator needs heating coils to function. So combine some magnetized (requires polariser) steel rods with some copper wire and make some.\n\n§3Why is this a separate quest again?"
+	},
+	"586:10": {
+		"ru_name": "Добро пожаловать в леснику",
+		"ru_desc": "Хотите сделать некоторые автоматизированные фермы или работать с деревом разведения? Хотите лесного хозяйства для легкого доступа к рецепту? Тогда это правильная глава для вас.",
+		"eng_name": "Welcome to Forestry",
+		"eng_desc": "Want to make some automated farms or work with tree breeding? Want the Forestry Worktable for easy recipe access? Then this is the right chapter for you."
+	},
+	"587:10": {
+		"ru_name": "§5§lНамагничивание ваших стержней",
+		"ru_desc": "Для намагниченных стальных стержней нужен Polarizer. Они понадобятся вам позже в MV тире для моторов и катушек",
+		"eng_name": "§5§lMagnetize your rods",
+		"eng_desc": "Magnetic steel rods need a polariser to craft. Make a few for your coils.\nMv Motors need the Polariser so better build them soon."
+	},
+	"588:10": {
+		"ru_name": "Поиски апатита",
+		"ru_desc": "Теперь пришло время поискать руду. Апатит - самый важный материал в Forestry. Из него делаются удобрение, блоки фермы и многое другое. Жила находится на высоте 40-60 блоков.",
+		"eng_name": "Finding Apatite",
+		"eng_desc": "It's now time to search for some ores. Apatite is the most important material in Forestry. You can make fertilizer, farm blocks and many other things. The vein is found between Y level 40-60."
+	},
+	"589:10": {
+		"ru_name": "Мультифарр: люк",
+		"ru_desc": "Вы можете поставлять и извлечь предметы с фермы, используя ферм Люки, которые подключены к трубопроводу.\n\nПоставка предметов\nФерма люк достаточно умна, чтобы знать, какой предмет идет где. Если товар не подходит для конфигурации фермы, люк просто отклонит его.\n\nИзвлечение предметов\nЛюбой предмет, который собирается MULTIFARM, автоматически выброшен фермными люками в запасы или трубы. Трубы могут быть использованы для извлечения с других сторон. Вам может понадобиться более одного или лучшего конвейера, если он не добивается достаточно быстро для вас.",
+		"eng_name": "Multifarm: Hatch",
+		"eng_desc": "You can supply and extract items from the farm by using farm hatches that are connected to pipe systems. \n\nSupplying items\nThe farm hatch is clever enough to know which item goes where. If an item isn't appropriate for the farm's configuration, the hatch will simply reject it.\n\nExtracting items\nAny item that is harvested by the Multifarm is automatically ejected by the farm hatches into inventories or pipes. Pipes can be used to extract from other sides. You may need more than one, or a better conveyor if it isn't extracting fast enough for you."
+	},
+	"590:10": {
+		"ru_name": "MultiFarm: клапан",
+		"ru_desc": "Большинство фермерских хозяйств требуют воды для увлажнения. Хотя вы можете сделать это вручную, поставляя его через жидкие контейнеры (например, банки), вы также можете автоматизировать процесс с помощью фермерских клапанов.\n\nПодключив жидкие трубы в фермерский клапан и питание воды, вы можете автоматически заполнить резервуар для воды фермы.\n\nЕсли он не дождь некоторое время, требуемая вода будет подняться, до 1500%. Используйте Everfull Urn, или резервуар (Rio) для серьезных потребностей воды.",
+		"eng_name": "Multifarm: Valve",
+		"eng_desc": "Most farms require water for hydration purposes. Although you can do it manually by supplying it through liquid containers (such as cans), you can also automate the process by using farm valves.\n\nBy connecting fluid pipes into the farm valve and supplying water, you can automatically fill the farm's water tank.\n\nIf it hasn't rained for a while, the required water will go up, up to 1500%. Use an Everfull Urn, or Reservoir (RIO) for serious water needs."
+	},
+	"591:10": {
+		"ru_name": "MultiFarm: Control.",
+		"ru_desc": "Вы можете управлять, какие поля вашей фермы работают, применяя сигнал Redstone на блок управления. Вы можете либо выключить всю ферму, нанесение красного сигнала сверху или ниже, или вы можете отключить определенную сторону, применив сигнал красного камня на соответствующей стороне блока управления.",
+		"eng_name": "Multifarm: Control",
+		"eng_desc": "You can control which fields of your farm work by applying a redstone signal to the control block. You can either shut down the whole farm by applying a redstone signal from top or below or you can disable a specific side by applying a redstone signal on the matching side of the control block."
+	},
+	"592:10": {
+		"ru_name": "MultiFarm: коробка передач",
+		"ru_desc": "Чтобы включить вашу ферму и иметь его автоматически сбора урожая культур, вам понадобится хотя бы одна фермерская коробка передач для питания. Вы можете использовать RF или EU. Если вы используете ЕС, обязательно используйте кабель для преобразования. Ферма Операции можно поспешить с дополнительными редукторами.\n\nТестирование показало, что расщепление AMPS до 4 коробки передач (4A ULV) работает лучше, чем отправка 1a LV до 4 редукторов.\n\nMax Size Convect Crow Crop (5x4x5) с использованием всего пространства возможна с помощью Max Sete Seeds (31/31/0) на быстрых культурных потребностей только 6А ульва, чтобы продолжать встать.\n\nТочно так же небольшая ферма размером Max (3x4x3) с использованием всего пространства возможна с максимальной семенами статистика (31/31/0) на высоком уровне, умеренной скорости культивирования требуется только 4А ульва.\n\nОтправка большей мощности на ту же коробку передач не работает. Если он может добраться до максимальной емкости РФ, но ваша ферма не может идти в ногу, отправка большей мощности не поможет, так что добавьте больше редукторов.\n\nКроме того, вы теряете 2 EU из энергоэффективного устройства для каждого A of ULV (то есть только 8 для начала), поэтому он не такой эффективный, как и использование LV или выше. Просто имейте в виду, что более до более редукторов - лучше, чем к тому же.\n\nКонечно, если вы смешиваете свои более медленные культуры с вашими быстрыми, вам не могут потребоваться мин-максимум к этой степени.",
+		"eng_name": "Multifarm: Gearbox",
+		"eng_desc": "To power your farm and have it automatically harvest crops, you will need at least one farm gearbox to supply power. You can use either RF or EU. If you use EU, make sure to use a cable to allow conversion. Farm operations can be hastened with additional gearboxes.\n\nTesting has shown that splitting the amps to 4 gearboxes (4A ULV) works better than sending 1A LV to 4 gearboxes.\n\nA max sized IC2 Crop farm (5x4x5) using all space possible with max stat seeds (31/31/0) on a fast crop needs only 6A ULV to keep up.\n\nSimilarly, a max sized small farm (3x4x3) using all space possible with max stat seeds (31/31/0) on a high tier, moderate speed crop needs only 4A ULV.\n\nSending more power to the same gearbox doesn't work. If it can get to max RF capacity but your farm can't keep up, sending more power won't help, so add more gearboxes.\n\nIn addition, you lose 2 EU from the the energy emitting device for every A of ULV (which is only 8 to begin with), so it's not nearly as efficient as using LV or higher. Just keep in mind that more A to more gearboxes is better than to the same one.\n\nOf course, if you mix your slower crops with your faster ones, you aren't likely to need to min-max to this extent."
+	},
+	"593:10": {
+		"ru_name": "Продвинутая логика фермы",
+		"ru_desc": "Эта плата позволяет настроить 2/4 площади вашей фермы.",
+		"eng_name": "Enhanced Farm Logic",
+		"eng_desc": "This circuit allows you to configure 2/4 areas of your farm."
+	},
+	"594:10": {
+		"ru_name": "Усовершенствованная логика фермы",
+		"ru_desc": "Эта плата позволяет настроить 3/4 площади вашей фермы.",
+		"eng_name": "Refined Farm Logic",
+		"eng_desc": "This circuit allows you to configure 3/4 areas of your farm."
+	},
+	"595:10": {
+		"ru_name": "Усложнённая логика фермы",
+		"ru_desc": "Эта плата позволяет настроить всю площадь вашей фермы. Честно говоря, просто пропустите все остальные и сделайте сразу эту.",
+		"eng_name": "Intricate Farm Logic",
+		"eng_desc": "This circuit allows you to configure 4/4 areas of your farm. Honestly, there's a decent chance you'll just skip the others."
+	},
+	"596:10": {
+		"ru_name": "§3§k§l§1§2§3§lОбновление модернизации ...",
+		"ru_desc": "Пришло время обновить ваши инструменты и разблокировать Redstone и Obsidian уровни добычи.\n\nПомните, что новые обухи начинают с уровнем добычи на один ниже, поэтому вам придётся покопать чтобы сделать их нормальными. Вскопайте гору, что ли.",
+		"eng_name": "§3§k§l§1§2§3§lUpgrade of the upgrade of the...",
+		"eng_desc": "It's upgrade time. Unlock redstone and obsidian level for your different tools.\n\nRemember, a fresh tool head starts at one level below.  So you'll need to use it enough to level it up before you can mine at the proper level. Go strip-mine a mountain or something."
+	},
+	"597:10": {
+		"ru_name": "§5§lТетраэдрит, антимонит и медь",
+		"ru_desc": "Может быть, вам интересно, для чего нужен тетраэдрит или антимонит. Что ж, в центрифуге из них можно получить сурьму, которая очень полезна для батареек в LV тире. Батареи хранят энергию, и благодаря им отключение и перепады генерации тока не будут так заметны.\nЖилы можно найти на высоте 80-120 блоков.",
+		"eng_name": "§5§lTetrahedrite, stibnite and copper",
+		"eng_desc": "Maybe you are wondering why you need tetrahedrite or stibnite. Well, antimony can be centrifuged out of it which is very useful for batteries in the LV Age.\nThe veins can be found between Y level 80-120."
+	},
+	"598:10": {
+		"ru_name": "§5§lСурьма",
+		"ru_desc": "Наиболее эффективный способ получить сурьму для батарей, состоит в том, чтобы пропустить антимонит через BBF или EBF, сжигая примеси (серу). Если хотите сохранить серу, прогоните антимонит через центрифугу. А вот если вы совсем в отчаянии, закиньте в центрифугу тетраэдрит.",
+		"eng_name": "§5§lAntimony",
+		"eng_desc": "The most efficient way to get antimony for batteries is to run stibnite through a BBF or EBF, burning off the impurities (sulfur), and giving you more antimony. You can also centrifuge it if you want to keep the sulfur. You can also centrifuge tetrahedrite dust if you're desperate."
+	},
+	"599:10": {
+		"ru_name": "§5§lТермальная центрифуга",
+		"ru_desc": "Машина для получения побочных продуктов из дробленной и очищенной руды. Эта машина станет очень полезной когда у вас появятся ядерные реакторы для переработки отработанных топливных стержней. Так же она полезна для получения галлия из дробленной цинковой руды. Галлий в свою очередь нужен для производства MV схем.\nПозже вы можете получить галлий из центрифугированного сфалерита во втором слоте мацератора.\nЕсли вы не можете сгенерировать 2 LV ампера для этой машины прямо сейчас, доберитесь до MV тира и используйте трансформатор для питания LV версии.",
+		"eng_name": "§5§lThermal centrifuge",
+		"eng_desc": "A machine to get different byproducts out of your crushed and purified ore dust. This machine becomes very useful when you have reactors and want to recycle your depleted fuel rods. It's useful for tiny piles of Gallium out of crushed Zinc Ore for your Diodes needed in good circuits.\nLater on you can get Gallium out of centrifuged Sphalerite in the second macerator slot.\nIf you can't produce the 2A of LV power for this machine right now, wait until you get to MV and use transformers to power an LV version."
+	},
+	"600:10": {
+		"ru_name": "Больше никакого голода",
+		"ru_desc": "Голод постоянно вас преследует, поглощая вас, никогда не позволяя вам отдохнуть. Мир вокруг вас полон питательных фруктов, овощей и готовых блюд. Используйте их для обуздания вашего ненасытного голода.",
+		"eng_name": "Hunger, no more",
+		"eng_desc": "The hunger is constantly following you, consuming you, never letting you rest. The world around you is full of nourishing fruits, vegetables and crafted meals. Use them to curb your insatiable hunger."
+	},
+	"601:10": {
+		"ru_name": "Делаем строительство простым",
+		"ru_desc": "Ставить блоки вручную, особенно в больших количествах, утомляет. Было бы неплохо ставить их сразу по 16 за раз, не так ли? Что ж, у меня для вас хорошие новости: сделайте все эти декоративные блоки, а в замен получите жезл строителя.",
+		"eng_name": "Building made easy",
+		"eng_desc": "Placing blocks by hand can be tedious. Wouldn't it be nice to be able to place blocks like \"Another 9 here\"? Well, good news. Get yourself some of the various building blocks, and I shall reward you with something nice."
+	},
+	"602:10": {
+		"ru_name": "Пространственные искажения",
+		"ru_desc": "Вы ощущаете странные волнения в воздухе вокруг Эндерменов. Предлагаю забрать у них Жемчуги Эндера и исследовать их.",
+		"eng_name": "Spatial Distortions",
+		"eng_desc": "You detected a weird disturbance in the air around an enderman. I suggest you try to steal some of their pearls and research them."
+	},
+	"603:10": {
+		"ru_name": "Сундук Края",
+		"ru_desc": "Вы слышали слухи, что Эндермена построили лаборатории в конце. Изобретать новые машины и оружие, чтобы атаковать чрезмерный мир. Одним из их изобретений является грудь, который как-то связан со всеми случаями самого. Иди и постарайся найти одного из них.",
+		"eng_name": "Dimensional chest",
+		"eng_desc": "You've heard rumors, that the endermen had built laboratories in the End. To invent new machines and weapons in order to attack the Overworld. One of their inventions is a chest, which is somehow linked to all instances of itself. Go and try to find one of those."
+	},
+	"604:10": {
+		"ru_name": "§6§lRF батареи",
+		"ru_desc": "Базовые блоки конденсаторов хранят генерируемую вами RF энергию. Вы можете поставить несколько блоков рядом для увеличения ёмкости - они все объединятся в одну батарею.\n\nВы также можете изменить режим каждой стороны этого блока, используя кусачки или гаечный ключ вместо графического интерфейса. Один из режимов красиво отображает входную/выходную энергию, но для этого высота блоков с этим режимом должна быть больше чем ширина.\n\nОни отлично подходят для взаимодействия с машинами работающими на RF энергии. GT провода могут конвертировать EU в RF, но часть энергии будет расходоваться в пустую. При этом именно Enderio машины правильно взаимодействуют с GT проводами, а остальные моды, как Genetics, например - нет.",
+		"eng_name": "§6§lRF Batteries",
+		"eng_desc": "Basic Capacitors are RF batteries which can store the RF power you generate. You can put many blocks together to enlarge your total battery capacity - they will merge into one battery.\n\nYou can also change the mode of each face using your wire cutters instead of the GUI. One option is a nice display of input and output RF, but it has to be taller than it is wide.\n\nThese are great for interfacing with RF machines. GT wires will convert to RF, but they send a full amp packet no matter what. Enderio machines properly accept it, but others like Genetics do not and waste most of the packet.\n "
+	},
+	"605:10": {
+		"ru_name": "Убить глаза!",
+		"ru_desc": "Найдите и убейте Око Края, они охраняют Башни в краю",
+		"eng_name": "Slay the Eyes!",
+		"eng_desc": "Find and kill Ender-Eyes, guarding the Defence Towers"
+	},
+	"606:10": {
+		"ru_name": "Стражи Края",
+		"ru_desc": "Ладно, если вы решили гриндить, то гриндите... Убейте Стражей Края.",
+		"eng_name": "Ender Guardians",
+		"eng_desc": "Well if you decided to grind then do it... Kill some of the guardians."
+	},
+	"607:10": {
+		"ru_name": "Убить дракона.(Снова)",
+		"ru_desc": "Если вам скучно, вы можете воскресить дракона. Или найти дракона Хаоса, если хотите рискнуть. В любом случае, убейте одного из них, и вы будете хорошо вознаграждены.",
+		"eng_name": "Slay the Dragon. (Again)",
+		"eng_desc": "If you're bored, you can resurrect the dragon. Or, you could find a chaos dragon, if you dare. Anyway, kill one of those, and you'll be well rewarded."
+	},
+	"608:10": {
+		"ru_name": "§2§3§5§lСвинец",
+		"ru_desc": "Следующий шаг в процессе изготовления батарей состоит в том, чтобы достать свинец. Для подробностей посмотрите квест в Начальной Тауматургии",
+		"eng_name": "§2§3§5§lA lead about lead that leads to lead dust",
+		"eng_desc": "The next step of making batteries is to collect some lead. Lead and galena veins can be found in the Twilight Forest at y levels 5 - 45."
+	},
+	"609:10": {
+		"ru_name": "§5§lБатарейный сплав",
+		"ru_desc": "Батарейный сплав можно получить из сурьмы и свинца в плавильной печи.\nОбъедините сплав с оловянным кабелем и вуаля, у вас получился корпус для батарейки.\n\nОбратите внимание, для изготовления батарейного сплава в миксере нужна именно пыль, а вот в плавильной печи можно использовать и пыль и слитки.",
+		"eng_name": "§5§lBattery alloy",
+		"eng_desc": "Mixing antimony and lead in the alloy smelter will give you some battery alloy.\nCombine it with some tin cable and voila there is your small battery hull.\n\n§3Note that if you make the battery alloy in the mixer you need to use dusts, but if you use the alloy smelter you can use either."
+	},
+	"610:10": {
+		"ru_name": "Свинец, галенит и серебро",
+		"ru_desc": "Свинца, галенита и серебра ни в Overworld ни в Аду нет. Так что пришло время исследовать таинственный Сумеречный Лес и найти эту жилу на высоте 5 - 40 блоков.",
+		"eng_name": "Lead, galena and silver",
+		"eng_desc": "You can't find lead, galena or silver in the Overworld or the Nether. So it's time to explore the mysterious Twilight Forest a bit and find this vein at Y level 5 - 40."
+	},
+	"611:10": {
+		"ru_name": "§5§lОдноразовая батарейка: Ртуть",
+		"ru_desc": "Ртутные и кислотные батареи являются одноразовыми. Они создаются сразу с полным зарядом, и их нельзя перезарядить. Когда они разрядятся, их можно будет поместить в экстрактор, который вернет пустые корпуса от батареек.\n\nИх можно положить в любую LV машину из Gregtech, в этом случае будут разряжаться сначала батарейки, и только потом внутреннее хранилище EU машины. Они также могут быть использованы в батарейных буферах.",
+		"eng_name": "§5§lSingle use battery: Mercury",
+		"eng_desc": "Mercury and acid batteries are single-use batteries. They are crafted fully charged but cannot be re-charged. Once their stored energy is depleted, they can be placed in an extractor to be converted back into small battery hulls.\n\nThey can be placed in the battery slot of any standard LV gregtech machine, in that case they will be depleted before the machine's internal EU storage. They can also be used in LV battery buffers."
+	},
+	"612:10": {
+		"ru_name": "§5§lОдноразовая батарейка: Кислота",
+		"ru_desc": "Ртутные и кислотные батареи являются одноразовыми. Они создаются сразу с полным зарядом, и их нельзя перезарядить. Когда они разрядятся, их можно будет поместить в экстрактор, который вернет пустые корпуса от батареек.\n\nИх можно положить в любую LV машину из Gregtech, в этом случае будут разряжаться сначала батарейки, и только потом внутреннее хранилище EU машины. Они также могут быть использованы в батарейных буферах.",
+		"eng_name": "§5§lSingle use battery: Acid",
+		"eng_desc": "Mercury and acid Batteries are single-use batteries. They are crafted fully charged but cannot be re-charged. Once their stored energy is depleted, they can be placed in an extractor to be converted back into small battery hulls.\n\nThey can be placed in the battery slot in any standard LV gregtech machine, in that case they will be depleted before the machine's internal EU storage. They can also be used in LV battery buffers."
+	},
+	"613:10": {
+		"ru_name": "§5§lМногоразовая батарейка: Натрий",
+		"ru_desc": "Натриевые, кадмиевые и литиевые батарейки являются аккумуляторами. Они создаются разряженными, но могут быть заряжены в любой Gregtech машине. Их можно утилизировать, поместив в экстрактор, получая при этом пустой корпус. Содержимое при этом теряется.\n\n§3Из 3 видов аккумуляторов натрий хранит меньше всего EU, но в то же время его проще всего получить.",
+		"eng_name": "§5§lReusable battery: Sodium",
+		"eng_desc": "Sodium, cadmium, and lithium batteries are rechargeable batteries. They are crafted without stored energy, but can be charged in any gregtech machine. If unneeded, they can be placed in an extractor and converted back into small battery hulls, but their contents are lost.\n\n§3Sodium is the one that stores the least EU of the 3 rechargable batteries, but is definitely the easiest to get."
+	},
+	"614:10": {
+		"ru_name": "§5§lМногоразовая батарейка: Кадмий",
+		"ru_desc": "Натриевые, кадмиевые и литиевые батарейки являются аккумуляторами. Они создаются разряженными, но могут быть заряжены в любой Gregtech машине. Их можно утилизировать, поместив в экстрактор, получая при этом пустой корпус. Содержимое при этом теряется.",
+		"eng_name": "§5§lReusable battery: Cadmium",
+		"eng_desc": "Sodium, cadmium, and lithium batteries are rechargeable batteries. They are crafted without stored energy, but can be charged in any gregtech machine. If unneeded, they can be placed in an extractor and converted back into small battery hulls, but their contents are lost."
+	},
+	"615:10": {
+		"ru_name": "§5§lМногоразовая батарейка: Литий",
+		"ru_desc": "Натриевые, кадмиевые и литиевые батарейки являются аккумуляторами. Они создаются разряженными, но могут быть заряжены в любой Gregtech машине. Их можно утилизировать, поместив в экстрактор, получая при этом пустой корпус. Содержимое при этом теряется.\n\n§3Из 3 видов аккумуляторов литий хранит больше всего EU.",
+		"eng_name": "§5§lReusable battery: Lithium",
+		"eng_desc": "Sodium, cadmium, and lithium batteries are rechargeable batteries. They are crafted without stored energy, but can be charged in any gregtech machine. If unneeded, they can be placed in an extractor and converted back into small battery hulls, but their contents are lost.\n\n§3Lithium is the one that stores the most EU of the 3 rechargable batteries."
+	},
+	"616:10": {
+		"ru_name": "§5§lРтуть",
+		"ru_desc": "Меркурий можно получить в центрифуге из красного камня или киновари. Оба этих материала находятся в одной жиле.",
+		"eng_name": "§5§lMercury",
+		"eng_desc": "Mercury can be centrifuged out of redstone. If you find some cinnabar ore in the redstone vein you can use that too."
+	},
+	"617:10": {
+		"ru_name": "§5§lЖидкостный наполнитель",
+		"ru_desc": "Жидкостный наполнитель является ключевой машиной, необходимой для заполнения жидкостями ячеек, стеклянных бутылок, ведер и батареек. Правда в большинстве случаев заполнять ячейки жидкостями проще в small GT++ tank.\n\nЕще одно интересное применение этой машины - её можно использовать как сборщик дождя, прицепив сверху дренажный модуль (На самом деле любая машина с внутренним хранилищем жидкости так умеет...).",
+		"eng_name": "§5§lFluid canner",
+		"eng_desc": "The fluid canner is a fundamental machine, since it is necessary to move fluids around, as well as for filling tin cells, glass bottles, buckets, and even batteries. Most cases you can use the small GT++ tanks instead.\n\nAnother interesting thing about the fluid canner is that it can be transformed into a raintank, by attaching a drain cover on its top (Any machine with a tank actually can be...)."
+	},
+	"618:10": {
+		"ru_name": "§5§lСерная кислота",
+		"ru_desc": "Cерная кислота изготавливается из триоксида серы и воды в химическом реакторе. Если вы уже делали легкое или тяжелое топливо, возможно, у вас есть лишний сероводород. Если же нет, вы всегда можете сделать серную кислоту из серы и воды.",
+		"eng_name": "§5§lSulfuric acid",
+		"eng_desc": "Combining sulfur trioxide and water in the chemical reactor will give you sulfuric acid for your single use acid batteries. If you have made some light or heavy fuel already maybe you have some spare hydrogen sulfide. If not, you can always make sulfuric acid with some sulfur and water in the chemical reactor."
+	},
+	"619:10": {
+		"ru_name": "§5§lБатарейный буфер",
+		"ru_desc": "Чтобы заряжать одновременно несколько батареек, вам понадобится батарейный буфер. Буферы также могут запитывать вашу электрическую сеть. У них есть несколько размеров: 1, 4, 9 и 16 слотов. Они могут потреблять 2А и выдавать 1А на каждую батарейку внутри - обязательно следите за максимальным амперажом кабелей которые собираетесь подключать к буферу!",
+		"eng_name": "§5§lBattery buffer",
+		"eng_desc": "Batteries can be placed directly in machines. To recharge a battery you need a battery buffer. Buffers can also power an energy network. They come in different sizes: 1, 4, 9 and 16 slots. They can draw 2A and output 1A per battery inserted - watch your wire amperage!"
+	},
+	"620:10": {
+		"ru_name": "§5§lIC2 батареи",
+		"ru_desc": "Некоторые рецепты требуют батарей из мода IC2. Заполните маленький корпус для батарейки жидким красным камнем, и вы получите аккумулятор. Ячейки с горячими жидкостями наносят вам урон, поэтому будьте осторожны используя их для класного камня.",
+		"eng_name": "§5§lIC2 Battery",
+		"eng_desc": "Some recipes require IC2 batteries. Fill your small battery hull with some molten redstone and you will get your RE-Battery. Molten cells will hurt you, so be careful."
+	},
+	"621:10": {
+		"ru_name": "§6§5§lКак получить натрий",
+		"ru_desc": "Вторым источником натрия является глауконитная руда или глауконитный песок. Их можно найти в жилах на высоте 20-50 блоков.",
+		"eng_name": "§6§5§lHow to get sodium",
+		"eng_desc": "A second source for sodium is glauconite ore or glauconite sand. This type of ore vein can be found at Y level 20-50."
+	},
+	"622:10": {
+		"ru_name": "§5§lКак получить натрий/литий",
+		"ru_desc": "Соляные руды можно найти в Overworld на высоте 50-70 блоков. Соль полезна не только как источник натрия, но и для готовки еды.\nВ свою очередь лепидолит и сподумен хорошо подойдут для получения лития для батарей.",
+		"eng_name": "§5§lHow to get sodium/lithium",
+		"eng_desc": "Salt ore mixes can be found in the Overworld between Y level 50-70. Salt isn't only used to get sodium, it's an important ingredient in many pam's harvestcraft food recipes.\n\n§4Hint: Lepidolite and spodumene are good sources of lithium for your batteries."
+	},
+	"623:10": {
+		"ru_name": "§5§lБольшой метеорит",
+		"ru_desc": "Лучший способ получить rare earth - найти метеорит из Applied Energistics 2 и измельчить блоки в пыль. Может быть, вы всё ещё храните пыль небесного камня из квеста в паровом тире? Теперь пыль можно положить в центрифугу для получения различных материалов, таких как кадмий, неодим, цезий, лантан и иттрий.\n\n§4Подсказка: rare earth является побочным продуктом обработки красного камня. Халькопирит (на HV тире) и сфалерит (на LV тире) дают кадмий в качестве побочного продукта.",
+		"eng_name": "§5§lA big meteorite",
+		"eng_desc": "The best way to get rare earth is to find an applied energistics 2 meteorite and grind the blocks into dust. Maybe you completed the quest in the steam age and stored your crushed skystone somewhere? That dust can now be centrifuged into various byproducts like cadmium, neodymium, caesium, lanthanum, and yttrium.\n\n§4Hint: Redstone has rare earth as byproduct. Chalcopyrite (at HV level) and sphalherite (at LV level) have cadmium as byproduct."
+	},
+	"624:10": {
+		"ru_name": "§5§lНаполнитель",
+		"ru_desc": "Наполнитель в основном будет использоваться для изготовления консерв (начиная с HV тира), кроме того, он полезен для наполнения ячеек различными твердыми материалами, обычно в форме пыли. Он также может заполнять батарейки серой, ртутью, кадмием, литием или натрием.",
+		"eng_name": "§5§lBasic canner",
+		"eng_desc": "The canning machine is mainly used to fill tin cans with any kind of food (HV Tier), but it is useful for filling and emptying tin cells with other solid items than food, usually in the form of dust. It can also fill batteries with sulfur, mercury, cadmium, lithium or sodium."
+	},
+	"625:10": {
+		"ru_name": "§3§lПеревозка ваших баков, сундуков и бочек",
+		"ru_desc": "Перенос сундуков и бочек не теряя вещей внутри?\nЛегко! Сделайте тележку, и вы сможете переносить свои полные сундуки, бочки или ящики в любое нужное вам место. Подобрав блок тележкой, ваша скорость передвижения будет сильно снижена, поэтому далеко уехать не получится. Баки из buildcraft тоже можно перевозить не теряя жидкости внутри.\n\nPS: позже можно будет использовать полет или пояс путешественника для обхода замедления.",
+		"eng_name": "§3§lPacking your tanks chests and barrels",
+		"eng_desc": "Packing your chests and barrels without spilling all the things (buildcraft(tm))? \nNo problem! Make a dolly and you can carry your full chests, barrels or storage drawers anywhere you want. But be warned, you will get a slowness debuff so hopefully you don't have to travel very far. Non-portable buildcraft and iron tanks can be moved without losing fluids too.\n\n§4PS: Later on you can fly or make a traveller's belt to get around the debuff."
+	},
+	"626:10": {
+		"ru_name": "§5§lПортативные спаунеры мобов ..? Круто!",
+		"ru_desc": "Хотите перетащить спаунеры и построить ферму мобов? Как только вы сделаете алмазную тележку, это будет легко осуществить.",
+		"eng_name": "§5§lPortable mob spawners..? Cool!",
+		"eng_desc": "Do you want to move the spawners around and build some cool mob farms? That will be no problem if you get the diamond dolly."
+	},
+	"627:10": {
+		"ru_name": "Зерновая приманка",
+		"ru_desc": "Сделайте немного зерновой приманки для вашей ловушки для животных.",
+		"eng_name": "Grain bait",
+		"eng_desc": "Crafting some nice grain bait for your animal trap."
+	},
+	"628:10": {
+		"ru_name": "Фруктовая приманка",
+		"ru_desc": "Сделайте немного фруктовой приманки для вашей ловушки для животных.",
+		"eng_name": "Fruit bait",
+		"eng_desc": "Crafting some tasty fruit bait for your animal trap."
+	},
+	"629:10": {
+		"ru_name": "Овощная приманка",
+		"ru_desc": "Сделайте немного овощной приманки для вашей ловушки для животных.",
+		"eng_name": "Veggie bait",
+		"eng_desc": "Crafting some veggie bait for your animal trap."
+	},
+	"630:10": {
+		"ru_name": "Рыбная приманка",
+		"ru_desc": "Сделайте немного рыбной приманки для вашей ловушки для рыб.",
+		"eng_name": "Fish bait",
+		"eng_desc": "Crafting some fish bait for your fish trap."
+	},
+	"631:10": {
+		"ru_name": "Ловля животных",
+		"ru_desc": "Устали от охоты на коров, зомби или овец? Вы можете сделать ловушку и надеяться что кто-то в неё попадет.",
+		"eng_name": "Animal trapping",
+		"eng_desc": "Tired of hunting for cows, zombies or sheep? You can build a trap and hope some animal or monster drops will be caught by the netting inside."
+	},
+	"632:10": {
+		"ru_name": "Друг рыбака",
+		"ru_desc": "Вы когда-нибудь пытались поймать рыбу голыми руками? Пришло время сделать удочку и наловить рыбы. Забросьте удочку в воду и ждите пока поплавок не начнет опускаться под воду. Затем потяните удочку на себя и надейтесь что вам попадется что-нибудь хорошее.",
+		"eng_name": "A fisherman's friend",
+		"eng_desc": "Have you ever tried to catch a fish with your bare hands? It's time to craft a fishing rod and get some fish the easy way. Cast your fishing rod in some water and wait until the bobber dips below the surface. Then reel back in your line and hopefully you caught yourself something nice."
+	},
+	"633:10": {
+		"ru_name": "Ловушка для рыб",
+		"ru_desc": "Рыбалка может быть очень скучной. Почему бы не автоматизировать её с помощью ловушки для рыбы?",
+		"eng_name": "Fish trapping",
+		"eng_desc": "Fishing can be very boring. Why not to automate it with a fish trap?"
+	},
+	"634:10": {
+		"ru_name": "Время пшеницы",
+		"ru_desc": "Пришло время посадить пшеницу, чтобы сделать хлеб или сделать зерновую приманку для ваших ловушек.",
+		"eng_name": "Wheat time",
+		"eng_desc": "It's time to plant some wheat to make some bread or to prepare grain bait for your animal traps."
+	},
+	"635:10": {
+		"ru_name": "Мука",
+		"ru_desc": "Первый шаг в изготовлении хлеба - перемолоть муку в ступке или дробителе.\n\nМука может быть использована во многих рецептах еды из pam's harvestcraft.",
+		"eng_name": "Floury flurry",
+		"eng_desc": "The first step in making bread is to macerate your wheat into flour with a mortar or a macerator.\n\nFlour can be used in many food recipes for different pam's harvestcraft foods."
+	},
+	"636:10": {
+		"ru_name": "Первый домашний хлеб",
+		"ru_desc": "Запекание теста в печи даёт хлеб.\nВаш первый хлеб!",
+		"eng_name": "First handmade bread",
+		"eng_desc": "Baking your dough in a Furnace makes some tasty bread.\nYour first bread!"
+	},
+	"637:10": {
+		"ru_name": "Тесто",
+		"ru_desc": "Тесто получается из воды и муки.\nЕго можно использовать в различных рецептах еды из pam's harvestcraft.\n\nНе используйте ужасный рецепт из NEI, вместо этого бросьте стак муки в котёл с водой.",
+		"eng_name": "Do'h!",
+		"eng_desc": "Water and flour makes a dough or two...\nDough can be used in many different food recipes from pam's harvestcraft.\n\nDon't use the terrible NEI recipe, instead drop a stack of flour into a cauldron full of water. Celiacs beware!"
+	},
+	"638:10": {
+		"ru_name": "Вкусный тост",
+		"ru_desc": "Запеките свой хлеб снова, и вы получите тост! Дайте вам больше nutrition points, и открывает ещё больше рецептов!",
+		"eng_name": "Tasty toast",
+		"eng_desc": "Smelt your bread again and you get some toast! Give's you more nutrition points, and unlocks more culinary potential!"
+	},
+	"639:10": {
+		"ru_name": "§5§lСерная нафта",
+		"ru_desc": "Еще один дистиллят, который вы можете изготовить из нефти, является серной нафтой с ценностью ожога 40 000 EU на клетку в газовой турбине.",
+		"eng_name": "§5§lSulfuric naphtha",
+		"eng_desc": "Another distillate you can make out of oil is sulfuric naphtha with a burn value of 40,000 EU per cell in the gas turbine."
+	},
+	"640:10": {
+		"ru_name": "§5§lСжиженность",
+		"ru_desc": "Центрифугирование некоторых бутанов или пропан дает вам LPG с ценностью ожога 320 000 ес, так же, как нафта. Также это способ получить метан и в конечном итоге эпихлоргидрин.",
+		"eng_name": "§5§lLPG",
+		"eng_desc": "Centrifuging some Butane or Propane gives you LPG with a burn value of 320,000 EU, the same as naphtha. Also it is a way to get methane and eventually epichlorohydrin."
+	},
+	"641:10": {
+		"ru_name": "§5§lНафта",
+		"ru_desc": "Вы можете обрабатывать серную нафта нафта в жидкости нафта, которая имеет значение ожога 320 000 EU в газовой турбине.\nНафта также является базовым продуктом для полиэтилена и поликапролактама - отличный заменитель строки.",
+		"eng_name": "§5§lNaphtha",
+		"eng_desc": "You can process sulfuric naphtha to fluid naphtha which has a burn value of 320,000 EU in the gas turbine.\nNaphtha is also a base product for polyethylene and polycaprolactam - a great substitute for string."
+	},
+	"642:10": {
+		"ru_name": "§5§lСерный газ",
+		"ru_desc": "Другим дистиллятом для вашей газовой турбины вы можете избавиться от нефти, является серным газом с ножницей 25 000 EU на клетку.",
+		"eng_name": "§5§lSulfuric gas",
+		"eng_desc": "Another distillate for your gas turbine you can make out of oil is sulfuric gas with a burn value of 25,000 EU per cell."
+	},
+	"643:10": {
+		"ru_name": "§5§lНПЗ газ",
+		"ru_desc": "Укажите свой газ в химическом реакторе с газообразным водородным газом, чтобы придать ему лучшее значение ожоги 160 000 ес, и, возможно, используйте его, чтобы сделать газ метана.",
+		"eng_name": "§5§lRefinery gas",
+		"eng_desc": "Refine your gas in a chemical reactor with hydrogen gas to give it a better burn value of 160,000 EU, and maybe use it to make methane gas."
+	},
+	"644:10": {
+		"ru_name": "§5§lМетан",
+		"ru_desc": "Перегонки некоторых «нефтеперерабатывающих газов» дает вам немного метана. Есть много способов получить метан.",
+		"eng_name": "§5§lMethane",
+		"eng_desc": "Distilling some \"refinery gases\" gives you some methane gas. There are many more ways to get methane."
+	},
+	"645:10": {
+		"ru_name": "Планер крылья",
+		"ru_desc": "Если по какой-то причине вы хотите иметь возможность выпрыгнуть по утесе, не получив сообщение «Player x упал с высокого места», отличная идея будет находить способ сначала смягчить свою посадку. Повешенный планер должен сделать это просто хорошо.",
+		"eng_name": "Glider Wings",
+		"eng_desc": "If for some reason you want to be able to jump down a cliff without getting the message \"Player X fell from a high place\", a great idea would be to find a way to soften your landing first. The hang glider should do that just fine."
+	},
+	"646:10": {
+		"ru_name": "§5§lЭлектротин аккумулятор",
+		"ru_desc": "Аккумулятор Electrotine используется исключительно в проекте красных машин и джетпак.\nЭлектротин представляет собой смесь из красного камня и электрической пыли.\n\nВы можете найти его в предыдущем или сделать его самим собой в микшере.",
+		"eng_name": "§5§lElectrotine battery",
+		"eng_desc": "The electrotine battery is exclusively used in project red machines and the jetpack.\nElectrotine is a mixture of redstone and electrum dust.\n\nYou can either find it in the Nether or make it yourself in a Mixer."
+	},
+	"647:10": {
+		"ru_name": "Электротин реактивный",
+		"ru_desc": "Ваш планер благополучно получает вас на землю, но у него нет никакого метода, чтобы встать. После того, как вы исследовали электротин, вы обнаружили, что он достаточно мощный для вашего первого джетпака.\nАлмазная капельница, окруженная 4 батареями электротин, достаточно мощным, чтобы привести вас в воздух.\n\nУ него нет режима Hover, поэтому вам лучше взять свой планер с вами.\n\nПодсказка: этот реактивный удар не может летать выше Y-128.",
+		"eng_name": "Electrotine Jetpack",
+		"eng_desc": "Your glider gets you to the ground safely but it does not have any method to get up. After you researched electrotine you discovered that it is powerful enough for your first jetpack.\nA diamond chestplate surrounded with 4 electrotine batteries is powerful enough to bring you up in the air.\n\nIt does not have a hover mode so you better take your glider with you. \n\nHint: This jetpack can't fly higher than Y-128."
+	},
+	"648:10": {
+		"ru_name": "Заполните свой JetPack",
+		"ru_desc": "Отлично .... Теперь у вас есть пустой джетпак. Вам нужна 25 электротинской пыли, чтобы полностью заполнить его. Давайте обрабатываем генератор электротина и зарядную скамью для использования мощности электротина.\n\nВы очень быстро узнаете, что, пока это быстро и дешево, он пуст в мгновение ока. Несмотря на это, это полезно в сочетании с зависанием планера, чтобы попасть в воздух и уйти от волосатых ситуаций.",
+		"eng_name": "Refill Your Jetpack",
+		"eng_desc": "GREAT.... you now have an empty jetpack. You need 25 electrotine dust to completely fill it. Let's craft an electrotine generator and a charging bench to use the power of electrotine. \n\nYou will very quickly discover that, while it is fast and cheap, it's empty in the blink of an eye. Despite this, it is useful in combination with the hang glider to get into the air and to get away from hairy situations."
+	},
+	"649:10": {
+		"ru_name": "Угольный паровой джетпак",
+		"ru_desc": "Ваш угольный джетвар нуждается в угле и воде для производства пара. После короткого периода прогрева вы можете пойти и взять его на поездку. Имейте в виду, что вам понадобится ваш планер, чтобы сделать мягкую посадку.\n\nПоместите свой JetPack на спину и нажмите Shift и нажмите кнопку Adventure рюкзака, чтобы начать его.\n\nМаксимальная высота летания для этого реактивного раска есть Y-185.\n\nВертикальная скорость уменьшается линейно с высотой после преодоления оптимальной высоты - 135 для JetPack и 100 для версий для вершины.",
+		"eng_name": "Coal Steam Jetpack",
+		"eng_desc": "Your coal jetpack needs coal and water to produce steam. After a short warm-up period you can go and take it for a ride. Keep in mind you will need your glider to make a soft landing.\n\nPut your jetpack on your back and hit Shift and the adventure backpack's action-key to start it.\n\nMax flying height for this jetpack is Y-185.\n\nVertical velocity decreases linearly with height after overcoming optimal height - 135 for jetpack and 100 for copter."
+	},
+	"650:10": {
+		"ru_name": "CopterPack, больше «зависание», чем «Jet»",
+		"ru_desc": "Коптерник является первым реактивным диском с режимом Hover. Он использует несколько различных типов топлива для его питания.\n\nРаботают ведра креозоты, лавы, нефти, дизель, цетана, этанола и топлива и топлива.\n\nОбувьте ваш JetPack и нажмите Shift и приключенческий ключ рюкзака. Вы также можете переключаться между навесом и нормальным режимом.\n\nМаксимальная высота летания ограничена Y-200.\n\nВертикальная скорость уменьшается линейно с высотой после преодоления оптимальной высоты - 135 для JetPack и 100 для версий для вершины.\n\nВыпадающие предметы будут отталкиваться от вас, точно так же, как вертолет толкает вещи, поэтому будьте осторожны в конце, или у Слифсидов.",
+		"eng_name": "Copterpack, More 'Hover' than 'Jet'",
+		"eng_desc": "The copterpack is the first jetpack with a hover mode. It uses several different types of fuels to power it. \n\nBuckets of creosote, lava, oil, diesel, cetane, ethanol, and fuel will work.\n\nEquip your jetpack and hit Shift and the adventure backpack's action-key. You can also switch between hover and normal mode.\n\nMax flying height is limited to Y-200. \n\nVertical velocity decreases linearly with height after overcoming optimal height - 135 for jetpack and 100 for copter.\n\n§3Dropped items will be pushed away from you, just like a helicopter pushes things away, so be careful in the End, or by cliffsides."
+	},
+	"651:10": {
+		"ru_name": "Электрический jetpack.",
+		"ru_desc": "Ваш первый электрический реактивный удар. Вам необходимо запустить клавишу Mode Switch Mode, чтобы переключить между обычным режимом режима и режимом Hover, удерживая вниз по ключу прыжков. Когда уходит, не забудьте отключить режим Hover или иначе вы истощите свой джетпак.\n\nЕдинственное ограничение - это то, что вы не можете летать выше, чем Y-185.\n\nДля зарядки на ходу вы можете создавать зарядное кристалл из зарядных компонентов IC2. Вы должны взять рюкзак из слота доспехота и поместите его в вашу горячую часть и активируйте зарядное устройство, подсказая. Есть лучшие модели, чем этот старый, мне больше не нужно. Смотри в Nei.\n\nПозже на GT ++ зарядные пакеты являются ремнями, которые могут заряжать все в своем инвентаре, включая доспехи. Проверьте NEI для рецепта.\n\nНаконец, беспроводное зарядное устройство GT ++ заряжают все в вашем инвентаре, включая JetPack, с вашей базы при длительных диапазонах. Задание разблокировано, как только вы закончите наносуить. Просто помните, когда вы выходите из мира или в пустыне, что ваш JetPack не заряжается!",
+		"eng_name": "Electric Jetpack",
+		"eng_desc": "Your first electrical jetpack. You need to hit the IC2 mode-switch key to toggle between normal mode and hover mode while holding down the jump key. When descending, remember to shut off hover mode or else you'll drain your jetpack.\n\nThe only limitation is that you can't fly higher than Y-185.\n\nFor charging on the go, you can craft a charging crystal from ic2 charging components. You have to take the backpack out of the armor slot and put it in your hotbar and activate the charger by sneak-clicking. There are better models than this one old one I don't need any more. Look in NEI.\n\nLater on GT++ charging packs are belts that can charge everything in your inventory including armor. Check NEI for the recipe.\n\nFinally, the GT++ wireless charger will charge everything in your inventory, including the jetpack, from your base at long ranges. A quest is unlocked once you finish your nanosuit. Just remember when you are off world or in the Nether that your jetpack isn't charging!"
+	},
+	"652:10": {
+		"ru_name": "Заправленный джетпаком",
+		"ru_desc": "Этот JetPack использует биогаз IC2 и может летать до Y-245.\nВы можете переключаться между навесом и нормальным режимом с использованием ключа режима IC2.\n\nВаш JetPack может быть (повторно), подпитываемым в жидкости IC2 с 30 ведрами / клетками Biogas.",
+		"eng_name": "Fueled jetpack",
+		"eng_desc": "This jetpack uses IC2 biogas and can fly up to Y-245.\nYou can switch between hover and normal mode using the IC2 mode-switch key.\n\nYour jetpack can be (re-)fueled in the IC2 fluid canner with 30 buckets/cells worth of biogas."
+	},
+	"653:10": {
+		"ru_name": "Усовершенствованный электрический jetpack",
+		"ru_desc": "Усовершенствованный электродвигатель является обновленной версией электродвигателя.\nВ ношении в слоте грудной доспехи и заряжены ЕС, он позволяет игроку летать. Он не обеспечивает защиту брони, но взимает взимание инструментов, используемых таким же образом, как продвинутый Лаппак из его внутреннего хранилища.\n\nУсовершенствованный электродвигатель ограничен максимальной высотой летания Y-256.\n\nЧтобы включить его, нажмите на ключ лета, перечисленный под грависютом. Затем вы можете использовать место, чтобы взлететь. Для активации зависания нажмите клавишу режима IC2 во время удержания пространства. Также будет перезаряжать инструменты.",
+		"eng_name": "Advanced Electric Jetpack",
+		"eng_desc": "The advanced electric jetpack is an upgraded version of the electric jetpack.\nWhile worn in the chest armor slot and charged with EU, it allows the player to fly. It provides no armor protection, but will charge tools being used in the same manner as the advanced lappack from its 3.000.000 EU internal storage.\n\nThe advanced electric jetpack is limited to a maximum flying height of Y-256.\n\n§3To turn it on, hit the fly key listed under gravisuite. You can then use space to fly up. To activate hover, hit the IC2 mode key while holding space. Will also recharge tools."
+	},
+	"654:10": {
+		"ru_name": "Усовершенствованная наносадка",
+		"ru_desc": "Объединение усовершенствованного электродвигателя и наносуит, дает вам продвинутую нано-капельку. Теперь у вас есть защита кадровой части сочетание со свободой передвижения реактивного плана.\n\nРаботает как aej.",
+		"eng_name": "Advanced Nano Chestplate",
+		"eng_desc": "Combining the advanced electric jetpack and nanosuit yields you the advanced nano chestplate. Now you have the protection of the chestplate combined with the freedom of movement of the jetpack.\n\n§3Works like the AEJ."
+	},
+	"655:10": {
+		"ru_name": "Серьезный костюм",
+		"ru_desc": "Гравский сундук - это окончательная квантовая доспеха, в сочетании с высоким энергоматом. Он также имеет скрытые функции, которые вам нужно обнаружить, ношение всей квантовой брони.\n\nИли читать вики или что-то.",
+		"eng_name": "Gravi Suit",
+		"eng_desc": "The gravi chestplate is the ultimate quantum armor combined with a high powered jetpack. It also has hidden features that you need to discover while wearing the whole quantum armor.\n\nOr read a wiki or something."
+	},
+	"656:10": {
+		"ru_name": "§1§2§lЖелезные щиты",
+		"ru_desc": "Вы используете свой скрытый щит достаточно долго. После того, как вы сделаете свои первые инструменты, возьмитесь немного железной руды и сделайте хороший железный щит.",
+		"eng_name": "§1§2§lIron shields",
+		"eng_desc": "You have been using your hide shield long enough. After you make your first tools, grab a bit of iron ore and make a nice iron shield."
+	},
+	"657:10": {
+		"ru_name": "§2§lКаменное копье",
+		"ru_desc": "Обновите свое деревянное копье каменной стрелкой и железными винтами в каменное копье.\nЭто копье имеет лучшую долговечность, чем деревянная.",
+		"eng_name": "§2§lStone spear",
+		"eng_desc": "Upgrade your wooden spear with a stone arrowhead and iron screws to a stone spear.\nThis spear has better durability than the wooden one."
+	},
+	"658:10": {
+		"ru_name": "§3§lЖелезное копье",
+		"ru_desc": "Обновите деревянные копья с помощью железной стрелкой и двумя стальными винтами на железное копье.\nЖелезный копье имеет лучшую долговечность, чем вариант каменного камня.",
+		"eng_name": "§3§lIron spear",
+		"eng_desc": "Upgrade your wooden spear with an iron arrowhead and two steel screws to an iron spear. \nThe iron spear has better durability than the stone variant."
+	},
+	"659:10": {
+		"ru_name": "§6§lАлмазное копье",
+		"ru_desc": "На МВ-уровне вы можете обновить свой железный копье на бриллиант. Получите алмазную стрелку, две винты из нержавеющей стали и деревянное копье.\nЭто копье имеет превосходную долговечность.",
+		"eng_name": "§6§lDiamond spear",
+		"eng_desc": "At MV Tier you can upgrade your iron spear to a diamond one. Get a diamond arrowhead, two stainless steel screws and a wooden spear.\nThis spear has superior durability."
+	},
+	"660:10": {
+		"ru_name": "§6§lАлмазный щит",
+		"ru_desc": "Ваш железный щит стал очень стар. С помощью щита из алмазных пластин вы можете поддерживать блок до 5 секунд.",
+		"eng_name": "§6§lDiamond shield",
+		"eng_desc": "Your iron shield got very old. With a shield made from diamond plates you can maintain block for up to 5 seconds."
+	},
+	"661:10": {
+		"ru_name": "§5§lЛук, стрелки и колчан",
+		"ru_desc": "Ух ты, твой первый ручной работы * EHM * Машина сделала лук. Вы узнаете, что вы можете положить лук в шахте и лопастях боевых слотов. Теперь пришло время сделать колчан и, возможно, некоторые стрелы.\n\nЧтобы поместить стрелки в колчан, поставить колчан и стопку стрелок в решетке. Убедитесь, что геймплейный ключ специальный десличен. По умолчанию это Z. Когда у вас выбран смычок, используйте Z, чтобы поменять со стрелками слотов в колчане.\n\nХотя похоже, что они могут быть бесполезны, эти стрелки имеют особые применения. Вы действительно хотите поделиться куки с друзьями, не так ли?\n\nДавайте немного охотимся.",
+		"eng_name": "§5§lBow, arrows and quiver",
+		"eng_desc": "Wow, your first handmade *ehm* machine made bow. You find out that you can put the bow in the mine and blade battlegears slots. Now it's time to make a quiver and maybe some arrows. \n\nTo place arrows in the quiver, put the quiver and the stack of arrows in a crafting grid. Make sure the Gameplay key Special is deconflicted. By default it is Z.  When you have the bow selected, use Z to swap arrow slots in the quiver.\n\nWhile it seems like these might be worthless, these arrows do have special uses.  You really want to share a cookies with friends, don't you?\n\nLet's go hunt a bit."
+	},
+	"662:10": {
+		"ru_name": "§5§lОсновная дуговая печь",
+		"ru_desc": "Дуговая печь - это альтернатива для плавок на компоненты и изготовление кованого железа. Рецепты используют кислород и 3 ампер мощности.",
+		"eng_name": "§5§lBasic arc furnace",
+		"eng_desc": "The arc furnace is an alternative to smelting stuff back into components and making wrought iron. The recipes use oxygen and 3 amperes of power."
+	},
+	"663:10": {
+		"ru_name": "§5§lБыстрое производство стали",
+		"ru_desc": "Более быстрая альтернатива производства стали состоит в том, чтобы использовать дуговую печь и промахнуть железные слитки в слитки из кованого железа. Затем Makert их в пыль и очень быстро расплавились в EBF к стали.(Некоторые могут даже сметь дуги, раздувающуюся пыль ...)",
+		"eng_name": "§5§lFaster steel production",
+		"eng_desc": "A faster alternative to steel production is to use the arc furnace and smelt the iron ingots into wrought iron ingots. Then macerate them to dust and smelt them very fast in the EBF to steel. (Some might even dare arc furnacing the dust itself...)"
+	},
+	"664:10": {
+		"ru_name": "§5§lБуфер батареи LV 9 слотов",
+		"ru_desc": "Обновите буфер батареи, чтобы удерживать 9 батарей, что позволяет максимально 9 ампер.\nПолезно для вашего EBF и дуговой печи.",
+		"eng_name": "§5§lLV battery buffer 9 slots",
+		"eng_desc": "Upgrade your battery buffer to hold 9 batteries which allows max 9 ampere output.\nUseful for your EBF and the arc furnace."
+	},
+	"665:10": {
+		"ru_name": "Кухонная утварь",
+		"ru_desc": "Чтобы приготовить некоторую здоровую пищу, сначала вам нужна несколько инструментов.\nКастрюля,\nгоршок,\nкатящийся штифт,\nминомет,\nмиска для смешивания,\nМягкий молоток,\nсковорода,\nнож...",
+		"eng_name": "Kitchenware",
+		"eng_desc": "To cook some healthy food you need a few tools crafted first.\nSaucepan, \npot, \nrolling pin, \nmortar, \nmixing bowl, \nsoft mallet, \nskillet, \nknife..."
+	},
+	"666:10": {
+		"ru_name": "Строка, ряд, ряд ваша лодка",
+		"ru_desc": "Вы живете рядом с водой и не имеете лодки?\nВам нужны деревянные планки, плиты и нож для ремесла.(Это также квест ID 666, будьте осторожны, что-то происходит.)",
+		"eng_name": "Row, row, row your boat",
+		"eng_desc": "You live close to the water and don't have a boat?\nYou need wooden planks, slabs and a knife to craft one. (This is also quest id 666, be careful, something is going on.)"
+	},
+	"667:10": {
+		"ru_name": "Transpotting",
+		"ru_desc": "Деревянные треки могут быть сделаны без какой-либо машины. Функционально эквивалентно нормальным рельсам, но с более низкой максимальной скоростью (по соображениям безопасности).\n\nПодсказка: Вы можете использовать свои деревянные рельсы для ферм тележек Стива.",
+		"eng_name": "Trainspotting",
+		"eng_desc": "The wooden tracks can be made without any machine. Functionally equivalent to normal rails, but with a lower maximum speed (for safety reasons).\n\nHint: You can use your wooden rails for Steve's carts farms."
+	},
+	"668:10": {
+		"ru_name": "Резиновая лодка",
+		"ru_desc": "Резина Dinghy требует всего несколько резиновых пластин. Подобно ванильной деревянной лодке, она сломается и демонтирует всякий раз, когда он попадает в поверхность, однако вместо возврата палочек и досок, она вернет поврежденную резиновую каучуку, которая может быть перенапряжена с двумя кусками резины обратно в воспринимательную резину!",
+		"eng_name": "Rubber boat",
+		"eng_desc": "The rubber dinghy requires only a few rubber plates. Like the vanilla wooden boat, it will break and dismantle whenever it hits a surface, however instead of returning sticks and planks, it will return a damaged rubber dinghy, which can be re-crafted with two pieces of rubber back into a useable rubber dinghy!"
+	},
+	"669:10": {
+		"ru_name": "Надувная ботинок",
+		"ru_desc": "Я хотел сказать, что лодка ... Надувная лодка - это первая лодка, которая не нарушает удар с твердым блоком.",
+		"eng_name": "Inflatable boot",
+		"eng_desc": "I meant to say boat... The inflatable boat is the first boat that doesn't break on impact with a solid block."
+	},
+	"670:10": {
+		"ru_name": "Лодка из углеродного волокна",
+		"ru_desc": "В отличие от всех других лодок, это удивительное каноэ углеродное волокно совершенно неразрушимо! * Это означает, что вы можете разбить его в столько пляжей, лилийных подушек и аллигаторов, как вам нравится, каноэ углеродное волокна не будет иметь царапину!\n\nПредупреждение: мы не несем ответственности за любой ущерб, вызванный ездой на каноэ углеродного волокна в озеро лавы или в пустоте.\n\n* Следовательно, гарантия не включена.",
+		"eng_name": "Carbon fiber boat",
+		"eng_desc": "Unlike all other boats, this amazing carbon fiber canoe is COMPLETELY INDESTRUCTIBLE!* This means that you can smash it into as many beaches, lily pads and alligators as you like, the carbon fiber canoe won't take a scratch!\n\nWarning: We are not held responsible for any damage caused by riding the carbon fiber canoe into a lava lake or the Void.\n\n*Therefore, warranty is NOT included."
+	},
+	"671:10": {
+		"ru_name": "Электрическая лодка",
+		"ru_desc": "Электрическая лодка работает в основном похоже на ванильную лодку, болтучу через воду в приличном темпе. Надеемся, что он приведет себя, как только вы побиваете, что немного приятнее обычных палочек. Это все хорошо и хорошо, но что, если мы используем электрический двигатель? Ношение устройства для хранения энергии в слоте на кашельтенах, как Batpack или Energypack, приведет к тому, что лодка сливает энергию от нее и продвигается вперед на сверхзвуковой скорости! Делая это будет потреблять около 100 EU на блок путешествовал, поэтому даже приличный батепак не будет длиться долго!",
+		"eng_name": "Electric boat",
+		"eng_desc": "The electric boat works mostly like a vanilla boat, chugging through the water at a decent pace. It will hopefully drop itself once you crash, which is slightly nicer than the usual sticks. That's all well and good, but what if we utilize the electric engine? Wearing an energy storage device in your chestplate slot, like a batpack or energypack, will cause the boat to drain energy from it and propel you forward at supersonic speed! Doing this will consume about 100 EU per block traveled, so even a decent batpack won't last long!"
+	},
+	"672:10": {
+		"ru_name": "Форма лодки?",
+		"ru_desc": "Действительно? Да для более продвинутых лодок вам нужна новая форма формы.\nВам нужно сначала сделать экструдер в дальнейшем.",
+		"eng_name": "Boat shape?",
+		"eng_desc": "Really? Yes for the more advanced boats you need a new shape form.\nYou need to make an Extruder first to progress further."
+	},
+	"673:10": {
+		"ru_name": "§5§lОл Экструдер",
+		"ru_desc": "Экструдер не очень полезен в возрасте LV. Но это будет выдавать ваш следующий уровень лодки, более эффективно сделать резиновые листы, получить дополнительные клетки для жидкости или сделать некоторые детали инструментов для конструкции Tinkers.",
+		"eng_name": "§5§lLV extruder",
+		"eng_desc": "The extruder is not very useful in the LV age. But it will extrude your next tier of boat, make rubber sheets more efficiently, get you extra fluid cells, or make some Tinkers Construct tool parts."
+	},
+	"674:10": {
+		"ru_name": "Деревянные железнодорожные варианты",
+		"ru_desc": "Деревянный развязки, WYE и переключательные треки нуждаются в сборке машины для ремесла. Они позволяют вам присоединиться и переключаться на отслеживания, идущие в разные места.\n\nNEI не показывает правильный рецепт на первой странице. Пройдите через рецепты, чтобы найти правильный.",
+		"eng_name": "Wooden rail variants",
+		"eng_desc": "The wooden junction, wye and switch tracks need an assembling machine to craft. They allow you to join and switch to tracks going to different locations.\n\nNEI doesn't show the right recipe on the first page. Go through the recipes a bit to find the right one."
+	},
+	"675:10": {
+		"ru_name": "Переключатель рычага",
+		"ru_desc": "Рычаг коммутатора является ручной версией двигателя коммутатора, требующий игрока, вместо сигнала Redstone.\nОн используется в различных системах сигнализации, в основном для изменения дорожек переключателей и работающих треков WYE.",
+		"eng_name": "Switch lever",
+		"eng_desc": "The switch lever is the manual version of the switch motor, requiring a player to operate it instead of a redstone signal. \nIt is used in various signaling systems, mainly to change the way switch tracks and wye tracks work."
+	},
+	"676:10": {
+		"ru_name": "Лома",
+		"ru_desc": "Ловля входит в железнодорожный суд и вариант Gregtech. Он используется для манипулирования машинами из железнодорожных судов, удалите пластины и любые другие крышки (насосы, конвейерные ремни и т. Д.) Из труб Gregtech и машин, а также разбив определенные объекты быстрее, такие как треки. Этот инструмент также используется для доступа к определенным запасам из RailCraft.\nДержите лом и сдвиг + щелкните правой кнопкой мыши, чтобы прикрепить телеги. Нажмите на пусковую тележку, затем продолжайте нажать, чтобы добавить больше тележек на ссылку. Тележки будут действовать медленнее, тем больше сделаны больше соединений.\n\nЛовля может использоваться в качестве оружия, хотя он стоит вдвое больше долговечности на атаку (как и любой другой инструмент без оружия ...).",
+		"eng_name": "Crowbar",
+		"eng_desc": "The crowbar comes in a Railcraft and a gregtech variant. It is used to manipulate machines from railcraft, remove plates and any other covers (pumps, conveyor belts, etc.) from gregtech pipes and machines as well as breaking certain objects faster, such as tracks. This tool is also used to access certain inventories from Railcraft.\nHold a crowbar and shift + right click to attach carts. Click the starting cart then continue to click to add more carts to the link. Carts will act slower the more connections are made.\n\nThe crowbar can be used as a weapon, though it costs twice as much durability on attack (just like any other non weapon tool...)."
+	},
+	"677:10": {
+		"ru_name": "Minecart",
+		"ru_desc": "После того, как вы создаете свою первую корзину, путешествие может начать ...\nНу не совсем. Вам сначала понадобится какие-то треки.\n\nПРЕДУПРЕЖДЕНИЕ: Незащищенные тележки могут быть сбиты с рельсов молнией. Покройте область стеклом, чтобы предотвратить исчезновение тележек.\n\nКроме того, обязательно сохраните вашу корзину в одном кусочке или используйте ChunkloLess, покрывающие всю область, корзина работает внутри. Загрузка / разгрузка кусочков может привести к исчезновению тележек или дублировать.",
+		"eng_name": "Minecart",
+		"eng_desc": "After you craft your first cart the journey can begin...\nWell, not really. You will need some kind of tracks first.\n\n§c§lWARNING: §r§cUnprotected carts can be knocked off their rails by lightning. Cover the area with glass to prevent carts from disappearing.\n\nAlso, make sure to keep your cart in one chunk, or use chunkloaders covering the whole area the cart works within. Loading/unloading chunks may cause carts to disappear or duplicate."
+	},
+	"678:10": {
+		"ru_name": "Фаст-фуд> Медленная еда",
+		"ru_desc": "Три фаст-фуда лотбоксов дают лучшую = медленный еду лотбоксы.(С того, когда когда лучше еда лучше?)",
+		"eng_name": "Fast Food > Slow Food",
+		"eng_desc": "Three fast food lootbags give a better one = Slow Food Lootbag. (Since when is slow food better?)"
+	},
+	"679:10": {
+		"ru_name": "Медленная еда> Высокая кухня",
+		"ru_desc": "Три медленные еды лотбоксов дают лучшую = высокую кухню лотереку.",
+		"eng_name": "Slow Food > Haute Cuisine",
+		"eng_desc": "Three slow food lootbags give a better one = Haute Cuisine Lootbag."
+	},
+	"680:10": {
+		"ru_name": "Высокая кухня> Десерт",
+		"ru_desc": "Шесть высокой кухни лотбоксов дают лучший = десертный лотере.",
+		"eng_name": "Haute Cuisine > Dessert",
+		"eng_desc": "Six haute cuisine lootbags give a better one = Dessert Lootbag."
+	},
+	"681:10": {
+		"ru_name": "Транспорт класс 3> Транспорт класс 2",
+		"ru_desc": "Три транспортных класса 3 Lootbags дают лучшую = транспортный класс 2 лотере.",
+		"eng_name": "Transportation Class 3 > Transportation Class 2",
+		"eng_desc": "Three transportation class 3 lootbags give a better one = Transportation Class 2 Lootbag."
+	},
+	"682:10": {
+		"ru_name": "Транспорт класс 2> Транспорт класс 1",
+		"ru_desc": "Три транспортных класса 2 Lootbags дают лучшую = перевозки 1 класс 1 лотере.",
+		"eng_name": "Transportation Class 2 > Transportation Class 1",
+		"eng_desc": "Three transportation class 2 Lootbags give a better one = Transportation Class 1 Lootbag."
+	},
+	"683:10": {
+		"ru_name": "Мокрой грязи доспеха?",
+		"ru_desc": "Если у вас нет брони, «Броня грязи» лучше, чем ничего. Грязь можно найти в некоторых мокрыхся биоматах, или изготовлена из грязи и воды.",
+		"eng_name": "Wet Dirt Armor?",
+		"eng_desc": "If you don't have any armor, \"mud armor\" is better than nothing. Mud can be found in some wet biomes, or crafted from dirt and water."
+	},
+	"684:10": {
+		"ru_name": "Деревянная броня",
+		"ru_desc": "Если вы не можете найти грязь, вы можете сделать очень плохую броню из дерева. Сокращение нескольких деревьев, чтобы сделать набор должен сделать. Вам тоже понадобится мягкий молоток, поэтому сэкономьте несколько журналов для этого.",
+		"eng_name": "Wooden Armor",
+		"eng_desc": "If you can't find mud you can make very poor armor out of wood. Cutting down a few trees to make a set should do. You will need a soft mallet too, so save a few logs for that."
+	},
+	"685:10": {
+		"ru_name": "Доспехи 2.0",
+		"ru_desc": "Железная броня намного лучше, чем кожаная броня. Особенно, когда вы должны выйти на улицу ночью.",
+		"eng_name": "Armor 2.0",
+		"eng_desc": "Iron armor is much better than the leather armor. Especially when you have to go outside during the night."
+	},
+	"686:10": {
+		"ru_name": "Кожаная броня",
+		"ru_desc": "Убийство некоторых коров даст вам достаточно кожи для создания полного набора кожаных доспехов.\n\nПодсказка: вы можете окрасить эту броню.",
+		"eng_name": "Leather Armor",
+		"eng_desc": "Killing some cows will give you enough leather to craft a complete set of leather armor. \n\nHint: You are able to dye this armor."
+	},
+	"687:10": {
+		"ru_name": "Бронзовая броня",
+		"ru_desc": "Бронзовая броня имеет те же способности, что и железная броня. Та же долговечность, та же защита и же возможности очарования.",
+		"eng_name": "Bronze armor",
+		"eng_desc": "Bronze armor has the same abilities as iron armor. Same durability, same protection and same enchantment capability."
+	},
+	"688:10": {
+		"ru_name": "\"Приятно иметь\" броню",
+		"ru_desc": "Золотая броня - это «приятно иметь» броню. Долговечность очень низкая, но вы выглядите дорогими, когда вы его носите.",
+		"eng_name": "\"Nice to Have\" Armor",
+		"eng_desc": "The gold armor is a \"nice to have\" armor. The durability is very low but you look expensive when you wear it."
+	},
+	"689:10": {
+		"ru_name": "\"О, блестящие\" брони",
+		"ru_desc": "Алмазная броня - лучшая броня в ванильном Minecraft, но здесь есть гораздо лучшие доспехи.",
+		"eng_name": "\"Oh, Shiny\" Armor",
+		"eng_desc": "Diamond armor is the best armor in Vanilla Minecraft, but over here there are much better armors available."
+	},
+	"690:10": {
+		"ru_name": "Модная броня",
+		"ru_desc": "Не очень лучше, но воображает. Доспеха цепной почты производится из стальных колец.",
+		"eng_name": "Fancy Armor",
+		"eng_desc": "Not really better but fancy. The chain mail armor is made out of steel rings."
+	},
+	"691:10": {
+		"ru_name": "Доспехи 2.5.",
+		"ru_desc": "Стальная броня имеет более прочность, чем у железной / бронзы или доспехов для цепочки.",
+		"eng_name": "Armor 2.5",
+		"eng_desc": "The steel armor has more durability than the iron/bronze or chainmail armor."
+	},
+	"692:10": {
+		"ru_name": "Композитный жилет",
+		"ru_desc": "Сочетание прочности продвинутых сплавных пластин со стальной капелькой делает ваш жилет очень сильно. Теперь у вас удвоить долговечность и повышенные доспехи на 1,5.",
+		"eng_name": "Composite Vest",
+		"eng_desc": "Combining the strength of advanced alloy plates with the steel chestplate makes your vest very hard. Now you have double the durability and increased armor points by 1.5."
+	},
+	"693:10": {
+		"ru_name": "§2§lУпал с неба",
+		"ru_desc": "Есть большие метеоры везде, и вам интересно, почему вам нужно мое сейчас?\nSkystone - хороший источник редкоземельных металлов в возрасте LV.\nВнутри метеора вы можете найти сундук Skystone, содержащий некоторые пресс-пластины процессора. Сохраните их на потом, так как они действительно важны. Плюс грудь хорошая и может быть расположена под блоками и все еще открывается.\n\nПодсказка: Если ваши все ваши поверхностные метеоры были наберенены, поместите немного Skystone в своем Orefinder, чтобы найти подземные. Часто рядом с тем, что на поверхности находится второй метеор!",
+		"eng_name": "§2§lFallen from the sky",
+		"eng_desc": "There are big meteors everywhere and you are wondering why you need to mine them now?\nSkystone is a good source of rare earth metals in the LV age. \nInside the meteor you can find a skystone chest containing some processor press plates. Save them for later, as they are really important. Plus the chest is nice, and can be placed underneath blocks and still opened.\n\nHint: If your all your surface meteors have been raided, put some skystone in your orefinder to find underground ones.  Often there is a second meteor right next to the one on the surface!"
+	},
+	"694:10": {
+		"ru_name": "§3§lОдна наковальня ... лучше сделать это два!",
+		"ru_desc": "С вашим совершенно новым компрессором вы можете сделать некоторые металлические блоки для вашего нового наковальня. Лучше ремесло два наковальнями, которым нужно будет необходим для кузнечности.\n\nС наковальней вы можете восстановить, переименовать и начать доспехи и инструменты.",
+		"eng_name": "§3§lOne Anvil... Better make that two!",
+		"eng_desc": "With your brand-new Compressor you are able to make some metal blocks for your new anvil. Better craft two anvils, one will be required for the forge hammer.\n\n§4With the anvil you can repair, rename and enchant armor and tools.\n"
+	},
+	"695:10": {
+		"ru_name": "§6§o§1§2§3§r§r§r§r§r§r§3§4§r§o§7§7§8§9§9§5§3§1§0§r§o§m§k§c§e§l§r§1§1§r§6§lАвтоматизация уровня 1.",
+		"ru_desc": "Хотите автоматизировать свое младше, потому что вы планируете сделать стеки стеклянных блоков?\nНет проблем, обрабатывают большую бронзовую трубу и поместите ее под кран. Обязательно подключите трубу к крану, используя гаечный ключ. Теперь расплавленная жидкость будет течь внутри трубы. При или рядом с трубой вы должны разместить бассейны или таблицы литья.\nБункер и сундук под автоматически выводят продукты из литейных блоков.\n\nПримечание. Смесители выводят именно 144L каждую активацию, если вы немедленно переключите его. Это будет иметь некоторые пользы позже ...",
+		"eng_name": "§6§o§1§2§3§r§r§r§r§r§r§3§4§r§o§7§7§8§9§9§5§3§1§0§r§o§m§k§c§e§l§r§1§1§r§6§lAutomation tier 1",
+		"eng_desc": "Do you want to automate your smeltery because you are planning to make stacks of glass blocks? \nNo problem, craft a large bronze pipe and place it under the faucet. Make sure to connect the pipe to the faucet using a wrench. Now the molten fluid will flow inside the pipe. Under or next to the pipe you have to place the casting basins or tables.\nA hopper and a chest underneath would auto-output products from the casting blocks. \n\nNOTE: Faucets will output precisely 144L each activation if you toggle it off immediately. That's going to have some uses later on..."
+	},
+	"696:10": {
+		"ru_name": "§6§lАвтоматизация уровня 2.",
+		"ru_desc": "Вы хотите лучшее автоматизацию, чем использование труб? Конечно, обрабатывают компаратор и связывают его с помощью красной пыли, помещенной на землю. Редстоун должен быть рядом с краном для активации процесса крафта.",
+		"eng_name": "§6§lAutomation tier 2",
+		"eng_desc": "You want a better automation than using pipes? Sure, craft a comparator and link it with redstone dust placed on the ground. The redstone needs to be adjacent to the faucet to activate the crafting process."
+	},
+	"697:10": {
+		"ru_name": "§6§l2x сталь",
+		"ru_desc": "Изготовление стали так медленно. Если у вас достаточно кирпича и глины, постройте второй BBF. Постройте его к первому, чтобы они могли поделиться стеной, и вы сэкономите кирпича, глиняные и бетон.",
+		"eng_name": "§6§l2x steel",
+		"eng_desc": "Steel production is so slow. If you got enough bricks and clay, build a second BBF. Build it attached to the first one, so they can share a wall and you will save some bricks, clay and concrete."
+	},
+	"698:10": {
+		"ru_name": "§6§l4x Steel.",
+		"ru_desc": "Даже два BBF достаточно быстро ... Вы можете выяснить, как сохранить большинство кирпичей 4?",
+		"eng_name": "§6§l4x steel",
+		"eng_desc": "Not even two BBFs are fast enough...Can you figure out how to save the most bricks making 4?"
+	},
+	"699:10": {
+		"ru_name": "§6§lПочему одна печь кокса, когда вы можете иметь десять?",
+		"ru_desc": "Ваша кирпичная доменная печь использует подобное уголь, а ваш паровой котел тоже? Ну, пришло время сделать больше коксовых печей и немного автоматизировать их. Трубы деревянные жидкости и трубы олова помогут вам достичь своей цели. Вы можете использовать либо краны с помощью RESTONE CHONING, либо насосы LV для опорожнения Creosote. Для древесного угля бункера легко получить, как только у вас есть ассемблер.\n\nВ отличие от Multiblocks Gregtech, коксовые печи должны иметь 1 пространство, отделяющее каждую печь.\n\nИщите NEI для более эффективного способа сделать кирпичи для кокса.\n\nИспользуйте SteelWrench для труб TIN Tool для демонтажа.",
+		"eng_name": "§6§lWhy one coke oven when you can have ten?",
+		"eng_desc": "Your bricked blast furnace uses coal like hell and your steam boiler too? Well it's time to make more coke ovens and automate them a bit. Wooden fluid pipes and tin item pipes will help you reach your goal.  You can use either faucets with restone clocking or LV pumps to empty the creosote. For the charcoal, hoppers are easy to get once you have an assembler.\n\nUnlike Gregtech multiblocks, coke ovens must have 1 space separating each oven.\n\nSearch NEI for a more efficient way to make coke oven bricks.\n\nUse a Steelwrench for tin item pipes to dismantle."
+	}
+}
