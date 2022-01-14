@@ -662,194 +662,194 @@
 	"238:10": {
 		"eng_name": "Fuuuuuu...(sion)!",
 		"eng_desc": "Your arcane table does a great job with infusing primal vis into items while crafting. However, you feel that there must be more. What if you could infuse items with all kinds of magic aspects? The possibilities are endless...",
-		"ru_name": "Фуууууу ... (Sion)!",
-		"ru_desc": "Ваша тайна The Arcane отличная работа с инфекцией Primal Vis в предметы во время создания. Тем не менее, вы чувствуете, что должно быть больше. Что делать, если бы вы могли налить предметы со всеми видами магических аспектов? Возможности безграничны..."
+		"ru_name": "Ссссс...(лияние)!",
+		"ru_desc": "Ваш магический верстак проделал неплохую работу, заряжая ваши рецепты базовыми аспектами. Но ведь наверняка можно и лучше. Что ж будет, если заряжать вещи любыми видами магических аспектов? Возможности безграничны..."
 	},
 	"240:10": {
 		"eng_name": "Essentia Cooking",
 		"eng_desc": "In order to get essentia, you need to dissolve items. Obviously, you only want to dissolve those items you don't really need, and only those with essentia you need to craft things.\n\nMake sure you keep your furnace as empty as possible. If it fills up with essentia, it can cause a large TPS drop.",
-		"ru_name": "Суть приготовления",
-		"ru_desc": "Чтобы получить Essentia, вам нужно растворить предметы. Очевидно, вы хотите только растворить эти предметы, которые вам не нужны, и только те, кто с Essentia вам нужно создавать вещи.\n\nУбедитесь, что вы сохраняете вашу печь как можно более пустой. Если он заполняет Essentia, он может вызвать большой падение TPS."
+		"ru_name": "Варка эссенции",
+		"ru_desc": "Вам нужно разбирать вещи, если вы хотите получать эссенцию. Вам стоит, очевидно, разбирать лишь то, что вам не так уж и нужно, и только те виды эссенции, что вам нужна для крафта.\n\nУбедитесь, что ваша печь всегда пуста настолько, насколько это возможно. Переполнение печи ведёт к сильному падению тпс."
 	},
 	"242:10": {
 		"eng_name": "Balanced Shards sdrahS decnalaB",
 		"eng_desc": "By combining all six primal aspects in a crucible, you are able to make balanced shards. They can be ground up into \"Salis Mundus\", an absolutely crucial thing to have, trust me!",
-		"ru_name": "Сбалансированные осколки SDRAHS DENNAB",
-		"ru_desc": "Объединяя все шесть первичных аспектов в тигере, вы можете сделать сбалансированные осколки. Они могут быть заземлены в «Salis Mundus», абсолютно важно, чтобы иметь, доверяйте мне!"
+		"ru_name": "Сбалансированные Кристаллы ыллатсирК еыннаворисналабС",
+		"ru_desc": "Вы можете создать сбалансированные кристаллы соиденив все 6 основных аспектов в котле. Их можно раздробить в \"Salis Mundus\", действительно полезную вещь, честно говорю!"
 	},
 	"243:10": {
 		"eng_name": "Crystal Clusters",
 		"eng_desc": "You, as a Thaumaturge, like shiny things. And what could be more shiny than a cluster made of those shards? You totally should get one of each.",
 		"ru_name": "Кристальные кластеры",
-		"ru_desc": "Вы, как тайкатурка, как блестящие вещи. И что может быть более блестящим, чем кластер из этих осколок? Вы полностью должны получить один из каждого."
+		"ru_desc": "Как и любой Туматург, вы любите разные блестяшки. И что может блестеть больше, чем кластер из этих кристаллов? Вам определённо стоит заполучить каждый из них."
 	},
 	"244:10": {
 		"eng_name": "The Choice: Ignis",
 		"eng_desc": "In exchange for 6 clusters, I will give you this node. May it serve you well. Oh, don't place it too close to another node, or it might start to drain vis...",
-		"ru_name": "Выбор: IGNIS",
-		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Пусть это служит вам хорошо. О, не размещайте его слишком близко к другому узлу, или он может начать слить ..."
+		"ru_name": "Выбор: Ignis",
+		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Да послужит он вам на славу. А, ну и не ставьте её вблизи других узлов, иначе они начнут воровать друг у друга вис..."
 	},
 	"246:10": {
 		"eng_name": "The Choice: Terra",
 		"eng_desc": "In exchange for 6 clusters, I will give you this node. May it serve you well. Oh, don't place it too close to another node, or it might start to drain vis...",
-		"ru_name": "Выбор: Терра",
-		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Пусть это служит вам хорошо. О, не размещайте его слишком близко к другому узлу, или он может начать слить ..."
+		"ru_name": "Выбор: Terra",
+		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Да послужит он вам на славу. А, ну и не ставьте её вблизи других узлов, иначе они начнут воровать друг у друга вис..."
 	},
 	"247:10": {
 		"eng_name": "The Choice: Perditio",
 		"eng_desc": "In exchange for 6 clusters, I will give you this node. May it serve you well. Oh, don't place it too close to another node, or it might start to drain vis...",
-		"ru_name": "Выбор: уничтожение",
-		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Пусть это служит вам хорошо. О, не размещайте его слишком близко к другому узлу, или он может начать слить ..."
+		"ru_name": "Выбор: Perditio",
+		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Да послужит он вам на славу. А, ну и не ставьте её вблизи других узлов, иначе они начнут воровать друг у друга вис..."
 	},
 	"248:10": {
 		"eng_name": "The Choice: Ordo",
 		"eng_desc": "In exchange for 6 clusters, I will give you this node. May it serve you well. Oh, don't place it too close to another node, or it might start to drain vis...",
-		"ru_name": "Выбор: Ордо",
-		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Пусть это служит вам хорошо. О, не размещайте его слишком близко к другому узлу, или он может начать слить ..."
+		"ru_name": "Выбор: Ordo",
+		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Да послужит он вам на славу. А, ну и не ставьте её вблизи других узлов, иначе они начнут воровать друг у друга вис..."
 	},
 	"249:10": {
 		"eng_name": "The Choice: Aqua",
 		"eng_desc": "In exchange for 6 clusters, I will give you this node. May it serve you well. Oh, don't place it too close to another node, or it might start to drain vis...",
-		"ru_name": "Выбор: Аква",
-		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Пусть это служит вам хорошо. О, не размещайте его слишком близко к другому узлу, или он может начать слить ..."
+		"ru_name": "Выбор: Aqua",
+		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Да послужит он вам на славу. А, ну и не ставьте её вблизи других узлов, иначе они начнут воровать друг у друга вис..."
 	},
 	"250:10": {
 		"eng_name": "The Choice: Aer",
 		"eng_desc": "In exchange for 6 clusters, I will give you this node. May it serve you well. Oh, don't place it too close to another node, or it might start to drain vis...",
 		"ru_name": "Выбор: Aer",
-		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Пусть это служит вам хорошо. О, не размещайте его слишком близко к другому узлу, или он может начать слить ..."
+		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Да послужит он вам на славу. А, ну и не ставьте её вблизи других узлов, иначе они начнут воровать друг у друга вис..."
 	},
 	"251:10": {
 		"eng_name": "Not Just For Decoration",
 		"eng_desc": "Sure, they look pretty, but they serve a much more important purpose: Channeling vast amounts of vis and essentia. This might be useful soon(tm).",
-		"ru_name": "Не только для украшения",
-		"ru_desc": "Конечно, они выглядят красиво, но они служат гораздо важнее: направляющие огромные суммы VIS и Essentia. Это может быть полезно в ближайшее время (тм)."
+		"ru_name": "Не только украшение",
+		"ru_desc": "Они выглядят красиво, да, но у них есть и куда более важная цель: они проводят огромные количества вис и эссенции. Это пригодится очень скоро(tm)"
 	},
 	"252:10": {
 		"eng_name": "This is the End...",
 		"eng_desc": "...of your apprenticeship. You have mastered all 6 primal aspects, you mastered the weak and strong infusion of essentia and vis, and you've already made your adept wand. But be warned, young one. The further you progress, the more darkness, and evil will tempt you to follow the forbidden ways of magic. I have seen things... weather changing, random teleportation, or even a Wither tearing its way into our universe right next to someone. Be careful, my friend...",
 		"ru_name": "Это конец...",
-		"ru_desc": "... вашего ученичества. Вы освоили все 6 первичных аспектов, вы освоили слабую и сильную инфузию Essentia и Vis, и вы уже сделали свою адептую палочкой. Но быть предупрежденным, молодой. Дальше вы прогрессируете, чем больше тьма, а зло соблазните вас следовать запрещенным способам магии. Я видел вещи ... Изменение погоды, случайное телепортация, или даже увядание на пути к нашей вселенной прямо рядом с кем-то. Будьте осторожны, мой друг ..."
+		"ru_desc": "...вашего обучения. Вы довели до совершенства свои навыки в манипуляции аспектами, сильные и слабые методы наполнения эссенцией и вис, и у вас уже есть сильный жезл. Но имей ввиду, малец. Чем дальше вы развиваетесь, тем больше мрака и зла будет искушать вас проследовать потерянными путями магии. Я видал некоторые вещи... Изменение погоды, случайная телепортация или даже Иссушитель, прорывающий пространство-время, лишь чтобы разорвать кого-либо. Будь осторожен, друг..."
 	},
 	"257:10": {
 		"eng_name": "Save the Squids, We Must",
 		"eng_desc": "A very convenient way to make PETA activists happy and get ink at the same time. \n\nHint: The essentia in those roses might be useful...",
-		"ru_name": "Сохранить кальмары, мы должны",
-		"ru_desc": "Очень удобный способ сделать активисты PETA счастливыми и одновременно получать чернила.\n\nПодсказка: эссенция в этих розах может быть полезной ..."
+		"ru_name": "Сохранить спрутов, мы должны",
+		"ru_desc": "Самый простой способ осчастливить активистов PETA, одновременно получая чернила.\n\nПодсказка: Эссенция в этих цветах вполне полезна..."
 	},
 	"261:10": {
 		"eng_name": "An Awesome Magic Conductor",
 		"eng_desc": "These tears, WOW! I've never felt something so strong. Could it be? Could I use those to actually finalize my Silverwood wand?",
-		"ru_name": "Потрясающий волшебный проводник",
-		"ru_desc": "Эти слезы, вау! Я никогда не чувствовал что-то сильное. Это может быть? Могу ли я использовать тех, кто на самом деле завершил свою серебряную палочку?"
+		"ru_name": "Невероятный магический проводник",
+		"ru_desc": "Эти слёзы, ОГО! Я никогда не ощущал ничего мощнее. Может это оно? Можно ли это использовать, чтобы наконец закончить работу над сребнодревесным жезлом?"
 	},
 	"262:10": {
 		"eng_name": "An Even Better Conductor?",
 		"eng_desc": "More... I want MOOORE! There must be something even stronger than the hydra. Something older, more ancient.",
-		"ru_name": "Еще лучше проводник?",
-		"ru_desc": "Подробнее ... Я хочу Mooore! Там должно быть что-то даже сильнее, чем гидра. Что-то старше, более древние."
+		"ru_name": "Проводник ещё мощнее?",
+		"ru_desc": "Больше... Мне нужно БОООЛЬШЕ! У нас точно есть что-то, что сильнее гидры. Что-то более древнее."
 	},
 	"263:10": {
 		"eng_name": "It Doesn't Work",
 		"eng_desc": "I tried to combine the lich bones I had with this new wand rod. The result: A pile of ashes. It crumbled to dust within seconds. I need a better conductor. The hydra in the Twilight Forest has the ability to regrow an entire head! Her blood must contain a large amount of magic. I guess I need a bit of that for my next wand.",
 		"ru_name": "Это не работает",
-		"ru_desc": "Я пытался объединить кости лича, которые у меня были с этим новым стерженью палочкой. Результат: куча пепла. Он рухнул до пыли в течение нескольких секунд. Мне нужен лучший проводник. Гидра в сумеречном лесу обладает способностью отражать целую голову! Ее кровь должна содержать большое количество магии. Я думаю, мне нужно немного этого для моей следующей палочки."
+		"ru_desc": "Я пытался прикрепить ранее полученные кости Лича к новому стержню. Итог: Кучка пыли. Они рассыпались в пыль за пару секунд. Нужен проводник получше. Гидра из Сумеречного леса может отрастить себе целую голову или две! Её кровь точно должна быть заряжена большими объёмами магии. Полагаю, это именно то, что нужно для нового жезла."
 	},
 	"272:10": {
 		"eng_name": "Best Wand Caps Ever",
 		"eng_desc": "Of course! Thaumium! What could conduct vis better than... a magical metal?",
-		"ru_name": "Лучшие колпаки",
-		"ru_desc": "Конечно! Тайм! Что может провести поправить лучше, чем ... волшебный металл?"
+		"ru_name": "Самые лучшие наконечники",
+		"ru_desc": "Естественно! Таум-металл! Что может быть лучшим проводником вис, чем... магический металл?"
 	},
 	"273:10": {
 		"eng_name": "She Let Go",
 		"eng_desc": "This blood seems pretty common, but she had advanced magic abilities. I'm sure I can use this as a medium.",
-		"ru_name": "Она отпустила",
-		"ru_desc": "Эта кровь кажется довольно распространенной, но у нее были развитые магические способности. Я уверен, что могу использовать это как среда."
+		"ru_name": "Она покинула нас",
+		"ru_desc": "На вид обычная кровь, но у неё огромные магические способности. Я уверен, вы можете использовать её как носитель вис."
 	},
 	"274:10": {
 		"eng_name": "Reactor Material",
 		"eng_desc": "This stuff is interesting... Maybe I can use it as a wand conductor?",
 		"ru_name": "Материал реактора",
-		"ru_desc": "Этот материал интересен ... Может быть, я могу использовать его как дирижер палочки?"
+		"ru_desc": "Этот материал интересен... Быть может, я могу использовать его как проводник?"
 	},
 	"276:10": {
 		"eng_name": "Bring it Home",
 		"eng_desc": "You probably have a nice collection of bookmarked nodes. But running around to recharge your wand(s) isn't really the way an adept thaumaturge should get his required vis. Moving nodes is not that hard, but without doubt, you need something to protect them from each other.",
-		"ru_name": "Принести его домой",
-		"ru_desc": "У вас, вероятно, хорошая коллекция узлов закладки. Но бегая, чтобы перезарядить вашу палочку (ы) на самом деле не так, как адепт тайкатаурге должен получить его необходимый. Перемещение узлов - это не так сложно, но без сомнения, вам нужно что-то, чтобы защитить их друг от друга."
+		"ru_name": "Притащите её домой",
+		"ru_desc": "Уверен, у вас уже есть немаленькая коллекция отмеченных узлов. Но бегать по миру перезаряжая жезл(ы) - точно не то, как адепт тауматургии должен получать вис. Перемещать узлы несложно, но вам точно нужно что-то, что поможет защитить их друг от друга."
 	},
 	"278:10": {
 		"eng_name": "Centi-vis Stuff",
 		"eng_desc": "You totally should get yourself some centi-vis things to transport and use the vis from stabilized nodes.",
-		"ru_name": "Центр-сила",
-		"ru_desc": "Вы полностью заставите себе какие-то вещи для транспортировки и использования по сравнению с стабилизированными узлами."
+		"ru_name": "Санти-вис и всё такое",
+		"ru_desc": "Вам определённо нужны разные штуки, связанные с санти-вис, для перемещения и использования вис из стабилизированных узлов."
 	},
 	"279:10": {
 		"eng_name": "The Dark Realm",
 		"eng_desc": "We found the way... my precious. We found it! Only need 4 tasty eyes, and some magic to open the door. The secret door, they didn't see it. Hehehe! All the time. It was there... Aaaall the time!",
-		"ru_name": "Темная царство",
-		"ru_desc": "Мы нашли путь ... мой драгоценный. Мы нашли это! Нужны только 4 вкусные глаза, а немного магии, чтобы открыть дверь. Секретная дверь, они этого не видели. Хехехе! Все время. Это было там ... Aaaaall The The Time!"
+		"ru_name": "Царство тьмы",
+		"ru_desc": "Мы нашли путь... мой дорогой. Мы нашли его! Всего лишь 4 вкусных глаза и капля магии, чтобы открыть проход. Секретный проход, ими его не увидеть. Ха-ха-ха! Всё это время. Он был здесь... Всёёёёё это время!"
 	},
 	"280:10": {
 		"eng_name": "They See Me, They Watch Me",
 		"eng_desc": "Eyes. Yes. Eyes! I need eyes, my precious. Not spidery ones, no. Nasty hairy things. Don't taste good. Eldritch eyes! I will rip those from their bodies.",
-		"ru_name": "Они видят меня, они смотрят на меня",
-		"ru_desc": "Глаза. да. Глаза! Мне нужны глаза, мой драгоценный. Не пятнистые, нет. Неприятные волосатые вещи. Не вкусное. Эльдрич глаза! Я разорву их из своих тел."
+		"ru_name": "Они видят меня, Они следят за мной",
+		"ru_desc": "Глаза. Да. Глаза! Мне нужны глаза, мой дорогой. Не паучьи, нет-нет. Гадкая волосатая дрянь. Невкусно. Глаза древних! Я вырву их из их тел."
 	},
 	"281:10": {
 		"eng_name": "Really (Really!) Dark Magic",
 		"eng_desc": "Fools. FOOLS I say! They know nothing! This book will guide me, yes. Yes it will, my precious. It will lead us to even more POWER!\n\nAvailable in your local bookstore, and also occasionally found on Crimson Knights and Crimson Clerics.",
-		"ru_name": "Действительно (действительно!) Темная магия",
-		"ru_desc": "Дураки. Дураки, я говорю! Они ничего не знают! Эта книга будет вести меня, да. Да, это будет, мой драгоценный. Это приведет нас к еще большему власти!\n\nДоступно в вашем местном книжном магазине, а также иногда найден на малиновых рыцарях и малиновых священниках."
+		"ru_name": "Действительно (Действительно!) тёмная магия",
+		"ru_desc": "Глупцы. Я сказал, ГЛУПЦЫ! Они ничего не понимают! Эта книга покажет мне путь, да. Это она и сделает, мой дорогой. Она приведёт нас к куда большей СИЛЕ!\n\nПродаётся в любом книжном, иногда падает из Багровых рыцарей и Багровых магов."
 	},
 	"283:10": {
 		"eng_name": "Find the Key",
 		"eng_desc": "No, nooo! They have hidden it! Must find the keeey. Must find it! We need the tablet to open the door my precious.",
-		"ru_name": "Найди ключ",
-		"ru_desc": "Нет, noooo! Они скрывали это! Должен найти Кеге. Должен найти это! Нам нужен таблетка, чтобы открыть дверь, мой драгоценный."
+		"ru_name": "Найти ключ",
+		"ru_desc": "Нет, нееет! Они спрятали его! Надо найти клюююч. Должен найти её! Мы должны найти скрижаль, чтобы открыть дверь, мой дорогой."
 	},
 	"287:10": {
 		"eng_name": "What Could Possibly Go Wrong?",
 		"eng_desc": "256 essentia in one block! Now that is what I call storage. Does make weird sounds, but I guess it's nothing special...",
-		"ru_name": "Что возможно могло пойти не так?",
-		"ru_desc": "256 Essentia в одном блоке! Теперь это то, что я называю хранением. Сделают странные звуки, но я думаю, что это ничего особенного ..."
+		"ru_name": "Что вообще может пойти не так?",
+		"ru_desc": "256 эссенции в одном блоке! Вот это я называю хранилище. Издаёт странные звуки, но это не страшно..."
 	},
 	"288:10": {
 		"eng_name": "Let's Try This",
 		"eng_desc": "Mortals. Pah. What do they know about REAL power. The voices tell me I need to focus on alienis and tenebrae if I want to advance. So what about food?",
 		"ru_name": "Давайте попробуем это",
-		"ru_desc": "Смертные. ПаунЧто они знают о реальной власти. Голоса говорят мне, что мне нужно сосредоточиться на Alienis и Tenebrae, если я хочу продвинуться. Так как насчет еды?"
+		"ru_desc": "Смертные. Фи. Что они вообще знают о НАСТОЯЩЕЙ силе. Голоса говорят мне, что я должен сосредоточиться на Alienis и Tenebrae, если я хочу развиваться. Так и что же насчёт еды?"
 	},
 	"289:10": {
 		"eng_name": "An Appropriate Weapon",
 		"eng_desc": "My new armor needs an appropriate weapon to go along with. I should make something to fire creatures of the nether at enemies!",
 		"ru_name": "Подходящее оружие",
-		"ru_desc": "Моя новая броня нуждается в подходящем оружии, чтобы идти вместе с. Я должен сделать что-то, чтобы зажечь существа из Ниты в врагов!"
+		"ru_desc": "Мне нужно оружие под стать моей новой броне. Мне точно стоит сделать что-то, что швыряет пламененных созданий ада в врагов!"
 	},
 	"292:10": {
 		"eng_name": "Slightly Better",
 		"eng_desc": "Wood is somewhat better than straw. They are still to be considered weak, but an ideal little cutie for farms.",
-		"ru_name": "Немного лучше",
-		"ru_desc": "Дерево несколько лучше, чем солома. Они все еще считаются слабыми, но и идеальной маленькой милачей для ферм."
+		"ru_name": "Чуть получше",
+		"ru_desc": "Дерево немного лучше соломы. Деревянные големы всё ещё считаются слабыми, но хороши как милашки для ферм."
 	},
 	"293:10": {
 		"eng_name": "Sticks and Stones...",
 		"eng_desc": "...will break your bones! These guys are hard as rock (Insert audience laugh here) and will protect your claim as good as possible.",
 		"ru_name": "Палки и камни...",
-		"ru_desc": "... сломает твои кости! Эти парни сложно, как рок (вставьте здесь зрителей) и защитит вашу претензию максимально хорошо."
+		"ru_desc": "...сломают ваши кости! Эти ребята прочны как камень (вставьте сюда закадровый смех) и защитят ваши имения настолько хорошо, насколько возможно."
 	},
 	"295:10": {
 		"eng_name": "Essentia Storage",
 		"eng_desc": "Sure, you could just go with gazillions of jars, but it's way more convenient to store essentia in a chest or barrel. Isn't it?",
-		"ru_name": "Склад сущности",
-		"ru_desc": "Конечно, вы могли бы просто пойти с газиллионами банок, но это удобнее хранить Essentia в груди или бочке. Не так ли?"
+		"ru_name": "Хранение эссенции",
+		"ru_desc": "Ну да, вы можете просто иметь миллиарды банок, но ведь куда удобнее хранить эссенцию в сундуках или бочках, не так ли?"
 	},
 	"297:10": {
 		"eng_name": "Magical Item Teleportation",
 		"eng_desc": "It's annoying to do, but you can teleport items with this. Check the thaumonomicon for details.",
-		"ru_name": "Телепортация магических предметов",
-		"ru_desc": "Это раздражает, но вы можете телепортировать предметы с его помощью. Подробности можно узнать в Таумономиконе.."
+		"ru_name": "Магическая телепортация предметов",
+		"ru_desc": "Раздражает делать их, но они могут телепортировать вещи. Читайте таумономикон для подробностей."
 	},
 	"299:10": {
 		"eng_name": "Essentia Monitoring",
