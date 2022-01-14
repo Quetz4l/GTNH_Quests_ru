@@ -2561,114 +2561,114 @@
         "ru_name": "Ужасный верстак",
         "ru_desc": "Крафтовый стол 9x9 из Avaritia... больше не используется для изготовления ракетов :(. Но вы все равно можете сделать их, если хотите солнечные, кинетически или другие генераторы. В первую очередь вам нужен 81 крефтовый сто, чтобы сделать крафтовые столы двойной платности, несколько HV компонентов, подложки и кристаллическая матрица. И да, вам нужно много адских звезд."
     },
-	"810:10": {
-		"eng_name": "Rocket Tier 1",
-		"eng_desc": "After hours of hard work and a few stacks of TNT your first rocket is finally ready. But before you can go to the Moon you need to actually craft it.",
-		"ru_name": "Ракетный уровень 1.",
-		"ru_desc": "После нескольких часов тяжелой работы и нескольких стеков TNT ваша первая ракета наконец готова. Но прежде чем вы сможете пойти на Луну, вам нужно на самом деле решить это."
-	},
-	"811:10": {
-		"eng_name": "Tier 1 Control Computer",
-		"eng_desc": "Each rocket needs a Control Computer, appropriate to the tier of the rocket.",
-		"ru_name": "Уровень 1 контрольный компьютер",
-		"ru_desc": "Каждая ракета нуждается в контрольном компьютере, подходящий для уровня ракеты."
-	},
-	"812:10": {
-		"eng_name": "Tier 1 Heavy Duty Plates",
-		"eng_desc": "Rockets require heavy duty plates for the main hull. Let's craft 37 of these plates out of compressed aluminium plates, compressed bronze plates and compressed steel plates.",
-		"ru_name": "Уровень 1 сверхмощных тарелок",
-		"ru_desc": "Ракеты требуют сверхмощных тарелок для главного корпуса. Давайте ремесло 37 из этих пластин из сжатых алюминиевых пластин, сжатых бронзовых пластин и сжатых стальных пластин."
-	},
-	"813:10": {
-		"eng_name": "Rocket Nose Cone",
-		"eng_desc": "Every rocket needs a nose cone.",
-		"ru_name": "Ракетный конус носа",
-		"ru_desc": "Каждая ракета нуждается в носу конуса."
-	},
-	"814:10": {
-		"eng_name": "Rocket Fins",
-		"eng_desc": "Every rocket needs a few rocket fins.",
-		"ru_name": "Ракетные плавники",
-		"ru_desc": "Каждая ракета нуждается в нескольких ракетных плавниках."
-	},
-	"815:10": {
-		"eng_name": "Rocket Engine",
-		"eng_desc": "Every rocket needs a rocket engine. Better craft two, because the Moon lander needs one also.",
-		"ru_name": "Ракетный двигатель",
-		"ru_desc": "Каждая ракета нуждается в ракетном двигателе. Лучшее ремесло два, потому что нуждается в Луне Ландер также."
-	},
-	"817:10": {
-		"eng_name": "Buggy Seat",
-		"eng_desc": "The buggy seat is part of the Moon lander and the Moon buggy.",
-		"ru_name": "Багги",
-		"ru_desc": "Баггиское сиденье является частью Луны Ландера и Луны Багги."
-	},
-	"818:10": {
-		"eng_name": "Frequency Module",
-		"eng_desc": "The frequency Module will help you hear sounds properly while in space (it's also used with the telemetry unit so that your buddies can keep track of you from your base, if you are playing with friends). You need it in your inventory and in the Moon lander.",
-		"ru_name": "Частотный модуль",
-		"ru_desc": "Частотный модуль поможет вам правильно слышать звуки в пространстве (он также используется с телеметрическим устройством, чтобы ваши друзья могли отслеживать вас от вашей базы, если вы играете с друзьями). Вам нужно это в своем инвентаре и в Лунном Ландере."
-	},
-	"819:10": {
-		"eng_name": "Small Fuel Canister",
-		"eng_desc": "Every rocket needs fuel storage canisters. For the tier 1 rocket you need to craft two of them.",
-		"ru_name": "Маленькая топливная канистра",
-		"ru_desc": "Каждая ракета нуждается в хранениях топлива для хранения топлива. Для ракеты уровня 1 вам нужно создавать два из них."
-	},
-	"820:10": {
-		"eng_name": "Rocket Launch Pad",
-		"eng_desc": "Every rocket needs a launch pad. Build a 3x3 launch pad and place your rocket on top of it.\n\nStorms and other events that affect entities can knock your rocket off (but not lightning warp anymore), so make sure to not leave it alone.\n\n§4Before liftoff, make sure you clear the airspace above you! Even clouds...\n\nBe sure to checkout https://gtnh.miraheze.org/wiki/Rockets for a Departure Checklist!\n\nAlso note that they emit pollution, lots of it. So either put it far from your base, or use a scrubber while launching. You probably won't have to worry until T4 or so though.",
-		"ru_name": "Ракетная площадка запуска",
-		"ru_desc": "Каждая ракета нуждается в запусковой площадке. Постройте запускную площадку 3x3 и поместите свою ракету на него.\n\nШтормы и другие события, которые влияют на сущности, могут выключить вашу ракетость (но больше не молнии), поэтому убедитесь, что не оставьте его в покое.\n\nПеред подъемом убедитесь, что вы очистите воздушное пространство над вами! Даже облака ...\n\nОбязательно оформить заказ https://gtnh.miraheze.org/wiki/rockets для контрольного списка отъезда!\n\nТакже обратите внимание, что они излучают загрязнение, много этого. Так что либо положите его далеко от вашей базы, либо используйте скруббер при запуске. Вам, вероятно, не придется беспокоиться до T4 или так хоть."
-	},
-	"822:10": {
-		"eng_name": "Oxygen Gear",
-		"eng_desc": "Oxygen gear is used to attach oxygen tanks to the oxygen mask. This is absolutely vital for any astronaut.",
-		"ru_name": "Кислородное снаряжение",
-		"ru_desc": "Кислородное снаряжение используется для присоединения кислородных резервуаров к кислородной маске. Это абсолютно жизненно важно для любого астронавта."
-	},
-	"823:10": {
-		"eng_name": "Oxygen Mask",
-		"eng_desc": "The oxygen mask is part of the system used to breathe on planets without oxygen, the others being oxygen gear and oxygen tanks.",
-		"ru_name": "Кислородная маска",
-		"ru_desc": "Оксиологическая маска является частью системы, используемой для дыхания планет без кислорода, другие являются кислородными зубчатыми и кислородными резервуарами."
-	},
-	"828:10": {
-		"eng_name": "Oxygen Collector",
-		"eng_desc": "The oxygen collector is a block that gathers oxygen from leaves and farm plants to use in an oxygen bubble distributor, oxygen sealer, oxygen compressor, and other oxygen-reliant machines. If you plan to build a Moon base, which needs a continuous oxygen supply, you will need to build one.",
-		"ru_name": "Кислородный коллектор",
-		"ru_desc": "Кислородный коллектор представляет собой блок, который собирает кислород из листьев и сельскохозяйственных растений для использования в распределителю кислородных пузырьков, кислородным герметиком, кислородным компрессором и другими кислородными машинами. Если вы планируете построить лунную базу, которая нуждается в постоянном подаче кислорода, вам нужно будет построить один."
-	},
-	"829:10": {
-		"eng_name": "Oxygen Compressor",
-		"eng_desc": "The oxygen compressor is used to fill empty or depleted oxygen tanks. Connect an oxygen pipe to the blue ring input side and a power source to the grey square input side. Place an oxygen tank in the bottom right slot and it will take oxygen from the input and place it into the tank.",
-		"ru_name": "Оксиологический компрессор",
-		"ru_desc": "Оксиологический компрессор используется для заполнения пустых или обедненных кислородных резервуаров. Подсоедините кислородную трубу к синему кольцу входной стороне и источником питания к боковой стороне серого квадрата. Поместите кислородный бак в нижнем правом слоте, и он возьмет кислород от ввода и поместите его в резервуар."
-	},
-	"830:10": {
-		"eng_name": "Parachute",
-		"eng_desc": "A parachute is used to prevent death upon re-entry into the Overworld's atmosphere. The parachute is an essential part of your journey to space. You should never journey into space without it. There will even be a warning if you try to launch without one on you.\n\nUse the assembler to save materials.",
-		"ru_name": "Парашют",
-		"ru_desc": "Парашют используется для предотвращения смерти после ввода в атмосферу сверхромба. Парашют является неотъемлемой частью вашего путешествия в космос. Вы никогда не должны путешествовать в космос без него. Будет даже предупреждение, если вы попытаетесь запустить без одного на вас.\n\nИспользуйте ассемблер, чтобы сохранить материалы."
-	},
-	"831:10": {
-		"eng_name": "Advanced Wafers",
-		"eng_desc": "The advanced wafer is used for more advanced machines such as the advanced solar panel or the Avaritia dire crafting table. It is also used in the creation of a space station.",
-		"ru_name": "Продвинутые вафли",
-		"ru_desc": "Усовершенствованная вафля используется для более продвинутых машин, таких как продвинутая солнечная панель или таблица крафта. Он также используется в создании космической станции."
-	},
-	"832:10": {
-		"eng_name": "Wafers",
-		"eng_desc": "The basic wafer is used for creating basic machines such as the basic solar panel, the fuel loader, the energy storage module and the compressor.",
-		"ru_name": "Вафли",
-		"ru_desc": "Основная вафля используется для создания основных машин, таких как основная солнечная панель, топливный погрузчик, модуль хранения энергии и компрессор."
-	},
-	"833:10": {
-		"eng_name": "Purge Your Warp",
-		"eng_desc": "The warp you have accumulated over time is starting to become a problem. Making bath salts to clean off the warp is only a temporary solution. To truly get rid of it, you need something more powerful, a pure tear. If you collect a few things for me, I will give you one. Think wisely about using it, since it's a very long journey to unlock it through research.\n\n§3PS: You need IV power for the osmiridium.",
-		"ru_name": "Очистить свою деформацию",
-		"ru_desc": "Варп, который вы накопили со временем, начинают становиться проблемой. Соли для ванн для очистки деформации - это только временное решение. Действительно избавиться от этого, вам нужно что-то более мощное, чистую слезу. Если вы собираете несколько вещей для меня, я дам вам один. Думайте мудро о его использовании, так как это очень долгое путешествие, чтобы разблокировать его через исследования.\n\nPS: Вам нужна IV Power для осмиридия."
-	},
+    "810:10": {
+        "eng_name": "Rocket Tier 1",
+        "eng_desc": "After hours of hard work and a few stacks of TNT your first rocket is finally ready. But before you can go to the Moon you need to actually craft it.",
+        "ru_name": "Ракета 1 тира",
+        "ru_desc": "После нескольких часов тяжелой работы и нескольких стеков TNT, ваша первая ракета наконец готова. Но прежде чем вы сможете пойти на Луну, вам нужно на самом деле скрафтить её."
+    },
+    "811:10": {
+        "eng_name": "Tier 1 Control Computer",
+        "eng_desc": "Each rocket needs a Control Computer, appropriate to the tier of the rocket.",
+        "ru_name": "Контрольный компьютер 1 тира",
+        "ru_desc": "Каждая ракета нуждается в контрольном компьютере, подходящем для уровня ракеты."
+    },
+    "812:10": {
+        "eng_name": "Tier 1 Heavy Duty Plates",
+        "eng_desc": "Rockets require heavy duty plates for the main hull. Let's craft 37 of these plates out of compressed aluminium plates, compressed bronze plates and compressed steel plates.",
+        "ru_name": "Сверхпрочное покрытие 1 тира",
+        "ru_desc": "Ракеты требуют сверхмощное покрытие для главного корпуса. Давайте сделаем 37 этих пластин из сжатых алюминиевых пластин, сжатых бронзовых пластин и сжатых стальных пластин."
+    },
+    "813:10": {
+        "eng_name": "Rocket Nose Cone",
+        "eng_desc": "Every rocket needs a nose cone.",
+        "ru_name": "Носовой конус ракеты",
+        "ru_desc": "Каждая ракета нуждается в носовом конусе."
+    },
+    "814:10": {
+        "eng_name": "Rocket Fins",
+        "eng_desc": "Every rocket needs a few rocket fins.",
+        "ru_name": "Оперение ракеты",
+        "ru_desc": "Каждая ракета нуждается в нескольких элементах оперения."
+    },
+    "815:10": {
+        "eng_name": "Rocket Engine",
+        "eng_desc": "Every rocket needs a rocket engine. Better craft two, because the Moon lander needs one also.",
+        "ru_name": "Ракетный двигатель",
+        "ru_desc": "Каждая ракета нуждается в ракетном двигателе. Лучшее сделать два, потому что модуль посадки на Луну тоже нуждается в нем."
+    },
+    "817:10": {
+        "eng_name": "Buggy Seat",
+        "eng_desc": "The buggy seat is part of the Moon lander and the Moon buggy.",
+        "ru_name": "Багги",
+        "ru_desc": "Кресло багги является частью Модуля посадки на Луну и Лунного багги."
+    },
+    "818:10": {
+        "eng_name": "Frequency Module",
+        "eng_desc": "The frequency Module will help you hear sounds properly while in space (it's also used with the telemetry unit so that your buddies can keep track of you from your base, if you are playing with friends). You need it in your inventory and in the Moon lander.",
+        "ru_name": "Частотный модуль",
+        "ru_desc": "Частотный модуль поможет вам правильно слышать звуки в пространстве (он также используется с телеметрическим устройстве, чтобы ваши друзья могли отслеживать вас из вашей базы, если вы играете с друзьями). Вам нужен один в своем инвентаре, и второй в Модуле посадки на Луну."
+    },
+    "819:10": {
+        "eng_name": "Small Fuel Canister",
+        "eng_desc": "Every rocket needs fuel storage canisters. For the tier 1 rocket you need to craft two of them.",
+        "ru_name": "Маленькая топливная канистра",
+        "ru_desc": "Каждая ракета нуждается в хранилищах топлива. Для ракеты уровня 1 вам нужно создавать два."
+    },
+    "820:10": {
+        "eng_name": "Rocket Launch Pad",
+        "eng_desc": "Every rocket needs a launch pad. Build a 3x3 launch pad and place your rocket on top of it.\n\nStorms and other events that affect entities can knock your rocket off (but not lightning warp anymore), so make sure to not leave it alone.\n\n§4Before liftoff, make sure you clear the airspace above you! Even clouds...\n\nBe sure to checkout https://gtnh.miraheze.org/wiki/Rockets for a Departure Checklist!\n\nAlso note that they emit pollution, lots of it. So either put it far from your base, or use a scrubber while launching. You probably won't have to worry until T4 or so though.",
+        "ru_name": "Площадка запуска ракеты",
+        "ru_desc": "Каждая ракета нуждается в пусковой площадке. Постройте пусковую площадку 3x3 и поместите свою ракету на неё.\n\nШтормы и другие события, которые влияют на сущности, могут сбить вашу ракету (но больше не молнии), поэтому убедитесь, что не оставьте её без присмотра.\n\n§4Перед запусуком убедитесь, что вы очистите воздушное пространство над вами! Даже облака...\n\nОбязательно сверьтесь с https://gtnh.miraheze.org/wiki/rockets для предполетной подготовки!\n\nТакже обратите внимание, что ракеты во время запуска создают загрязнение, очень много. Так что либо производите запуск далеко от вашей базы, либо используйте какие-либо системы очистки чанков. Вам, вероятно, не придется беспокоиться об это до T4 или около того."
+    },
+    "822:10": {
+        "eng_name": "Oxygen Gear",
+        "eng_desc": "Oxygen gear is used to attach oxygen tanks to the oxygen mask. This is absolutely vital for any astronaut.",
+        "ru_name": "Кислородное снаряжение",
+        "ru_desc": "Кислородное снаряжение используется для присоединения кислородных резервуаров к кислородной маске. Это абсолютно жизненно важно для любого астронавта."
+    },
+    "823:10": {
+        "eng_name": "Oxygen Mask",
+        "eng_desc": "The oxygen mask is part of the system used to breathe on planets without oxygen, the others being oxygen gear and oxygen tanks.",
+        "ru_name": "Кислородная маска",
+        "ru_desc": "Кислородная маска является частью системы, используемой для дыхания на планетах без кислорода, другими частями являются кислородное снаряжение и кислородные баллоны."
+    },
+    "828:10": {
+        "eng_name": "Oxygen Collector",
+        "eng_desc": "The oxygen collector is a block that gathers oxygen from leaves and farm plants to use in an oxygen bubble distributor, oxygen sealer, oxygen compressor, and other oxygen-reliant machines. If you plan to build a Moon base, which needs a continuous oxygen supply, you will need to build one.",
+        "ru_name": "Сборщик кислорода",
+        "ru_desc": "Сборщик кислорода представляет собой блок, который собирает кислород из листьев и сельскохозяйственных растений для использования в распределителе кислородных пузырей, кислородном гермозатворе, кислородным компрессоре и другими кислородных машинами. Если вы планируете построить лунную базу, которая нуждается в постоянной подаче кислорода, вам нужно будет построить один."
+    },
+    "829:10": {
+        "eng_name": "Oxygen Compressor",
+        "eng_desc": "The oxygen compressor is used to fill empty or depleted oxygen tanks. Connect an oxygen pipe to the blue ring input side and a power source to the grey square input side. Place an oxygen tank in the bottom right slot and it will take oxygen from the input and place it into the tank.",
+        "ru_name": "Кислородный компрессор",
+        "ru_desc": "Кислородный компрессор используется для заполнения пустых или отработанных кислородных баллонов. Подсоедините кислородную трубу к стороне с синим кольцом, и источник питания к стороне с серым квадратом. Поместите кислородный баллон в нижний правый слот, и он переместит кислород от ввода в баллон."
+    },
+    "830:10": {
+        "eng_name": "Parachute",
+        "eng_desc": "A parachute is used to prevent death upon re-entry into the Overworld's atmosphere. The parachute is an essential part of your journey to space. You should never journey into space without it. There will even be a warning if you try to launch without one on you.\n\nUse the assembler to save materials.",
+        "ru_name": "Парашют",
+        "ru_desc": "Парашют используется для предотвращения смерти после входа в атмосферу планеты. Парашют является неотъемлемой частью вашего путешествия в космос. Вы никогда не должны путешествовать в космос без него. Будет даже предупреждение, если вы попытаетесь запустить ракету без парашюта на вас.\n\nИспользуйте ассемблер, чтобы сэкономить материалы."
+    },
+    "831:10": {
+        "eng_name": "Advanced Wafers",
+        "eng_desc": "The advanced wafer is used for more advanced machines such as the advanced solar panel or the Avaritia dire crafting table. It is also used in the creation of a space station.",
+        "ru_name": "Продвинутые подложки",
+        "ru_desc": "Продвинутые подложки используется для более продвинутых машин, таких как продвинутая солнечная панель или Ужасный Верстак из Avaritia. Они также используется в создании космической станции."
+    },
+    "832:10": {
+        "eng_name": "Wafers",
+        "eng_desc": "The basic wafer is used for creating basic machines such as the basic solar panel, the fuel loader, the energy storage module and the compressor.",
+        "ru_name": "Подложки",
+        "ru_desc": "Базовые подложки используется для создания базовых машин, таких как базовая солнечная панель, топливный загрузчик, модуль хранения энергии и компрессор."
+    },
+    "833:10": {
+        "eng_name": "Purge Your Warp",
+        "eng_desc": "The warp you have accumulated over time is starting to become a problem. Making bath salts to clean off the warp is only a temporary solution. To truly get rid of it, you need something more powerful, a pure tear. If you collect a few things for me, I will give you one. Think wisely about using it, since it's a very long journey to unlock it through research.\n\n§3PS: You need IV power for the osmiridium.",
+        "ru_name": "Очистите ваш варп",
+        "ru_desc": "Варп, который вы накопили со временем, начинают становиться проблемой. Соли для ванн для очистки варпа - это только временное решение. Чтобы действительно избавиться от этого, вам нужно что-то более мощное, чистая слеза. Если вы собираете несколько вещей для меня, я дам вам одну. Мудро обдумайте её использование, так как это очень долгое путешествие, чтобы разблокировать её через исследования.\n\n§3PS: Вам нужно напряжение IV тира для осмоиридия."
+    },
 	"837:10": {
 		"eng_name": "§6§lILC and RAM",
 		"eng_desc": "Advanced circuits need integrated logic circuits and random access memory chips.\nYou can get those by cutting the ILC and RAM wafers.",
