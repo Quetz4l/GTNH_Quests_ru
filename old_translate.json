@@ -663,7 +663,7 @@
 		"eng_name": "Fuuuuuu...(sion)!",
 		"eng_desc": "Your arcane table does a great job with infusing primal vis into items while crafting. However, you feel that there must be more. What if you could infuse items with all kinds of magic aspects? The possibilities are endless...",
 		"ru_name": "Ссссс...(лияние)!",
-		"ru_desc": "Ваш магический верстак проделал неплохую работу, заряжая ваши рецепты базовыми аспектами. Но ведь наверняка можно и лучше. Что ж будет, если заряжать вещи любыми видами магических аспектов? Возможности безграничны..."
+		"ru_desc": "Ваш магический верстак проделал неплохую работу, наполняя ваши рецепты базовыми аспектами. Но ведь наверняка можно и лучше. Что ж будет, если наполнять вещи любыми видами магических аспектов? Возможности безграничны..."
 	},
 	"240:10": {
 		"eng_name": "Essentia Cooking",
@@ -849,193 +849,193 @@
 		"eng_name": "Magical Item Teleportation",
 		"eng_desc": "It's annoying to do, but you can teleport items with this. Check the thaumonomicon for details.",
 		"ru_name": "Магическая телепортация предметов",
-		"ru_desc": "Раздражает делать их, но они могут телепортировать вещи. Читайте таумономикон для подробностей."
+		"ru_desc": "Раздражающее занятие, но с ними можно телепортировать вещи. Читайте таумономикон для подробностей."
 	},
 	"299:10": {
 		"eng_name": "Essentia Monitoring",
 		"eng_desc": "Manually checking your jars can be tedious, especially if you want to infuse a bunch of stuff at once. Luckily, the essentia locus can help you with that, as it monitors all jars that have been targeted with a crystalline eye.",
-		"ru_name": "Мониторинг сущности",
-		"ru_desc": "Вручную проверка ваших банок может быть утомительным, особенно если вы хотите нанести кучу вещи одновременно. К счастью, Locus Essentia может помочь вам с этим, поскольку он контролирует все банки, которые были нацелены с кристаллическим глазом."
+		"ru_name": "Мониторинг эссенций",
+		"ru_desc": "Как-то скучновато проверять банки вручную, особенно если вам нужно наполнить кучу вещей за раз. Повезло, что у вас есть Место эссенции, решающее эту проблему, "
 	},
 	"302:10": {
 		"eng_name": "Useful Plant Life",
 		"eng_desc": "While regular plants are mostly used to make food, you are wondering if you could get some... \"more useful\" plant life going...",
-		"ru_name": "Полезное растение жизни",
-		"ru_desc": "В то время как регулярные растения в основном используются для производства еды, вам интересно, если бы вы могли получить немного ... «Полезнее» посадочная жизнь ..."
+		"ru_name": "Полезная растительность",
+		"ru_desc": "Хоть обычные растения и используются, в первую очередь, для добычи еды, но интересно, есть ли чутка... \"более полезные\" растения..."
 	},
 	"303:10": {
 		"eng_name": "Pushing the Limits",
 		"eng_desc": "Regular enchantments have a limit, like III for Fortune. Utilizing magic, you should be able to bypass that limitation, at least a tiny bit; Eventually creating enchantments like Fortune IV. It comes with limitations, but your book shall tell you more about those.",
-		"ru_name": "Толкая пределы",
-		"ru_desc": "Регулярные чары имеют ограничение, как III для удачи. Использование магии, вы должны быть в состоянии обойти это ограничение, по крайней мере, крошечный бит;В конечном итоге создавая чары, такие как Fortune IV. Он поставляется с ограничениями, но ваша книга расскажет вам больше о тех."
+		"ru_name": "Расширяя лимиты",
+		"ru_desc": "Стандартные зачарования имеют ограничения, вроде 3 для Удачи. Используя магию вы можете обходить эти ограничения, хоть и не значительно; В итоге создавая зачарования вроде Удачи 4. Некоторые ограничения всё же есть, но подробнее об этом вам расскажет книга."
 	},
 	"304:10": {
 		"eng_name": "Enchanting Like a Pro",
 		"eng_desc": "Finally, a device where you can actually choose which enchantments you want to have. Powered by vis, it can create the most powerful combinations one could imagine.",
-		"ru_name": "Очаровательный, как профессионал",
-		"ru_desc": "Наконец, устройство, где вы на самом деле можете выбрать, какие чары вы хотите иметь. Работает на Vis, он может создать самые мощные комбинации, которые можно себе представить."
+		"ru_name": "Зачаровывая как профи",
+		"ru_desc": "Наконец-то, устройство, которое позволит вам действительно выбирать нужные зачарования. Он может создавать самые мощные комбинации, которые вы можете представить, лишь запитайте его вис."
 	},
 	"305:10": {
 		"eng_name": "Crying Obsidian...",
 		"eng_desc": "...it mourns the dead. This might come in handy for some cases. By placing 2 on top of each other, you're able to set your respawn point to that location, without the need for a bed. It's up to you to imagine the possibilities...",
-		"ru_name": "Плачущий обсидиан ...",
-		"ru_desc": "... это оплакивает мертвых. Это может пригодиться для некоторых случаев. Размещая 2 друг на друга, вы можете установить вашу точку зрения в это место, без необходимости в кровати. Вам решать представить возможности ..."
+		"ru_name": "Плачущий обсидиан...",
+		"ru_desc": "...оплакивает ушедших. Может пригодиться в некоторых ситуациях. Вы сможете устанавливать точку возрождения без кровати, если разместите два таких блока друг на друге. Но придумать как это вообще использовать - уже ваша задача..."
 	},
 	"306:10": {
 		"eng_name": "Useful Trees",
 		"eng_desc": "Just like plants, there are trees that will attract various friendly and \"not so friendly\" creatures. (No warranty when placed in desolated biome!)",
 		"ru_name": "Полезные деревья",
-		"ru_desc": "Также как растения, есть деревья, которые привлекут различные дружеские и «не так дружелюбные» существа.(Нет гарантии при размещении в устаревшем биоме!)"
+		"ru_desc": "Как и с растениями, у нас есть деревья, которые могут привлекать разных дружелюбных и \"не очень дружелюбных\" существ."
 	},
 	"307:10": {
 		"eng_name": "The Power of Gods",
 		"eng_desc": "The pearl you've found has some interesting effects on you. Not only are the voices almost gone, somehow it has also expanded your perception. You can \"feel\" the magic around you. This is definitely worth some further investigation.",
-		"ru_name": "Сила богов",
-		"ru_desc": "Жемчужина, которую вы нашли, имеет некоторые интересные эффекты на вас. Не только голоса почти ушли, как-то, что также расширило ваше восприятие. Вы можете «почувствовать» волшебство вокруг вас. Это определенно стоит некоторого дальнейшего расследования."
+		"ru_name": "Божественные силы",
+		"ru_desc": "Кажется, найденная вами жемчужина достаточно необычно на вас влияет. Не только голоса покинули ваш рассудок, но и ваше восприятие расширилось. Вы можете \"чувствовать\" магию вокруг вас. Вам и правда стоит изучить её получше."
 	},
 	"308:10": {
 		"eng_name": "The Final Goal",
 		"eng_desc": "Thanks to your help I have managed to create the ultimate energy source: An encased wormhole that drains energy from a synthesized pocket universe, to the point when it reaches heat death. I have no use for it, so you may have it. Thank you for making my dream come true!",
-		"ru_name": "Конечная цель",
-		"ru_desc": "Благодаря вашей помощи мне удалось создать окончательный источник энергии: окончательный червоточину, который сливает энергию из синтезированной карманной вселенной, до точки, когда она достигает температуры нагрева. Я не пользуюсь этим, так что у вас может быть. Спасибо за то, что сделали мою мечту сбыться!"
+		"ru_name": "Последняя цель",
+		"ru_desc": "Благодаря тебе я смог создать абсолютный источник энергии: Заточённая в корпус червоточина, высасывающая энергию из искуственной карманной вселенной, до точки тепловой смерти. Мне она не нужна, так что забирай её. Спасибо, что исполнил мою мечту!"
 	},
 	"310:10": {
 		"eng_name": "Unleashed the Power - Cowl",
 		"eng_desc": "To make use of your armor to the fullest extent, you'll have to unleash its hidden power. This is not an easy task; But it's worth the effort!",
-		"ru_name": "Развязал силу - капюшон",
-		"ru_desc": "Чтобы использовать вашу броню в самой полной степени, вам придется раскрыть свою скрытую мощность. Это не легкая задача;Но стоит усилия!"
+		"ru_name": "Высвобождение силы - Капюшон",
+		"ru_desc": "Дабы использовать свою броню на полную, вам нужно высвободить её скрытые силы. Это непросто; Но это точно того стоит!"
 	},
 	"311:10": {
 		"eng_name": "Unbreakable Cowl",
 		"eng_desc": "It will never break. How convenient.",
-		"ru_name": "Нерушимый капот",
-		"ru_desc": "Это никогда не сломается. Насколько удобно."
+		"ru_name": "Неразрушимый капюшон",
+		"ru_desc": "Он никогда не сломается. Как удобно."
 	},
 	"312:10": {
 		"eng_name": "Unleashed the Power - Leggings",
 		"eng_desc": "To make use of your armor to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!",
-		"ru_name": "Развязал мощность - леггинсы",
-		"ru_desc": "Чтобы воспользоваться вашей броней в полной мере, вам придется раскрыть свою скрытую мощность. Это не легкая задача;Но это стоит все усилия!"
+		"ru_name": "Высвобождение силы - Шаровары",
+		"ru_desc": "Дабы использовать свою броню на полную, вам нужно высвободить её скрытые силы. Это непросто; Но это точно того стоит!"
 	},
 	"313:10": {
 		"eng_name": "Unbreakable Leggings",
 		"eng_desc": "They will never break. How convenient.",
-		"ru_name": "Нерушимые леггинсы",
-		"ru_desc": "Они никогда не сломаются. Насколько удобно."
+		"ru_name": "Неразрушимые шаровары",
+		"ru_desc": "Они никогда не сломаются. Как удобно."
 	},
 	"314:10": {
 		"eng_name": "Unleashed the Power - Robe",
 		"eng_desc": "To make use of your armor to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!",
-		"ru_name": "Развязал власть - халат",
-		"ru_desc": "Чтобы воспользоваться вашей броней в полной мере, вам придется раскрыть свою скрытую мощность. Это не легкая задача;Но это стоит все усилия!"
+		"ru_name": "Высвобождение силы - Роба",
+		"ru_desc": "Дабы использовать свою броню на полную, вам нужно высвободить её скрытые силы. Это непросто; Но это точно того стоит!"
 	},
 	"315:10": {
 		"eng_name": "Unbreakable Robe",
 		"eng_desc": "It will never break. How convenient.",
-		"ru_name": "Нерушимый халат",
-		"ru_desc": "Это никогда не сломается. Насколько удобно."
+		"ru_name": "Неразрушимая роба",
+		"ru_desc": "Она никогда не сломается. Как удобно.."
 	},
 	"316:10": {
 		"eng_name": "Infused Cloth",
 		"eng_desc": "By combining ichor with enchanted fabric, you've created something that could be compared to mithril. Light as wool, but durable like steel. Also, it conducts magic energy like nothing else you've seen before. This seems to be an excellent material for a new type of armor.",
 		"ru_name": "Наполненная ткань",
-		"ru_desc": "Объединяя Игор с зачарованной тканью, вы создали то, что можно сравнить с Мифрилом. Свет как шерсть, но прочный, как сталь. Кроме того, он ведет волшебную энергию, как ничто другое, вы видели раньше. Кажется, это отличный материал для нового типа брони."
+		"ru_desc": "Объединив ихор с зачарованной тканью, вы можете создать что-то, что можно сравнить с мифрилом. Легче шерсти, прочнее стали. При этом, она источает магическую энерги. невиданой силы. Звучит как великолепный материал для новой брони."
 	},
 	"317:10": {
 		"eng_name": "Unleashed the Power - Boots",
 		"eng_desc": "To make use of your armor to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!",
-		"ru_name": "Развязал мощность - сапоги",
-		"ru_desc": "Чтобы воспользоваться вашей броней в полной мере, вам придется раскрыть свою скрытую мощность. Это не легкая задача;Но это стоит все усилия!"
+		"ru_name": "Высвобождение силы - Сапоги",
+		"ru_desc": "Дабы использовать свою броню на полную, вам нужно высвободить её скрытые силы. Это непросто; Но это точно того стоит!"
 	},
 	"318:10": {
 		"eng_name": "Unbreakable Boots",
 		"eng_desc": "They will never break. How convenient.",
-		"ru_name": "Неразрушимые ботинки",
-		"ru_desc": "Они никогда не сломаются. Насколько удобно."
+		"ru_name": "Неразрушимые сапоги",
+		"ru_desc": "Они никогда не сломаются. Как удобно."
 	},
 	"319:10": {
 		"eng_name": "Unbreakable Axe",
 		"eng_desc": "An axe made of your new metal will never break and will accept enchantments with ease. Something tells you there must be more...",
-		"ru_name": "Нерушимый топор",
-		"ru_desc": "Топор, изготовленный из вашего нового металла, никогда не нарушится и будет легко принять чары. Что-то говорит вам, что должно быть больше ..."
+		"ru_name": "Неразрушимый топор",
+		"ru_desc": "Топор, созданный из нового металла, никогда не сломается и легко принимает любые зачарования. Но что-то подсказывает вам, что это не предел..."
 	},
 	"321:10": {
 		"eng_name": "Unbreakable Sword",
 		"eng_desc": "A sword made of your new metal will never break and will accept enchantments with ease. Something tells you there must be more...",
-		"ru_name": "Нерушимый меч",
-		"ru_desc": "Меч из вашего нового металла никогда не нарушится и примет приветствие с легкостью. Что-то говорит вам, что должно быть больше ..."
+		"ru_name": "Неразрушимый меч",
+		"ru_desc": "Меч, созданный из нового металла, никогда не сломается и легко принимает любые зачарования. Но что-то подсказывает вам, что это не предел..."
 	},
 	"322:10": {
 		"eng_name": "Unbreakable Pickaxe",
 		"eng_desc": "A pickaxe made of your new metal will never break and will accept enchantments with ease. Something tells you there must be more...",
-		"ru_name": "Неразрушиваемая кирка",
-		"ru_desc": "Пикабель из вашего нового металла никогда не нарушится и будет легко принять чары. Что-то говорит вам, что должно быть больше ..."
+		"ru_name": "Неразрушимая кирка",
+		"ru_desc": "Кирка, созданная из нового металла, никогда не сломается и легко принимает любые зачарования. Но что-то подсказывает вам, что это не предел..."
 	},
 	"323:10": {
 		"eng_name": "Unbreakable Shovel",
 		"eng_desc": "A shovel made of your new metal will never break and will accept enchantments with ease. Something tells you there must be more...",
-		"ru_name": "Неразружная лопата",
-		"ru_desc": "Лопата из вашего нового металла никогда не нарушится и будет легко принять чары. Что-то говорит вам, что должно быть больше ..."
+		"ru_name": "Неразрушимая лопата",
+		"ru_desc": "Лопата, созданная из нового металла, никогда не сломается и легко принимает любые зачарования. Но что-то подсказывает вам, что это не предел..."
 	},
 	"324:10": {
 		"eng_name": "Unleashed the Power - Sword",
 		"eng_desc": "To make use of your tool to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!",
-		"ru_name": "Развязал силу - меч",
-		"ru_desc": "Чтобы использовать ваш инструмент в полной мере, вам придется раскрыть свою скрытую мощность. Это не легкая задача;Но это стоит все усилия!"
+		"ru_name": "Высвобождение силы - меч",
+		"ru_desc": "Дабы использовать свой инструмент на полную, вам нужно высвободить его скрытые силы. Это непросто; Но это точно того стоит!"
 	},
 	"325:10": {
 		"eng_name": "Unleashed the Power - Shovel",
 		"eng_desc": "To make use of your tool to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!",
-		"ru_name": "Развязал власть - лопата",
-		"ru_desc": "Чтобы использовать ваш инструмент в полной мере, вам придется раскрыть свою скрытую мощность. Это не легкая задача;Но это стоит все усилия!"
+		"ru_name": "Высвобождение силы - лопата",
+		"ru_desc": "Дабы использовать свой инструмент на полную, вам нужно высвободить его скрытые силы. Это непросто; Но это точно того стоит!"
 	},
 	"326:10": {
 		"eng_name": "Unleashed the Power - Axe",
 		"eng_desc": "To make use of your tool to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!",
-		"ru_name": "Развязал силу - топор",
-		"ru_desc": "Чтобы использовать ваш инструмент в полной мере, вам придется раскрыть свою скрытую мощность. Это не легкая задача;Но это стоит все усилия!"
+		"ru_name": "Высвобождение силы - топор",
+		"ru_desc": "Дабы использовать свой инструмент на полную, вам нужно высвободить его скрытые силы. Это непросто; Но это точно того стоит!"
 	},
 	"327:10": {
 		"eng_name": "Unleashed the Power - Pickaxe",
 		"eng_desc": "To make use of your tool to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!",
-		"ru_name": "Разблокировал мощность - киркул",
-		"ru_desc": "Чтобы использовать ваш инструмент в полной мере, вам придется раскрыть свою скрытую мощность. Это не легкая задача;Но это стоит все усилия!"
+		"ru_name": "Высвобождение силы - киркул",
+		"ru_desc": "Дабы использовать свой инструмент на полную, вам нужно высвободить его скрытые силы. Это непросто; Но это точно того стоит!"
 	},
 	"328:10": {
 		"eng_name": "Hold All the Foci",
 		"eng_desc": "Hermione's first years bag.",
-		"ru_name": "Держите все очаги",
+		"ru_name": "Собрать все набалдашники",
 		"ru_desc": "Сумка первых лет Гермионы."
 	},
 	"329:10": {
 		"eng_name": "Where Do the Items Go?",
 		"eng_desc": "It's probably better not to ask...",
-		"ru_name": "Где делаются предметы?",
-		"ru_desc": "Вероятно, лучше не спрашивать ..."
+		"ru_name": "Куда деваются предметы?",
+		"ru_desc": "Полагаю, лучше не спрашивать ..."
 	},
 	"331:10": {
 		"eng_name": "Why Walk...",
 		"eng_desc": "...when you can teleport? This little device allows you to teleport around almost for free. Is it cheaty? Is it OP? Nope, it's a celestial gateway!\n\n10 can be set per device, so get creative! ...Unless you want to go to other Dims, which it can't do. But hey, faster travel around your base!",
-		"ru_name": "Почему ходить ...",
-		"ru_desc": "... когда вы можете телепортироваться? Это маленькое устройство позволяет телепортироваться почти бесплатно. Это обманывает? Это оп? Нет, это небесным шлюзом!\n\n10 можно установить на устройство, так что получите креатив!... Если вы не хотите пойти в другие тупышки, которые он не может сделать. Но эй, быстрее путешествовать по вашей базе!"
+		"ru_name": "Почему ходить...",
+		"ru_desc": "...когда вы можете телепортироваться? Это маленькое устройство позволит вам телепортироваться почти бесплатно. Это читерно? Это имба? Нет. Это Небесный Портал!\n\nВы можете разместить лишь 10 на устройство, так что используйте с умом! ...Если вы не хотите телепортироваться в иные измерения, что Порталу не под силу. Но блин, быстрое перемещение по базе!"
 	},
 	"335:10": {
 		"eng_name": "Don't Touch the Needle!",
 		"eng_desc": "While having not many recipes by itself, the few it has are rather important for your further witchery progression.",
 		"ru_name": "Не трогай иглу!",
-		"ru_desc": "Имея не так много рецептов сама по себе, немногие оно достаточно важно для вашей дальнейшей прогрессии колпачков."
+		"ru_desc": "Хоть рецептов в Витчери не так и много, некоторые из них очень важны для вашей дальнейшей прогрессии в моде."
 	},
 	"337:10": {
 		"eng_name": "Don't Shake it Too Much",
 		"eng_desc": "Unlike nitroglycerin, this stuff doesn't explode. But you still shouldn't shake it too much...",
-		"ru_name": "Не встряхните это слишком много",
-		"ru_desc": "В отличие от нитроглицерина, этот материал не взорвется. Но вы все еще не должны встряхивать это слишком много ..."
+		"ru_name": "Не трясите слишком сильно",
+		"ru_desc": "В отличии от нитроглицерина, это вещество не взрывается. Но вам всё же не стоит трясти его слишком сильно..."
 	},
 	"339:10": {
 		"eng_name": "Circle Magic",
 		"eng_desc": "For circle magic, you need... a circle, obviously. There are 4 types of chalk you can use, and you'll need all of them to proceed.",
 		"ru_name": "Кружок магии",
-		"ru_desc": "Для круга магии вам нужен ... круг, очевидно. Есть 4 типа мела, которые вы можете использовать, и вам понадобится все они, чтобы продолжить."
+		"ru_desc": "Для магии кругов вам нужен... очевидно, круг. Существует 4 вида мелков, которые вы можете использовать, и вам потребуется каждый из них."
 	},
 	"340:10": {
 		"eng_name": "Portable Power Source",
