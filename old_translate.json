@@ -1023,7 +1023,7 @@
 		"eng_name": "Don't Touch the Needle!",
 		"eng_desc": "While having not many recipes by itself, the few it has are rather important for your further witchery progression.",
 		"ru_name": "Не трогай иглу!",
-		"ru_desc": "Хоть рецептов в Витчери не так и много, некоторые из них очень важны для вашей дальнейшей прогрессии в моде."
+		"ru_desc": "Хоть рецептов в нём не так и много, некоторые из них очень важны для вашей дальнейшей прогрессии в Витчери."
 	},
 	"337:10": {
 		"eng_name": "Don't Shake it Too Much",
@@ -1041,109 +1041,109 @@
 		"eng_name": "Portable Power Source",
 		"eng_desc": "By infusing a stone with fiery magic you can create an \"Attuned Stone\". These stones can be used to link non-magical devices to the magical currents present...",
 		"ru_name": "Портативный источник питания",
-		"ru_desc": "Вставив камень с огненной магией, вы можете создать «настроенную камень». Эти камни могут быть использованы для соединения немагических устройств для присутствующих волшебных токов ..."
+		"ru_desc": "Зарядив камень пламенной магией вы можете создать \"Камень силы\". Эти камни могут быть использованы для привязки не-магических устройств к магическим..."
 	},
 	"341:10": {
 		"eng_name": "Flying OINKment",
 		"eng_desc": "You tried, it doesn't fly. And it also doesn't make any OINK sounds, sadly. But there might be some use for it...",
-		"ru_name": "Летающая отель",
-		"ru_desc": "Вы пробовали, это не летает. И он также не делает никаких звуков оси, к сожалению. Но для этого может быть некоторое использование ..."
+		"ru_name": "Летающая мазь",
+		"ru_desc": "Вы пытались, она не летает. И не хрюкает, увы. Но вы точно можете это как-то использовать..."
 	},
 	"342:10": {
 		"eng_name": "Nimbus 1999",
 		"eng_desc": "Not as good as its successor, the 2000'ish model, but still \"somehow\" useful...",
-		"ru_name": "Nimbus 1999.",
-		"ru_desc": "Не так хорошо, как его преемник, модель 2000 года, но все еще «как-то» полезно ..."
+		"ru_name": "Нимбус 1999",
+		"ru_desc": "Не столь хороша, сравнивая с её наследником, 2000-ой моделью, то всё ещё \"некоторым образом\" полезна..."
 	},
 	"343:10": {
 		"eng_name": "Bloodlust: Ghast Tear",
 		"eng_desc": "If you can't pin down a ghast but still want to make refined evil.",
 		"ru_name": "Жажда крови: Слеза Гаста",
-		"ru_desc": "Если вы не можете поймать гаста, но все равно хотите сделать из него утонченное зло."
+		"ru_desc": "Если вы не можете поймать гаста, но всё ещё хотите создать абсолютное зло"
 	},
 	"344:10": {
 		"eng_name": "Bloodlust: Witches Hand",
 		"eng_desc": "In case you don't like the infernal witches...",
-		"ru_name": "Bloodlust: ведьмы рука",
-		"ru_desc": "Если вам не нравятся адские ведьмы ..."
+		"ru_name": "Bloodlust: Рука ведьмы",
+		"ru_desc": "Если вам не нравятся инфернальные ведьмы..."
 	},
 	"347:10": {
 		"eng_name": "Bloodlust: Wool of Bat",
 		"eng_desc": "In case you just can't get it to drop.",
 		"ru_name": "Жажда крови: Шерсть летучей мыши",
-		"ru_desc": "В случае, если вы просто не можете заставить выбить его."
+		"ru_desc": "Если вы просто не можете выбить её."
 	},
 	"348:10": {
 		"eng_name": "Bloodlust: \"Cain\" Sword",
 		"eng_desc": "Serves 2 purposes: Style. And... ah, yeah... Something useful for vampires.",
-		"ru_name": "Bloodlust: «Каин» Меч",
-		"ru_desc": "Обслуживает 2 цели: стиль. И ... ах, да ... что-то полезное для вампиров."
+		"ru_name": "Bloodlust: Меч \"Каин\"",
+		"ru_desc": "Нужен для двух целей. Стиль. И... ээ, точно... Что-то полезное вампирам"
 	},
 	"349:10": {
 		"eng_name": "Be a Vampire; Dress Like a Fancy Person",
 		"eng_desc": "Sometimes it can be troublesome to get fancy clothing. However, if you prove yourself worthy, you get a set for free.",
-		"ru_name": "Быть вампиром;Платье как причудливый человек",
-		"ru_desc": "Иногда это может быть неприятно, чтобы получить модную одежду. Однако, если вы докажете себя достойным, вы получите набор бесплатно."
+		"ru_name": "Будь вампиром; Одевайся стильно",
+		"ru_desc": "Временами сложновато найти действительно стильную одежду. Но если вы докажете, что вы достойны - вы получите бесплатный набор."
 	},
 	"350:10": {
 		"eng_name": "A Few More Things...",
 		"eng_desc": "Ok, I think I have everything I need to assemble the device. Can you assist me with some additional materials? I need to update some of my machines, as these exotic components you got me damaged some of them already. Don't worry, I have a list here.\n\nSome of my circuits burned to a crisp while I was trying to measure the conductivity of these soul and life shards. I need better ones.\n\nGood lord, these mysterious crystals have eaten away my diamond grinding head! How could that happen? Can you get me a better one?\n\nDo you see that pile of Rhodium and Palladium over there? No? Neither do I. Because the machine was VAPORIZED! Good that you gave me 2 singularities, the first one... Well... Just get me a better casing, would you?\n\nIt seems, that the stabilizers need... stabilizing... But I'm out of field generators. Can you help me with this?",
-		"ru_name": "Еще несколько вещей ...",
-		"ru_desc": "Хорошо, я думаю, у меня есть все, что мне нужно, чтобы собрать устройство. Можете ли вы помочь мне с некоторыми дополнительными материалами? Мне нужно обновить некоторые из моих машин, так как эти экзотические компоненты вы получили меня повреждены некоторые из них. Не волнуйтесь, у меня есть список здесь.\n\nНекоторые из моих схем сожжены до хрустящего, пока я пытался измерить проводимость этих души и жизненных осколков. Мне нужны лучшие.\n\nХороший Господь, эти загадочные кристаллы съели мою бриллиант шлифовальную голову! Как это могло случиться? Можете ли вы получить мне лучший?\n\nВы видите, что куча родие и палладиума там? Нет? Ни я не делаю. Потому что машина испарилась! Хорошо, что вы дали мне 2 особенности, первый ... Ну ... просто достань мне лучший корпус, не могли бы вы?\n\nПохоже, что стабилизаторы нужны ... стабилизация ... но у меня нет полевых генераторов. ты можешь помочь мне с этим?"
+		"ru_name": "Еще несколько вещей...",
+		"ru_desc": "Ладно, кажется у меня есть всё нужное, чтобы собрать устройство. Поможешь ли ты мне ещё с парой материалов? Мне нужно обновить некоторые машины, так как те необычные детали, что ты мне принёс, уже повредили их. Не переживай, вот список.\n\nНесколько схем сгорели до корочки, пока я пытался измерить проводимость осколков души и жизни. Мне нужны получше.\n\nО господи, эти неизвестные клисталлы полностью сожрали мои алмазные шлифовальные головки! Как это вообще произошло? Можешь ли достать для меня новые, более прочные?\n\nВы видите эту кучку Родия и Палладия? Нет? И я не вижу. Потому что машина ИСПАРИЛАСЬ! Хорошо, что вы дали мне две сингулярности, потому что первая... Ну... Просто достань-ка корпус получше, лады?\n\nПохоже, что стабилизаторы нуждаются в... стабилизации... Но у меня кончились генераторы поля. Поможешь ли ты мне с этой проблемой?"
 	},
 	"351:10": {
 		"eng_name": "Hello There!",
 		"eng_desc": "I've observed your progress, and I have to say, I'm impressed. I might need your help soon on a big project of mine.",
 		"ru_name": "Привет!",
-		"ru_desc": "Я заметил ваш прогресс, и я должен сказать, я впечатлен. Мне может скоро понадобиться ваша помощь в большом проекте моей."
+		"ru_desc": "Я заметил ваш прогресс, и, честно говоря, я впечатлён. Вероятно, мне, для моего огромного проекта, скоро потребуется твоя помощь"
 	},
 	"352:10": {
 		"eng_name": "Power, So Much Power!",
 		"eng_desc": "If only I could harness it... Well, hello there my friend. I need your help with a project of mine. I want to create an immense power source, but I have a few problems that I need to solve first. Will you help me? You'll be well rewarded.\n\n§3The quests to get items will trigger the next part once you hold the item in question.",
-		"ru_name": "Сила, столько власти!",
-		"ru_desc": "Если бы только я мог использовать это ... Ну, привет, мой друг. Мне нужна ваша помощь в моем проекте. Я хочу создать огромный источник питания, но у меня есть несколько проблем, которые мне нужно решить первым. Ты мне поможешь? Вы будете хорошо вознаграждены.\n\nКвесты для получения элементов будут вызвать следующую часть, как только вы проведете вопрос о предмете."
+		"ru_name": "Сила, столько силы!",
+		"ru_desc": "Если бы я только мог её обуздать... Мм, здравствуй, товарищ. Я хочу, чтобы ты помог мне с моим проектом. Я желаю создать безмерный источник энергии, но с этим есть несколько проблем, которые сначала нужно решить. Поможешь ли ты мне? Награда будет достойной.\n\n§3Следующие квесты активируются в тот же миг, как вы возьмёте в руки востребованный для квеста предмет."
 	},
 	"353:10": {
 		"eng_name": "A Problem that Matters",
 		"eng_desc": "I need to open a wormhole. But for that, I need an immense gravitational field. One like those created upon the death of a massive star, a black hole. But I can't really \"kill\" a sun for this. I need to compress matter somehow... But... How? I think I may need a specialized machine for this, one that does not use explosions, as that won't get dense enough.",
 		"ru_name": "Проблема, которая имеет значение",
-		"ru_desc": "Мне нужно открыть червоточину. Но для этого мне нужно огромное гравитационное поле. Тот, как те, которые созданы на смерти массивной звезды, черной дыры. Но я не могу на самом деле «убить» солнце для этого. Мне нужно сжать дело как-то ... Но ... как? Я думаю, что мне понадобится специализированная машина для этого, которую не использует взрывы, так как это не будет плотнее."
+		"ru_desc": "Мне нужно открыть червоточину. Но для этого мне нужно поле невероятно сильной гравитации. Поле, подобное тем, которые рождаются после смерти огромных звёзд, чёрная дыра. Но, увы, я не могу \"убить\" Солнце для этого. Нужно каким-то образом сжать материю... Но... Как? Полагаю, мне нужно особенно устройство для этого, не использующее взрывов, так как имплозия не может сжать достаточно сильно."
 	},
 	"354:10": {
 		"eng_name": "Now that Matters!",
 		"eng_desc": "Of course! The matter condenser! How come I didn't think of that?",
-		"ru_name": "Теперь это имеет значение!",
-		"ru_desc": "Конечно! Дело в конденсаторе! Как я не думал об этом?"
+		"ru_name": "Теперь это имеет вес!",
+		"ru_desc": "Само собой! Конденсатор материи! Как я не догадался до этого?"
 	},
 	"355:10": {
 		"eng_name": "I need a stabilizer",
 		"eng_desc": "Opening the wormhole is one thing, but I need to stabilize it, so it doesn't harm anything. I guess I need something made of crystal. Why? Because I like it fancy. Find me a crystal-based, transparent material with immense power, would you?",
 		"ru_name": "Мне нужен стабилизатор",
-		"ru_desc": "Открытие червоточины - одно, но мне нужно его стабилизировать, поэтому оно ничего не наносит вреда. Я думаю, мне нужно что-то из кристалла. Почему? Потому что мне это нравится. Найди мне кристалл, прозрачный материал с огромной мощностью, вы бы?"
+		"ru_desc": "Открытие червоточины это одно, но её нужно стабилизировать, не разрушив всё вокруг. Полагаю, что-то кристаллическое. Почему? Потмоу что это красиво. Найди мне прозрачный кристалльный материал невероятной мощи, не прочь?"
 	},
 	"356:10": {
 		"eng_name": "Shiny!",
 		"eng_desc": "What in the world is this? This is amazing! I need more of these! They will be an amazing containment material for the wormhole!",
-		"ru_name": "Блестящий!",
-		"ru_desc": "Что в мире это? Это потрясающе! Мне нужно больше из них! Они будут удивительным материалом для сдерживания для червоточины!"
+		"ru_name": "Блестяшка!",
+		"ru_desc": "Что это вообще такое? Это восхитительно! Мне нужно больше таких! Эти кристаллы станут отличным сдерживающим материалом для червоточины!"
 	},
 	"357:10": {
 		"eng_name": "I'm Hungry",
 		"eng_desc": "What... I work a lot! So get me some food please.",
-		"ru_name": "Я голоден",
-		"ru_desc": "Что ... я много работаю! Так что заставь мне еду, пожалуйста."
+		"ru_name": "Хочу кушать",
+		"ru_desc": "Что... Я много работал! Так что принеси мне поесть, пожалуйста."
 	},
 	"358:10": {
 		"eng_name": "It Needs a Power Plug...",
 		"eng_desc": "Given the fact that I will be able to craft this device, it needs some kind of \"plug\" to get the power out. I need something to conduct immense amounts of power. I thought about superconductors, but they don't fit with the crystal casing material I have in mind. I need 2 different crystals, one for positive and one for negative charge.",
-		"ru_name": "Это нужна заглушка питания ...",
-		"ru_desc": "Учитывая тот факт, что я смогу создать это устройство, ему нужна какая-то «вилка», чтобы получить питание. Мне нужно что-то, чтобы провести огромное количество власти. Я думал о сверхпроводниках, но они не подходят с кристально-корпусом, который я имею в виду. Мне нужны 2 разных кристалла, один для положительного и одного для отрицательного заряда."
+		"ru_name": "Ему нужна розетка...",
+		"ru_desc": "Учитывая, что я смогу создать это устройство, мне нужна \"розетка\", чтобы достать энергию оттуда. Я нуждаюсь в чём-то, что может проводить невероятные объёмы энергии. Я думан о суперпроводниках, но они как-то не вписываются в кристалльную тематику корпуса, которую я придумал. Мне надо 2 разных кристалла, один для положительного заряда, другой для отрицательного."
 	},
 	"359:10": {
 		"eng_name": "Red and Blue",
 		"eng_desc": "Really? A red and blue crystal? How awesome is that! I think I will need 8 of each color, just to be sure.",
-		"ru_name": "Красный и синий",
-		"ru_desc": "Действительно? Красный и синий кристалл? Насколько это удивительно! Я думаю, мне понадобится 8 каждого цвета, просто чтобы быть уверенным."
+		"ru_name": "Красный и Синий",
+		"ru_desc": "Серьёзно? Красный и синий кристаллы? Великолепно! Думаю мне надо по 8 штук каждого, на всякий пожарный."
 	},
 	"360:10": {
 		"eng_name": "A Casing",
