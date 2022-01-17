@@ -2669,84 +2669,84 @@
         "ru_name": "Очистите ваш варп",
         "ru_desc": "Варп, который вы накопили со временем, начинают становиться проблемой. Соли для ванн для очистки варпа - это только временное решение. Чтобы действительно избавиться от этого, вам нужно что-то более мощное, чистая слеза. Если вы собираете несколько вещей для меня, я дам вам одну. Мудро обдумайте её использование, так как это очень долгое путешествие, чтобы разблокировать её через исследования.\n\n§3PS: Вам нужно напряжение IV тира для осмоиридия."
     },
-	"837:10": {
-		"eng_name": "§6§lILC and RAM",
-		"eng_desc": "Advanced circuits need integrated logic circuits and random access memory chips.\nYou can get those by cutting the ILC and RAM wafers.",
-		"ru_name": "§6§lILC и RAM.",
-		"ru_desc": "Расширенные цепи должны интегрированные логические цепи и чипсы памяти случайных доступов.\nВы можете получить тех, сократив ILC и RAM Wafers."
-	},
-	"841:10": {
-		"eng_name": "§9§lTetranitromethane",
-		"eng_desc": "Bio diesel and diesel can be boosted using tetranitromethane. Ethenone and nitric acid are required to make tetranitromethane in a chemical reactor.",
-		"ru_name": "§9§lТетранитрометан",
-		"ru_desc": "Био дизель и дизель могут быть увеличены с помощью тетранитрометана. Эстинона и азотная кислота необходимы для изготовления тетранитрометана в химическом реакторе."
-	},
-	"851:10": {
-		"eng_name": "§9§lNitric Acid",
-		"eng_desc": "Nitric acid can be made out of water, oxygen and nitrogen dioxide.",
-		"ru_name": "§9§lАзотная кислота",
-		"ru_desc": "Азотическая кислота может быть изготовлена из воды, кислорода и диоксида азота."
-	},
-	"852:10": {
-		"eng_name": "§6§lAcetic Acid",
-		"eng_desc": "Acetic acid can be made out of oxygen and ethylene. Alternatively, it can be made out of biomass, wood vinegar or vinegar.",
-		"ru_name": "§6§lУксусная кислота",
-		"ru_desc": "Уксусная кислота может быть изготовлена из кислорода и этилена. В качестве альтернативы, его можно сделать из биомассы, древесины уксуса или уксуса."
-	},
-	"853:10": {
-		"eng_name": "§9§lNitrogen Dioxide",
-		"eng_desc": "To make nitrogen dioxide you need to combine oxygen gas and nitric oxide in a chemical reactor.",
-		"ru_name": "§9§lДиоксид азота",
-		"ru_desc": "Сделать азотный диоксид вам необходимо объединить кислородный газ и оксид азота в химическом реакторе."
-	},
-	"854:10": {
-		"eng_name": "§9§lAmmonia",
-		"eng_desc": "Nitrogen and hydrogen... Ammonia.",
-		"ru_name": "§9§lАммиак",
-		"ru_desc": "Азот и водород ... аммиак."
-	},
-	"855:10": {
-		"eng_name": "§9§lNitric Oxide",
-		"eng_desc": "To make nitric oxide you need to combine oxygen and ammonia in a chemical reactor.",
-		"ru_name": "§9§lОксид азота",
-		"ru_desc": "Для изготовления оксида азота вам нужно объединить кислород и аммиак в химическом реакторе."
-	},
-	"856:10": {
-		"eng_name": "§9§l1,1-Dimethylhydrazine",
-		"eng_desc": "To make 1,1-Dimethylhydrazine you need to combine some Hydrazine and Formaldehyde with Hydrogen along with a Formaldehyde Catalyst in a Chemical Plant.",
-		"ru_name": "§9§l1,1-диметилгидразин",
-		"ru_desc": "Сделать 1,1-диметилгидразин, вам нужно сочетать гидразин и формальдегид с водородом, а также формальдегидным катализатором в химическом заводе."
-	},
-	"857:10": {
-		"eng_name": "§9§lFormaldehyde",
-		"eng_desc": "Combining Oxygen and Methanol along with a Formaldehyde Catalyst in a Chemical Plant produces some Formaldehyde.",
-		"ru_name": "§9§lФормальдегид",
-		"ru_desc": "Сочетание кислорода и метанола вместе с формальдегидом катализатором в химическом заводе производит некоторый формальдегид."
-	},
-	"863:10": {
-		"eng_name": "§2§lBronze Javelin",
-		"eng_desc": "The bronze javelin is a bit expensive and has only 7 throws, yet it is a good mid-range weapon. With one bronze ingot you can replenish your stack of javelins.",
-		"ru_name": "§2§lБронзовый копье",
-		"ru_desc": "Бронзовый копье немного дороги и имеет только 7 бросков, но это хорошее оружие среднего уровня. С одной бронзовой слиткой вы можете пополнить свой стек копья."
-	},
-	"864:10": {
-		"eng_name": "§2§lYour First Flint Throwing Knife",
-		"eng_desc": "Is the bone bow too expensive for your taste? Then make a flint throwing knife instead. You need flint and a stick to get 12 knives. The durability and the attack damage are very low but it still helps with killing mobs from a safe distance.",
-		"ru_name": "§2§lВаш первый нож крема",
-		"ru_desc": "Лук кости слишком дороги для вашего вкуса? Затем вместо этого сделайте метательный нож Flint. Вам нужен Flint и палка, чтобы получить 12 ножей. Долговечность и повреждение атаки очень низки, но он все еще помогает с убийствами мобов с безопасного расстояния."
-	},
-	"866:10": {
-		"eng_name": "The Transcontinental Railroad",
-		"eng_desc": "All the different mining veins that have been found seem to be really far apart. One way to shorten the travel time is to create a railroad from your base to the different mines. Sadly this requires a large amount of both iron and creosote. Let's not forget to place the last symbolic rivet on one of your new train lines.",
-		"ru_name": "Трансконтинентальная железная дорога",
-		"ru_desc": "Все разные добыча вен, которые были найдены, кажется, действительно далеко друг от друга. Один из способов сократить время в пути состоит в том, чтобы создать железную дорогу от вашей базы до разных шахт. К сожалению, это требует большого количества как железа и креозота. Давайте не будем забывать разместить последний символический заклепки на одном из ваших новых линий поезда."
-	},
-	"868:10": {
-		"eng_name": "§1§2§3§lGypsum",
-		"eng_desc": "To make bricks for the blast furnace you need concrete and gypsum. Gypsum can be found in a vein together with basaltic and granitic mineral sand, and fullers earth. Y 50-60 and only in the overworld.",
-		"ru_name": "§1§2§3§lГипс",
-		"ru_desc": "Сделать кирпичи для доменной печи вам нужен бетон и гипс. Гипс можно найти в вене вместе с базальтовым и гранитовым минеральным песком, а также соленными землей.Y 50-60 и только в чрезмерном мире."
-	},
+    "837:10": {
+        "eng_name": "§6§lILC and RAM",
+        "eng_desc": "Advanced circuits need integrated logic circuits and random access memory chips.\nYou can get those by cutting the ILC and RAM wafers.",
+        "ru_name": "§6§lILC и RAM.",
+        "ru_desc": "Расширенные цепи нуждаются в интегрированных логических цепях и чипах памяти произвольного доступа.\nВы можете получить их, разрезав ILC и RAM подложки."
+    },
+    "841:10": {
+        "eng_name": "§9§lTetranitromethane",
+        "eng_desc": "Bio diesel and diesel can be boosted using tetranitromethane. Ethenone and nitric acid are required to make tetranitromethane in a chemical reactor.",
+        "ru_name": "§9§lТетранитрометан",
+        "ru_desc": "Био дизель и дизель могут быть усилены с помощью тетранитрометана. Этенон и азотная кислота необходимы для изготовления тетранитрометана в химическом реакторе."
+    },
+    "851:10": {
+        "eng_name": "§9§lNitric Acid",
+        "eng_desc": "Nitric acid can be made out of water, oxygen and nitrogen dioxide.",
+        "ru_name": "§9§lАзотная кислота",
+        "ru_desc": "Азотная кислота может быть изготовлена из воды, кислорода и диоксида азота."
+    },
+    "852:10": {
+        "eng_name": "§6§lAcetic Acid",
+        "eng_desc": "Acetic acid can be made out of oxygen and ethylene. Alternatively, it can be made out of biomass, wood vinegar or vinegar.",
+        "ru_name": "§6§lУксусная кислота",
+        "ru_desc": "Уксусная кислота может быть изготовлена из кислорода и этилена. В качестве альтернативы, её можно сделать из биомассы, древесного уксуса или уксуса."
+    },
+    "853:10": {
+        "eng_name": "§9§lNitrogen Dioxide",
+        "eng_desc": "To make nitrogen dioxide you need to combine oxygen gas and nitric oxide in a chemical reactor.",
+        "ru_name": "§9§lДиоксид азота",
+        "ru_desc": "Чтобы сделать диоксид азота, вам необходимо объединить кислород и оксид азота в химическом реакторе."
+    },
+    "854:10": {
+        "eng_name": "§9§lAmmonia",
+        "eng_desc": "Nitrogen and hydrogen... Ammonia.",
+        "ru_name": "§9§lАммиак",
+        "ru_desc": "Азот и водород... Аммиак."
+    },
+    "855:10": {
+        "eng_name": "§9§lNitric Oxide",
+        "eng_desc": "To make nitric oxide you need to combine oxygen and ammonia in a chemical reactor.",
+        "ru_name": "§9§lОксид азота",
+        "ru_desc": "Для изготовления оксида азота вам нужно объединить кислород и аммиак в химическом реакторе."
+    },
+    "856:10": {
+        "eng_name": "§9§l1,1-Dimethylhydrazine",
+        "eng_desc": "To make 1,1-Dimethylhydrazine you need to combine some Hydrazine and Formaldehyde with Hydrogen along with a Formaldehyde Catalyst in a Chemical Plant.",
+        "ru_name": "§9§l1,1-диметилгидразин",
+        "ru_desc": "Чтобы сделать 1,1-диметилгидразин, вам нужно объединить гидразин и формальдегид с водородом, а также формальдегидным катализатором в химическом заводе."
+    },
+    "857:10": {
+        "eng_name": "§9§lFormaldehyde",
+        "eng_desc": "Combining Oxygen and Methanol along with a Formaldehyde Catalyst in a Chemical Plant produces some Formaldehyde.",
+        "ru_name": "§9§lФормальдегид",
+        "ru_desc": "Сочетание кислорода и метанола вместе с формальдегидом катализатором в химическом заводе произведет немного формальдегида."
+    },
+    "863:10": {
+        "eng_name": "§2§lBronze Javelin",
+        "eng_desc": "The bronze javelin is a bit expensive and has only 7 throws, yet it is a good mid-range weapon. With one bronze ingot you can replenish your stack of javelins.",
+        "ru_name": "§2§lБронзовое копьё",
+        "ru_desc": "Бронзовое копьё немного сложнее и имеет только 7 использований, но это хорошее оружие среднего уровня. Вы можете восполнить весь стак копий одним бронзовым слитком."
+    },
+    "864:10": {
+        "eng_name": "§2§lYour First Flint Throwing Knife",
+        "eng_desc": "Is the bone bow too expensive for your taste? Then make a flint throwing knife instead. You need flint and a stick to get 12 knives. The durability and the attack damage are very low but it still helps with killing mobs from a safe distance.",
+        "ru_name": "§2§lВаш первый метательный кремневый нож",
+        "ru_desc": "Костный лук слишком дорог к использованию? Значит вместо него сделайте метательный нож из кремня. Вам нужен кремень и палка, чтобы получить 12 ножей. Долговечность и урон очень низки, но он все еще помогают с убийством мобов с безопасного расстояния."
+    },
+    "866:10": {
+        "eng_name": "The Transcontinental Railroad",
+        "eng_desc": "All the different mining veins that have been found seem to be really far apart. One way to shorten the travel time is to create a railroad from your base to the different mines. Sadly this requires a large amount of both iron and creosote. Let's not forget to place the last symbolic rivet on one of your new train lines.",
+        "ru_name": "Трансконтинентальная железная дорога",
+        "ru_desc": "Все найденные рудные жилы кажутся очень далекими друг от друга. Один из способов сократить время в пути состоит в том, чтобы создать железную дорогу от вашей базы до разных шахт. К сожалению, это требует большого количества как железа и креозота. Давайте не забудем поставить последнюю символическую заклепку на одну из ваших новых железнодорожных линий!"
+    },
+    "868:10": {
+        "eng_name": "§1§2§3§lGypsum",
+        "eng_desc": "To make bricks for the blast furnace you need concrete and gypsum. Gypsum can be found in a vein together with basaltic and granitic mineral sand, and fullers earth. Y 50-60 and only in the overworld.",
+        "ru_name": "§1§2§3§lГипс",
+        "ru_desc": "Чтобы сделать кирпичи для доменной печи вам нужен бетон и гипс. Гипс можно найти в жиле вместе с базальтовым и гранитовым минеральным песком, а также ваяльной глиной.Y 50-60 и только в мире Overworld."
+    },
 	"873:10": {
 		"eng_name": "Seed Bags",
 		"eng_desc": "Finding some special \"Pam's HarvestCraft\" seeds can be very difficult. With your farmer coins you can buy some seedbags.",
