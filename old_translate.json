@@ -231,7 +231,7 @@
 		"eng_name": "§3§lBasic Crafting: Motors",
 		"eng_desc": "Motors are little devices that can turn electrical power into rotational energy. Very useful for all kind of machines, and not that difficult to craft. The pattern is always the same, only the materials change with tiers. For now you can use redstone to magnetize your iron rod. Later on you will build an Electromagnetic Polarizer.",
 		"ru_name": "§3§lБазовые крафты: Моторы",
-		"ru_desc": "Моторы - это маленькие устройства, которые могут превратить электроэнергию в ротационную. Полезны для любой машины, при этом их не так и сложно скрафтить. 	Шаблон всегда тот же, меняются лишь материалы в зависимости от тира. Сейчас вы можете намагнитить ваши железные стержни редстоуном. Позже у вас появится электромагнитный поляризатор."
+		"ru_desc": "Моторы - это маленькие устройства, которые могут превратить электроэнергию в ротационную. Полезны для любой машины, при этом их не так и сложно скрафтить. Шаблон всегда тот же, меняются лишь материалы в зависимости от тира. Сейчас вы можете намагнитить ваши железные стержни редстоуном. Позже у вас появится электромагнитный поляризатор."
 	},
 	"72:10": {
 		"eng_name": "§3§lBasic Crafting: Rotors",
