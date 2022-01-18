@@ -3,7 +3,7 @@
 		"eng_name": "§1§lWhere's the Flint?",
 		"eng_desc": "As you might have noticed, while collecting gravel, no flint dropped for you. Well, there is a... recipe for that. Look up flint in NEI and craft some!",
 		"ru_name": "§1§lГде же кремень?",
-		"ru_desc": "Вы наверное заметили, пока собирали гравий, вам не выпало ни кусочка кремня. Ну, для этого нужно... скрафтить его. Поищите кремень в NEI и скрафтьте немного!"
+		"ru_desc": "Вы наверное заметили, пока собирали гравий, вам не выпало ни кусочка кремня. Ну, для этого нужно... скрафтить его. Поищите кремень в NEI и скрафтите немного!"
 	},
 	"3:10": {
 		"eng_name": "§1§lStorage For Days",
@@ -231,7 +231,7 @@
 		"eng_name": "§3§lBasic Crafting: Motors",
 		"eng_desc": "Motors are little devices that can turn electrical power into rotational energy. Very useful for all kind of machines, and not that difficult to craft. The pattern is always the same, only the materials change with tiers. For now you can use redstone to magnetize your iron rod. Later on you will build an Electromagnetic Polarizer.",
 		"ru_name": "§3§lБазовые крафты: Моторы",
-		"ru_desc": "Моторы - это маленькие устройства, которые могут превратить электроэнергию в ротационную. Полезны для любой машины, при этом их не так и сложно скрафтить. 	Шаблон всегда тот же, меняются лишь материалы в зависимости от тира. Сейчас вы можете намагнитить ваши железные стержни редстоуном. Позже у вас появится электромагнитный поляризатор."
+		"ru_desc": "Моторы - это маленькие устройства, которые могут превратить электроэнергию в ротационную. Полезны для любой машины, при этом их не так и сложно скрафтить. Шаблон всегда тот же, меняются лишь материалы в зависимости от тира. Сейчас вы можете намагнитить ваши железные стержни редстоуном. Позже у вас появится электромагнитный поляризатор."
 	},
 	"72:10": {
 		"eng_name": "§3§lBasic Crafting: Rotors",
@@ -662,488 +662,488 @@
 	"238:10": {
 		"eng_name": "Fuuuuuu...(sion)!",
 		"eng_desc": "Your arcane table does a great job with infusing primal vis into items while crafting. However, you feel that there must be more. What if you could infuse items with all kinds of magic aspects? The possibilities are endless...",
-		"ru_name": "Фуууууу ... (Sion)!",
-		"ru_desc": "Ваша тайна The Arcane отличная работа с инфекцией Primal Vis в предметы во время создания. Тем не менее, вы чувствуете, что должно быть больше. Что делать, если бы вы могли налить предметы со всеми видами магических аспектов? Возможности безграничны..."
+		"ru_name": "Ссссс...(лияние)!",
+		"ru_desc": "Ваш магический верстак проделал неплохую работу, наполняя ваши рецепты базовыми аспектами. Но ведь наверняка можно и лучше. Что ж будет, если наполнять вещи любыми видами магических аспектов? Возможности безграничны..."
 	},
 	"240:10": {
 		"eng_name": "Essentia Cooking",
 		"eng_desc": "In order to get essentia, you need to dissolve items. Obviously, you only want to dissolve those items you don't really need, and only those with essentia you need to craft things.\n\nMake sure you keep your furnace as empty as possible. If it fills up with essentia, it can cause a large TPS drop.",
-		"ru_name": "Суть приготовления",
-		"ru_desc": "Чтобы получить Essentia, вам нужно растворить предметы. Очевидно, вы хотите только растворить эти предметы, которые вам не нужны, и только те, кто с Essentia вам нужно создавать вещи.\n\nУбедитесь, что вы сохраняете вашу печь как можно более пустой. Если он заполняет Essentia, он может вызвать большой падение TPS."
+		"ru_name": "Варка эссенции",
+		"ru_desc": "Вам нужно разбирать вещи, если вы хотите получать эссенцию. Вам стоит, очевидно, разбирать лишь то, что вам не так уж и нужно, и только те виды эссенции, что вам нужна для крафта.\n\nУбедитесь, что ваша печь всегда пуста настолько, насколько это возможно. Переполнение печи ведёт к сильному падению тпс."
 	},
 	"242:10": {
 		"eng_name": "Balanced Shards sdrahS decnalaB",
 		"eng_desc": "By combining all six primal aspects in a crucible, you are able to make balanced shards. They can be ground up into \"Salis Mundus\", an absolutely crucial thing to have, trust me!",
-		"ru_name": "Сбалансированные осколки SDRAHS DENNAB",
-		"ru_desc": "Объединяя все шесть первичных аспектов в тигере, вы можете сделать сбалансированные осколки. Они могут быть заземлены в «Salis Mundus», абсолютно важно, чтобы иметь, доверяйте мне!"
+		"ru_name": "Сбалансированные Кристаллы ыллатсирК еыннаворисналабС",
+		"ru_desc": "Вы можете создать сбалансированные кристаллы соиденив все 6 основных аспектов в котле. Их можно раздробить в \"Salis Mundus\", действительно полезную вещь, честно говорю!"
 	},
 	"243:10": {
 		"eng_name": "Crystal Clusters",
 		"eng_desc": "You, as a Thaumaturge, like shiny things. And what could be more shiny than a cluster made of those shards? You totally should get one of each.",
 		"ru_name": "Кристальные кластеры",
-		"ru_desc": "Вы, как тайкатурка, как блестящие вещи. И что может быть более блестящим, чем кластер из этих осколок? Вы полностью должны получить один из каждого."
+		"ru_desc": "Как и любой Туматург, вы любите разные блестяшки. И что может блестеть больше, чем кластер из этих кристаллов? Вам определённо стоит заполучить каждый из них."
 	},
 	"244:10": {
 		"eng_name": "The Choice: Ignis",
 		"eng_desc": "In exchange for 6 clusters, I will give you this node. May it serve you well. Oh, don't place it too close to another node, or it might start to drain vis...",
-		"ru_name": "Выбор: IGNIS",
-		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Пусть это служит вам хорошо. О, не размещайте его слишком близко к другому узлу, или он может начать слить ..."
+		"ru_name": "Выбор: Ignis",
+		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Да послужит он вам на славу. А, ну и не ставьте её вблизи других узлов, иначе они начнут воровать друг у друга вис..."
 	},
 	"246:10": {
 		"eng_name": "The Choice: Terra",
 		"eng_desc": "In exchange for 6 clusters, I will give you this node. May it serve you well. Oh, don't place it too close to another node, or it might start to drain vis...",
-		"ru_name": "Выбор: Терра",
-		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Пусть это служит вам хорошо. О, не размещайте его слишком близко к другому узлу, или он может начать слить ..."
+		"ru_name": "Выбор: Terra",
+		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Да послужит он вам на славу. А, ну и не ставьте её вблизи других узлов, иначе они начнут воровать друг у друга вис..."
 	},
 	"247:10": {
 		"eng_name": "The Choice: Perditio",
 		"eng_desc": "In exchange for 6 clusters, I will give you this node. May it serve you well. Oh, don't place it too close to another node, or it might start to drain vis...",
-		"ru_name": "Выбор: уничтожение",
-		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Пусть это служит вам хорошо. О, не размещайте его слишком близко к другому узлу, или он может начать слить ..."
+		"ru_name": "Выбор: Perditio",
+		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Да послужит он вам на славу. А, ну и не ставьте её вблизи других узлов, иначе они начнут воровать друг у друга вис..."
 	},
 	"248:10": {
 		"eng_name": "The Choice: Ordo",
 		"eng_desc": "In exchange for 6 clusters, I will give you this node. May it serve you well. Oh, don't place it too close to another node, or it might start to drain vis...",
-		"ru_name": "Выбор: Ордо",
-		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Пусть это служит вам хорошо. О, не размещайте его слишком близко к другому узлу, или он может начать слить ..."
+		"ru_name": "Выбор: Ordo",
+		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Да послужит он вам на славу. А, ну и не ставьте её вблизи других узлов, иначе они начнут воровать друг у друга вис..."
 	},
 	"249:10": {
 		"eng_name": "The Choice: Aqua",
 		"eng_desc": "In exchange for 6 clusters, I will give you this node. May it serve you well. Oh, don't place it too close to another node, or it might start to drain vis...",
-		"ru_name": "Выбор: Аква",
-		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Пусть это служит вам хорошо. О, не размещайте его слишком близко к другому узлу, или он может начать слить ..."
+		"ru_name": "Выбор: Aqua",
+		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Да послужит он вам на славу. А, ну и не ставьте её вблизи других узлов, иначе они начнут воровать друг у друга вис..."
 	},
 	"250:10": {
 		"eng_name": "The Choice: Aer",
 		"eng_desc": "In exchange for 6 clusters, I will give you this node. May it serve you well. Oh, don't place it too close to another node, or it might start to drain vis...",
 		"ru_name": "Выбор: Aer",
-		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Пусть это служит вам хорошо. О, не размещайте его слишком близко к другому узлу, или он может начать слить ..."
+		"ru_desc": "В обмен на 6 кластеров я дам вам этот узел. Да послужит он вам на славу. А, ну и не ставьте её вблизи других узлов, иначе они начнут воровать друг у друга вис..."
 	},
 	"251:10": {
 		"eng_name": "Not Just For Decoration",
 		"eng_desc": "Sure, they look pretty, but they serve a much more important purpose: Channeling vast amounts of vis and essentia. This might be useful soon(tm).",
-		"ru_name": "Не только для украшения",
-		"ru_desc": "Конечно, они выглядят красиво, но они служат гораздо важнее: направляющие огромные суммы VIS и Essentia. Это может быть полезно в ближайшее время (тм)."
+		"ru_name": "Не только украшение",
+		"ru_desc": "Они выглядят красиво, да, но у них есть и куда более важная цель: они проводят огромные количества вис и эссенции. Это пригодится очень скоро(tm)"
 	},
 	"252:10": {
 		"eng_name": "This is the End...",
 		"eng_desc": "...of your apprenticeship. You have mastered all 6 primal aspects, you mastered the weak and strong infusion of essentia and vis, and you've already made your adept wand. But be warned, young one. The further you progress, the more darkness, and evil will tempt you to follow the forbidden ways of magic. I have seen things... weather changing, random teleportation, or even a Wither tearing its way into our universe right next to someone. Be careful, my friend...",
 		"ru_name": "Это конец...",
-		"ru_desc": "... вашего ученичества. Вы освоили все 6 первичных аспектов, вы освоили слабую и сильную инфузию Essentia и Vis, и вы уже сделали свою адептую палочкой. Но быть предупрежденным, молодой. Дальше вы прогрессируете, чем больше тьма, а зло соблазните вас следовать запрещенным способам магии. Я видел вещи ... Изменение погоды, случайное телепортация, или даже увядание на пути к нашей вселенной прямо рядом с кем-то. Будьте осторожны, мой друг ..."
+		"ru_desc": "...вашего обучения. Вы довели до совершенства свои навыки в манипуляции аспектами, сильные и слабые методы наполнения эссенцией и вис, и у вас уже есть сильный жезл. Но имей ввиду, малец. Чем дальше вы развиваетесь, тем больше мрака и зла будет искушать вас проследовать потерянными путями магии. Я видал некоторые вещи... Изменение погоды, случайная телепортация или даже Иссушитель, прорывающий пространство-время, лишь чтобы разорвать кого-либо. Будь осторожен, друг..."
 	},
 	"257:10": {
 		"eng_name": "Save the Squids, We Must",
 		"eng_desc": "A very convenient way to make PETA activists happy and get ink at the same time. \n\nHint: The essentia in those roses might be useful...",
-		"ru_name": "Сохранить кальмары, мы должны",
-		"ru_desc": "Очень удобный способ сделать активисты PETA счастливыми и одновременно получать чернила.\n\nПодсказка: эссенция в этих розах может быть полезной ..."
+		"ru_name": "Сохранить спрутов, мы должны",
+		"ru_desc": "Самый простой способ осчастливить активистов PETA, одновременно получая чернила.\n\nПодсказка: Эссенция в этих цветах вполне полезна..."
 	},
 	"261:10": {
 		"eng_name": "An Awesome Magic Conductor",
 		"eng_desc": "These tears, WOW! I've never felt something so strong. Could it be? Could I use those to actually finalize my Silverwood wand?",
-		"ru_name": "Потрясающий волшебный проводник",
-		"ru_desc": "Эти слезы, вау! Я никогда не чувствовал что-то сильное. Это может быть? Могу ли я использовать тех, кто на самом деле завершил свою серебряную палочку?"
+		"ru_name": "Невероятный магический проводник",
+		"ru_desc": "Эти слёзы, ОГО! Я никогда не ощущал ничего мощнее. Может это оно? Можно ли это использовать, чтобы наконец закончить работу над сребнодревесным жезлом?"
 	},
 	"262:10": {
 		"eng_name": "An Even Better Conductor?",
 		"eng_desc": "More... I want MOOORE! There must be something even stronger than the hydra. Something older, more ancient.",
-		"ru_name": "Еще лучше проводник?",
-		"ru_desc": "Подробнее ... Я хочу Mooore! Там должно быть что-то даже сильнее, чем гидра. Что-то старше, более древние."
+		"ru_name": "Проводник ещё мощнее?",
+		"ru_desc": "Больше... Мне нужно БОООЛЬШЕ! У нас точно есть что-то, что сильнее гидры. Что-то более древнее."
 	},
 	"263:10": {
 		"eng_name": "It Doesn't Work",
 		"eng_desc": "I tried to combine the lich bones I had with this new wand rod. The result: A pile of ashes. It crumbled to dust within seconds. I need a better conductor. The hydra in the Twilight Forest has the ability to regrow an entire head! Her blood must contain a large amount of magic. I guess I need a bit of that for my next wand.",
 		"ru_name": "Это не работает",
-		"ru_desc": "Я пытался объединить кости лича, которые у меня были с этим новым стерженью палочкой. Результат: куча пепла. Он рухнул до пыли в течение нескольких секунд. Мне нужен лучший проводник. Гидра в сумеречном лесу обладает способностью отражать целую голову! Ее кровь должна содержать большое количество магии. Я думаю, мне нужно немного этого для моей следующей палочки."
+		"ru_desc": "Я пытался прикрепить ранее полученные кости Лича к новому стержню. Итог: Кучка пыли. Они рассыпались в пыль за пару секунд. Нужен проводник получше. Гидра из Сумеречного леса может отрастить себе целую голову или две! Её кровь точно должна быть заряжена большими объёмами магии. Полагаю, это именно то, что нужно для нового жезла."
 	},
 	"272:10": {
 		"eng_name": "Best Wand Caps Ever",
 		"eng_desc": "Of course! Thaumium! What could conduct vis better than... a magical metal?",
-		"ru_name": "Лучшие колпаки",
-		"ru_desc": "Конечно! Тайм! Что может провести поправить лучше, чем ... волшебный металл?"
+		"ru_name": "Самые лучшие наконечники",
+		"ru_desc": "Естественно! Таум-металл! Что может быть лучшим проводником вис, чем... магический металл?"
 	},
 	"273:10": {
 		"eng_name": "She Let Go",
 		"eng_desc": "This blood seems pretty common, but she had advanced magic abilities. I'm sure I can use this as a medium.",
-		"ru_name": "Она отпустила",
-		"ru_desc": "Эта кровь кажется довольно распространенной, но у нее были развитые магические способности. Я уверен, что могу использовать это как среда."
+		"ru_name": "Она покинула нас",
+		"ru_desc": "На вид обычная кровь, но у неё огромные магические способности. Я уверен, вы можете использовать её как носитель вис."
 	},
 	"274:10": {
 		"eng_name": "Reactor Material",
 		"eng_desc": "This stuff is interesting... Maybe I can use it as a wand conductor?",
 		"ru_name": "Материал реактора",
-		"ru_desc": "Этот материал интересен ... Может быть, я могу использовать его как дирижер палочки?"
+		"ru_desc": "Этот материал интересен... Быть может, я могу использовать его как проводник?"
 	},
 	"276:10": {
 		"eng_name": "Bring it Home",
 		"eng_desc": "You probably have a nice collection of bookmarked nodes. But running around to recharge your wand(s) isn't really the way an adept thaumaturge should get his required vis. Moving nodes is not that hard, but without doubt, you need something to protect them from each other.",
-		"ru_name": "Принести его домой",
-		"ru_desc": "У вас, вероятно, хорошая коллекция узлов закладки. Но бегая, чтобы перезарядить вашу палочку (ы) на самом деле не так, как адепт тайкатаурге должен получить его необходимый. Перемещение узлов - это не так сложно, но без сомнения, вам нужно что-то, чтобы защитить их друг от друга."
+		"ru_name": "Притащите её домой",
+		"ru_desc": "Уверен, у вас уже есть немаленькая коллекция отмеченных узлов. Но бегать по миру перезаряжая жезл(ы) - точно не то, как адепт тауматургии должен получать вис. Перемещать узлы несложно, но вам точно нужно что-то, что поможет защитить их друг от друга."
 	},
 	"278:10": {
 		"eng_name": "Centi-vis Stuff",
 		"eng_desc": "You totally should get yourself some centi-vis things to transport and use the vis from stabilized nodes.",
-		"ru_name": "Центр-сила",
-		"ru_desc": "Вы полностью заставите себе какие-то вещи для транспортировки и использования по сравнению с стабилизированными узлами."
+		"ru_name": "Санти-вис и всё такое",
+		"ru_desc": "Вам определённо нужны разные штуки, связанные с санти-вис, для перемещения и использования вис из стабилизированных узлов."
 	},
 	"279:10": {
 		"eng_name": "The Dark Realm",
 		"eng_desc": "We found the way... my precious. We found it! Only need 4 tasty eyes, and some magic to open the door. The secret door, they didn't see it. Hehehe! All the time. It was there... Aaaall the time!",
-		"ru_name": "Темная царство",
-		"ru_desc": "Мы нашли путь ... мой драгоценный. Мы нашли это! Нужны только 4 вкусные глаза, а немного магии, чтобы открыть дверь. Секретная дверь, они этого не видели. Хехехе! Все время. Это было там ... Aaaaall The The Time!"
+		"ru_name": "Царство тьмы",
+		"ru_desc": "Мы нашли путь... мой дорогой. Мы нашли его! Всего лишь 4 вкусных глаза и капля магии, чтобы открыть проход. Секретный проход, ими его не увидеть. Ха-ха-ха! Всё это время. Он был здесь... Всёёёёё это время!"
 	},
 	"280:10": {
 		"eng_name": "They See Me, They Watch Me",
 		"eng_desc": "Eyes. Yes. Eyes! I need eyes, my precious. Not spidery ones, no. Nasty hairy things. Don't taste good. Eldritch eyes! I will rip those from their bodies.",
-		"ru_name": "Они видят меня, они смотрят на меня",
-		"ru_desc": "Глаза. да. Глаза! Мне нужны глаза, мой драгоценный. Не пятнистые, нет. Неприятные волосатые вещи. Не вкусное. Эльдрич глаза! Я разорву их из своих тел."
+		"ru_name": "Они видят меня, Они следят за мной",
+		"ru_desc": "Глаза. Да. Глаза! Мне нужны глаза, мой дорогой. Не паучьи, нет-нет. Гадкая волосатая дрянь. Невкусно. Глаза древних! Я вырву их из их тел."
 	},
 	"281:10": {
 		"eng_name": "Really (Really!) Dark Magic",
 		"eng_desc": "Fools. FOOLS I say! They know nothing! This book will guide me, yes. Yes it will, my precious. It will lead us to even more POWER!\n\nAvailable in your local bookstore, and also occasionally found on Crimson Knights and Crimson Clerics.",
-		"ru_name": "Действительно (действительно!) Темная магия",
-		"ru_desc": "Дураки. Дураки, я говорю! Они ничего не знают! Эта книга будет вести меня, да. Да, это будет, мой драгоценный. Это приведет нас к еще большему власти!\n\nДоступно в вашем местном книжном магазине, а также иногда найден на малиновых рыцарях и малиновых священниках."
+		"ru_name": "Действительно (Действительно!) тёмная магия",
+		"ru_desc": "Глупцы. Я сказал, ГЛУПЦЫ! Они ничего не понимают! Эта книга покажет мне путь, да. Это она и сделает, мой дорогой. Она приведёт нас к куда большей СИЛЕ!\n\nПродаётся в любом книжном, иногда падает из Багровых рыцарей и Багровых магов."
 	},
 	"283:10": {
 		"eng_name": "Find the Key",
 		"eng_desc": "No, nooo! They have hidden it! Must find the keeey. Must find it! We need the tablet to open the door my precious.",
-		"ru_name": "Найди ключ",
-		"ru_desc": "Нет, noooo! Они скрывали это! Должен найти Кеге. Должен найти это! Нам нужен таблетка, чтобы открыть дверь, мой драгоценный."
+		"ru_name": "Найти ключ",
+		"ru_desc": "Нет, нееет! Они спрятали его! Надо найти клюююч. Должен найти её! Мы должны найти скрижаль, чтобы открыть дверь, мой дорогой."
 	},
 	"287:10": {
 		"eng_name": "What Could Possibly Go Wrong?",
 		"eng_desc": "256 essentia in one block! Now that is what I call storage. Does make weird sounds, but I guess it's nothing special...",
-		"ru_name": "Что возможно могло пойти не так?",
-		"ru_desc": "256 Essentia в одном блоке! Теперь это то, что я называю хранением. Сделают странные звуки, но я думаю, что это ничего особенного ..."
+		"ru_name": "Что вообще может пойти не так?",
+		"ru_desc": "256 эссенции в одном блоке! Вот это я называю хранилище. Издаёт странные звуки, но это не страшно..."
 	},
 	"288:10": {
 		"eng_name": "Let's Try This",
 		"eng_desc": "Mortals. Pah. What do they know about REAL power. The voices tell me I need to focus on alienis and tenebrae if I want to advance. So what about food?",
 		"ru_name": "Давайте попробуем это",
-		"ru_desc": "Смертные. ПаунЧто они знают о реальной власти. Голоса говорят мне, что мне нужно сосредоточиться на Alienis и Tenebrae, если я хочу продвинуться. Так как насчет еды?"
+		"ru_desc": "Смертные. Фи. Что они вообще знают о НАСТОЯЩЕЙ силе. Голоса говорят мне, что я должен сосредоточиться на Alienis и Tenebrae, если я хочу развиваться. Так и что же насчёт еды?"
 	},
 	"289:10": {
 		"eng_name": "An Appropriate Weapon",
 		"eng_desc": "My new armor needs an appropriate weapon to go along with. I should make something to fire creatures of the nether at enemies!",
 		"ru_name": "Подходящее оружие",
-		"ru_desc": "Моя новая броня нуждается в подходящем оружии, чтобы идти вместе с. Я должен сделать что-то, чтобы зажечь существа из Ниты в врагов!"
+		"ru_desc": "Мне нужно оружие под стать моей новой броне. Мне точно стоит сделать что-то, что швыряет пламененных созданий ада в врагов!"
 	},
 	"292:10": {
 		"eng_name": "Slightly Better",
 		"eng_desc": "Wood is somewhat better than straw. They are still to be considered weak, but an ideal little cutie for farms.",
-		"ru_name": "Немного лучше",
-		"ru_desc": "Дерево несколько лучше, чем солома. Они все еще считаются слабыми, но и идеальной маленькой милачей для ферм."
+		"ru_name": "Чуть получше",
+		"ru_desc": "Дерево немного лучше соломы. Деревянные големы всё ещё считаются слабыми, но хороши как милашки для ферм."
 	},
 	"293:10": {
 		"eng_name": "Sticks and Stones...",
 		"eng_desc": "...will break your bones! These guys are hard as rock (Insert audience laugh here) and will protect your claim as good as possible.",
 		"ru_name": "Палки и камни...",
-		"ru_desc": "... сломает твои кости! Эти парни сложно, как рок (вставьте здесь зрителей) и защитит вашу претензию максимально хорошо."
+		"ru_desc": "...сломают ваши кости! Эти ребята прочны как камень (вставьте сюда закадровый смех) и защитят ваши имения настолько хорошо, насколько возможно."
 	},
 	"295:10": {
 		"eng_name": "Essentia Storage",
 		"eng_desc": "Sure, you could just go with gazillions of jars, but it's way more convenient to store essentia in a chest or barrel. Isn't it?",
-		"ru_name": "Склад сущности",
-		"ru_desc": "Конечно, вы могли бы просто пойти с газиллионами банок, но это удобнее хранить Essentia в груди или бочке. Не так ли?"
+		"ru_name": "Хранение эссенции",
+		"ru_desc": "Ну да, вы можете просто иметь миллиарды банок, но ведь куда удобнее хранить эссенцию в сундуках или бочках, не так ли?"
 	},
 	"297:10": {
 		"eng_name": "Magical Item Teleportation",
 		"eng_desc": "It's annoying to do, but you can teleport items with this. Check the thaumonomicon for details.",
-		"ru_name": "Телепортация магических предметов",
-		"ru_desc": "Это раздражает, но вы можете телепортировать предметы с его помощью. Подробности можно узнать в Таумономиконе.."
+		"ru_name": "Магическая телепортация предметов",
+		"ru_desc": "Раздражающее занятие, но с ними можно телепортировать вещи. Читайте таумономикон для подробностей."
 	},
 	"299:10": {
 		"eng_name": "Essentia Monitoring",
 		"eng_desc": "Manually checking your jars can be tedious, especially if you want to infuse a bunch of stuff at once. Luckily, the essentia locus can help you with that, as it monitors all jars that have been targeted with a crystalline eye.",
-		"ru_name": "Мониторинг сущности",
-		"ru_desc": "Вручную проверка ваших банок может быть утомительным, особенно если вы хотите нанести кучу вещи одновременно. К счастью, Locus Essentia может помочь вам с этим, поскольку он контролирует все банки, которые были нацелены с кристаллическим глазом."
+		"ru_name": "Мониторинг эссенций",
+		"ru_desc": "Как-то скучновато проверять банки вручную, особенно если вам нужно наполнить кучу вещей за раз. Повезло, что у вас есть Место эссенции, решающее эту проблему, "
 	},
 	"302:10": {
 		"eng_name": "Useful Plant Life",
 		"eng_desc": "While regular plants are mostly used to make food, you are wondering if you could get some... \"more useful\" plant life going...",
-		"ru_name": "Полезное растение жизни",
-		"ru_desc": "В то время как регулярные растения в основном используются для производства еды, вам интересно, если бы вы могли получить немного ... «Полезнее» посадочная жизнь ..."
+		"ru_name": "Полезная растительность",
+		"ru_desc": "Хоть обычные растения и используются, в первую очередь, для добычи еды, но интересно, есть ли чутка... \"более полезные\" растения..."
 	},
 	"303:10": {
 		"eng_name": "Pushing the Limits",
 		"eng_desc": "Regular enchantments have a limit, like III for Fortune. Utilizing magic, you should be able to bypass that limitation, at least a tiny bit; Eventually creating enchantments like Fortune IV. It comes with limitations, but your book shall tell you more about those.",
-		"ru_name": "Толкая пределы",
-		"ru_desc": "Регулярные чары имеют ограничение, как III для удачи. Использование магии, вы должны быть в состоянии обойти это ограничение, по крайней мере, крошечный бит;В конечном итоге создавая чары, такие как Fortune IV. Он поставляется с ограничениями, но ваша книга расскажет вам больше о тех."
+		"ru_name": "Расширяя лимиты",
+		"ru_desc": "Стандартные зачарования имеют ограничения, вроде 3 для Удачи. Используя магию вы можете обходить эти ограничения, хоть и не значительно; В итоге создавая зачарования вроде Удачи 4. Некоторые ограничения всё же есть, но подробнее об этом вам расскажет книга."
 	},
 	"304:10": {
 		"eng_name": "Enchanting Like a Pro",
 		"eng_desc": "Finally, a device where you can actually choose which enchantments you want to have. Powered by vis, it can create the most powerful combinations one could imagine.",
-		"ru_name": "Очаровательный, как профессионал",
-		"ru_desc": "Наконец, устройство, где вы на самом деле можете выбрать, какие чары вы хотите иметь. Работает на Vis, он может создать самые мощные комбинации, которые можно себе представить."
+		"ru_name": "Зачаровывая как профи",
+		"ru_desc": "Наконец-то, устройство, которое позволит вам действительно выбирать нужные зачарования. Он может создавать самые мощные комбинации, которые вы можете представить, лишь запитайте его вис."
 	},
 	"305:10": {
 		"eng_name": "Crying Obsidian...",
 		"eng_desc": "...it mourns the dead. This might come in handy for some cases. By placing 2 on top of each other, you're able to set your respawn point to that location, without the need for a bed. It's up to you to imagine the possibilities...",
-		"ru_name": "Плачущий обсидиан ...",
-		"ru_desc": "... это оплакивает мертвых. Это может пригодиться для некоторых случаев. Размещая 2 друг на друга, вы можете установить вашу точку зрения в это место, без необходимости в кровати. Вам решать представить возможности ..."
+		"ru_name": "Плачущий обсидиан...",
+		"ru_desc": "...оплакивает ушедших. Может пригодиться в некоторых ситуациях. Вы сможете устанавливать точку возрождения без кровати, если разместите два таких блока друг на друге. Но придумать как это вообще использовать - уже ваша задача..."
 	},
 	"306:10": {
 		"eng_name": "Useful Trees",
 		"eng_desc": "Just like plants, there are trees that will attract various friendly and \"not so friendly\" creatures. (No warranty when placed in desolated biome!)",
 		"ru_name": "Полезные деревья",
-		"ru_desc": "Также как растения, есть деревья, которые привлекут различные дружеские и «не так дружелюбные» существа.(Нет гарантии при размещении в устаревшем биоме!)"
+		"ru_desc": "Как и с растениями, у нас есть деревья, которые могут привлекать разных дружелюбных и \"не очень дружелюбных\" существ."
 	},
 	"307:10": {
 		"eng_name": "The Power of Gods",
 		"eng_desc": "The pearl you've found has some interesting effects on you. Not only are the voices almost gone, somehow it has also expanded your perception. You can \"feel\" the magic around you. This is definitely worth some further investigation.",
-		"ru_name": "Сила богов",
-		"ru_desc": "Жемчужина, которую вы нашли, имеет некоторые интересные эффекты на вас. Не только голоса почти ушли, как-то, что также расширило ваше восприятие. Вы можете «почувствовать» волшебство вокруг вас. Это определенно стоит некоторого дальнейшего расследования."
+		"ru_name": "Божественные силы",
+		"ru_desc": "Кажется, найденная вами жемчужина достаточно необычно на вас влияет. Не только голоса покинули ваш рассудок, но и ваше восприятие расширилось. Вы можете \"чувствовать\" магию вокруг вас. Вам и правда стоит изучить её получше."
 	},
 	"308:10": {
 		"eng_name": "The Final Goal",
 		"eng_desc": "Thanks to your help I have managed to create the ultimate energy source: An encased wormhole that drains energy from a synthesized pocket universe, to the point when it reaches heat death. I have no use for it, so you may have it. Thank you for making my dream come true!",
-		"ru_name": "Конечная цель",
-		"ru_desc": "Благодаря вашей помощи мне удалось создать окончательный источник энергии: окончательный червоточину, который сливает энергию из синтезированной карманной вселенной, до точки, когда она достигает температуры нагрева. Я не пользуюсь этим, так что у вас может быть. Спасибо за то, что сделали мою мечту сбыться!"
+		"ru_name": "Последняя цель",
+		"ru_desc": "Благодаря тебе я смог создать абсолютный источник энергии: Заточённая в корпус червоточина, высасывающая энергию из искуственной карманной вселенной, до точки тепловой смерти. Мне она не нужна, так что забирай её. Спасибо, что исполнил мою мечту!"
 	},
 	"310:10": {
 		"eng_name": "Unleashed the Power - Cowl",
 		"eng_desc": "To make use of your armor to the fullest extent, you'll have to unleash its hidden power. This is not an easy task; But it's worth the effort!",
-		"ru_name": "Развязал силу - капюшон",
-		"ru_desc": "Чтобы использовать вашу броню в самой полной степени, вам придется раскрыть свою скрытую мощность. Это не легкая задача;Но стоит усилия!"
+		"ru_name": "Высвобождение силы - Капюшон",
+		"ru_desc": "Дабы использовать свою броню на полную, вам нужно высвободить её скрытые силы. Это непросто; Но это точно того стоит!"
 	},
 	"311:10": {
 		"eng_name": "Unbreakable Cowl",
 		"eng_desc": "It will never break. How convenient.",
-		"ru_name": "Нерушимый капот",
-		"ru_desc": "Это никогда не сломается. Насколько удобно."
+		"ru_name": "Неразрушимый капюшон",
+		"ru_desc": "Он никогда не сломается. Как удобно."
 	},
 	"312:10": {
 		"eng_name": "Unleashed the Power - Leggings",
 		"eng_desc": "To make use of your armor to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!",
-		"ru_name": "Развязал мощность - леггинсы",
-		"ru_desc": "Чтобы воспользоваться вашей броней в полной мере, вам придется раскрыть свою скрытую мощность. Это не легкая задача;Но это стоит все усилия!"
+		"ru_name": "Высвобождение силы - Шаровары",
+		"ru_desc": "Дабы использовать свою броню на полную, вам нужно высвободить её скрытые силы. Это непросто; Но это точно того стоит!"
 	},
 	"313:10": {
 		"eng_name": "Unbreakable Leggings",
 		"eng_desc": "They will never break. How convenient.",
-		"ru_name": "Нерушимые леггинсы",
-		"ru_desc": "Они никогда не сломаются. Насколько удобно."
+		"ru_name": "Неразрушимые шаровары",
+		"ru_desc": "Они никогда не сломаются. Как удобно."
 	},
 	"314:10": {
 		"eng_name": "Unleashed the Power - Robe",
 		"eng_desc": "To make use of your armor to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!",
-		"ru_name": "Развязал власть - халат",
-		"ru_desc": "Чтобы воспользоваться вашей броней в полной мере, вам придется раскрыть свою скрытую мощность. Это не легкая задача;Но это стоит все усилия!"
+		"ru_name": "Высвобождение силы - Роба",
+		"ru_desc": "Дабы использовать свою броню на полную, вам нужно высвободить её скрытые силы. Это непросто; Но это точно того стоит!"
 	},
 	"315:10": {
 		"eng_name": "Unbreakable Robe",
 		"eng_desc": "It will never break. How convenient.",
-		"ru_name": "Нерушимый халат",
-		"ru_desc": "Это никогда не сломается. Насколько удобно."
+		"ru_name": "Неразрушимая роба",
+		"ru_desc": "Она никогда не сломается. Как удобно.."
 	},
 	"316:10": {
 		"eng_name": "Infused Cloth",
 		"eng_desc": "By combining ichor with enchanted fabric, you've created something that could be compared to mithril. Light as wool, but durable like steel. Also, it conducts magic energy like nothing else you've seen before. This seems to be an excellent material for a new type of armor.",
 		"ru_name": "Наполненная ткань",
-		"ru_desc": "Объединяя Игор с зачарованной тканью, вы создали то, что можно сравнить с Мифрилом. Свет как шерсть, но прочный, как сталь. Кроме того, он ведет волшебную энергию, как ничто другое, вы видели раньше. Кажется, это отличный материал для нового типа брони."
+		"ru_desc": "Объединив ихор с зачарованной тканью, вы можете создать что-то, что можно сравнить с мифрилом. Легче шерсти, прочнее стали. При этом, она источает магическую энерги. невиданой силы. Звучит как великолепный материал для новой брони."
 	},
 	"317:10": {
 		"eng_name": "Unleashed the Power - Boots",
 		"eng_desc": "To make use of your armor to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!",
-		"ru_name": "Развязал мощность - сапоги",
-		"ru_desc": "Чтобы воспользоваться вашей броней в полной мере, вам придется раскрыть свою скрытую мощность. Это не легкая задача;Но это стоит все усилия!"
+		"ru_name": "Высвобождение силы - Сапоги",
+		"ru_desc": "Дабы использовать свою броню на полную, вам нужно высвободить её скрытые силы. Это непросто; Но это точно того стоит!"
 	},
 	"318:10": {
 		"eng_name": "Unbreakable Boots",
 		"eng_desc": "They will never break. How convenient.",
-		"ru_name": "Неразрушимые ботинки",
-		"ru_desc": "Они никогда не сломаются. Насколько удобно."
+		"ru_name": "Неразрушимые сапоги",
+		"ru_desc": "Они никогда не сломаются. Как удобно."
 	},
 	"319:10": {
 		"eng_name": "Unbreakable Axe",
 		"eng_desc": "An axe made of your new metal will never break and will accept enchantments with ease. Something tells you there must be more...",
-		"ru_name": "Нерушимый топор",
-		"ru_desc": "Топор, изготовленный из вашего нового металла, никогда не нарушится и будет легко принять чары. Что-то говорит вам, что должно быть больше ..."
+		"ru_name": "Неразрушимый топор",
+		"ru_desc": "Топор, созданный из нового металла, никогда не сломается и легко принимает любые зачарования. Но что-то подсказывает вам, что это не предел..."
 	},
 	"321:10": {
 		"eng_name": "Unbreakable Sword",
 		"eng_desc": "A sword made of your new metal will never break and will accept enchantments with ease. Something tells you there must be more...",
-		"ru_name": "Нерушимый меч",
-		"ru_desc": "Меч из вашего нового металла никогда не нарушится и примет приветствие с легкостью. Что-то говорит вам, что должно быть больше ..."
+		"ru_name": "Неразрушимый меч",
+		"ru_desc": "Меч, созданный из нового металла, никогда не сломается и легко принимает любые зачарования. Но что-то подсказывает вам, что это не предел..."
 	},
 	"322:10": {
 		"eng_name": "Unbreakable Pickaxe",
 		"eng_desc": "A pickaxe made of your new metal will never break and will accept enchantments with ease. Something tells you there must be more...",
-		"ru_name": "Неразрушиваемая кирка",
-		"ru_desc": "Пикабель из вашего нового металла никогда не нарушится и будет легко принять чары. Что-то говорит вам, что должно быть больше ..."
+		"ru_name": "Неразрушимая кирка",
+		"ru_desc": "Кирка, созданная из нового металла, никогда не сломается и легко принимает любые зачарования. Но что-то подсказывает вам, что это не предел..."
 	},
 	"323:10": {
 		"eng_name": "Unbreakable Shovel",
 		"eng_desc": "A shovel made of your new metal will never break and will accept enchantments with ease. Something tells you there must be more...",
-		"ru_name": "Неразружная лопата",
-		"ru_desc": "Лопата из вашего нового металла никогда не нарушится и будет легко принять чары. Что-то говорит вам, что должно быть больше ..."
+		"ru_name": "Неразрушимая лопата",
+		"ru_desc": "Лопата, созданная из нового металла, никогда не сломается и легко принимает любые зачарования. Но что-то подсказывает вам, что это не предел..."
 	},
 	"324:10": {
 		"eng_name": "Unleashed the Power - Sword",
 		"eng_desc": "To make use of your tool to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!",
-		"ru_name": "Развязал силу - меч",
-		"ru_desc": "Чтобы использовать ваш инструмент в полной мере, вам придется раскрыть свою скрытую мощность. Это не легкая задача;Но это стоит все усилия!"
+		"ru_name": "Высвобождение силы - меч",
+		"ru_desc": "Дабы использовать свой инструмент на полную, вам нужно высвободить его скрытые силы. Это непросто; Но это точно того стоит!"
 	},
 	"325:10": {
 		"eng_name": "Unleashed the Power - Shovel",
 		"eng_desc": "To make use of your tool to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!",
-		"ru_name": "Развязал власть - лопата",
-		"ru_desc": "Чтобы использовать ваш инструмент в полной мере, вам придется раскрыть свою скрытую мощность. Это не легкая задача;Но это стоит все усилия!"
+		"ru_name": "Высвобождение силы - лопата",
+		"ru_desc": "Дабы использовать свой инструмент на полную, вам нужно высвободить его скрытые силы. Это непросто; Но это точно того стоит!"
 	},
 	"326:10": {
 		"eng_name": "Unleashed the Power - Axe",
 		"eng_desc": "To make use of your tool to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!",
-		"ru_name": "Развязал силу - топор",
-		"ru_desc": "Чтобы использовать ваш инструмент в полной мере, вам придется раскрыть свою скрытую мощность. Это не легкая задача;Но это стоит все усилия!"
+		"ru_name": "Высвобождение силы - топор",
+		"ru_desc": "Дабы использовать свой инструмент на полную, вам нужно высвободить его скрытые силы. Это непросто; Но это точно того стоит!"
 	},
 	"327:10": {
 		"eng_name": "Unleashed the Power - Pickaxe",
 		"eng_desc": "To make use of your tool to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!",
-		"ru_name": "Разблокировал мощность - киркул",
-		"ru_desc": "Чтобы использовать ваш инструмент в полной мере, вам придется раскрыть свою скрытую мощность. Это не легкая задача;Но это стоит все усилия!"
+		"ru_name": "Высвобождение силы - киркул",
+		"ru_desc": "Дабы использовать свой инструмент на полную, вам нужно высвободить его скрытые силы. Это непросто; Но это точно того стоит!"
 	},
 	"328:10": {
 		"eng_name": "Hold All the Foci",
 		"eng_desc": "Hermione's first years bag.",
-		"ru_name": "Держите все очаги",
+		"ru_name": "Собрать все набалдашники",
 		"ru_desc": "Сумка первых лет Гермионы."
 	},
 	"329:10": {
 		"eng_name": "Where Do the Items Go?",
 		"eng_desc": "It's probably better not to ask...",
-		"ru_name": "Где делаются предметы?",
-		"ru_desc": "Вероятно, лучше не спрашивать ..."
+		"ru_name": "Куда деваются предметы?",
+		"ru_desc": "Полагаю, лучше не спрашивать ..."
 	},
 	"331:10": {
 		"eng_name": "Why Walk...",
 		"eng_desc": "...when you can teleport? This little device allows you to teleport around almost for free. Is it cheaty? Is it OP? Nope, it's a celestial gateway!\n\n10 can be set per device, so get creative! ...Unless you want to go to other Dims, which it can't do. But hey, faster travel around your base!",
-		"ru_name": "Почему ходить ...",
-		"ru_desc": "... когда вы можете телепортироваться? Это маленькое устройство позволяет телепортироваться почти бесплатно. Это обманывает? Это оп? Нет, это небесным шлюзом!\n\n10 можно установить на устройство, так что получите креатив!... Если вы не хотите пойти в другие тупышки, которые он не может сделать. Но эй, быстрее путешествовать по вашей базе!"
+		"ru_name": "Почему ходить...",
+		"ru_desc": "...когда вы можете телепортироваться? Это маленькое устройство позволит вам телепортироваться почти бесплатно. Это читерно? Это имба? Нет. Это Небесный Портал!\n\nВы можете разместить лишь 10 на устройство, так что используйте с умом! ...Если вы не хотите телепортироваться в иные измерения, что Порталу не под силу. Но блин, быстрое перемещение по базе!"
 	},
 	"335:10": {
 		"eng_name": "Don't Touch the Needle!",
 		"eng_desc": "While having not many recipes by itself, the few it has are rather important for your further witchery progression.",
 		"ru_name": "Не трогай иглу!",
-		"ru_desc": "Имея не так много рецептов сама по себе, немногие оно достаточно важно для вашей дальнейшей прогрессии колпачков."
+		"ru_desc": "Хоть рецептов в нём не так и много, некоторые из них очень важны для вашей дальнейшей прогрессии в Витчери."
 	},
 	"337:10": {
 		"eng_name": "Don't Shake it Too Much",
 		"eng_desc": "Unlike nitroglycerin, this stuff doesn't explode. But you still shouldn't shake it too much...",
-		"ru_name": "Не встряхните это слишком много",
-		"ru_desc": "В отличие от нитроглицерина, этот материал не взорвется. Но вы все еще не должны встряхивать это слишком много ..."
+		"ru_name": "Не трясите слишком сильно",
+		"ru_desc": "В отличии от нитроглицерина, это вещество не взрывается. Но вам всё же не стоит трясти его слишком сильно..."
 	},
 	"339:10": {
 		"eng_name": "Circle Magic",
 		"eng_desc": "For circle magic, you need... a circle, obviously. There are 4 types of chalk you can use, and you'll need all of them to proceed.",
 		"ru_name": "Кружок магии",
-		"ru_desc": "Для круга магии вам нужен ... круг, очевидно. Есть 4 типа мела, которые вы можете использовать, и вам понадобится все они, чтобы продолжить."
+		"ru_desc": "Для магии кругов вам нужен... очевидно, круг. Существует 4 вида мелков, которые вы можете использовать, и вам потребуется каждый из них."
 	},
 	"340:10": {
 		"eng_name": "Portable Power Source",
 		"eng_desc": "By infusing a stone with fiery magic you can create an \"Attuned Stone\". These stones can be used to link non-magical devices to the magical currents present...",
 		"ru_name": "Портативный источник питания",
-		"ru_desc": "Вставив камень с огненной магией, вы можете создать «настроенную камень». Эти камни могут быть использованы для соединения немагических устройств для присутствующих волшебных токов ..."
+		"ru_desc": "Зарядив камень пламенной магией вы можете создать \"Камень силы\". Эти камни могут быть использованы для привязки не-магических устройств к магическим..."
 	},
 	"341:10": {
 		"eng_name": "Flying OINKment",
 		"eng_desc": "You tried, it doesn't fly. And it also doesn't make any OINK sounds, sadly. But there might be some use for it...",
-		"ru_name": "Летающая отель",
-		"ru_desc": "Вы пробовали, это не летает. И он также не делает никаких звуков оси, к сожалению. Но для этого может быть некоторое использование ..."
+		"ru_name": "Летающая мазь",
+		"ru_desc": "Вы пытались, она не летает. И не хрюкает, увы. Но вы точно можете это как-то использовать..."
 	},
 	"342:10": {
 		"eng_name": "Nimbus 1999",
 		"eng_desc": "Not as good as its successor, the 2000'ish model, but still \"somehow\" useful...",
-		"ru_name": "Nimbus 1999.",
-		"ru_desc": "Не так хорошо, как его преемник, модель 2000 года, но все еще «как-то» полезно ..."
+		"ru_name": "Нимбус 1999",
+		"ru_desc": "Не столь хороша, сравнивая с её наследником, 2000-ой моделью, то всё ещё \"некоторым образом\" полезна..."
 	},
 	"343:10": {
 		"eng_name": "Bloodlust: Ghast Tear",
 		"eng_desc": "If you can't pin down a ghast but still want to make refined evil.",
 		"ru_name": "Жажда крови: Слеза Гаста",
-		"ru_desc": "Если вы не можете поймать гаста, но все равно хотите сделать из него утонченное зло."
+		"ru_desc": "Если вы не можете поймать гаста, но всё ещё хотите создать абсолютное зло"
 	},
 	"344:10": {
 		"eng_name": "Bloodlust: Witches Hand",
 		"eng_desc": "In case you don't like the infernal witches...",
-		"ru_name": "Bloodlust: ведьмы рука",
-		"ru_desc": "Если вам не нравятся адские ведьмы ..."
+		"ru_name": "Bloodlust: Рука ведьмы",
+		"ru_desc": "Если вам не нравятся инфернальные ведьмы..."
 	},
 	"347:10": {
 		"eng_name": "Bloodlust: Wool of Bat",
 		"eng_desc": "In case you just can't get it to drop.",
 		"ru_name": "Жажда крови: Шерсть летучей мыши",
-		"ru_desc": "В случае, если вы просто не можете заставить выбить его."
+		"ru_desc": "Если вы просто не можете выбить её."
 	},
 	"348:10": {
 		"eng_name": "Bloodlust: \"Cain\" Sword",
 		"eng_desc": "Serves 2 purposes: Style. And... ah, yeah... Something useful for vampires.",
-		"ru_name": "Bloodlust: «Каин» Меч",
-		"ru_desc": "Обслуживает 2 цели: стиль. И ... ах, да ... что-то полезное для вампиров."
+		"ru_name": "Bloodlust: Меч \"Каин\"",
+		"ru_desc": "Нужен для двух целей. Стиль. И... ээ, точно... Что-то полезное вампирам"
 	},
 	"349:10": {
 		"eng_name": "Be a Vampire; Dress Like a Fancy Person",
 		"eng_desc": "Sometimes it can be troublesome to get fancy clothing. However, if you prove yourself worthy, you get a set for free.",
-		"ru_name": "Быть вампиром;Платье как причудливый человек",
-		"ru_desc": "Иногда это может быть неприятно, чтобы получить модную одежду. Однако, если вы докажете себя достойным, вы получите набор бесплатно."
+		"ru_name": "Будь вампиром; Одевайся стильно",
+		"ru_desc": "Временами сложновато найти действительно стильную одежду. Но если вы докажете, что вы достойны - вы получите бесплатный набор."
 	},
 	"350:10": {
 		"eng_name": "A Few More Things...",
 		"eng_desc": "Ok, I think I have everything I need to assemble the device. Can you assist me with some additional materials? I need to update some of my machines, as these exotic components you got me damaged some of them already. Don't worry, I have a list here.\n\nSome of my circuits burned to a crisp while I was trying to measure the conductivity of these soul and life shards. I need better ones.\n\nGood lord, these mysterious crystals have eaten away my diamond grinding head! How could that happen? Can you get me a better one?\n\nDo you see that pile of Rhodium and Palladium over there? No? Neither do I. Because the machine was VAPORIZED! Good that you gave me 2 singularities, the first one... Well... Just get me a better casing, would you?\n\nIt seems, that the stabilizers need... stabilizing... But I'm out of field generators. Can you help me with this?",
-		"ru_name": "Еще несколько вещей ...",
-		"ru_desc": "Хорошо, я думаю, у меня есть все, что мне нужно, чтобы собрать устройство. Можете ли вы помочь мне с некоторыми дополнительными материалами? Мне нужно обновить некоторые из моих машин, так как эти экзотические компоненты вы получили меня повреждены некоторые из них. Не волнуйтесь, у меня есть список здесь.\n\nНекоторые из моих схем сожжены до хрустящего, пока я пытался измерить проводимость этих души и жизненных осколков. Мне нужны лучшие.\n\nХороший Господь, эти загадочные кристаллы съели мою бриллиант шлифовальную голову! Как это могло случиться? Можете ли вы получить мне лучший?\n\nВы видите, что куча родие и палладиума там? Нет? Ни я не делаю. Потому что машина испарилась! Хорошо, что вы дали мне 2 особенности, первый ... Ну ... просто достань мне лучший корпус, не могли бы вы?\n\nПохоже, что стабилизаторы нужны ... стабилизация ... но у меня нет полевых генераторов. ты можешь помочь мне с этим?"
+		"ru_name": "Еще несколько вещей...",
+		"ru_desc": "Ладно, кажется у меня есть всё нужное, чтобы собрать устройство. Поможешь ли ты мне ещё с парой материалов? Мне нужно обновить некоторые машины, так как те необычные детали, что ты мне принёс, уже повредили их. Не переживай, вот список.\n\nНесколько схем сгорели до корочки, пока я пытался измерить проводимость осколков души и жизни. Мне нужны получше.\n\nО господи, эти неизвестные клисталлы полностью сожрали мои алмазные шлифовальные головки! Как это вообще произошло? Можешь ли достать для меня новые, более прочные?\n\nВы видите эту кучку Родия и Палладия? Нет? И я не вижу. Потому что машина ИСПАРИЛАСЬ! Хорошо, что вы дали мне две сингулярности, потому что первая... Ну... Просто достань-ка корпус получше, лады?\n\nПохоже, что стабилизаторы нуждаются в... стабилизации... Но у меня кончились генераторы поля. Поможешь ли ты мне с этой проблемой?"
 	},
 	"351:10": {
 		"eng_name": "Hello There!",
 		"eng_desc": "I've observed your progress, and I have to say, I'm impressed. I might need your help soon on a big project of mine.",
 		"ru_name": "Привет!",
-		"ru_desc": "Я заметил ваш прогресс, и я должен сказать, я впечатлен. Мне может скоро понадобиться ваша помощь в большом проекте моей."
+		"ru_desc": "Я заметил ваш прогресс, и, честно говоря, я впечатлён. Вероятно, мне, для моего огромного проекта, скоро потребуется твоя помощь"
 	},
 	"352:10": {
 		"eng_name": "Power, So Much Power!",
 		"eng_desc": "If only I could harness it... Well, hello there my friend. I need your help with a project of mine. I want to create an immense power source, but I have a few problems that I need to solve first. Will you help me? You'll be well rewarded.\n\n§3The quests to get items will trigger the next part once you hold the item in question.",
-		"ru_name": "Сила, столько власти!",
-		"ru_desc": "Если бы только я мог использовать это ... Ну, привет, мой друг. Мне нужна ваша помощь в моем проекте. Я хочу создать огромный источник питания, но у меня есть несколько проблем, которые мне нужно решить первым. Ты мне поможешь? Вы будете хорошо вознаграждены.\n\nКвесты для получения элементов будут вызвать следующую часть, как только вы проведете вопрос о предмете."
+		"ru_name": "Сила, столько силы!",
+		"ru_desc": "Если бы я только мог её обуздать... Мм, здравствуй, товарищ. Я хочу, чтобы ты помог мне с моим проектом. Я желаю создать безмерный источник энергии, но с этим есть несколько проблем, которые сначала нужно решить. Поможешь ли ты мне? Награда будет достойной.\n\n§3Следующие квесты активируются в тот же миг, как вы возьмёте в руки востребованный для квеста предмет."
 	},
 	"353:10": {
 		"eng_name": "A Problem that Matters",
 		"eng_desc": "I need to open a wormhole. But for that, I need an immense gravitational field. One like those created upon the death of a massive star, a black hole. But I can't really \"kill\" a sun for this. I need to compress matter somehow... But... How? I think I may need a specialized machine for this, one that does not use explosions, as that won't get dense enough.",
 		"ru_name": "Проблема, которая имеет значение",
-		"ru_desc": "Мне нужно открыть червоточину. Но для этого мне нужно огромное гравитационное поле. Тот, как те, которые созданы на смерти массивной звезды, черной дыры. Но я не могу на самом деле «убить» солнце для этого. Мне нужно сжать дело как-то ... Но ... как? Я думаю, что мне понадобится специализированная машина для этого, которую не использует взрывы, так как это не будет плотнее."
+		"ru_desc": "Мне нужно открыть червоточину. Но для этого мне нужно поле невероятно сильной гравитации. Поле, подобное тем, которые рождаются после смерти огромных звёзд, чёрная дыра. Но, увы, я не могу \"убить\" Солнце для этого. Нужно каким-то образом сжать материю... Но... Как? Полагаю, мне нужно особенно устройство для этого, не использующее взрывов, так как имплозия не может сжать достаточно сильно."
 	},
 	"354:10": {
 		"eng_name": "Now that Matters!",
 		"eng_desc": "Of course! The matter condenser! How come I didn't think of that?",
-		"ru_name": "Теперь это имеет значение!",
-		"ru_desc": "Конечно! Дело в конденсаторе! Как я не думал об этом?"
+		"ru_name": "Теперь это имеет вес!",
+		"ru_desc": "Само собой! Конденсатор материи! Как я не догадался до этого?"
 	},
 	"355:10": {
 		"eng_name": "I need a stabilizer",
 		"eng_desc": "Opening the wormhole is one thing, but I need to stabilize it, so it doesn't harm anything. I guess I need something made of crystal. Why? Because I like it fancy. Find me a crystal-based, transparent material with immense power, would you?",
 		"ru_name": "Мне нужен стабилизатор",
-		"ru_desc": "Открытие червоточины - одно, но мне нужно его стабилизировать, поэтому оно ничего не наносит вреда. Я думаю, мне нужно что-то из кристалла. Почему? Потому что мне это нравится. Найди мне кристалл, прозрачный материал с огромной мощностью, вы бы?"
+		"ru_desc": "Открытие червоточины это одно, но её нужно стабилизировать, не разрушив всё вокруг. Полагаю, что-то кристаллическое. Почему? Потмоу что это красиво. Найди мне прозрачный кристалльный материал невероятной мощи, не прочь?"
 	},
 	"356:10": {
 		"eng_name": "Shiny!",
 		"eng_desc": "What in the world is this? This is amazing! I need more of these! They will be an amazing containment material for the wormhole!",
-		"ru_name": "Блестящий!",
-		"ru_desc": "Что в мире это? Это потрясающе! Мне нужно больше из них! Они будут удивительным материалом для сдерживания для червоточины!"
+		"ru_name": "Блестяшка!",
+		"ru_desc": "Что это вообще такое? Это восхитительно! Мне нужно больше таких! Эти кристаллы станут отличным сдерживающим материалом для червоточины!"
 	},
 	"357:10": {
 		"eng_name": "I'm Hungry",
 		"eng_desc": "What... I work a lot! So get me some food please.",
-		"ru_name": "Я голоден",
-		"ru_desc": "Что ... я много работаю! Так что заставь мне еду, пожалуйста."
+		"ru_name": "Хочу кушать",
+		"ru_desc": "Что... Я много работал! Так что принеси мне поесть, пожалуйста."
 	},
 	"358:10": {
 		"eng_name": "It Needs a Power Plug...",
 		"eng_desc": "Given the fact that I will be able to craft this device, it needs some kind of \"plug\" to get the power out. I need something to conduct immense amounts of power. I thought about superconductors, but they don't fit with the crystal casing material I have in mind. I need 2 different crystals, one for positive and one for negative charge.",
-		"ru_name": "Это нужна заглушка питания ...",
-		"ru_desc": "Учитывая тот факт, что я смогу создать это устройство, ему нужна какая-то «вилка», чтобы получить питание. Мне нужно что-то, чтобы провести огромное количество власти. Я думал о сверхпроводниках, но они не подходят с кристально-корпусом, который я имею в виду. Мне нужны 2 разных кристалла, один для положительного и одного для отрицательного заряда."
+		"ru_name": "Ему нужна розетка...",
+		"ru_desc": "Учитывая, что я смогу создать это устройство, мне нужна \"розетка\", чтобы достать энергию оттуда. Я нуждаюсь в чём-то, что может проводить невероятные объёмы энергии. Я думан о суперпроводниках, но они как-то не вписываются в кристалльную тематику корпуса, которую я придумал. Мне надо 2 разных кристалла, один для положительного заряда, другой для отрицательного."
 	},
 	"359:10": {
 		"eng_name": "Red and Blue",
 		"eng_desc": "Really? A red and blue crystal? How awesome is that! I think I will need 8 of each color, just to be sure.",
-		"ru_name": "Красный и синий",
-		"ru_desc": "Действительно? Красный и синий кристалл? Насколько это удивительно! Я думаю, мне понадобится 8 каждого цвета, просто чтобы быть уверенным."
+		"ru_name": "Красный и Синий",
+		"ru_desc": "Серьёзно? Красный и синий кристаллы? Великолепно! Думаю мне надо по 8 штук каждого, на всякий пожарный."
 	},
 	"360:10": {
 		"eng_name": "A Casing",
@@ -2561,197 +2561,197 @@
         "ru_name": "Ужасный верстак",
         "ru_desc": "Крафтовый стол 9x9 из Avaritia... больше не используется для изготовления ракетов :(. Но вы все равно можете сделать их, если хотите солнечные, кинетически или другие генераторы. В первую очередь вам нужен 81 крефтовый сто, чтобы сделать крафтовые столы двойной платности, несколько HV компонентов, подложки и кристаллическая матрица. И да, вам нужно много адских звезд."
     },
-	"810:10": {
-		"eng_name": "Rocket Tier 1",
-		"eng_desc": "After hours of hard work and a few stacks of TNT your first rocket is finally ready. But before you can go to the Moon you need to actually craft it.",
-		"ru_name": "Ракетный уровень 1.",
-		"ru_desc": "После нескольких часов тяжелой работы и нескольких стеков TNT ваша первая ракета наконец готова. Но прежде чем вы сможете пойти на Луну, вам нужно на самом деле решить это."
-	},
-	"811:10": {
-		"eng_name": "Tier 1 Control Computer",
-		"eng_desc": "Each rocket needs a Control Computer, appropriate to the tier of the rocket.",
-		"ru_name": "Уровень 1 контрольный компьютер",
-		"ru_desc": "Каждая ракета нуждается в контрольном компьютере, подходящий для уровня ракеты."
-	},
-	"812:10": {
-		"eng_name": "Tier 1 Heavy Duty Plates",
-		"eng_desc": "Rockets require heavy duty plates for the main hull. Let's craft 37 of these plates out of compressed aluminium plates, compressed bronze plates and compressed steel plates.",
-		"ru_name": "Уровень 1 сверхмощных тарелок",
-		"ru_desc": "Ракеты требуют сверхмощных тарелок для главного корпуса. Давайте ремесло 37 из этих пластин из сжатых алюминиевых пластин, сжатых бронзовых пластин и сжатых стальных пластин."
-	},
-	"813:10": {
-		"eng_name": "Rocket Nose Cone",
-		"eng_desc": "Every rocket needs a nose cone.",
-		"ru_name": "Ракетный конус носа",
-		"ru_desc": "Каждая ракета нуждается в носу конуса."
-	},
-	"814:10": {
-		"eng_name": "Rocket Fins",
-		"eng_desc": "Every rocket needs a few rocket fins.",
-		"ru_name": "Ракетные плавники",
-		"ru_desc": "Каждая ракета нуждается в нескольких ракетных плавниках."
-	},
-	"815:10": {
-		"eng_name": "Rocket Engine",
-		"eng_desc": "Every rocket needs a rocket engine. Better craft two, because the Moon lander needs one also.",
-		"ru_name": "Ракетный двигатель",
-		"ru_desc": "Каждая ракета нуждается в ракетном двигателе. Лучшее ремесло два, потому что нуждается в Луне Ландер также."
-	},
-	"817:10": {
-		"eng_name": "Buggy Seat",
-		"eng_desc": "The buggy seat is part of the Moon lander and the Moon buggy.",
-		"ru_name": "Багги",
-		"ru_desc": "Баггиское сиденье является частью Луны Ландера и Луны Багги."
-	},
-	"818:10": {
-		"eng_name": "Frequency Module",
-		"eng_desc": "The frequency Module will help you hear sounds properly while in space (it's also used with the telemetry unit so that your buddies can keep track of you from your base, if you are playing with friends). You need it in your inventory and in the Moon lander.",
-		"ru_name": "Частотный модуль",
-		"ru_desc": "Частотный модуль поможет вам правильно слышать звуки в пространстве (он также используется с телеметрическим устройством, чтобы ваши друзья могли отслеживать вас от вашей базы, если вы играете с друзьями). Вам нужно это в своем инвентаре и в Лунном Ландере."
-	},
-	"819:10": {
-		"eng_name": "Small Fuel Canister",
-		"eng_desc": "Every rocket needs fuel storage canisters. For the tier 1 rocket you need to craft two of them.",
-		"ru_name": "Маленькая топливная канистра",
-		"ru_desc": "Каждая ракета нуждается в хранениях топлива для хранения топлива. Для ракеты уровня 1 вам нужно создавать два из них."
-	},
-	"820:10": {
-		"eng_name": "Rocket Launch Pad",
-		"eng_desc": "Every rocket needs a launch pad. Build a 3x3 launch pad and place your rocket on top of it.\n\nStorms and other events that affect entities can knock your rocket off (but not lightning warp anymore), so make sure to not leave it alone.\n\n§4Before liftoff, make sure you clear the airspace above you! Even clouds...\n\nBe sure to checkout https://gtnh.miraheze.org/wiki/Rockets for a Departure Checklist!\n\nAlso note that they emit pollution, lots of it. So either put it far from your base, or use a scrubber while launching. You probably won't have to worry until T4 or so though.",
-		"ru_name": "Ракетная площадка запуска",
-		"ru_desc": "Каждая ракета нуждается в запусковой площадке. Постройте запускную площадку 3x3 и поместите свою ракету на него.\n\nШтормы и другие события, которые влияют на сущности, могут выключить вашу ракетость (но больше не молнии), поэтому убедитесь, что не оставьте его в покое.\n\nПеред подъемом убедитесь, что вы очистите воздушное пространство над вами! Даже облака ...\n\nОбязательно оформить заказ https://gtnh.miraheze.org/wiki/rockets для контрольного списка отъезда!\n\nТакже обратите внимание, что они излучают загрязнение, много этого. Так что либо положите его далеко от вашей базы, либо используйте скруббер при запуске. Вам, вероятно, не придется беспокоиться до T4 или так хоть."
-	},
-	"822:10": {
-		"eng_name": "Oxygen Gear",
-		"eng_desc": "Oxygen gear is used to attach oxygen tanks to the oxygen mask. This is absolutely vital for any astronaut.",
-		"ru_name": "Кислородное снаряжение",
-		"ru_desc": "Кислородное снаряжение используется для присоединения кислородных резервуаров к кислородной маске. Это абсолютно жизненно важно для любого астронавта."
-	},
-	"823:10": {
-		"eng_name": "Oxygen Mask",
-		"eng_desc": "The oxygen mask is part of the system used to breathe on planets without oxygen, the others being oxygen gear and oxygen tanks.",
-		"ru_name": "Кислородная маска",
-		"ru_desc": "Оксиологическая маска является частью системы, используемой для дыхания планет без кислорода, другие являются кислородными зубчатыми и кислородными резервуарами."
-	},
-	"828:10": {
-		"eng_name": "Oxygen Collector",
-		"eng_desc": "The oxygen collector is a block that gathers oxygen from leaves and farm plants to use in an oxygen bubble distributor, oxygen sealer, oxygen compressor, and other oxygen-reliant machines. If you plan to build a Moon base, which needs a continuous oxygen supply, you will need to build one.",
-		"ru_name": "Кислородный коллектор",
-		"ru_desc": "Кислородный коллектор представляет собой блок, который собирает кислород из листьев и сельскохозяйственных растений для использования в распределителю кислородных пузырьков, кислородным герметиком, кислородным компрессором и другими кислородными машинами. Если вы планируете построить лунную базу, которая нуждается в постоянном подаче кислорода, вам нужно будет построить один."
-	},
-	"829:10": {
-		"eng_name": "Oxygen Compressor",
-		"eng_desc": "The oxygen compressor is used to fill empty or depleted oxygen tanks. Connect an oxygen pipe to the blue ring input side and a power source to the grey square input side. Place an oxygen tank in the bottom right slot and it will take oxygen from the input and place it into the tank.",
-		"ru_name": "Оксиологический компрессор",
-		"ru_desc": "Оксиологический компрессор используется для заполнения пустых или обедненных кислородных резервуаров. Подсоедините кислородную трубу к синему кольцу входной стороне и источником питания к боковой стороне серого квадрата. Поместите кислородный бак в нижнем правом слоте, и он возьмет кислород от ввода и поместите его в резервуар."
-	},
-	"830:10": {
-		"eng_name": "Parachute",
-		"eng_desc": "A parachute is used to prevent death upon re-entry into the Overworld's atmosphere. The parachute is an essential part of your journey to space. You should never journey into space without it. There will even be a warning if you try to launch without one on you.\n\nUse the assembler to save materials.",
-		"ru_name": "Парашют",
-		"ru_desc": "Парашют используется для предотвращения смерти после ввода в атмосферу сверхромба. Парашют является неотъемлемой частью вашего путешествия в космос. Вы никогда не должны путешествовать в космос без него. Будет даже предупреждение, если вы попытаетесь запустить без одного на вас.\n\nИспользуйте ассемблер, чтобы сохранить материалы."
-	},
-	"831:10": {
-		"eng_name": "Advanced Wafers",
-		"eng_desc": "The advanced wafer is used for more advanced machines such as the advanced solar panel or the Avaritia dire crafting table. It is also used in the creation of a space station.",
-		"ru_name": "Продвинутые вафли",
-		"ru_desc": "Усовершенствованная вафля используется для более продвинутых машин, таких как продвинутая солнечная панель или таблица крафта. Он также используется в создании космической станции."
-	},
-	"832:10": {
-		"eng_name": "Wafers",
-		"eng_desc": "The basic wafer is used for creating basic machines such as the basic solar panel, the fuel loader, the energy storage module and the compressor.",
-		"ru_name": "Вафли",
-		"ru_desc": "Основная вафля используется для создания основных машин, таких как основная солнечная панель, топливный погрузчик, модуль хранения энергии и компрессор."
-	},
-	"833:10": {
-		"eng_name": "Purge Your Warp",
-		"eng_desc": "The warp you have accumulated over time is starting to become a problem. Making bath salts to clean off the warp is only a temporary solution. To truly get rid of it, you need something more powerful, a pure tear. If you collect a few things for me, I will give you one. Think wisely about using it, since it's a very long journey to unlock it through research.\n\n§3PS: You need IV power for the osmiridium.",
-		"ru_name": "Очистить свою деформацию",
-		"ru_desc": "Варп, который вы накопили со временем, начинают становиться проблемой. Соли для ванн для очистки деформации - это только временное решение. Действительно избавиться от этого, вам нужно что-то более мощное, чистую слезу. Если вы собираете несколько вещей для меня, я дам вам один. Думайте мудро о его использовании, так как это очень долгое путешествие, чтобы разблокировать его через исследования.\n\nPS: Вам нужна IV Power для осмиридия."
-	},
-	"837:10": {
-		"eng_name": "§6§lILC and RAM",
-		"eng_desc": "Advanced circuits need integrated logic circuits and random access memory chips.\nYou can get those by cutting the ILC and RAM wafers.",
-		"ru_name": "§6§lILC и RAM.",
-		"ru_desc": "Расширенные цепи должны интегрированные логические цепи и чипсы памяти случайных доступов.\nВы можете получить тех, сократив ILC и RAM Wafers."
-	},
-	"841:10": {
-		"eng_name": "§9§lTetranitromethane",
-		"eng_desc": "Bio diesel and diesel can be boosted using tetranitromethane. Ethenone and nitric acid are required to make tetranitromethane in a chemical reactor.",
-		"ru_name": "§9§lТетранитрометан",
-		"ru_desc": "Био дизель и дизель могут быть увеличены с помощью тетранитрометана. Эстинона и азотная кислота необходимы для изготовления тетранитрометана в химическом реакторе."
-	},
-	"851:10": {
-		"eng_name": "§9§lNitric Acid",
-		"eng_desc": "Nitric acid can be made out of water, oxygen and nitrogen dioxide.",
-		"ru_name": "§9§lАзотная кислота",
-		"ru_desc": "Азотическая кислота может быть изготовлена из воды, кислорода и диоксида азота."
-	},
-	"852:10": {
-		"eng_name": "§6§lAcetic Acid",
-		"eng_desc": "Acetic acid can be made out of oxygen and ethylene. Alternatively, it can be made out of biomass, wood vinegar or vinegar.",
-		"ru_name": "§6§lУксусная кислота",
-		"ru_desc": "Уксусная кислота может быть изготовлена из кислорода и этилена. В качестве альтернативы, его можно сделать из биомассы, древесины уксуса или уксуса."
-	},
-	"853:10": {
-		"eng_name": "§9§lNitrogen Dioxide",
-		"eng_desc": "To make nitrogen dioxide you need to combine oxygen gas and nitric oxide in a chemical reactor.",
-		"ru_name": "§9§lДиоксид азота",
-		"ru_desc": "Сделать азотный диоксид вам необходимо объединить кислородный газ и оксид азота в химическом реакторе."
-	},
-	"854:10": {
-		"eng_name": "§9§lAmmonia",
-		"eng_desc": "Nitrogen and hydrogen... Ammonia.",
-		"ru_name": "§9§lАммиак",
-		"ru_desc": "Азот и водород ... аммиак."
-	},
-	"855:10": {
-		"eng_name": "§9§lNitric Oxide",
-		"eng_desc": "To make nitric oxide you need to combine oxygen and ammonia in a chemical reactor.",
-		"ru_name": "§9§lОксид азота",
-		"ru_desc": "Для изготовления оксида азота вам нужно объединить кислород и аммиак в химическом реакторе."
-	},
-	"856:10": {
-		"eng_name": "§9§l1,1-Dimethylhydrazine",
-		"eng_desc": "To make 1,1-Dimethylhydrazine you need to combine some Hydrazine and Formaldehyde with Hydrogen along with a Formaldehyde Catalyst in a Chemical Plant.",
-		"ru_name": "§9§l1,1-диметилгидразин",
-		"ru_desc": "Сделать 1,1-диметилгидразин, вам нужно сочетать гидразин и формальдегид с водородом, а также формальдегидным катализатором в химическом заводе."
-	},
-	"857:10": {
-		"eng_name": "§9§lFormaldehyde",
-		"eng_desc": "Combining Oxygen and Methanol along with a Formaldehyde Catalyst in a Chemical Plant produces some Formaldehyde.",
-		"ru_name": "§9§lФормальдегид",
-		"ru_desc": "Сочетание кислорода и метанола вместе с формальдегидом катализатором в химическом заводе производит некоторый формальдегид."
-	},
-	"863:10": {
-		"eng_name": "§2§lBronze Javelin",
-		"eng_desc": "The bronze javelin is a bit expensive and has only 7 throws, yet it is a good mid-range weapon. With one bronze ingot you can replenish your stack of javelins.",
-		"ru_name": "§2§lБронзовый копье",
-		"ru_desc": "Бронзовый копье немного дороги и имеет только 7 бросков, но это хорошее оружие среднего уровня. С одной бронзовой слиткой вы можете пополнить свой стек копья."
-	},
-	"864:10": {
-		"eng_name": "§2§lYour First Flint Throwing Knife",
-		"eng_desc": "Is the bone bow too expensive for your taste? Then make a flint throwing knife instead. You need flint and a stick to get 12 knives. The durability and the attack damage are very low but it still helps with killing mobs from a safe distance.",
-		"ru_name": "§2§lВаш первый нож крема",
-		"ru_desc": "Лук кости слишком дороги для вашего вкуса? Затем вместо этого сделайте метательный нож Flint. Вам нужен Flint и палка, чтобы получить 12 ножей. Долговечность и повреждение атаки очень низки, но он все еще помогает с убийствами мобов с безопасного расстояния."
-	},
-	"866:10": {
-		"eng_name": "The Transcontinental Railroad",
-		"eng_desc": "All the different mining veins that have been found seem to be really far apart. One way to shorten the travel time is to create a railroad from your base to the different mines. Sadly this requires a large amount of both iron and creosote. Let's not forget to place the last symbolic rivet on one of your new train lines.",
-		"ru_name": "Трансконтинентальная железная дорога",
-		"ru_desc": "Все разные добыча вен, которые были найдены, кажется, действительно далеко друг от друга. Один из способов сократить время в пути состоит в том, чтобы создать железную дорогу от вашей базы до разных шахт. К сожалению, это требует большого количества как железа и креозота. Давайте не будем забывать разместить последний символический заклепки на одном из ваших новых линий поезда."
-	},
-	"868:10": {
-		"eng_name": "§1§2§3§lGypsum",
-		"eng_desc": "To make bricks for the blast furnace you need concrete and gypsum. Gypsum can be found in a vein together with basaltic and granitic mineral sand, and fullers earth. Y 50-60 and only in the overworld.",
-		"ru_name": "§1§2§3§lГипс",
-		"ru_desc": "Сделать кирпичи для доменной печи вам нужен бетон и гипс. Гипс можно найти в вене вместе с базальтовым и гранитовым минеральным песком, а также соленными землей.Y 50-60 и только в чрезмерном мире."
-	},
+    "810:10": {
+        "eng_name": "Rocket Tier 1",
+        "eng_desc": "After hours of hard work and a few stacks of TNT your first rocket is finally ready. But before you can go to the Moon you need to actually craft it.",
+        "ru_name": "Ракета 1 тира",
+        "ru_desc": "После нескольких часов тяжелой работы и нескольких стеков TNT, ваша первая ракета наконец готова. Но прежде чем вы сможете пойти на Луну, вам нужно на самом деле скрафтить её."
+    },
+    "811:10": {
+        "eng_name": "Tier 1 Control Computer",
+        "eng_desc": "Each rocket needs a Control Computer, appropriate to the tier of the rocket.",
+        "ru_name": "Контрольный компьютер 1 тира",
+        "ru_desc": "Каждая ракета нуждается в контрольном компьютере, подходящем для уровня ракеты."
+    },
+    "812:10": {
+        "eng_name": "Tier 1 Heavy Duty Plates",
+        "eng_desc": "Rockets require heavy duty plates for the main hull. Let's craft 37 of these plates out of compressed aluminium plates, compressed bronze plates and compressed steel plates.",
+        "ru_name": "Сверхпрочное покрытие 1 тира",
+        "ru_desc": "Ракеты требуют сверхмощное покрытие для главного корпуса. Давайте сделаем 37 этих пластин из сжатых алюминиевых пластин, сжатых бронзовых пластин и сжатых стальных пластин."
+    },
+    "813:10": {
+        "eng_name": "Rocket Nose Cone",
+        "eng_desc": "Every rocket needs a nose cone.",
+        "ru_name": "Носовой конус ракеты",
+        "ru_desc": "Каждая ракета нуждается в носовом конусе."
+    },
+    "814:10": {
+        "eng_name": "Rocket Fins",
+        "eng_desc": "Every rocket needs a few rocket fins.",
+        "ru_name": "Оперение ракеты",
+        "ru_desc": "Каждая ракета нуждается в нескольких элементах оперения."
+    },
+    "815:10": {
+        "eng_name": "Rocket Engine",
+        "eng_desc": "Every rocket needs a rocket engine. Better craft two, because the Moon lander needs one also.",
+        "ru_name": "Ракетный двигатель",
+        "ru_desc": "Каждая ракета нуждается в ракетном двигателе. Лучшее сделать два, потому что модуль посадки на Луну тоже нуждается в нем."
+    },
+    "817:10": {
+        "eng_name": "Buggy Seat",
+        "eng_desc": "The buggy seat is part of the Moon lander and the Moon buggy.",
+        "ru_name": "Багги",
+        "ru_desc": "Кресло багги является частью Модуля посадки на Луну и Лунного багги."
+    },
+    "818:10": {
+        "eng_name": "Frequency Module",
+        "eng_desc": "The frequency Module will help you hear sounds properly while in space (it's also used with the telemetry unit so that your buddies can keep track of you from your base, if you are playing with friends). You need it in your inventory and in the Moon lander.",
+        "ru_name": "Частотный модуль",
+        "ru_desc": "Частотный модуль поможет вам правильно слышать звуки в пространстве (он также используется с телеметрическим устройстве, чтобы ваши друзья могли отслеживать вас из вашей базы, если вы играете с друзьями). Вам нужен один в своем инвентаре, и второй в Модуле посадки на Луну."
+    },
+    "819:10": {
+        "eng_name": "Small Fuel Canister",
+        "eng_desc": "Every rocket needs fuel storage canisters. For the tier 1 rocket you need to craft two of them.",
+        "ru_name": "Маленькая топливная канистра",
+        "ru_desc": "Каждая ракета нуждается в хранилищах топлива. Для ракеты уровня 1 вам нужно создавать два."
+    },
+    "820:10": {
+        "eng_name": "Rocket Launch Pad",
+        "eng_desc": "Every rocket needs a launch pad. Build a 3x3 launch pad and place your rocket on top of it.\n\nStorms and other events that affect entities can knock your rocket off (but not lightning warp anymore), so make sure to not leave it alone.\n\n§4Before liftoff, make sure you clear the airspace above you! Even clouds...\n\nBe sure to checkout https://gtnh.miraheze.org/wiki/Rockets for a Departure Checklist!\n\nAlso note that they emit pollution, lots of it. So either put it far from your base, or use a scrubber while launching. You probably won't have to worry until T4 or so though.",
+        "ru_name": "Площадка запуска ракеты",
+        "ru_desc": "Каждая ракета нуждается в пусковой площадке. Постройте пусковую площадку 3x3 и поместите свою ракету на неё.\n\nШтормы и другие события, которые влияют на сущности, могут сбить вашу ракету (но больше не молнии), поэтому убедитесь, что не оставьте её без присмотра.\n\n§4Перед запусуком убедитесь, что вы очистите воздушное пространство над вами! Даже облака...\n\nОбязательно сверьтесь с https://gtnh.miraheze.org/wiki/rockets для предполетной подготовки!\n\nТакже обратите внимание, что ракеты во время запуска создают загрязнение, очень много. Так что либо производите запуск далеко от вашей базы, либо используйте какие-либо системы очистки чанков. Вам, вероятно, не придется беспокоиться об это до T4 или около того."
+    },
+    "822:10": {
+        "eng_name": "Oxygen Gear",
+        "eng_desc": "Oxygen gear is used to attach oxygen tanks to the oxygen mask. This is absolutely vital for any astronaut.",
+        "ru_name": "Кислородное снаряжение",
+        "ru_desc": "Кислородное снаряжение используется для присоединения кислородных резервуаров к кислородной маске. Это абсолютно жизненно важно для любого астронавта."
+    },
+    "823:10": {
+        "eng_name": "Oxygen Mask",
+        "eng_desc": "The oxygen mask is part of the system used to breathe on planets without oxygen, the others being oxygen gear and oxygen tanks.",
+        "ru_name": "Кислородная маска",
+        "ru_desc": "Кислородная маска является частью системы, используемой для дыхания на планетах без кислорода, другими частями являются кислородное снаряжение и кислородные баллоны."
+    },
+    "828:10": {
+        "eng_name": "Oxygen Collector",
+        "eng_desc": "The oxygen collector is a block that gathers oxygen from leaves and farm plants to use in an oxygen bubble distributor, oxygen sealer, oxygen compressor, and other oxygen-reliant machines. If you plan to build a Moon base, which needs a continuous oxygen supply, you will need to build one.",
+        "ru_name": "Сборщик кислорода",
+        "ru_desc": "Сборщик кислорода представляет собой блок, который собирает кислород из листьев и сельскохозяйственных растений для использования в распределителе кислородных пузырей, кислородном гермозатворе, кислородным компрессоре и другими кислородных машинами. Если вы планируете построить лунную базу, которая нуждается в постоянной подаче кислорода, вам нужно будет построить один."
+    },
+    "829:10": {
+        "eng_name": "Oxygen Compressor",
+        "eng_desc": "The oxygen compressor is used to fill empty or depleted oxygen tanks. Connect an oxygen pipe to the blue ring input side and a power source to the grey square input side. Place an oxygen tank in the bottom right slot and it will take oxygen from the input and place it into the tank.",
+        "ru_name": "Кислородный компрессор",
+        "ru_desc": "Кислородный компрессор используется для заполнения пустых или отработанных кислородных баллонов. Подсоедините кислородную трубу к стороне с синим кольцом, и источник питания к стороне с серым квадратом. Поместите кислородный баллон в нижний правый слот, и он переместит кислород от ввода в баллон."
+    },
+    "830:10": {
+        "eng_name": "Parachute",
+        "eng_desc": "A parachute is used to prevent death upon re-entry into the Overworld's atmosphere. The parachute is an essential part of your journey to space. You should never journey into space without it. There will even be a warning if you try to launch without one on you.\n\nUse the assembler to save materials.",
+        "ru_name": "Парашют",
+        "ru_desc": "Парашют используется для предотвращения смерти после входа в атмосферу планеты. Парашют является неотъемлемой частью вашего путешествия в космос. Вы никогда не должны путешествовать в космос без него. Будет даже предупреждение, если вы попытаетесь запустить ракету без парашюта на вас.\n\nИспользуйте ассемблер, чтобы сэкономить материалы."
+    },
+    "831:10": {
+        "eng_name": "Advanced Wafers",
+        "eng_desc": "The advanced wafer is used for more advanced machines such as the advanced solar panel or the Avaritia dire crafting table. It is also used in the creation of a space station.",
+        "ru_name": "Продвинутые подложки",
+        "ru_desc": "Продвинутые подложки используется для более продвинутых машин, таких как продвинутая солнечная панель или Ужасный Верстак из Avaritia. Они также используется в создании космической станции."
+    },
+    "832:10": {
+        "eng_name": "Wafers",
+        "eng_desc": "The basic wafer is used for creating basic machines such as the basic solar panel, the fuel loader, the energy storage module and the compressor.",
+        "ru_name": "Подложки",
+        "ru_desc": "Базовые подложки используется для создания базовых машин, таких как базовая солнечная панель, топливный загрузчик, модуль хранения энергии и компрессор."
+    },
+    "833:10": {
+        "eng_name": "Purge Your Warp",
+        "eng_desc": "The warp you have accumulated over time is starting to become a problem. Making bath salts to clean off the warp is only a temporary solution. To truly get rid of it, you need something more powerful, a pure tear. If you collect a few things for me, I will give you one. Think wisely about using it, since it's a very long journey to unlock it through research.\n\n§3PS: You need IV power for the osmiridium.",
+        "ru_name": "Очистите ваш варп",
+        "ru_desc": "Варп, который вы накопили со временем, начинают становиться проблемой. Соли для ванн для очистки варпа - это только временное решение. Чтобы действительно избавиться от этого, вам нужно что-то более мощное, чистая слеза. Если вы собираете несколько вещей для меня, я дам вам одну. Мудро обдумайте её использование, так как это очень долгое путешествие, чтобы разблокировать её через исследования.\n\n§3PS: Вам нужно напряжение IV тира для осмоиридия."
+    },
+    "837:10": {
+        "eng_name": "§6§lILC and RAM",
+        "eng_desc": "Advanced circuits need integrated logic circuits and random access memory chips.\nYou can get those by cutting the ILC and RAM wafers.",
+        "ru_name": "§6§lILC и RAM.",
+        "ru_desc": "Расширенные цепи нуждаются в интегрированных логических цепях и чипах памяти произвольного доступа.\nВы можете получить их, разрезав ILC и RAM подложки."
+    },
+    "841:10": {
+        "eng_name": "§9§lTetranitromethane",
+        "eng_desc": "Bio diesel and diesel can be boosted using tetranitromethane. Ethenone and nitric acid are required to make tetranitromethane in a chemical reactor.",
+        "ru_name": "§9§lТетранитрометан",
+        "ru_desc": "Био дизель и дизель могут быть усилены с помощью тетранитрометана. Этенон и азотная кислота необходимы для изготовления тетранитрометана в химическом реакторе."
+    },
+    "851:10": {
+        "eng_name": "§9§lNitric Acid",
+        "eng_desc": "Nitric acid can be made out of water, oxygen and nitrogen dioxide.",
+        "ru_name": "§9§lАзотная кислота",
+        "ru_desc": "Азотная кислота может быть изготовлена из воды, кислорода и диоксида азота."
+    },
+    "852:10": {
+        "eng_name": "§6§lAcetic Acid",
+        "eng_desc": "Acetic acid can be made out of oxygen and ethylene. Alternatively, it can be made out of biomass, wood vinegar or vinegar.",
+        "ru_name": "§6§lУксусная кислота",
+        "ru_desc": "Уксусная кислота может быть изготовлена из кислорода и этилена. В качестве альтернативы, её можно сделать из биомассы, древесного уксуса или уксуса."
+    },
+    "853:10": {
+        "eng_name": "§9§lNitrogen Dioxide",
+        "eng_desc": "To make nitrogen dioxide you need to combine oxygen gas and nitric oxide in a chemical reactor.",
+        "ru_name": "§9§lДиоксид азота",
+        "ru_desc": "Чтобы сделать диоксид азота, вам необходимо объединить кислород и оксид азота в химическом реакторе."
+    },
+    "854:10": {
+        "eng_name": "§9§lAmmonia",
+        "eng_desc": "Nitrogen and hydrogen... Ammonia.",
+        "ru_name": "§9§lАммиак",
+        "ru_desc": "Азот и водород... Аммиак."
+    },
+    "855:10": {
+        "eng_name": "§9§lNitric Oxide",
+        "eng_desc": "To make nitric oxide you need to combine oxygen and ammonia in a chemical reactor.",
+        "ru_name": "§9§lОксид азота",
+        "ru_desc": "Для изготовления оксида азота вам нужно объединить кислород и аммиак в химическом реакторе."
+    },
+    "856:10": {
+        "eng_name": "§9§l1,1-Dimethylhydrazine",
+        "eng_desc": "To make 1,1-Dimethylhydrazine you need to combine some Hydrazine and Formaldehyde with Hydrogen along with a Formaldehyde Catalyst in a Chemical Plant.",
+        "ru_name": "§9§l1,1-диметилгидразин",
+        "ru_desc": "Чтобы сделать 1,1-диметилгидразин, вам нужно объединить гидразин и формальдегид с водородом, а также формальдегидным катализатором в химическом заводе."
+    },
+    "857:10": {
+        "eng_name": "§9§lFormaldehyde",
+        "eng_desc": "Combining Oxygen and Methanol along with a Formaldehyde Catalyst in a Chemical Plant produces some Formaldehyde.",
+        "ru_name": "§9§lФормальдегид",
+        "ru_desc": "Сочетание кислорода и метанола вместе с формальдегидом катализатором в химическом заводе произведет немного формальдегида."
+    },
+    "863:10": {
+        "eng_name": "§2§lBronze Javelin",
+        "eng_desc": "The bronze javelin is a bit expensive and has only 7 throws, yet it is a good mid-range weapon. With one bronze ingot you can replenish your stack of javelins.",
+        "ru_name": "§2§lБронзовое копьё",
+        "ru_desc": "Бронзовое копьё немного сложнее и имеет только 7 использований, но это хорошее оружие среднего уровня. Вы можете восполнить весь стак копий одним бронзовым слитком."
+    },
+    "864:10": {
+        "eng_name": "§2§lYour First Flint Throwing Knife",
+        "eng_desc": "Is the bone bow too expensive for your taste? Then make a flint throwing knife instead. You need flint and a stick to get 12 knives. The durability and the attack damage are very low but it still helps with killing mobs from a safe distance.",
+        "ru_name": "§2§lВаш первый метательный кремневый нож",
+        "ru_desc": "Костный лук слишком дорог к использованию? Значит вместо него сделайте метательный нож из кремня. Вам нужен кремень и палка, чтобы получить 12 ножей. Долговечность и урон очень низки, но он все еще помогают с убийством мобов с безопасного расстояния."
+    },
+    "866:10": {
+        "eng_name": "The Transcontinental Railroad",
+        "eng_desc": "All the different mining veins that have been found seem to be really far apart. One way to shorten the travel time is to create a railroad from your base to the different mines. Sadly this requires a large amount of both iron and creosote. Let's not forget to place the last symbolic rivet on one of your new train lines.",
+        "ru_name": "Трансконтинентальная железная дорога",
+        "ru_desc": "Все найденные рудные жилы кажутся очень далекими друг от друга. Один из способов сократить время в пути состоит в том, чтобы создать железную дорогу от вашей базы до разных шахт. К сожалению, это требует большого количества как железа и креозота. Давайте не забудем поставить последнюю символическую заклепку на одну из ваших новых железнодорожных линий!"
+    },
+    "868:10": {
+        "eng_name": "§1§2§3§lGypsum",
+        "eng_desc": "To make bricks for the blast furnace you need concrete and gypsum. Gypsum can be found in a vein together with basaltic and granitic mineral sand, and fullers earth. Y 50-60 and only in the overworld.",
+        "ru_name": "§1§2§3§lГипс",
+        "ru_desc": "Чтобы сделать кирпичи для доменной печи вам нужен бетон и гипс. Гипс можно найти в жиле вместе с базальтовым и гранитовым минеральным песком, а также ваяльной глиной.Y 50-60 и только в мире Overworld."
+    },
 	"873:10": {
 		"eng_name": "Seed Bags",
 		"eng_desc": "Finding some special \"Pam's HarvestCraft\" seeds can be very difficult. With your farmer coins you can buy some seedbags.",
-		"ru_name": "Семенные сумки",
-		"ru_desc": "Нахождение некоторых специальных семян «Урастроводов PAM» может быть очень сложной. С вашими фермерскими монетами вы можете купить несколько мешков."
+		"ru_name": "Сумки с семенами",
+		"ru_desc": "Некоторые из \"Pam's HarvestCraft\"-овских семян крайне сложно найти. Купите себе сумку с семенами за фермерские монеты."
 	},
 	"877:10": {
 		"eng_name": "Scepter With 75 Vis Capacity",
