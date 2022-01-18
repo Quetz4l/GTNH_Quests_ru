@@ -468,8 +468,8 @@
 		"eng_desc": "The carpenter is similar to an automatic crafting table. It has an item input slot and a storage slot for the recipes. Some recipes need an additional fluid like water, creosote, honey or molten redstone. With the carpenter you can make farmblocks, woven backpacks, bee and tree analysers and many more.\n\nThe carpenter needs power to work. You can use a GT cable or a battery box to connect to the machine or make some forestry, railcraft or buildcraft RF engines.\n\n§3PS: Yes it's a pain in the ass to automate, just make one for each thing you want to make."
 	},
 	"579:10": {
-		"ru_name": "§5§lРасплавленный красник?",
-		"ru_desc": "Как вы могли уже слышать, некоторые рецепты в плотнике нуждаются в жидком редстоуне.\nЧтобы его получить, вам понадобится fluid extractor.",
+		"ru_name": "§5§lРасплавленный красный камень?",
+		"ru_desc": "Как вы могли уже слышать, некоторые рецепты в плотнике нуждаются в жидком красном камне.\nЧтобы его получить, вам понадобится fluid extractor.",
 		"eng_name": "§5§lMolten redstone?",
 		"eng_desc": "You heard that the carpenter needs some molten redstone for a few recipes. \nConverting redstone dust into a fluid requires a fluid extractor. Let's build one."
 	},
@@ -823,85 +823,85 @@
 	},
 	"638:10": {
 		"ru_name": "Вкусный тост",
-		"ru_desc": "Запеките свой хлеб снова, и вы получите тост! Дайте вам больше nutrition points, и открывает ещё больше рецептов!",
+		"ru_desc": "Запеките свой хлеб снова, и вы получите тост! Он даёт больше nutrition points, и открывает ещё больше рецептов!",
 		"eng_name": "Tasty toast",
 		"eng_desc": "Smelt your bread again and you get some toast! Give's you more nutrition points, and unlocks more culinary potential!"
 	},
 	"639:10": {
 		"ru_name": "§5§lСерная нафта",
-		"ru_desc": "Еще один дистиллят, который вы можете изготовить из нефти, является серной нафтой с ценностью ожога 40 000 EU на клетку в газовой турбине.",
+		"ru_desc": "Еще один дистиллят, который вы можете изготовить из нефти, является серной нафтой, которая в газовой турбине выдает 40 000 EU за ячейку.",
 		"eng_name": "§5§lSulfuric naphtha",
 		"eng_desc": "Another distillate you can make out of oil is sulfuric naphtha with a burn value of 40,000 EU per cell in the gas turbine."
 	},
 	"640:10": {
-		"ru_name": "§5§lСжиженность",
-		"ru_desc": "Центрифугирование некоторых бутанов или пропан дает вам LPG с ценностью ожога 320 000 ес, так же, как нафта. Также это способ получить метан и в конечном итоге эпихлоргидрин.",
+		"ru_name": "§5§lCжиженный газ",
+		"ru_desc": "Обработка бутана или пропана в центрифуге даст вам Cжиженный газ(LPG) который выдает 320 000 EU за ячейку, так же, как и нафта. Также это способ получить метан и эпихлоргидрин.",
 		"eng_name": "§5§lLPG",
 		"eng_desc": "Centrifuging some Butane or Propane gives you LPG with a burn value of 320,000 EU, the same as naphtha. Also it is a way to get methane and eventually epichlorohydrin."
 	},
 	"641:10": {
 		"ru_name": "§5§lНафта",
-		"ru_desc": "Вы можете обрабатывать серную нафта нафта в жидкости нафта, которая имеет значение ожога 320 000 EU в газовой турбине.\nНафта также является базовым продуктом для полиэтилена и поликапролактама - отличный заменитель строки.",
+		"ru_desc": "Из серной нафты можно получить нафту, которая выдает 320 000 EU за ячейку в газовой турбине.\nНафта также является базовым материалом для изготовления полиэтилена и поликапролактама - отличного заменителя нитей.",
 		"eng_name": "§5§lNaphtha",
 		"eng_desc": "You can process sulfuric naphtha to fluid naphtha which has a burn value of 320,000 EU in the gas turbine.\nNaphtha is also a base product for polyethylene and polycaprolactam - a great substitute for string."
 	},
 	"642:10": {
 		"ru_name": "§5§lСерный газ",
-		"ru_desc": "Другим дистиллятом для вашей газовой турбины вы можете избавиться от нефти, является серным газом с ножницей 25 000 EU на клетку.",
+		"ru_desc": "Ещё одним материалом получаемым из дистиляции нефти является серный газ, который выдает 25,000 EU за ячейку.",
 		"eng_name": "§5§lSulfuric gas",
-		"eng_desc": "Another distillate for your gas turbine you can make out of oil is sulfuric gas with a burn value of 25,000 EU per cell."
+		"eng_desc": "Another distillate for your gas turbine you can make out of oil is sulfuric gas with a burn value of 25 000 EU per cell."
 	},
 	"643:10": {
-		"ru_name": "§5§lНПЗ газ",
-		"ru_desc": "Укажите свой газ в химическом реакторе с газообразным водородным газом, чтобы придать ему лучшее значение ожоги 160 000 ес, и, возможно, используйте его, чтобы сделать газ метана.",
+		"ru_name": "§5§lОчищенный газ",
+		"ru_desc": "Смешивая водород и серный газ в химическом реакторе, вы получите очищенный газ, который выдает 160 000 EU за ячейку. Его также можно использовать для получения метана.",
 		"eng_name": "§5§lRefinery gas",
 		"eng_desc": "Refine your gas in a chemical reactor with hydrogen gas to give it a better burn value of 160,000 EU, and maybe use it to make methane gas."
 	},
 	"644:10": {
 		"ru_name": "§5§lМетан",
-		"ru_desc": "Перегонки некоторых «нефтеперерабатывающих газов» дает вам немного метана. Есть много способов получить метан.",
+		"ru_desc": "Есть много способов получить метан. Один из них - дистилляция очищенного газа.",
 		"eng_name": "§5§lMethane",
 		"eng_desc": "Distilling some \"refinery gases\" gives you some methane gas. There are many more ways to get methane."
 	},
 	"645:10": {
-		"ru_name": "Планер крылья",
-		"ru_desc": "Если по какой-то причине вы хотите иметь возможность выпрыгнуть по утесе, не получив сообщение «Player x упал с высокого места», отличная идея будет находить способ сначала смягчить свою посадку. Повешенный планер должен сделать это просто хорошо.",
+		"ru_name": "Дельтаплан",
+		"ru_desc": "Если по какой-то причине вы хотите иметь возможность разбежавшись прыгнуть со скалы, не получив сообщение \"Игрок Х упал с высокого места\", вам надо замедлить ваше падение. Дельтаплан отлично для этого подойдет.",
 		"eng_name": "Glider Wings",
 		"eng_desc": "If for some reason you want to be able to jump down a cliff without getting the message \"Player X fell from a high place\", a great idea would be to find a way to soften your landing first. The hang glider should do that just fine."
 	},
 	"646:10": {
-		"ru_name": "§5§lЭлектротин аккумулятор",
-		"ru_desc": "Аккумулятор Electrotine используется исключительно в проекте красных машин и джетпак.\nЭлектротин представляет собой смесь из красного камня и электрической пыли.\n\nВы можете найти его в предыдущем или сделать его самим собой в микшере.",
+		"ru_name": "§5§lЭлектротиновый аккумулятор",
+		"ru_desc": "Электротиновый аккумулятор используется исключительно для машин из мода project red и в джетпаке.\nЭлектротин представляет собой смесь из красного камня и пыли электрума.\n\nВы можете найти его в Аду или сделать его в миксере.",
 		"eng_name": "§5§lElectrotine battery",
 		"eng_desc": "The electrotine battery is exclusively used in project red machines and the jetpack.\nElectrotine is a mixture of redstone and electrum dust.\n\nYou can either find it in the Nether or make it yourself in a Mixer."
 	},
 	"647:10": {
-		"ru_name": "Электротин реактивный",
-		"ru_desc": "Ваш планер благополучно получает вас на землю, но у него нет никакого метода, чтобы встать. После того, как вы исследовали электротин, вы обнаружили, что он достаточно мощный для вашего первого джетпака.\nАлмазная капельница, окруженная 4 батареями электротин, достаточно мощным, чтобы привести вас в воздух.\n\nУ него нет режима Hover, поэтому вам лучше взять свой планер с вами.\n\nПодсказка: этот реактивный удар не может летать выше Y-128.",
+		"ru_name": "Электротиновый джетпак",
+		"ru_desc": "Ваш дельтаплан благополучно спускает вас на землю, но он не может подлететь выше. После того, как вы исследовали электротин, вы обнаружили, что он достаточно мощный для вашего первого джетпака.\nАлмазный нагрудник, окруженный 4 электротиновыми аккумуляторами, сможет поднять вас в воздух.\n\nУ него нет режима парения, поэтому вам лучше держать свой дельтаплан при себе.\n\nПодсказка: этот джетпак не может взлететь выше 128 блоков.",
 		"eng_name": "Electrotine Jetpack",
 		"eng_desc": "Your glider gets you to the ground safely but it does not have any method to get up. After you researched electrotine you discovered that it is powerful enough for your first jetpack.\nA diamond chestplate surrounded with 4 electrotine batteries is powerful enough to bring you up in the air.\n\nIt does not have a hover mode so you better take your glider with you. \n\nHint: This jetpack can't fly higher than Y-128."
 	},
 	"648:10": {
-		"ru_name": "Заполните свой JetPack",
-		"ru_desc": "Отлично .... Теперь у вас есть пустой джетпак. Вам нужна 25 электротинской пыли, чтобы полностью заполнить его. Давайте обрабатываем генератор электротина и зарядную скамью для использования мощности электротина.\n\nВы очень быстро узнаете, что, пока это быстро и дешево, он пуст в мгновение ока. Несмотря на это, это полезно в сочетании с зависанием планера, чтобы попасть в воздух и уйти от волосатых ситуаций.",
+		"ru_name": "Перезарядите свой джетпак",
+		"ru_desc": "Отлично! Теперь у вас есть разряженный джетпак. Вам понадобится 25 электротиновой пыли, чтобы полностью зарядить его. Также вам понадобятся электротиновый генератор и charging bench.\n\nВы быстро заметите, что, хотя это быстро и дешево, джетпак разряжается в мгновение ока. Несмотря на это, он хорошо работает в комбинации с дельтапланом.",
 		"eng_name": "Refill Your Jetpack",
 		"eng_desc": "GREAT.... you now have an empty jetpack. You need 25 electrotine dust to completely fill it. Let's craft an electrotine generator and a charging bench to use the power of electrotine. \n\nYou will very quickly discover that, while it is fast and cheap, it's empty in the blink of an eye. Despite this, it is useful in combination with the hang glider to get into the air and to get away from hairy situations."
 	},
 	"649:10": {
 		"ru_name": "Угольный паровой джетпак",
-		"ru_desc": "Ваш угольный джетвар нуждается в угле и воде для производства пара. После короткого периода прогрева вы можете пойти и взять его на поездку. Имейте в виду, что вам понадобится ваш планер, чтобы сделать мягкую посадку.\n\nПоместите свой JetPack на спину и нажмите Shift и нажмите кнопку Adventure рюкзака, чтобы начать его.\n\nМаксимальная высота летания для этого реактивного раска есть Y-185.\n\nВертикальная скорость уменьшается линейно с высотой после преодоления оптимальной высоты - 135 для JetPack и 100 для версий для вершины.",
+		"ru_desc": "Угольный паровой джетпак нуждается в угле и воде для производства пара. Для использования нужно дать ему прогреться. Имейте в виду, что для мягкой посадки вам понадобится дельтаплан.\n\nНаденьте свой джетпак на спину и нажмите Shift и adventure backpack's action-key, чтобы запустить его.\n\nМаксимальная высота полета составляет 185 блоков.\n\nВертикальная скорость уменьшается линейно с высотой после преодоления оптимальной высоты - 135 блоков для джетпака и 100 блоков для вертолётного ранца.",
 		"eng_name": "Coal Steam Jetpack",
 		"eng_desc": "Your coal jetpack needs coal and water to produce steam. After a short warm-up period you can go and take it for a ride. Keep in mind you will need your glider to make a soft landing.\n\nPut your jetpack on your back and hit Shift and the adventure backpack's action-key to start it.\n\nMax flying height for this jetpack is Y-185.\n\nVertical velocity decreases linearly with height after overcoming optimal height - 135 for jetpack and 100 for copter."
 	},
 	"650:10": {
-		"ru_name": "CopterPack, больше «зависание», чем «Jet»",
-		"ru_desc": "Коптерник является первым реактивным диском с режимом Hover. Он использует несколько различных типов топлива для его питания.\n\nРаботают ведра креозоты, лавы, нефти, дизель, цетана, этанола и топлива и топлива.\n\nОбувьте ваш JetPack и нажмите Shift и приключенческий ключ рюкзака. Вы также можете переключаться между навесом и нормальным режимом.\n\nМаксимальная высота летания ограничена Y-200.\n\nВертикальная скорость уменьшается линейно с высотой после преодоления оптимальной высоты - 135 для JetPack и 100 для версий для вершины.\n\nВыпадающие предметы будут отталкиваться от вас, точно так же, как вертолет толкает вещи, поэтому будьте осторожны в конце, или у Слифсидов.",
+		"ru_name": "Вертолётный ранец",
+		"ru_desc": "Вертолётный ранец является первым джетпаком с режимом парения. Его можно запитывать различными видами топлива.\n\nПодойдут ведра креозоты, лавы, нефти, дизель, cetane, этанол и топливо.\n\nНаденьте свой джетпак на спину и нажмите Shift и adventure backpack's action-key. Вы также можете переключаться между обычным полетом и режимом парения.\n\nМаксимальная высота полета ограничена высотой в 200 блоков.\n\nВертикальная скорость уменьшается линейно с высотой после преодоления оптимальной высоты - 135 блоков для джетпака и 100 блоков для вертолётного ранца.\n\n§3Выпадающие предметы будут отлетать от вас, точно так же, как вертолет сдувает всё вокруг себя, поэтому будьте осторожны в Краю, или у обрывов.",
 		"eng_name": "Copterpack, More 'Hover' than 'Jet'",
 		"eng_desc": "The copterpack is the first jetpack with a hover mode. It uses several different types of fuels to power it. \n\nBuckets of creosote, lava, oil, diesel, cetane, ethanol, and fuel will work.\n\nEquip your jetpack and hit Shift and the adventure backpack's action-key. You can also switch between hover and normal mode.\n\nMax flying height is limited to Y-200. \n\nVertical velocity decreases linearly with height after overcoming optimal height - 135 for jetpack and 100 for copter.\n\n§3Dropped items will be pushed away from you, just like a helicopter pushes things away, so be careful in the End, or by cliffsides."
 	},
 	"651:10": {
-		"ru_name": "Электрический jetpack.",
-		"ru_desc": "Ваш первый электрический реактивный удар. Вам необходимо запустить клавишу Mode Switch Mode, чтобы переключить между обычным режимом режима и режимом Hover, удерживая вниз по ключу прыжков. Когда уходит, не забудьте отключить режим Hover или иначе вы истощите свой джетпак.\n\nЕдинственное ограничение - это то, что вы не можете летать выше, чем Y-185.\n\nДля зарядки на ходу вы можете создавать зарядное кристалл из зарядных компонентов IC2. Вы должны взять рюкзак из слота доспехота и поместите его в вашу горячую часть и активируйте зарядное устройство, подсказая. Есть лучшие модели, чем этот старый, мне больше не нужно. Смотри в Nei.\n\nПозже на GT ++ зарядные пакеты являются ремнями, которые могут заряжать все в своем инвентаре, включая доспехи. Проверьте NEI для рецепта.\n\nНаконец, беспроводное зарядное устройство GT ++ заряжают все в вашем инвентаре, включая JetPack, с вашей базы при длительных диапазонах. Задание разблокировано, как только вы закончите наносуить. Просто помните, когда вы выходите из мира или в пустыне, что ваш JetPack не заряжается!",
+		"ru_name": "Электрический джетпак.",
+		"ru_desc": "Ваш первый электрический джетпак. Вам необходимо запустить клавишу Mode Switch Mode, чтобы переключить между обычным режимом режима и режимом Hover, удерживая вниз по ключу прыжков. Когда уходит, не забудьте отключить режим Hover или иначе вы истощите свой джетпак.\n\nЕдинственное ограничение - это то, что вы не можете летать выше, чем Y-185.\n\nДля зарядки на ходу вы можете создавать зарядное кристалл из зарядных компонентов IC2. Вы должны взять рюкзак из слота доспехота и поместите его в вашу горячую часть и активируйте зарядное устройство, подсказая. Есть лучшие модели, чем этот старый, мне больше не нужно. Смотри в Nei.\n\nПозже на GT ++ зарядные пакеты являются ремнями, которые могут заряжать все в своем инвентаре, включая доспехи. Проверьте NEI для рецепта.\n\nНаконец, беспроводное зарядное устройство GT ++ заряжают все в вашем инвентаре, включая JetPack, с вашей базы при длительных диапазонах. Задание разблокировано, как только вы закончите наносуить. Просто помните, когда вы выходите из мира или в пустыне, что ваш JetPack не заряжается!",
 		"eng_name": "Electric Jetpack",
 		"eng_desc": "Your first electrical jetpack. You need to hit the IC2 mode-switch key to toggle between normal mode and hover mode while holding down the jump key. When descending, remember to shut off hover mode or else you'll drain your jetpack.\n\nThe only limitation is that you can't fly higher than Y-185.\n\nFor charging on the go, you can craft a charging crystal from ic2 charging components. You have to take the backpack out of the armor slot and put it in your hotbar and activate the charger by sneak-clicking. There are better models than this one old one I don't need any more. Look in NEI.\n\nLater on GT++ charging packs are belts that can charge everything in your inventory including armor. Check NEI for the recipe.\n\nFinally, the GT++ wireless charger will charge everything in your inventory, including the jetpack, from your base at long ranges. A quest is unlocked once you finish your nanosuit. Just remember when you are off world or in the Nether that your jetpack isn't charging!"
 	},
