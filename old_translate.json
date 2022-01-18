@@ -1149,139 +1149,139 @@
 		"eng_name": "A Casing",
 		"eng_desc": "I need something for the outer shell. Again, a crystal-based material would be best, because I like it shiny. I tested all crystals I know of and none of them met the requirements. I heard you have access to outer space? Can you try to find a suitable material while you're out there?",
 		"ru_name": "Корпус",
-		"ru_desc": "Мне нужно что-то для внешней оболочки. Опять же, кристалл материал был бы лучшим, потому что мне нравится блестящий. Я проверил все кристаллы, которые я знаю, и ни один из них не соответствовал требованиям. Я слышал, что у вас есть доступ к космическому пространству? Можете ли вы попробовать найти подходящий материал, пока вы там?"
+		"ru_desc": "Мне нужна какая-то внешняя оболочка. И снова мне нужно что-то кристаллическое, потому что кристаллы блестят. Я попробовал каждый кристалл, который я знаю, и ни один из них не подходит. Я слыхал, ты можешь выходить в далёкий космос? Не найдёшь ли для меня подходящий материал где-то там?"
 	},
 	"361:10": {
 		"eng_name": "Fancy!",
 		"eng_desc": "Yes. Yes! That's it! Bring me more of this stuff! I probably need a lot of it...",
-		"ru_name": "Изысканный!",
-		"ru_desc": "да. Да! Это оно! Принеси мне больше этого веща! Мне, вероятно, нужно много этого ..."
+		"ru_name": "Красота!",
+		"ru_desc": "Да. Да! Это он! Принеси ещё таких! Думаю, мне понадбится их целая куча..."
 	},
 	"362:10": {
 		"eng_name": "Beyond imagination",
 		"eng_desc": "What is this? Draconium dust? I wonder if I could use this for something...",
-		"ru_name": "Вне воображения",
-		"ru_desc": "Что это? Пыль дракониума? Интересно, могу ли я использовать это для чего-то ..."
+		"ru_name": "За гранью воображения",
+		"ru_desc": "Что это? Дракониевая пыль? Интересно, могу ли я это для чего-то использовать..."
 	},
 	"363:10": {
 		"eng_name": "The power of dragons",
 		"eng_desc": "Hey my friend. I got your sample, and I have to say, I'm amazed. This material has a lot of potential, but it's useless at the moment. I have an idea how to turn this into something useful, but I need you to help me with a few problems first.\n\nI need a good handful of that stuff for my research. Please get me some.",
 		"ru_name": "Сила драконов",
-		"ru_desc": "Привет, мой друг. Я получил ваш образец, и я должен сказать, я поражен. Этот материал имеет большой потенциал, но в данный момент бесполезно. У меня есть идея, как превратить это в что-то полезное, но мне нужно, чтобы вы могли бы помочь мне с несколькими проблемами.\n\nМне нужна хорошая горстка этого материала для моих исследований. Пожалуйста, сделайте мне немного."
+		"ru_desc": "Эй, товарищ. Я получил твой образец и, честно говоря, я впечатлён. За этим материалом скрывается огромный потенциал, хоть сейчас он и бесполезен. Абсолютно не имею понятия как сделать из этого что-то полезное, но сначала помоги мне с парой проблем.\n\nМне нужно немало хорошей техники для моих исследований. Помоги-ка, пожалуйста."
 	},
 	"364:10": {
 		"eng_name": "A hull",
 		"eng_desc": "First things first, we need a hull. I played around with your sample, and it seems that it reacts with every known material. It even attacks Iridium! It's completely harmless if it's in a box that is open, but as soon as I try to enclose it in something, poof. It breaks free. We need something stronger than iridium my friend.\n\nMaybe something from the core of a dead star....White dwarf won't be dense enough...Perhaps a Neutron Star? Hmmm...Yes, fetch me some ore from the core of a Neutron Star and we'll try some next steps.",
 		"ru_name": "Корпус",
-		"ru_desc": "Первые вещи сначала нам нужен корпус. Я играл с вашим образцом, и кажется, что это реагирует с каждым известным материалом. Это даже атакует иридий! Это совершенно безвредно, если он находится в коробке, который открыт, но, как только я стараюсь приложить его в чем-то, Poof. Это ломается бесплатно. Нам нужно что-то сильнее, чем иридию, мой друг.\n\nМожет быть, что-то из ядра мертвой звезды ... Белый карлик не будет достаточно плотным ... Возможно, нейтронная звезда? Хммм ... Да, принесите мне руду из ядра нейтронной звезды, и мы попробуем несколько следующих шагов."
+		"ru_desc": "Первым делом нам нужен копрус. Я поигрался с твоим образком, и, видимо, он реагирует с каждым известным науке материалом. Он атакует даже иридий! Он абсолютно безвредно, если просто лежит в открытой коробке, но как только ты пытаешься закрыть его, вжух. Он выбирается наружу. Нам нужно что-то сильнее иридия, дружище.\n\nПо идее, может подойти что-то из ядра мёртвой звезды... Белые карлики недостаточно плотны... Может нейтронная звезда? Ммм... Да, достань мне немного металла из ядра нейтронной звезды, и тогда мы попробуем что-то да сделать."
 	},
 	"365:10": {
 		"eng_name": "Dense, denser, Neutronium",
 		"eng_desc": "Now look at this. This stuff is incredibly dense. Maybe this material will be sufficiently strong?\n\nThis looks promising. Send me some samples, and I will try my luck.",
-		"ru_name": "Плотный, плотнее, нейтронический",
-		"ru_desc": "Теперь посмотри на это. Этот материал невероятно плотный. Может быть, этот материал будет достаточно сильным?\n\nЭто выглядит многообещающим. Пришлите мне некоторые образцы, и я попробую повезло."
+		"ru_name": "Плотный, плотнее, Нейтроний",
+		"ru_desc": "Гляди-ка на это. Это вещество и правда плотное. Быть может, он будет достаточно сильным?\n\nВыглядит действительно обещающе. Дай мне немного образцов, быть может нам повезёт."
 	},
 	"366:10": {
 		"eng_name": "Not a planet",
 		"eng_desc": "This place is interesting. Maybe I should try to find new materials here...\n\nWhat's that? Scanning shows some kind of new radioactive ore. Go and check it out, maybe hold some - with proper protection of course.",
 		"ru_name": "Не планета",
-		"ru_desc": "Это место интересно. Может быть, я должен попытаться найти новые материалы здесь ...\n\nЭто что? Сканирование показывает какую-то новую радиоактивную руду. Иди и проверьте это, может быть, удерживайте немного - с надлежащей защитой конечно."
+		"ru_desc": "Это место выглядит интересно. Может нам стоит поискать здесь новые материалы...\n\nЧто это? Сканирование показывает новую радиактивную руду. Слетай и проверь-ка, только не забудь о защите, когда держишь его."
 	},
 	"367:10": {
 		"eng_name": "Successful.. Or not?",
 		"eng_desc": "Heh, neutronium. I didn't even know such a thing really exists. Unfortunately, the draconium dust was enclosed for... 5 seconds? But, it was a small success. \n\nOk let's travel to some planets and moons and look for the new material. I think we have to fly very far away for it.\n\nSomeplace dark, on a planet near the Kuiper Belt.",
-		"ru_name": "Успешно .. или нет?",
-		"ru_desc": "Хех, нейтронический. Я даже не знал, что такая вещь действительно существует. К сожалению, пыль дракониума была заключена в ... 5 секунд? Но это был небольшой успех.\n\nХорошо, давайте поедем на некоторые планеты и луны и ищите новый материал. Я думаю, что мы должны летать очень далеко за это.\n\nВ чем-нибудь темноте, на планете возле пояса Kuiper."
+		"ru_name": "Успех.. или нет?",
+		"ru_desc": "Ха, нейтроний. Я даже не знал, что такой материал существует. Увы, Дракониевая пыль была заточена в течении... 5 секунд? Но, хоть и маленький, это всё ещё успех.\n\nЛадно, давай попутешествуем по планетам и поищем новые материалы. Думаю, лететь придётся очень далеко.\n\nНужно тёмное место, где-то рядом с Поясом Койпера."
 	},
 	"368:10": {
 		"eng_name": "Black Plutonium",
 		"eng_desc": "This doesn't seem to be dense, but it's a material you haven't seen before. Maybe this could be the solution?\n\nBlack what? Huh, interesting. Send me some samples, I want to analyse it.",
 		"ru_name": "Черный плутоний",
-		"ru_desc": "Это не похоже, что это материал, который вы не видели раньше. Может быть, это может быть решение?\n\nЧерный Что? Да, интересно. Пришлите мне некоторые образцы, я хочу проанализировать это."
+		"ru_desc": "Он не выглядит плотным, но это, как никак, неизвестный ранее материал. Может, он и окажется решением?\n\nЧёрное что? Хм, интересно. Дай мне ещё образцов, я хочу исследовать его."
 	},
 	"369:10": {
 		"eng_name": "We have a hull",
 		"eng_desc": "Surprisingly, this material is able to contain the draconium dust. It could be the radiation. Good job my friend!",
 		"ru_name": "У нас есть корпус",
-		"ru_desc": "Удивительно, что этот материал способен содержать драконию пыли. Это может быть излучение. Хорошая работа, мой друг!"
+		"ru_desc": "Внезапно, этот материал способен сдерживать драконий. Быть может, дело в радиации. Молодец, товарищ!"
 	},
 	"370:10": {
 		"eng_name": "Draconium Dust core",
 		"eng_desc": "I've created a first sample of what I shall call \"Draconium Dust core\". Not quite the result I expected to be honest, but see for yourself.",
-		"ru_name": "Дракониевое пылевое ядро",
-		"ru_desc": "Я создал первую образец того, что я позвоню «Дракониевое пылерочное ядро». Не совсем результат, который я ожидал, что честно, но смотрю на себя."
+		"ru_name": "Ядро Дракониевой пыли",
+		"ru_desc": "Я создал первый образец того, что я называю \"Ядро Дракониевой пыли\". Не тот результат, которого я ожидал, честно говоря, но глянь лучше сам."
 	},
 	"371:10": {
 		"eng_name": "We need to control it",
 		"eng_desc": "The problem is that the immense power of this dust is released all at once. We need something to control the vast amount of energies. I noticed that the dust starts to glow when it gets near an aura node. Maybe Thaumaturgy has the solution?",
-		"ru_name": "Нам нужно контролировать это",
-		"ru_desc": "Проблема в том, что огромная сила этой пыли высвобождается все сразу. Нам нужно что-то для контроля огромного количества энергий. Я заметил, что пыль начинает светиться, когда он приближается к узлу аура. Может быть, тауматургия имеет решение?"
+		"ru_name": "Нам нужно это контролировать",
+		"ru_desc": "Беда в том, что огромная сила этой пыли выделяется одновременно вся за раз. Нам нужно что-то, что поможет контроллировать огромные объёмы энергии. Я заметил, что пыль начинает светиться, когда находится рядом с узлом ауры. Быть может, решение за Тауматургией?"
 	},
 	"372:10": {
 		"eng_name": "The power of primals",
 		"eng_desc": "What else could control energies better than a focus of crystallized primal energy? With this little item, it should be possible to control the energies released from the dust.",
-		"ru_name": "Сила прималов",
-		"ru_desc": "Что еще может контролировать энергии лучше, чем в центре внимания кристаллизованной первичной энергии? С этим маленьким предметом должно быть возможно контролировать энергии, выпущенные из пыли."
+		"ru_name": "Первородная сила",
+		"ru_desc": "Что может управлять энергиями лучше, чем кристализированная первородная энергия? С этой безделушкой мы сможем управлять энергиями, которые выделяются из Дракониевой пыли."
 	},
 	"373:10": {
 		"eng_name": "Unforeseen consequences",
 		"eng_desc": "You haven't heard anything in a while from the technician. You have a feeling that something might have gone terrible wrong, so you went to his place to investigate. What you found was... nothing. A void. It seems that he tried to combine the pearl with the dust. What did he say? The dust reacts to aura nodes? Of course it does. It amplifies the energies by a thousand times. And giving it raw primal energy, good lord, what has he done. May he rest in peace...",
 		"ru_name": "Непредвиденные последствия",
-		"ru_desc": "Вы ничего не слышали давно от техника. У вас есть ощущение, что что-то может быть ужасно неправильно, поэтому вы пошли на свое место для расследования. То, что вы нашли, было ... Ничего. Избегать. Похоже, он пытался объединить жемчужину пылью. Что он сказал? Пыль реагирует на узлы ауры? Конечно, это делает. Он усиливает энергии в тысячу раз. И давая ему сырую главную энергию, добрый Господь, что он сделал. Да упокоится он с миром..."
+		"ru_desc": "Вы уже некоторое время ничего не слышали от изобретателя. Вам кажется, что что-то могло пойти катастрофически не так, так что вы направились к нему, чтобы проверить. Но нашли вы... ничего. Пустота. Видимо, он пытался соиденить ту жемчужину с дракониевой пылью. Что он там говорил? Драконий реагирует с узлами ауры? Ну естественно реагирует. Он усиляет энергию в тысячи раз. И получает чистую первородную энергию, господи, что же он натворил. Да упокоится он с миром..."
 	},
 	"374:10": {
 		"eng_name": "I'm on my own now",
 		"eng_desc": "I need to continue my research. I still think that this primordial pearl is the key to control the dust, but I'm not sure how. Maybe the pearl is just too strong? I should try to use something that's similar, but less powerful. It reacts to vis, so maybe.. I should try to make a wand focus with that pearl. That way, I could channel vis into the dust without actually combining both.",
-		"ru_name": "Я сейчас самостоятельно",
-		"ru_desc": "Мне нужно продолжить свое исследование. Я все еще думаю, что этот изначальный жемчуг - ключ для контроля пыли, но я не уверен, как. Может быть, жемчужина слишком сильна? Я должен попытаться использовать что-то похожее, но менее мощное. Это реагирует на вай, поэтому, может быть, я должен пытаться сделать палочку сосредоточиться с этим жемчугом. Таким образом, я мог бы позорить пыль, не сочетая оба."
+		"ru_name": "Теперь я сам по себе",
+		"ru_desc": "Я должен продолжать исследования. Мне кажется, что первородный жемчуг всё же является ключом к контролю над пылью, но пока я не уверен как. Может жемчуг излишне силён? Надо использовать что-то подобное, но чуть послабее. Оно реагирует на вис, так что, ммм.. Возможно, стоит попробовать сделать набалдашник из жемчуга. Таким образом я смогу объединить вис с пылью без их прямого столкновения."
 	},
 	"375:10": {
 		"eng_name": "An interesting material",
 		"eng_desc": "This metal has quite interesting properties. It seems that it has absorbed some of the energy that exists in the End. While ender pearls are quite fragile, this metal is a lot more durable. However, the absorbed energy is not enough to teleport things around. But you might find a solution for this.",
 		"ru_name": "Интересный материал",
-		"ru_desc": "Этот металл имеет довольно интересные свойства. Похоже, он поглотил часть энергии, которая существует в конце. Хотя ender Pearls довольно хрупкие, этот металл гораздо более долговечен. Однако поглощенная энергия недостаточно для телепортации вокруг. Но вы можете найти решение для этого."
+		"ru_desc": "Этому металлу характерны необычные свойства. Похоже, что он поглощает некую энергию, существующую лишь в Краю. Жемчуг края несколько слабоват, но этот металл куда прочнее. Но поглощённая энергия слишком слаба, чтобы телепортировать что-либо куда-либо. Но вы точно найдёте решение этой проблеме."
 	},
 	"376:10": {
 		"eng_name": "Gross, what is that...",
 		"eng_desc": "It's purple, and it smells like rotten eggs. But while staring at this unpleasant fluid, you had an idea. You can't reach the dust directly, but can you actually teleport something in and out the field? Might be worth a try.",
-		"ru_name": "Гросс, что это ...",
-		"ru_desc": "Это фиолетовый, и он пахнет гнилыми яйцами. Но во время глядя на эту неприятную жидкость, у вас была идея. Вы не можете добраться до пыли напрямую, но вы можете на самом деле телепортировать что-то в поле и вне поля? Может быть стоит попробовать."
+		"ru_name": "Мерзость, что это...",
+		"ru_desc": "Оно фиолетовое и воняет тухлыми яйцами. Но, втыкая на эту отталкивающую жидкость, вам пришла идея. Вы не можете взаимодействовать на пыль напрямую, но вы можете телепортировать что-то в зону её действия? Стоит попробовать."
 	},
 	"377:10": {
 		"eng_name": "An appropriate focus",
 		"eng_desc": "You've tried a lot, and nothing was quite enough to activate the dust. Until now. You finally found a focus that is able to transmit enough power to cause a heavy reaction with the dust, but not enough to cause problems.",
-		"ru_name": "Подходящий фокус",
-		"ru_desc": "Вы много пробовали, и ничего не было достаточно, чтобы активировать пыль. До нынешнего момента. Вы, наконец, нашли фокус, способный передавать достаточно мощности, чтобы вызвать тяжелую реакцию с пылью, но недостаточно, чтобы вызвать проблемы."
+		"ru_name": "Подходящий набалдашник",
+		"ru_desc": "Вы перепробовали многое, и ничто не подходило для активации пыли. До сих пор. Вы наконец нашли набалдашник, способный передавать достаточно энергии, чтобы запустить сильную реакцию с пылью не вызвав проблем."
 	},
 	"378:10": {
 		"eng_name": "Activated draconium dust",
 		"eng_desc": "At least for a short period of time. The wand focus is powerful enough to activate the dust, but it will convert back to regular dust as soon as I stop feeding it with vis. If I only could contain it, surround it with a forcefield...",
-		"ru_name": "Активированная пыль дракониума",
-		"ru_desc": "По крайней мере, на короткий промежуток времени. Фокус палочки достаточно мощный, чтобы активировать пыль, но она преобразует обратно в обычную пыль, как только я перестану кормить его. Если бы я только мог содержать его, окружайте его силой ..."
+		"ru_name": "Активированная дракониевая пыль",
+		"ru_desc": "Хоть и ненадолго. Набалдашник оказался достаточно силён, чтобы активировать пыль, но она возвращается в исходное состояние сразу же, как только я прекращаю запитывать её вис. Если б я только мог содержать её, окружив чем-то вроде силового поля..."
 	},
 	"379:10": {
 		"eng_name": "The strongest forcefield",
 		"eng_desc": "In order to create a forcefield, I need to build myself a containment device. I will use only the best emitters I can afford. I will take no risks here.",
 		"ru_name": "Самое сильное силовое поле",
-		"ru_desc": "Для того, чтобы создать силовое поле, мне нужно построить себя защитное устройство. Я буду использовать только лучшие излучатели, которые я могу себе позволить. Я не буду рисковать здесь."
+		"ru_desc": "Для создания силового поля мне нужно построить сдерживающее устройство. Я буду использовать лучшие излучатели, которые я могу себе позволить. У меня нет права на ошибку."
 	},
 	"380:10": {
 		"eng_name": "Not what I expected...",
 		"eng_desc": "The outcome was... interesting. It did not explode, instead, the activated draconium dust generated a counter-field to mine! Unfortunately, the emitters could not stand the reverse energies, and melted. I was able to shut it off quick enough to save the machine casing (At least what's left from it...) And a couple of field generators.",
-		"ru_name": "Не то, что я ожидал ...",
-		"ru_desc": "Результат был ... интересен. Вместо этого он не взорвался, активированная пыль дракония породила встречное поле для моего! К сожалению, излучатели не могли выдержать обратные энергии и растаяли. Я мог бы быстро закрыть его, чтобы сохранить корпус машины (по крайней мере, что осталось от него ...) и пару полевых генераторов."
+		"ru_name": "Не то, что я ожидал...",
+		"ru_desc": "Результат был... интересным. Оно не взорвалось, но зато, активированный драконий создал поле, противостоящее моему! Увы, излучатели не смогли выдержать возвращённую энергию и расплавились. Я успел выключить его достаточно быстро, чтобы спасти копусы (По крайней мере то, что от них осталось...) и парочку генераторов силового поля."
 	},
 	"381:10": {
 		"eng_name": "Forcefield, second try",
 		"eng_desc": "I came to the following conclusion: Draconium dust seems to react nicely with all kinds of magic energy, and seems to repel technology. So I need to find a way to create a forcefield with magic alone. There must be a way. This should be pretty similar to controlling dangerous nodes...",
-		"ru_name": "Forcefield, вторая попытка",
-		"ru_desc": "Я пришел к следующему выводу: Draconium пыль, похоже, хорошо реагирует со всеми видами волшебной энергии, и, кажется, отталкивает технологию. Поэтому мне нужно найти способ создать силфилд только с магией. Там должен быть способ. Это должно быть довольно похоже на контроль опасных узлов ..."
+		"ru_name": "Силовое поле, дубль два",
+		"ru_desc": "Я пришёл к следующему заключению: Драконий великолепно реагирует со всеми видами магии, отталкивая любые технологии. Так что мне нужно найти метод для создания чисто магического силового поля. Этот метод точно существует. Быть может, это будет что-то схожее с сдерживанием опасных узлов..."
 	},
 	"382:10": {
 		"eng_name": "A magic force field",
 		"eng_desc": "While node stabilizers are too weak, you found a way to generate a strong containment field, generated by magic itself. You tried to use warded glass, but even the \"frozen in spacetime\" material could not resist the power of activated draconium dust. You decided to build another device, this time with your newest invention.\n\nThe vortex attenuator is powerful enough to negate even hungry nodes, and it also will be able to contain activated draconium dust.\n\nJust to be sure, I will add some amplifiers to it.",
-		"ru_name": "Поле Magic Force",
-		"ru_desc": "В то время как узла стабилизаторы слишком слабы, вы нашли способ создать сильное поле сдерживания, сгенерированные самой магией. Вы пытались использовать защищенное стекло, но даже «замороженные в пространственном времени» материал не мог удержаться от силы активированной пыли драконию. Вы решили построить другое устройство, на этот раз с вашим новейшим изобретением.\n\nВихревый аттенюатор достаточно мощный, чтобы отрицать даже голодных узлов, и он также сможет содержать активированную пыль драконию.\n\nПросто чтобы убедиться, я добавлю некоторые усилители к нему."
+		"ru_name": "Магическое силовое поле",
+		"ru_desc": "Так как узел-стабилизаторы слишком слабы, вам пришлось найти способ создавать мощное магическое силовое поле. Вы пытались использовать усиленное стекло, но даже \"замороженный в пространстве-времени\" материал не может выдержать активированную дракониевую пыль. На этот раз вы решили собрать иное устройство, используя ваши новейшие изобретения.\n\nВихревой сдерживатерь достаточно силён, чтобы отталкивать даже голодные узлы, так что он сможет сдержать активированную дракониевую пыль.\n\nНа всякий случай, добавлю-ка я стимуляторов."
 	},
 	"383:10": {
 		"eng_name": "What the...?",
