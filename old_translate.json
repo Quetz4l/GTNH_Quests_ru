@@ -1287,91 +1287,91 @@
 		"eng_name": "What the...?",
 		"eng_desc": "The device works! It is able to fully contain and separate the draconium dust from everything around it! Unfortunately... It also prevents the vis from passing the barrier, which results in regular draconium dust... In a forcefield...",
 		"ru_name": "Что за...?",
-		"ru_desc": "Устройство работает! Он способен полностью содержать и отделить пыль дракониума от всего вокруг него! К сожалению ... Это также предотвращает пропустить барьер, который приводит к регулярной пылью для дракониума ... в силе ..."
+		"ru_desc": "Устройство работает! Оно способно полноценно удерживать драконий и отделять его от окружающей среды! Увы... Этот метод так же не пропускает вис через барьер, из-за чего у нас получается обычная дракониевая пыль... в силовом поле..."
 	},
 	"384:10": {
 		"eng_name": "Looking for alternatives",
 		"eng_desc": "It is frustrating. Either you are able to contain the dust but can't activate it, or, you activate it and it causes serious damage. Maybe you need to find answers somewhere else.\n\nDraconic... Like... Dragon?",
-		"ru_name": "Ищете альтернативы",
-		"ru_desc": "Это расстраивает. Либо вы можете содержать пыль, но не могу активировать его, либо, вы активируете его, и это вызывает серьезное повреждение. Может быть, вам нужно найти ответы где-то еще.\n\nDraconic ... как ... Дракон?"
+		"ru_name": "Поиск альтернатив",
+		"ru_desc": "Это разочаровывает. Ты или сдерживаешь драконий, без возможности активировать его, или активируешь, и драконий разрушает всё вокруг. Быть может, ответ находится в ином месте.\n\nДраконий... Типа... Дракон?"
 	},
 	"385:10": {
 		"eng_name": "Draconic... Like... Dragon?",
 		"eng_desc": "Maybe you where looking for the right things in the wrong place. As this dust obviously comes from dragons, the best thing to do now is to find answers in the dimension of dragons: The End.",
-		"ru_name": "Draconic ... как ... Дракон?",
-		"ru_desc": "Может быть, вы, где искать правильные вещи в неправильном месте. Поскольку эта пыль, очевидно, исходит от драконов, лучшее, что нужно сделать сейчас, - найти ответы в измерении драконов: конец."
+		"ru_name": "Драконий... Типа... Дракон?",
+		"ru_desc": "Видимо, ты искал правильные вещи в неправильном месте. Так как эта пыль, очевидно, произошла от драконов, сейчас лучше всего искать решение в измерении драконов: в Краю."
 	},
 	"386:10": {
 		"eng_name": "Weird creatures",
 		"eng_desc": "These ghosts are weird beings. But, I found this ectoplasm, which, by itself, seems to be pretty useless.",
 		"ru_name": "Странные существа",
-		"ru_desc": "Эти призраки странные существа. Но я нашел этот эктоплазма, которая, кажется, довольно бесполезная."
+		"ru_desc": "Эти призраки достаточно странные. Но я нашёл эктоплазму, которая, сама по себе, выглядит несколько бесполезной."
 	},
 	"387:10": {
 		"eng_name": "Activated teleport power",
 		"eng_desc": "By a random guess of yours, you combined molten ender pearls and a few more of these shards with an empty gem, and it turned blue. It is pulsating with power. You tried to use it on your containment device, and it seems to be able to bypass the force field, while keeping it intact that the same time. Sadly, it doesn't have enough power to let vis pass through. Maybe you can even further increase the gems power?",
-		"ru_name": "Активированная телепорт питания",
-		"ru_desc": "Случайным угадыванием ваших, вы объединили расплавленные жемчужины с расплавленным концом и еще несколько этих осколков с пустым драгоценным камнем, и он стал синим. Это пульсирует с силой. Вы пытались использовать его на вашем устройстве сдерживания, и, похоже, может обойти поле силы, сохраняя его, сохраняя его в то же время. К сожалению, нет достаточно власти, чтобы позволить пройти. Может быть, вы даже дальше увеличить мощность драгоценных камней?"
+		"ru_name": "Активированная сила телепортации",
+		"ru_desc": "Используя метод научного тыка, ты смешал расплавленный эндер жемчуг и эти осколки с пустым жемчугом, и тот посинел. Он пульсирует силой. Ты попытался использовать его с сдерживающим устройством и, судя по всему, он может спокойно проникать в силовое поле, оставляя его нетронутым. Увы, мощи жемчуга не хватает, чтобы пропускать вис через поле. Быть может, можно поднять силу жемчуга ещё дальше?"
 	},
 	"388:10": {
 		"eng_name": "Arcane shards",
 		"eng_desc": "While the normal world is based on vis and primal energy, the End seems to be quite different. This arcane shard is the crystallized form of this energy, just like the primal shards that you used so many times in the past. By pure randomness, you discovered that it reacts with the metal you've found.",
-		"ru_name": "Тайные осколки",
-		"ru_desc": "Хотя обычный мир основан на направлении и первичной энергии, конец кажется совершенно другим. Этот тайной осколков является кристаллизованной формой этой энергии, как и первичные осколки, которые вы использовали так много раз в прошлом. Чистой случайностью вы обнаружили, что это реагирует с набором металла."
+		"ru_name": "Магические осколки",
+		"ru_desc": "Хоть верхний мир и стоит на вис и первородной энергии, энергия Края точно не такая. Этот магический осколок - кристаллизированная форма этой энергии, прям как первородные осколки, которые ты ранее использовал столько раз. Чисто случайно ты обнаружил, что они реагируют тем новым металлом, что ты нашёл."
 	},
 	"389:10": {
 		"eng_name": "Draconic evolution",
 		"eng_desc": "I found a way to combine technology and magic into something fantastic. A shiny blue emblem that emits immense amount of energy. I've decided to call it the draconic core. Make one for yourself!",
-		"ru_name": "Драконическая эволюция",
-		"ru_desc": "Я нашел способ объединить технологии и магию во что-то фантастическое. Блестящая синяя эмблема, которая испускает огромное количество энергии. Я решил назвать это драконическим ядром. Сделайте один для себя!"
+		"ru_name": "Драконья эволюция",
+		"ru_desc": "Я нашёл способ соиденить технологию и магию в нечто невероятное. Блестящая синяя эмблема, излучающуя огромные объёмы энергии. Я решил назвать это драконьим ядром. Сделай и себе такое!"
 	},
 	"390:10": {
 		"eng_name": "Ichorium",
 		"eng_desc": "This new metal is quite expensive, and has an awesome hardness and is very resillient, to a point where mundane materials could never get.\nI think I can finally assemble the final frame.",
-		"ru_name": "Ихориум",
-		"ru_desc": "Этот новый металл довольно дорогой, и имеет потрясающую твердость и очень устойчиво, до такой степени, что мирские материалы никогда не могут получить.\nЯ думаю, что могу наконец собрать окончательный кадр."
+		"ru_name": "Ихорий",
+		"ru_desc": "Этот новый металл несколько дороговат, но он крайне прочный и выходит далеко за границы устойчивости обычных материалов.\nПолагаю, я наконец могу окончательно собрать каркас."
 	},
 	"391:10": {
 		"eng_name": "Automated evolution",
 		"eng_desc": "The machine is working pretty well, but it's tedious to fill in the reagents manually. But you have an idea, you could use a few basic components to fully automate the process.\n\nYou can use robot arms and conveyor belts to automate the input and output.\n\nObviously, you need to power the machines. A solar panel will do just fine.\n\nIn order to automate the catalyst, you need a few things. One golem will gather basic materials, while the second one will hunt creepers and ghasts for the more valuable ingredients.\n\nYou found a way to re-use the singularity, so you only need to get some sand. Luckily, the golem that works on the catalyst will be able to get glass too. He just needs a little additional motivation.\n\nYour golems need light, obviously. Also, it would be nice if there are some signal lamps that indicate the status of the process. Would it not?",
-		"ru_name": "Автоматическая эволюция",
-		"ru_desc": "Машина работает довольно хорошо, но утомительно заполнить реагенты вручную. Но у вас есть идея, вы можете использовать несколько основных компонентов для полной автоматизации процесса.\n\nВы можете использовать роботные оружия и конвейерные ремни для автоматизации ввода и вывода.\n\nОчевидно, вам нужно питать машины. Солнечная панель будет все хорошо.\n\nДля того, чтобы автоматизировать катализатор, вам нужно несколько вещей. Один голем соберет основные материалы, а второй будет охотиться на ползеров и ужас для более ценных ингредиентов.\n\nВы нашли способ повторно использовать особенность, поэтому вам нужно только получить песок. К счастью, голем, который работает на катализаторе, сможет также получить стекло. Ему просто нужно немного дополнительную мотивацию.\n\nВаши големы нуждаются в свете, очевидно. Кроме того, было бы неплохо, если есть некоторые сигнальные лампы, которые указывают на состояние процесса. Не будет ли это?"
+		"ru_name": "Автоматизированная эволюция",
+		"ru_desc": "Это устройство работает вполне неплохо, хоть и раздражает собирать всё вручную. Но ты понимаешь, что тебе хватит всего лишь немного базовых деталей для полной автоматизации.\n\nИспользуй роботизированные руки и конвейеры для настройки входов и выходов.\n\nОжидаемо, тебе нужно запитывать механизмы. Солнечной панели вполне достаточно.\n\nДля автоматизации катализаторов тебе нужны големы. Один для сбора основных материалов, второй для охоты на криперов и гастов ради более ценных ингридиентов.\n\nТы нашёл способ повторного использования сингулярности, так что тебе нужно немного песка. Хорошо, что голем, работающий над катализаторами, способен заниматься и стеклом. Ему просто нужна мотивация.\n\nТвои големы, ожидаемо, нуждаются в свете. А ещё было бы неплохо, если бы специальные сигнальные лампы отображали состояние процесса, не так ли?"
 	},
 	"392:10": {
 		"eng_name": "Activated teleport gem",
 		"eng_desc": "You are sure that you've just discovered the solution for your containment problem. This gem happily transmits vis on request, while keeping the containment field intact. What a great day!",
-		"ru_name": "Активированный телепорт Gem.",
-		"ru_desc": "Вы уверены, что вы только что обнаружили решение для вашей проблемы сдерживания. Этот драгоценный камень радостно передает по запросу, при сохранении поля содержания локализации нетронуты. Какой хороший день!"
+		"ru_name": "Активированный жемчуг телепортации",
+		"ru_desc": "Ты уверен, что решение проблемы содержания наконец найдено. Этот жемчуг с удовольствием переносит вис когда вам нужно, не позволяя вис контактировать с сдерживающим полем. Какой прекрасный день!"
 	},
 	"393:10": {
 		"eng_name": "You did it! But...",
 		"eng_desc": "Now that you are able to contain the activated draconium dust for an infinite amount of time, you where able to assure the energy it releases. The readings are incredible. You have never seen such a power before. The only problem is, the machinery required to keep the dust in this state is too large to use it for crafting.\n\nYou noticed something that might help: The dust reacts to vis, but it needs a lot of it, therefore you require the animation focus. If you could find a catalyst, that you can mix the dust with, you could make the dust react with the vis from its surroundings instead of a direct beam.",
 		"ru_name": "Ты сделал это! Но...",
-		"ru_desc": "Теперь, когда вы сможете содержать активированную пыль дракониевой пыли для бесконечного количества времени, вы, где способны уверять энергию, которую он выделяет. Чтения невероятны. Вы никогда не видели такую власть раньше. Единственная проблема в том, что оборудование, необходимое для хранения пыли в этом состоянии, слишком велико, чтобы использовать его для создания.\n\nВы заметили что-то, что может помочь: пыль реагирует на Vis, но ему нужно многое, поэтому вам требуется фокус анимации. Если бы вы могли найти катализатор, что вы можете смешивать пыль, вы можете сделать отреагировать пыль с позором от окружающей среды вместо прямого пучка."
+		"ru_desc": "Теперь ты можешь содержать пыль активированного дракония так долго, как только захочешь, ты полностью уверен в энергии, которую она излучает. Показатели просто невероятные. Ты никогда ранее не видел подобной мощи. Но беда в том, что механизмы, нужные для содержания пыли в стабильном состоянии, слишком большие для применения в крафтах.\n\nТы заметил что-то полезное: Пыль реагирует на вис, но вам нужно очень много вис, так что вам нужен набалдашник оживления. Если бы ты нашёл катализатор, который можно примешать к пыли, ты бы смог заставить пыль прореагировать с окружающим её вис, вместо направления вис прямым потоком."
 	},
 	"394:10": {
 		"eng_name": "A catalyst",
 		"eng_desc": "That's it. This catalyst contains all primal energies in a quite different form, a lot weaker than any node. However, in combination with the draconium dust, it amplifies the vis that's around it, which leads to a permanent activation. It still needs to be contained, but you don't need the direct vis beam any more.\n\nThe result is a compound, which still emits massive amounts of power, but is less destructive. It still attacks the neutronium, but I think if I can find a capsule-like container that has special properties, I could create a portable version of it.",
 		"ru_name": "Катализатор",
-		"ru_desc": "Вот и все. Этот катализатор содержит все первичные энергии в совершенно другой форме, намного слабее, чем любой узел. Однако в сочетании с пылью дракония он усиливает его вокруг него, что приводит к постоянной активации. Он все еще должен быть содержащим, но вам больше не нужен лучший луч.\n\nРезультатом является соединение, которое по-прежнему испускает огромное количество мощности, но менее разрушительно. Он все еще атакует нейтрониум, но я думаю, что если я смогу найти капсульную контейнер, который имеет специальные свойства, я мог бы создать портативную версию IT."
+		"ru_desc": "Это оно. Этот катализатор содержит в себе все базвоые энергии в несколько иной форме, куда слабее любого узла. Но зато вместе с дракониевой пылью но усиляет вис вокруг себя, что приводит к мгновенной активации. Проблема содержания всё ещё актуальна, но теперь тебе не нужен прямой поток вис.\n\nВ итоге ты получишь смесь, которая всё так же излучает огромнейшие объёмы энергии, не разрушая всё вокруг. Она всё ещё реагирует с нейтронием, но, полагаю, если я смогу найти капсулоподобный сосуд с особенными свойствами, я смогу создать более компактную версию."
 	},
 	"395:10": {
 		"eng_name": "Bulma would be proud",
 		"eng_desc": "By combining a dimensional singularity with some glass cylinders and molten gold, I was able to create a miniature containment field within a very small area. Interesting enough, the new draconium blend amplifies the containment field from the inside. Once I fill the blend in the capsule, it immediately \"seals\" itself. I won't be able to remove or replace the dust any more, but I don't think I have to...\n\n\nThe perfect vessel for massive power!",
 		"ru_name": "Булма будет гордиться",
-		"ru_desc": "Объединяя размеров сингулярность с некоторыми стеклянными цилиндрами и расплавленным золотом, я смог создать миниатюрную область содержания в очень небольшой области. Достаточно интереснее, новая смесь дракониума усиливает поле содержания изнутри. Как только я заполняю смесь в капсулу, она немедленно «самим уплотнения». Я больше не смогу удалить или заменить пыль, но я не думаю, что должен ...\n\n\nИдеальный сосуд для массивной силы!"
+		"ru_desc": "Я смог создать миниатюрное сдерживающее поле в достаточно маленькой зоне соиденив сингулярность, стеклянные цилиндры и расплавленное золото. Занятно, что новая дракониевая смесь усиляет поле изнутри. Как только я смешиваю реагенты в капсуле, смесь мгновенно \"запечатывает\" себя. Теперь я не могу убрать или заменить пыль, но сомневаюсь что мне потребуется...\n\nИдеальный сосуд для невероятных объёмов энергии!"
 	},
 	"396:10": {
 		"eng_name": "The final steps",
 		"eng_desc": "Now that I've found a way to stabilize the draconium dust and keep it safe in a small capsule, I just need to make a small container for it, so I can drain the energy on demand. Neutronium will serve very well, but I need a magic conductor. Thaumium works, but gets way too hot and void metal has a bad conductivity. I need to find a high tier magic metal that is extremly strong and resillient, to a point where mundane materials could never get.",
 		"ru_name": "Последние шаги",
-		"ru_desc": "Теперь, когда я нашел способ стабилизировать пыль дракониума и держать его в безопасности в небольшой капсуле, мне просто нужно сделать небольшой контейнер для него, поэтому я могу истощить энергию по требованию. Нейний будет служить очень хорошо, но мне нужен волшебный проводник. Тамэмиум работает, но становится слишком жарко, а пустотный металл имеет плохую проводимость. Мне нужно найти высокий уровень волшебного металла, который чрезвычайно сильный и ресил, до такой степени, что миндарильные материалы никогда не могут получить."
+		"ru_desc": "Так как я нашёл метод стабилизировать дракониевую пыль и удерживать её в маленькой капсуле, мне осталось лишь сделать небольшое хранилище для неё, чтобы я смог забирать энергию по нужде. Нейтроний неплох, но мне нужен магический проводник. Таум-металл работает, но слишком сильно разогревается, когда пустотный металл имеет слишком слабую проводимость. Мне нужен высокоуровневый магический металл, настолько прочный и устойчивый, насколько никогда не стать обычным материалам."
 	},
 	"397:10": {
 		"eng_name": "Endless evolution",
 		"eng_desc": "Using your machine, you can now craft infinite amounts of these cores. And since it would be gruesome to let your golem work just for one single core, you decided to only request cores in a large batch of 64. How nice of you.",
 		"ru_name": "Бесконечная эволюция",
-		"ru_desc": "Используя вашу машину, теперь вы можете создать бесконечное количество этих ядер. И, поскольку было бы ужасно позволить вашему голему работать только для одного единственного ядра, вы решили только запросить ядра в большой партии 64. Как мило с вашей стороны."
+		"ru_desc": "Используя вашу машину, теперь вы можете создать бесконечное количество ядер. И, так как было бы отвратно заставлять големов работать лишь ради одного ядра, ты решил заказывать ядра лишь большими партиями по 64. Как хорошо с твоей стороны."
 	},
 	"398:10": {
 		"eng_name": "Kill Baba Yaga",
