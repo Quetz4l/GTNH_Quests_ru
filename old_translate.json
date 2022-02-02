@@ -1376,38 +1376,38 @@
 	"398:10": {
 		"eng_name": "Kill Baba Yaga",
 		"eng_desc": "Baba Yaga is a witch (or one of a trio of sisters of the same name), who appears as a deformed and/or ferocious-looking elderly woman. She flies around in a mortar and wields a pestle. She dwells deep in the forest, in a hut usually described as standing on chicken legs, with a fence decorated with human skulls. Baba Yaga may help or hinder those that encounter or seek her out.",
-		"ru_name": "Убить ребенка Ягу",
-		"ru_desc": "Баба Яга - ведьма (или одно из трио сестров того же имени), который выглядит как деформированная и / или свирепающая пожилая женщина. Она летает в растворе и владеет пестиком. Она обитает глубоко в лесу, в хижине, обычно описываемой, как стоять на куриных ножках, с забором, украшенным человеческими черепами. Баба Яга может помочь или мешать тем, кто встречается или искать ее."
+		"ru_name": "Убить Бабу Ягу",
+		"ru_desc": "Баба Яга это ведьма (Ну или одна из трёх сестёр, носящих то же имя), которая является уродливой и дико выглядящей старухой. Она летает вокруг в ступе и держит в руке пест. Она обитает глубоко в лесу, в избушке на курьих ножках, окруженной забором, украшенным человеческими черепами. Баба Яга может помогать или мешать тем, кто попытается найти её или сразить."
 	},
 	"401:10": {
 		"eng_name": "Kill Shade of Leonard",
 		"eng_desc": "Leonard is the demonic being who is rumored to have taught a cadre of German witches their trade, and often presided over their sabbats. A skilled coven with the witches cauldron can summon a Shade of the Demon according to the method described in the Witches' Brews book.",
-		"ru_name": "Убить оттенок леонара",
-		"ru_desc": "Леонард - это демоническое существо, которое случилось, научил кадр немецкой ведьмы своей торговли, и часто председательствовал их саббаты. Квалифицированная коэффициент с котлом ведьм может вызвать оттенок демона в соответствии с методом, описанным в книге Brews Witchs."
+		"ru_name": "Убить Осколок Леонарда",
+		"ru_desc": "Леонард - демоническое существо, которое, исходя из слухов, обучал группу немецких ведьм их искусству и часто председательствовал на их шабашах. Опытный ковен с ведьминым котлом может призвать Тень Демона, если будет следовать описанной в книге Witches' Brews инструкции."
 	},
 	"402:10": {
 		"eng_name": "Kill Lord of Tormentum",
 		"eng_desc": "A Lord of Torment is a mighty demonic being that is able to create prisons to torment its victims. Those foolish enough to summon one of these creatures must prepare for an arduous fight.",
-		"ru_name": "Убить властелин муюментации",
-		"ru_desc": "Властелин мучения - могущественное демоническое существо, которое может создавать тюрьмы для мучения своих жертв. Эти глупые достаточно, чтобы призвать одно из этих существ, должны подготовиться к трудному бою."
+		"ru_name": "Убить Лорда Мучений",
+		"ru_desc": "Лорд Мучений - могущественное демоническое существо, способное создавать тюрьмы, чтобы пытать своих жертв. Тем глупцам, что решатся призвать одного из Лордов, стоит быть готовыми к тяжкому бою."
 	},
 	"403:10": {
 		"eng_name": "Kill Mog and Gulg",
 		"eng_desc": "Mog and Gulg are the god-like beings that hobgoblins worship. They may send their avatars to pay witches a visit who exploit their worship (with a statue of hobgoblin patron). Rumor has it that using a nether star may make them take immediate notice.",
-		"ru_name": "Убить MOG и Gulg",
-		"ru_desc": "MOG и Gulg - это как бог существа, которые хобмины поклоняются. Они могут отправить своих аватаров, чтобы заплатить ведьмы визиту, которые эксплуатируют свое поклонение (с статуей хобгоблина покровителя). Ходят слухи, что используя звезду прошивки, может заставить их принять немедленное уведомление."
+		"ru_name": "Убить Мога и Гулга",
+		"ru_desc": "Мог и Гугл - богоподобные существа, которым поклоняются хобгоблины. Они могут отправить свои облики дабы наведать ведьм, которые пользуются их влиянием (при помощи статуи покровителя хобгоблинов). Говорят, что используя адскую звезду можно сразу привлечь их внимание."
 	},
 	"404:10": {
 		"eng_name": "Kill Demon",
 		"eng_desc": "Demons are powerful, evil beings who dwell in the infernal dimensions. To date, none have been seen roaming the Nether, where their minions: ghasts, blazes and their ilk seem to dominate. To meet a demon without a way to protect oneself is almost certain death. They are known to hit like a proverbial truck, and require a significant amount of damage to kill. Some demons have even been seen shooting fireballs! They are, of course, also immune to fire.",
 		"ru_name": "Убить демона",
-		"ru_desc": "Демоны являются мощными, злые существа, которые останавливаются в адских габаритах. На сегодняшний день никто не видел роуминг предателя, где их миньоны: ужасы, блинчики и их ILK, кажется, доминируют. Встретить демона без способа защиты себя, почти определенная смерть. Известно, что они поражают как пословица и требуют значительного количества ущерба для убийства. Некоторые демоны даже были замечены стрельбыми огненными шарами! Они, конечно, также невосприимчивы к огню."
+		"ru_desc": "Демоны - могущественные и злые создания, обитающие в пылающих мирах. Замечу, что они никогда не снуют по Незеру, где властвуют их слуги: гасты, ифриты и прочие. Встретиться с демоном без должной защиты - верная погибель. Демоны известны силой удара как у пресловутого грузовика, а так же невероятное количество урона, который они могут пережить. Некоторые из демонов даже стреляют огненными шарами! Очевидно, они так же неуязвимы для огня."
 	},
 	"405:10": {
 		"eng_name": "The Power of Infinity",
 		"eng_desc": "You've mastered everything possible. And now it's time to give your equipment the final boost. The infinity egg is just the right addition to your altar. It's quite expensive, but well worth the cost.",
 		"ru_name": "Сила бесконечности",
-		"ru_desc": "Вы освоили все возможное. И теперь пришло время дать вашему оборудованию окончательным усилением. Бесконечное яйцо - это просто правильное дополнение к вашему алтарю. Это довольно дорого, но стоит стоимость."
+		"ru_desc": "Вы освоили всё, что возможно освоить. И теперь пора окончательно усилить ваше оборудование. Яйцо бесконечности - лучшее дополнение к вашему алтарю. Несколько дороговато, но точно стоит того."
 	},
 	"406:10": {
 		"eng_name": "Tier 3 Sigils",
@@ -1580,116 +1580,116 @@
 	"439:10": {
 		"eng_name": "Steam > LV Lootbag Trade",
 		"eng_desc": "Trade three steam lootbags to get a better one: LV.",
-		"ru_name": "Паровая торговля лутбагом LV",
-		"ru_desc": "Обменяйте три паровых мешка с лутбагоми, чтобы получить лучший: LV."
+		"ru_name": "Обмен мешков с сокровищами Пар > LV",
+		"ru_desc": "Обменяйте три мешка с сокровищами парового тира для получения лучшего: LV."
 	},
 	"441:10": {
 		"eng_name": "Basic > Steam Lootbag Trade",
 		"eng_desc": "Trade three basic lootbags to get a better one: Steam.",
-		"ru_name": "Базовя торговля добычей в Паре",
-		"ru_desc": "Обменяйте три базовых мешка с добычей, чтобы получить лучший: Пар"
+		"ru_name": "Обмен мешков с сокровищами Базовый > Пар",
+		"ru_desc": "Обменяйте три мешка с сокровищами каменного века для получения лучшего: парового."
 	},
 	"443:10": {
 		"eng_name": "LV > MV Lootbag Trade",
 		"eng_desc": "Trade three LV lootbags to get a better one: MV.",
-		"ru_name": "LV > MV Торговля добычей",
-		"ru_desc": "Обменяйте три мешка с добычей LV, чтобы получить лучший: MV."
+		"ru_name": "Обмен мешков с сокровищами LV > MV",
+		"ru_desc": "Обменяйте три мешка с сокровищами LV тира для получения лучшего: MV."
 	},
 	"444:10": {
 		"eng_name": "§1§lSoft Mallet Adventure",
 		"eng_desc": "You now have some melon slices or pumpkins but what can you do with them? Well just eat them or... use a mallet to get some seeds... OK, let's craft one. Perhaps you can use this mallet for some other things too.",
-		"ru_name": "§1§lМягкий молоток приключение",
-		"ru_desc": "Теперь у вас есть ломтики дыни или тыквы, но что вы можете сделать с ними? Ну просто ешьте их или ... используйте молоток, чтобы получить некоторые семена ... ОК, давайте ременемся. Возможно, вы можете использовать этот молоток для некоторых других вещей."
+		"ru_name": "§1§lПриключение киянки",
+		"ru_desc": "Теперь у тебя есть дольки арбуза или тыквы, но что же с ними делать? Ну, просто съесть, или... использовать киянку для получения семян... Отлично, сделай киянку. Полагаю, ты можешь использовать её ещё для чего-то."
 	},
 	"446:10": {
 		"eng_name": "§1§lShields UP",
 		"eng_desc": "With a sword in one hand, what can you do with the other? Right, you need a shield. Let's make one.",
-		"ru_name": "MV > HV Lootbag Trade",
-		"ru_desc": "С мечом в одной руке, что вы можете сделать с другим? Правильно, вам нужен щит. Давайте сделаем один."
+		"ru_name": "§1§lПоднять щиты!",
+		"ru_desc": "Меч в одной руке, но что же делать с второй? Правильно, тебе нужен щит. Сделай его."
 	},
 	"447:10": {
 		"eng_name": "HV > EV Lootbag Trade",
 		"eng_desc": "Trade three HV lootbags to get a better one: EV.",
-		"ru_name": "HV > EV Торговля добычей",
-		"ru_desc": "Обменяйте три мешка с добычей HV, чтобы получить лучший: EV."
+		"ru_name": "Обмен мешков с сокровищами HV > EV",
+		"ru_desc": "Обменяйте три мешка с сокровищами HV тира для получения лучшего: EV."
 	},
 	"449:10": {
 		"eng_name": "EV > IV Lootbag Trade",
 		"eng_desc": "Trade three EV lootbags to get a better one: IV.",
-		"ru_name": "EV > IV Торговля добычей",
-		"ru_desc": "Обменяйте три мешка с добычей EV, чтобы получить лучший: IV."
+		"ru_name": "Обмен мешков с сокровищами EV > IV",
+		"ru_desc": "Обменяйте три мешка с сокровищами EV тира для получения лучшего: IV."
 	},
 	"451:10": {
 		"eng_name": "Trigger LoC",
 		"eng_desc": "Triggered by having a \"Lamp of Cinders\" in your inventory.",
-		"ru_name": "Trigger loc.",
-		"ru_desc": "Срабатывает, имея «лампу ундер» в вашем инвентаре."
+		"ru_name": "Триггер ЛО.",
+		"ru_desc": "Срабатывает от \"Лампы Огня\" в инвентаре."
 	},
 	"452:10": {
 		"eng_name": "Trigger Singularity",
 		"eng_desc": "Triggered by making a singularity.",
-		"ru_name": "Триггер сингулярность",
-		"ru_desc": "Вызвано, делая особенность."
+		"ru_name": "Триггер Сингулярность",
+		"ru_desc": "Срабатывает при создании сингулярности."
 	},
 	"453:10": {
 		"eng_name": "Trigger Shard of Creation",
 		"eng_desc": "Triggered by making a \"Shard of Creation\".",
-		"ru_name": "Триггерный осколок творения",
-		"ru_desc": "Вызвано путем создания «осколка творения»."
+		"ru_name": "Триггер Осколок Созидания",
+		"ru_desc": "Срабатывает при создании \"Осколка Созидания\"."
 	},
 	"454:10": {
 		"eng_name": "Trigger Life and Soul Shard",
 		"eng_desc": "Triggered by making a \"Life Shard\" and a \"Soul Shard\".",
-		"ru_name": "Вызвать ощупь жизни и души",
-		"ru_desc": "Вызвано, делая «осколком жизни» и «осколком души»."
+		"ru_name": "Триггер Осколков жизни и души",
+		"ru_desc": "Срабатывает при создании \"Осколок жизни\" и \"Осколок души\"."
 	},
 	"455:10": {
 		"eng_name": "Trigger Unknown Crystal",
 		"eng_desc": "Triggered by finding a \"Mysterious Crystal\".",
-		"ru_name": "Триггер неизвестный кристалл",
-		"ru_desc": "Вызвано, найдя «загадочный кристалл»."
+		"ru_name": "Триггер Неизвестный кристалл",
+		"ru_desc": "Срабатывает при нахождении \"Неизвестного кристалла\"."
 	},
 	"456:10": {
 		"eng_name": "Trigger Life",
 		"eng_desc": "Triggers the Life Canister Quest after a Wither death.",
-		"ru_name": "Спусковая жизнь",
-		"ru_desc": "Запускает жизненную каниструю квест после увядания смерти."
+		"ru_name": "Триггер Жизнь",
+		"ru_desc": "Включает квест банки с красным сердцем после смерти Иссушителя."
 	},
 	"457:10": {
 		"eng_name": "Trigger Pluto",
 		"eng_desc": "Triggers if you have been on Pluto.",
-		"ru_name": "Trigger Pluto.",
-		"ru_desc": "Триггеры, если вы были на Плутоне."
+		"ru_name": "Триггер Плутон",
+		"ru_desc": "Срабатывает, если ты побывал на Плутоне."
 	},
 	"458:10": {
 		"eng_name": "Trigger Primordial Pearl",
 		"eng_desc": "Triggered by the Primordial Pearl.",
-		"ru_name": "Trigger Irpordial Pearl",
-		"ru_desc": "Вызван изначальной жемчужиной."
+		"ru_name": "Триггер Сингулярной жемчущины",
+		"ru_desc": "Срабатывает при получении Сингулярнй Жемчужины."
 	},
 	"459:10": {
 		"eng_name": "Trigger Wand Focus Animation",
 		"eng_desc": "Triggers if you craft the Primordial Focus.",
-		"ru_name": "Триггерная палочка фокус анимация",
-		"ru_desc": "Триггеры, если вы создаете первоначальный фокус."
+		"ru_name": "Триггер Набалдашник: Одушевление",
+		"ru_desc": "Срабатывает при крафте Первородного набалдашника."
 	},
 	"460:10": {
 		"eng_name": "Trigger Vortex Attenuator",
 		"eng_desc": "Triggers after you craft a Vortex.",
-		"ru_name": "Триггер вихревый аттенюатор",
-		"ru_desc": "Триггеры после того, как вы образуете вихрь."
+		"ru_name": "Триггер Вихревого сдерживателя",
+		"ru_desc": "Срабатывает после крафта Вихревого сдерживателя."
 	},
 	"461:10": {
 		"eng_name": "Trigger The End Dim",
 		"eng_desc": "Triggers if you arrived at The End.",
-		"ru_name": "Вызвать конец",
-		"ru_desc": "Триггеры, если вы прибыли в конце."
+		"ru_name": "Триггер Края",
+		"ru_desc": "Срабатывает когда ты попадаешь в Край."
 	},
 	"462:10": {
 		"eng_name": "Trigger Amorphic Catalyst",
 		"eng_desc": "Triggers if you craft the Catalyst.",
-		"ru_name": "Запусковой аморфный катализатор",
-		"ru_desc": "Триггеры, если вы образуете катализатор."
+		"ru_name": "Триггер Бесформенного катализатора",
+		"ru_desc": "Срабатывает при крафте Катализатора."
 	},
 	"463:10": {
 		"eng_name": "Runes Tier 2",
@@ -1701,31 +1701,31 @@
 		"eng_name": "The technician part 2",
 		"eng_desc": "I will ask the technician about this stuff, but I need to reach a good reputation first. He is a busy man, and I don't want to be denied.",
 		"ru_name": "Техник часть 2",
-		"ru_desc": "Я спрошу технику об этом, но мне нужно сначала добраться до хорошей репутации. Он занятый человек, и я не хочу быть отказано."
+		"ru_desc": "Я спрошу у техника об этой штуке, но сначала надо бы заработать репутацию получше. Он занятой человек, а я не хочу получить отказ."
 	},
 	"465:10": {
 		"eng_name": "Trigger Neutronium",
 		"eng_desc": "Triggers if you get Neutronium Ore/ingot/dust.",
-		"ru_name": "Триггер нейтрониум",
-		"ru_desc": "Триггеры, если вы получаете руда нейтроники / слиток / пыль."
+		"ru_name": "Триггер Нейтрония",
+		"ru_desc": "Срабатывает при получения руды/слитка/пыли Нейтрония."
 	},
 	"466:10": {
 		"eng_name": "Trigger Black Plutonium",
 		"eng_desc": "Triggers if you find Black Plutonium ore/ingot/dust.",
-		"ru_name": "Trigger черный плутоний",
-		"ru_desc": "Триггеры, если вы найдете черную руду плутонию / слитком / пыль."
+		"ru_name": "Триггер Чёрного Плутония",
+		"ru_desc": "Срабатывает при нахождении руды/слитка/пыль Чёрного Плутония."
 	},
 	"467:10": {
 		"eng_name": "Trigger Empty Void Capsule",
 		"eng_desc": "Triggers if you have a Void Capsule.",
-		"ru_name": "Запустить пустую пустовую капсулу",
-		"ru_desc": "Триггеры, если у вас есть пустотная капсула."
+		"ru_name": "Триггер Пустотной Капсулы",
+		"ru_desc": "Срабатывает при получении Пустотной Каспулы"
 	},
 	"468:10": {
 		"eng_name": "Trigger Ichorium Ingot",
 		"eng_desc": "Triggers if you get Ichorium Ingot.",
-		"ru_name": "Trigger iChorium Ingot.",
-		"ru_desc": "Триггеры, если вы получаете IChorium Ingot."
+		"ru_name": "Триггер Ихория",
+		"ru_desc": "Срабатывает при получении Ихория."
 	},
 	"470:10": {
 		"eng_name": "§1§lBerry Medley",
@@ -5433,7 +5433,7 @@
 		"eng_name": "Basic Power Display",
 		"eng_desc": "For this part we will learn how to use our adapter, place it next to, let's say your EBFs battery buffer and connect it to the computer with cables.\nNow lets type in lua while on the computer to open the LUA environment where we can test things without worrying about saving and trying our program.\n\nType in 'component.list()' this will display a table of all of .list from component. What we're looking for is gt_batterybuffer.\nIf you have too many nearby things it may not display and the way to search the entire list of components is too advanced for starters.\n\nSo now assign a variable to it; for example 'a = component.gt_batterybuffer'; now we can call 'a' to see what methods the batteryBuffer has.\nWhat we'll be using in this example is the 'getBatteryCharge' method. So type  'a.getBatteryCharge(1)' this will call the method getBatteryCharge from the first inventory slot on the gt_batterybuffer in component.\n\nSo if we're using a 2x2 battery buffer; we can type something like, 'for i=1, 4 do print(a.getBatteryCharge(i)) end'\nPoof you now see what all the batteries EU values. Now what can we do with this?\n\nTry making a variable called 'batteryCharge = 0', now do 'for i=1, 4 do batteryCharge = batteryCharge + a.getBatteryCharge(i) end'\n\nNow print(batteryCharge) will display the total charge. Here's a program example of this being used.\n\nPlace in your tape drive and type 'install', and follow the promps to install it into C. Then edit it, test it, figure how it works.\n\nI suppose that's enough for now; congrats! Experiment and learn, and don't forget to check google as much as possible!  \nThis questline will be updated again in the future; but I figure this is a good ending point for now.",
 		"ru_name": "Базовый дисплей питания",
-		"ru_desc": "Для этой части мы узнаем, как использовать наш адаптер, поместите его рядом, скажем, ваш буфер батареи EBFS и подключите его к компьютеру с кабелями.\nТеперь давайте напечатаем в LUA, находясь на компьютере, чтобы открыть среду LUA, где мы можем проверить вещи, не беспокоясь о сохранении и пробов нашей программы.\n\nТип в «Component.List ()» отобразит таблицу всех .List от компонента. Что мы ищем GT_BatteryBuffer.\nЕсли у вас слишком много неподалеку, это может не отображаться, и способ поиска, весь список компонентов слишком продвинут для начала.\n\nТак что теперь теперь назначьте переменную; например 'a = component.gt_batteryBuffer'; Теперь мы можем назвать «A», чтобы увидеть, какие методы имеются методы батареи блокировки.\nТо, что мы будем использовать в этом примере, это метод «GetBatteryBoy». Таким образом, типа «A.GETBatterychatch (1) 'Это позвонит методу GetBattery Road из первого слота инвентаризации на GT_BatteryBuffer в компоненте.\n\nТак что если мы используем 2x2 батареи буфера; Мы можем напечатать что-то вроде: «Для i = 1, 4 Do Print (a.getbattergatterch (i)) end '\nPoof Теперь вы видите, что все батареи ценностей ЕС. Теперь, что мы можем сделать с этим?\n\nПопробуйте сделать переменную под названием «Batterychary = 0», теперь DO 'FO I = 1, 4 DO BATTURYCHATECTECTS = BATTURYCHATH + ATGETBATTRETHERCH (I) END'\n\nСейчас напечатайте (батареи) отобразит общий заряд. Вот программа примера этого используется.\n\nРазместите в своем ленточном приводе и введите «Установить» и следуйте за PROMP, чтобы установить его в C. Затем отредактируйте его, проверьте его, постановку, как это работает.\n\nЯ полагаю, что достаточно сейчас; поздравляю! Эксперимент и учитесь, и не забудьте проверить Google максимально!\nЭта квест будет обновлена ​​снова в будущем; Но я понял, что это хорошая оконечная точка сейчас."
+		"ru_desc": "Для этой части мы узнаем, как использовать наш адаптер, поместите его рядом, скажем, ваш буфер батареи EBFS и подключите его к компьютеру с кабелями.\nТеперь давайте напечатаем в LUA, находясь на компьютере, чтобы открыть среду LUA, где мы можем проверить вещи, не беспокоясь о сохранении и пробов нашей программы.\n\nТип в «Component.List ()» отобразит таблицу всех .List от компонента. Что мы ищем GT_BatteryBuffer.\nЕсли у вас слишком много неподалеку, это может не отображаться, и способ поиска, весь список компонентов слишком продвинут для начала.\n\nТак что теперь теперь назначьте переменную; например 'a = component.gt_batteryBuffer'; Теперь мы можем назвать «A», чтобы увидеть, какие методы имеются методы батареи блокировки.\nТо, что мы будем использовать в этом примере, это метод «GetBatteryBoy». Таким образом, типа «A.GETBatterychatch (1) 'Это позвонит методу GetBattery Road из первого слота инвентаризации на GT_BatteryBuffer в компоненте.\n\nТак что если мы используем 2x2 батареи буфера; Мы можем напечатать что-то вроде: «Для i = 1, 4 Do Print (a.getbattergatterch (i)) end '\nPoof Теперь вы видите, что все батареи ценностей ЕС. Теперь, что мы можем сделать с этим?\n\nПопробуйте сделать переменную под названием «Batterychary = 0», теперь DO 'FO I = 1, 4 DO BATTURYCHATECTECTS = BATTURYCHATH + ATGETBATTRETHERCH (I) END'\n\nСейчас напечатайте (батареи) отобразит общий заряд. Вот программа примера этого используется.\n\nРазместите в своем ленточном приводе и введите «Установить» и следуйте за PROMP, чтобы установить его в C. Затем отредактируйте его, проверьте его, постановку, как это работает.\n\nЯ полагаю, что достаточно сейчас; поздравляю! Эксперимент и учитесь, и не забудьте проверить Google максимально!\nЭта квест будет обновлена cнова в будущем; Но я понял, что это хорошая оконечная точка сейчас."
 	},
 	"1765:10": {
 		"eng_name": "Online Shopping - Tier 1",
