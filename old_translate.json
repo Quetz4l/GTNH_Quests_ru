@@ -1730,62 +1730,62 @@
 	"470:10": {
 		"eng_name": "§1§lBerry Medley",
 		"eng_desc": "Hmmm... what can you do with all those berries? Just eating? You will see that they have a very low saturation level. Let's plant the new berry bushes and mix the berries to make some better food.",
-		"ru_name": "§1§lБерри Сречка",
-		"ru_desc": "Хммм ... Что вы можете сделать со всеми этими ягодами? Просто ешь? Вы увидите, что у них очень низкий уровень насыщения. Давайте посадим новые ягодные кусты и смешайте ягоды, чтобы сделать лучшую еду."
+		"ru_name": "§1§lЯгодный салат",
+		"ru_desc": "Ммм... Что же делать со всеми этими ягодами? Просто есть? Но ведь у них крайне маленький уровень насыщения. Посади новые ягодные кусты и смешай ягоды, чтобы получить еду получше."
 	},
 	"471:10": {
 		"eng_name": "§2§1§lFood Variants",
 		"eng_desc": "Maybe you noticed already that eating the same food too often is very boring and not healthy any more. Some food like tea leaf can be taken to the furnace and processed further. So take a break and drink a cup of tea. Maybe munch some tasty raisins as they are very nice.",
 		"ru_name": "§2§1§lВарианты еды",
-		"ru_desc": "Может быть, вы уже заметили, что едят одну и ту же еду слишком часто очень скучно и больше не здоровы. Некоторые еда, как лист чая, могут быть доставлены в печь и обработаны дальше. Так что сделайте перерыв и выпейте чашку чая. Может быть, жуткий вкусной изюм, так как они очень хороши."
+		"ru_desc": "Полагаю ты уже заметил, что теперь есть одну и ту же еду крайне скучно и не особо полезно. Некоторая еда, вроде чайных листьев, может быть обжарена в печи и дополнительно обработана. Так что сделай перерыв на чашечку чая. А так же, наверное, было бы неплохо пожевать вкусненького изюма."
 	},
 	"487:10": {
 		"eng_name": "§2§lNeed More Space?",
 		"eng_desc": "As you might know: tanned leather is more resistant and good enough for a backpack. Let's get a digger's backpack and a miner's backpack. Each pack holds different items. So use both for your first true back-packed mining experience.",
 		"ru_name": "§2§lНужно больше места?",
-		"ru_desc": "Как вы можете знать: загорелая кожа более устойчива и достаточно хороша для рюкзака. Давайте получим рюкзак Digger и рюкзак для шахтера. Каждая пачка содержит разные предметы. Так что используйте оба для вашего первого опыта истинного опыта для добычи полезных ископаемых."
+		"ru_desc": "Как ты уже знаешь, дублённая кожа куда более устойчива, что важно для рюкзака. Сделай-ка рюкзак землекопа и рюкзак шахтёра. Каждый из них хранит в себе разные вещи. Так что используйте оба для первого настоящего шахтёрства."
 	},
 	"488:10": {
 		"eng_name": "§2§lYou Need Them All!",
 		"eng_desc": "There are many more backpacks: Hunter, builder, forester...",
-		"ru_name": "§2§lТебе нужны их все!",
-		"ru_desc": "Есть еще много рюкзаков: охотник, строитель, лесник ..."
+		"ru_name": "§2§lТебе нужен каждый из них!",
+		"ru_desc": "У нас есть ещё много рюкзаков: охотничий, строительский, лесничий..."
 	},
 	"490:10": {
 		"eng_name": "Obscenely Dangerous Nuclear Fuel: The Core",
 		"eng_desc": "For the truly insane mad scientists out there. Or people who can read a website (not guaranteed, trust me!). You HAVE to use coolant cells with it if you want power or to have it not explode after 1s.",
-		"ru_name": "Непристойно опасное ядерное топливо: ядро",
-		"ru_desc": "Для действительно безумных безумных ученых там. Или люди, которые могут прочитать сайт (не гарантированно, поверьте мне!). Вы должны использовать клетки охлаждающей жидкости, если хотите, если вы хотите, или чтобы она не взорвалась после 1 с."
+		"ru_name": "Непристойно опасное ядерное топливо: Ядро",
+		"ru_desc": "Для истинно поехавших безумных учёных. Или для тех, кто способен посмотреть на вики (Никаких гарантий, реально!). Ты ОБЯЗАН использовать капсулы с хладагентом, если ты не хочешь, чтобы реактор взорвался через мгновение."
 	},
 	"493:10": {
 		"eng_name": "§3§lWire Cutter v.0.2alpha",
 		"eng_desc": "Small gears require a wire cutter to be made, so let's craft one.",
-		"ru_name": "§3§lПроводной резак V.0.2ALPHA",
-		"ru_desc": "Небольшие передачи требуют, чтобы проволочный резак, поэтому давайте ременемся."
+		"ru_name": "§3§lКусачки v.0.2альфа",
+		"ru_desc": "Тебе нужны кусачки для создания маленьких шестерёнок, так что собери их."
 	},
 	"497:10": {
 		"eng_name": "§4§3§lLit Way to Get Charred",
 		"eng_desc": "You have found an alternative way of making charcoal with a \"charcoal pile igniter\". \nGo and start getting massive amounts of charcoal.",
-		"ru_name": "§4§3§lЗажечь способ получить обугление",
-		"ru_desc": "Вы нашли альтернативный способ изготовления древесного угля с «воспламенением ворвата угля».\nИдите и начните получать огромные суммы древесного угля."
+		"ru_name": "§4§3§lОсвети путь к обугливанию",
+		"ru_desc": "Ты нашёл альтернативный метод создания древесного угля с \"поджигателем угольной ямы\".\nВперёд, к невероятным количествам древесного угля."
 	},
 	"498:10": {
 		"eng_name": "§2§lXP Usage?!",
 		"eng_desc": "Exploring some dungeons or fighting mobs probably gave you a lot of XP. Better use it to get iron, copper, tin or other useful dusts before you die during the next fight.\n\nPlace your tank on the ground and a drain on top. Now you can fill it with XP.\n\nBy the way, you discovered that while the seared tank doesn't hold much, it doesn't lose contents when broken, and full tanks can stack. I wonder if that information is useful...",
-		"ru_name": "§2§lИспользование XP?!",
-		"ru_desc": "Исследуя некоторые подземелья или боевые мобы, вероятно, дали вам много XP. Лучше использовать его, чтобы получить железо, медь, олово или другие полезные пыли, прежде чем умирать во время следующего боя.\n\nПоместите свой танк на землю и слив сверху. Теперь вы можете заполнить его XP.\n\nКстати, вы обнаружили, что в то время как ожесточенный танк не удерживает много, он не теряет содержимое при сломании, а полные баки могут стекать. Интересно, если эта информация полезна ..."
+		"ru_name": "§2§lИспользование опыта?!",
+		"ru_desc": "Ты точно получил тонны опыта сражаясь с монстрами или исследуя подземелья. Лучше используй его для получения железа, меди, олова и иных полезных металлов прежде, чем умереть в следующем бою.\n\nПоставь резервуар на землю и всасыватель наверх. Теперь ты можешь наполнять его опытом.\n\nВ любом случае, оказалось, что хоть обожжённый резервуар хранит не так уж и много, он не теряет жидкость при поломке, а так же полные резервуары стакаются. Интересно, полезная ли эта информация..."
 	},
 	"499:10": {
 		"eng_name": "Diesel, creosote: Watch them BURN!",
 		"eng_desc": "You have almost made it. One last crafting step is required in order to advance to tier 2. Keep going!",
-		"ru_name": "Дизель, Creosote: Смотрите их сжигать!",
-		"ru_desc": "Вы почти сделали это. Требуется один последний шаг крафтации для продвижения в Уровень 2. Продолжайте идти!"
+		"ru_name": "Дизель, креозот: Гляди как ГОРИТ!",
+		"ru_desc": "Ты почти сделал это. Остался последний крафт чтобы продвинуться в тир 2. Продолжай!"
 	},
 	"500:10": {
 		"eng_name": "First Things First",
 		"eng_desc": "As usual. In order to get started with bees, you need a few basic things. Most importantly... a scoop. For this quest you want to make a GregTech scoop. Later you can make scoops using magic or even rechargeable scoops.",
-		"ru_name": "Первые вещи в первую очередь",
-		"ru_desc": "По-прежнему. Чтобы начать с пчелами, вам нужно несколько основных вещей. Самое главное ... совок. Для этого квеста вы хотите сделать совок Gregtech. Позже вы можете сделать совки с помощью магии или даже аккумуляровных совках."
+		"ru_name": "Начнём с начала",
+		"ru_desc": "Как обычно. Для того, чтобы начать с пчёлами, тебе надо несколько базовых вещей. Самое важное... сачок. Для этого квеста сделай себе GregTech'овский сачок. Позже ты сможешь делать магические и даже перезаряжаемые сачки."
 	},
 	"501:10": {
 		"eng_name": "Go Find Some Bees",
