@@ -3188,338 +3188,338 @@
 	"1001:10": {
 		"eng_name": "§9§lRF Solar Panel Tier 2",
 		"eng_desc": "The upgraded RF solar panel is much better. It outputs 40 RF/t.",
-		"ru_name": "§9§lRF Solar панель уровня 2",
-		"ru_desc": "Улучшенная солнечная панель РФ намного лучше. Вывод 40 RF / т."
+		"ru_name": "§9§lRF солнечная панель 2го уровня",
+		"ru_desc": "Улучшенная RF-панель работает куда лучше. Она выдаёт 40 RF/тик."
 	},
 	"1002:10": {
 		"eng_name": "Enchanted Earth",
 		"eng_desc": "Enchanted Earth makes saplings and seeds planted on it grow faster. When stacked on top of each other it has a chance to add ticks to the block above accumulating all the way to the top. This will randomly speed up growth a bit.",
 		"ru_name": "Зачарованная земля",
-		"ru_desc": "Зачарованная земля делает саженцы и семена, посаженные на нем, растут быстрее. Когда укладываются друг на друга, у него есть шанс добавить галочки на блок выше, накапливая весь путь к вершине. Это будет случайно ускорить рост немного."
+		"ru_desc": "Зачарованная земля заставляет саженцы и посаженные на ней семена расти быстрее. Когда под ней размещена такая же земля - есть шанс ускорить ход времени для блока, находящегося на самом верху. Это немного ускорит рост растений."
 	},
 	"1003:10": {
 		"eng_name": "§aPower of the Sun at MV Level",
 		"eng_desc": "The next solar panel you can make is the MV one. It gives 128 EU/t.",
-		"ru_name": "§aМощность солнца на уровне MV",
-		"ru_desc": "Следующая солнечная панель вы можете сделать, это MV One. Это дает 128 EU / т."
+		"ru_name": "§aСила солнца в MV",
+		"ru_desc": "Следующая солнечная панель, которую вы можете сделать - MV-шная. Она выдаёт 128 EU/тик."
 	},
 	"1004:10": {
 		"eng_name": "§a§lPower of the Sun 1x1 MV",
 		"eng_desc": "Put those 128 EU panels on a block to make them placeable in the world.",
-		"ru_name": "§a§lМощность Солнца 1x1 мВ",
-		"ru_desc": "Положите эти 128 панелей EU на блок, чтобы сделать их размещенными в мире."
+		"ru_name": "§a§lMV Сила солнца в одном блоке",
+		"ru_desc": "Прикрепите эту 128-EU панель к блоку, чтобы получить возможность разместить её в мире."
 	},
 	"1006:10": {
 		"eng_name": "§b§lPower of the Sun at HV Level",
 		"eng_desc": "The next solar panel you can make is the HV one. It generates 512 EU/t. First you need to produce enriched sunnarium by mixing irradiated uranium and sunnarium. The Avaritia 9x9 dire crafting table is required to make this and later panels.",
-		"ru_name": "§b§lМощность солнца на уровне HV",
-		"ru_desc": "Следующая солнечная панель вы можете сделать, это HV One. Он генерирует 512 EU / т. Сначала вам нужно производить обогащенный веннариум путем смешивания облученного урана и суннария. Таблица крашеного крафта Avaritia 9x9 требуется, чтобы сделать это и более поздние панели."
+		"ru_name": "§b§lСила солнца в HV",
+		"ru_desc": "Следующая солнечная панель, которую вы можете сделать - HV-шная. Она выдаёт 512 EU/тик. Но тебе сначала надо произвести обогащённый саннариум смешав излучающий уран и саннариум. Для этой и следующих панелей вам нужен ужасный 9х9 верстак из Avaritia."
 	},
 	"1007:10": {
 		"eng_name": "§b§lPower of the Sun 1x1 HV",
 		"eng_desc": "Put those 512 EU panels on a block to make them placeable in the world.",
-		"ru_name": "§b§lМощность Солнца 1x1 HV",
-		"ru_desc": "Положите эти 512 панелей EU на блок, чтобы сделать их размещенными в мире."
+		"ru_name": "§b§lHV Сила солнца в одном блоке",
+		"ru_desc": "Прикрепите эту 512-EU панель к блоку, чтобы получить возможность разместить её в мире."
 	},
 	"1022:10": {
 		"eng_name": "Magnetic Steel",
 		"eng_desc": "Want some magnetic steel for motors? Buy some!",
 		"ru_name": "Магнитная сталь",
-		"ru_desc": "Хотите немного магнитной стали для моторов? Купи немного!"
+		"ru_desc": "Хочешь магнитную сталь для моторов? Купи немного!"
 	},
 	"1023:10": {
 		"eng_name": "Aluminium Rods",
 		"eng_desc": "Want some aluminium rods? Buy some!",
 		"ru_name": "Алюминиевые стержни",
-		"ru_desc": "Хотите некоторые алюминиевые стержни? Купи немного!"
+		"ru_desc": "Хочешь алюминиевые стержни? Купи немного!"
 	},
 	"1024:10": {
 		"eng_name": "Bronze Rotor",
 		"eng_desc": "Want some bronze rotors? Buy some!",
 		"ru_name": "Бронзовый ротор",
-		"ru_desc": "Хотите немного бронзовых роторов? Купи немного!"
+		"ru_desc": "Хочешь бронзовые роторы? Купи немного!"
 	},
 	"1025:10": {
 		"eng_name": "Steel Fluid Pipes",
 		"eng_desc": "Want some steel fluid pipes? Buy some!",
 		"ru_name": "Стальные жидкие трубы",
-		"ru_desc": "Хотите некоторые стальные жидкие трубы? Купи немного!"
+		"ru_desc": "Хочешь стальные жидкостные трубы? Купи немного!"
 	},
 	"1026:10": {
 		"eng_name": "Electrum Rods",
 		"eng_desc": "Want some electrum rods? Buy some!",
 		"ru_name": "Электровые стержни",
-		"ru_desc": "Хотите некоторые электродвигатели? Купи немного!"
+		"ru_desc": "Хочешь электрумовые стержни? Купи немного!"
 	},
 	"1027:10": {
 		"eng_name": "Flawless Emerald",
 		"eng_desc": "Want some flawless emeralds? Buy some!",
 		"ru_name": "Безупречный изумруд",
-		"ru_desc": "Хотите некоторые безупречные изумруды? Купи немного!"
+		"ru_desc": "Хочешь безупречных изумрудов? Купи немного!"
 	},
 	"1028:10": {
 		"eng_name": "Ender Pearl",
 		"eng_desc": "Want some ender pearls? Buy some!",
-		"ru_name": "Удержание жемчуга",
-		"ru_desc": "Хотите некоторое удержание жемчужины? Купи немного!"
+		"ru_name": "Эндер жемчуг",
+		"ru_desc": "Хочешь жемчуг эндера? Купи немного!"
 	},
 	"1029:10": {
 		"eng_name": "Magnetic Neodymium",
 		"eng_desc": "Want some magnetic neodymium for motors? Buy some!",
-		"ru_name": "Магнитный неодимий",
-		"ru_desc": "Хотите немного магнитного неодима для моторов? Купи немного!"
+		"ru_name": "Намагниченный неодим",
+		"ru_desc": "Хочешь намагниченного неодима для моторов? Купи немного!"
 	},
 	"1030:10": {
 		"eng_name": "Stainless Steel Rods",
 		"eng_desc": "Want some stainless steel rods? Buy some!",
 		"ru_name": "Стержества из нержавеющей стали",
-		"ru_desc": "Хотите некоторые стержни из нержавеющей стали? Купи немного!"
+		"ru_desc": "Хочешь стержней из нержавейки? Купи немного!"
 	},
 	"1031:10": {
 		"eng_name": "Steel rotor",
 		"eng_desc": "Want some steel rotors? Buy some!",
 		"ru_name": "Стальной ротор",
-		"ru_desc": "Хотите некоторые стальные роторы? Купи немного!"
+		"ru_desc": "Хочешь стальных роторов? Купи немного!"
 	},
 	"1032:10": {
 		"eng_name": "Stainless Steel Fluid Pipes",
 		"eng_desc": "Want some stainless steel fluid pipes? Buy some!",
 		"ru_name": "Трубы жидкости из нержавеющей стали",
-		"ru_desc": "Хотите немного жидких труб из нержавеющей стали? Купи немного!"
+		"ru_desc": "Хочешь жидкостных труб из нержавейки? Купи немного!"
 	},
 	"1033:10": {
 		"eng_name": "Chrome Rods",
 		"eng_desc": "Want some chrome rods? Buy some!",
 		"ru_name": "Хромированные стержни",
-		"ru_desc": "Хотите некоторые хромированные стержни? Купи немного!"
+		"ru_desc": "Хочешь стержней из хрома? Купи немного!"
 	},
 	"1034:10": {
 		"eng_name": "Ender Eyes",
 		"eng_desc": "Want some ender eyes? Buy some!",
-		"ru_name": "Эндерс глаза",
-		"ru_desc": "Хотите некоторых глазных глаз? Купи немного!"
+		"ru_name": "Око Края",
+		"ru_desc": "Хочешь глаз края? Купи немного!"
 	},
 	"1036:10": {
 		"eng_name": "Plastic Circuit Board",
 		"eng_desc": "Want some plastic circuit boards? Buy some!",
-		"ru_name": "Пластиковая плата",
-		"ru_desc": "Хотите некоторые пластиковые платы? Купи немного!"
+		"ru_name": "Печатная плата",
+		"ru_desc": "Хочешь печатных плат? Купи немного!"
 	},
 	"1038:10": {
 		"eng_name": "SMD Resistors",
 		"eng_desc": "Want some SMD resistors? Buy some!",
-		"ru_name": "Резисторы SMD",
-		"ru_desc": "Хотите несколько резисторов SMD? Купи немного!"
+		"ru_name": "SMD-резисторы",
+		"ru_desc": "Хочешь SMD-резисторов? Купи немного!"
 	},
 	"1039:10": {
 		"eng_name": "SMD Diodes",
 		"eng_desc": "Want some SMD diodes? Buy some!",
-		"ru_name": "SMD Diodes.",
-		"ru_desc": "Хотите некоторые SMD Diodes? Купи немного!"
+		"ru_name": "SMD-диоды.",
+		"ru_desc": "Хочешь SMD-диодов? Купи немного!"
 	},
 	"1040:10": {
 		"eng_name": "SMD Transistors",
 		"eng_desc": "Want some SMD transistors? Buy some!",
-		"ru_name": "SMD транзисторы",
-		"ru_desc": "Хотите некоторые SMD транзисторов? Купи немного!"
+		"ru_name": "SMD-транзисторы",
+		"ru_desc": "Хочешь SMD-транзисторов? Купи немного!"
 	},
 	"1041:10": {
 		"eng_name": "SMD Capacitor",
 		"eng_desc": "Want some SMD capacitors? Buy some!",
-		"ru_name": "SMD конденсатор",
-		"ru_desc": "Хотите некоторые SMD конденсаторы? Купи немного!"
+		"ru_name": "SMD-конденсатор",
+		"ru_desc": "Хочешь SMD-конденсаторов? Купи немного!"
 	},
 	"1042:10": {
 		"eng_name": "Logic Processor",
 		"eng_desc": "Want some logic processors? Buy some!",
 		"ru_name": "Логический процессор",
-		"ru_desc": "Хотите некоторые логические процессоры? Купи немного!"
+		"ru_desc": "Хочешь логических процессоров? Купи немного!"
 	},
 	"1043:10": {
 		"eng_name": "Chlorine",
 		"eng_desc": "Want some chlorine? Buy some!",
 		"ru_name": "Хлор",
-		"ru_desc": "Хотите немного хлора? Купи немного!"
+		"ru_desc": "Хочешь хлора? Купи немного!"
 	},
 	"1044:10": {
 		"eng_name": "Iron (III) Chloride",
 		"eng_desc": "Want some Iron (III) Chloride? Buy some!",
-		"ru_name": "Железо (III) хлорид",
-		"ru_desc": "Хотите немного железа (III) хлорида? Купи немного!"
+		"ru_name": "Хлорид железа (III)",
+		"ru_desc": "Хочешь хлорного железа? Купи немного!"
 	},
 	"1045:10": {
 		"eng_name": "Sodium Persulfate",
 		"eng_desc": "Want some sodium persulfate? Buy some!",
-		"ru_name": "Персульфат натрия",
-		"ru_desc": "Хотите немного натрия натрия? Купи немного!"
+		"ru_name": "Пероксидсульфат натрия",
+		"ru_desc": "Хочешь пероксидсульфата натрия? Купи немного!"
 	},
 	"1046:10": {
 		"eng_name": "Pyrochlore Ore",
 		"eng_desc": "Can't find Pyrochlore ore because of old worldgen? Buy some Ores.",
-		"ru_name": "Пирочлоре руда",
-		"ru_desc": "Не могу найти пирочлоре руду из-за старого Всемирного моря? Купить руды."
+		"ru_name": "Руда пирохлора",
+		"ru_desc": "Не можешь найти пирохлорную руду из-за старой генерации? Купи немного."
 	},
 	"1047:10": {
 		"eng_name": "Forest Hive",
 		"eng_desc": "Want some Forest Bees? Buy some!",
 		"ru_name": "Лесной улей",
-		"ru_desc": "Хотите немного лесных пчел? Купи немного!"
+		"ru_desc": "Хочешь лесных пчёл? Купи немного!"
 	},
 	"1048:10": {
 		"eng_name": "Deep Hive",
 		"eng_desc": "Want some Attuned Bees? Buy some!",
 		"ru_name": "Глубокий улей",
-		"ru_desc": "Хотите, чтобы некоторые настроились пчел? Купи немного!"
+		"ru_desc": "Хочешь приученных пчёл? Купи немного!"
 	},
 	"1049:10": {
 		"eng_name": "Ender Hive",
 		"eng_desc": "Want some Ender Bees? Buy some!",
-		"ru_name": "Заканчивается улей",
-		"ru_desc": "Хотите некоторые колонны пчел? Купи немного!"
+		"ru_name": "Драконий улей",
+		"ru_desc": "Хочешь драконьих пчёл? Купи немного!"
 	},
 	"1050:10": {
 		"eng_name": "Bee Houses",
 		"eng_desc": "Want some bee houses? Buy some!",
-		"ru_name": "Пчелиные дома",
-		"ru_desc": "Хотите некоторые дома пчелы? Купи немного!"
+		"ru_name": "Пчелиные домики",
+		"ru_desc": "Хочешь пчелиных домиков? Купи немного!"
 	},
 	"1051:10": {
 		"eng_name": "Apiary",
 		"eng_desc": "Want some Apiaries? Buy some!",
 		"ru_name": "Пасека",
-		"ru_desc": "Хочешь апартаменты? Купи немного!"
+		"ru_desc": "Хочешь пасек? Купи немного!"
 	},
 	"1052:10": {
 		"eng_name": "Impregnated Frames",
 		"eng_desc": "Want some impregnated frames? Buy some!",
-		"ru_name": "Пропитанные кадры",
-		"ru_desc": "Хотите некоторые пропитанные кадры? Купи немного!"
+		"ru_name": "Пропитанные рамки",
+		"ru_desc": "Хочешь пропитанных рамок? Купи немного!"
 	},
 	"1053:10": {
 		"eng_name": "Infernal Hive",
 		"eng_desc": "Want some Infernal Bees? Buy some!",
 		"ru_name": "Адский улей",
-		"ru_desc": "Хотите некоторые адские пчелы? Купи немного!"
+		"ru_desc": "Хочешь адских пчел? Купи немного!"
 	},
 	"1054:10": {
 		"eng_name": "Oblivion Hive",
 		"eng_desc": "Want some Oblivion Bees? Buy some!",
-		"ru_name": "Обливион улей",
-		"ru_desc": "Хотите немного забвения пчел? Купи немного!"
+		"ru_name": "Забвенный улей",
+		"ru_desc": "Хочешь забвенных пчел? Купи немного!"
 	},
 	"1056:10": {
 		"eng_name": "Meadow Hive",
 		"eng_desc": "Want some Meadows Bees? Buy some!",
-		"ru_name": "Meadow The Hive.",
-		"ru_desc": "Хотите некоторые луга пчелы? Купи немного!"
+		"ru_name": "Луговой улей",
+		"ru_desc": "Хочешь луговых пчел? Купи немного!"
 	},
 	"1057:10": {
 		"eng_name": "Modest Hive",
 		"eng_desc": "Want some Modest Bees? Buy some!",
-		"ru_name": "Скромный улей",
-		"ru_desc": "Хотите несколько скромных пчел? Купи немного!"
+		"ru_name": "Пустынный улей",
+		"ru_desc": "Хочешь пустынных пчел? Купи немного!"
 	},
 	"1058:10": {
 		"eng_name": "Tropical Hive",
 		"eng_desc": "Want some Forest Bees? Buy some!",
 		"ru_name": "Тропический улей",
-		"ru_desc": "Хотите немного лесных пчел? Купи немного!"
+		"ru_desc": "Хочешь тропических пчел? Купи немного!"
 	},
 	"1059:10": {
 		"eng_name": "Wintry Hive",
 		"eng_desc": "Want some Wintry Bees? Buy some!",
-		"ru_name": "Wintry Hive.",
-		"ru_desc": "Хотите немного зимних пчел? Купи немного!"
+		"ru_name": "Снежный улей",
+		"ru_desc": "Хочешь снежных пчел? Купи немного!"
 	},
 	"1060:10": {
 		"eng_name": "Marshy Hive",
 		"eng_desc": "Want some Marshy Bees? Buy some!",
-		"ru_name": "Marshy Hive.",
-		"ru_desc": "Хочу немного болотистых пчел? Купи немного!"
+		"ru_name": "Болотный улей",
+		"ru_desc": "Хочешь болотных пчел? Купи немного!"
 	},
 	"1061:10": {
 		"eng_name": "Water Hive",
 		"eng_desc": "Want some Water Bees? Buy some!",
-		"ru_name": "Вода улей",
-		"ru_desc": "Хотите немного воды? Купи немного!"
+		"ru_name": "Водный улей",
+		"ru_desc": "Хочешь водных пчел? Купи немного!"
 	},
 	"1062:10": {
 		"eng_name": "Rocky Hive",
 		"eng_desc": "Want some Rocky Bees? Buy some!",
-		"ru_name": "Скалистый улей",
-		"ru_desc": "Хотите некоторые скалистые пчелы? Купи немного!"
+		"ru_name": "Каменный улей",
+		"ru_desc": "Хочешь каменных пчел? Купи немного!"
 	},
 	"1063:10": {
 		"eng_name": "Nether Hive",
 		"eng_desc": "Want some Embittered Bees? Buy some!",
-		"ru_name": "Улите",
-		"ru_desc": "Хотите некоторые озлобленные пчелы? Купи немного!"
+		"ru_name": "Адский улей",
+		"ru_desc": "Хочешь адских пчел? Купи немного!"
 	},
 	"1064:10": {
 		"eng_name": "Curious Hive",
 		"eng_desc": "Want some Mystical Bees? Buy some!",
-		"ru_name": "Любопытный улей",
-		"ru_desc": "Хотите некоторые мистические пчелы? Купи немного!"
+		"ru_name": "Странный улей",
+		"ru_desc": "Хочешь мистических пчел? Купи немного!"
 	},
 	"1065:10": {
 		"eng_name": "Unusual Hive",
 		"eng_desc": "Want some Unusual Bees? Buy some!",
 		"ru_name": "Необычный улей",
-		"ru_desc": "Хотите некоторые необычные пчелы? Купи немного!"
+		"ru_desc": "Хочешь необычных пчел? Купи немного!"
 	},
 	"1066:10": {
 		"eng_name": "Resonating Hive",
 		"eng_desc": "Want some Sorcerous Bees? Buy some!",
-		"ru_name": "Резонирование улей",
-		"ru_desc": "Хотите некоторые сорковые пчелы? Купи немного!"
+		"ru_name": "Резонирующий улей",
+		"ru_desc": "Хочешь волшебных пчел? Купи немного!"
 	},
 	"1069:10": {
 		"eng_name": "Vanilla Saplings",
 		"eng_desc": "You spawned in a desert and need Oak or Birch saplings? No problem! For five Forester Coins you can select which one you want to buy.",
-		"ru_name": "Саженцы ванили",
-		"ru_desc": "Вы породили в пустыне и нужны дуб или саженцы березы? Без проблем! Для пяти лесных монет вы можете выбрать, какой вы хотите купить."
+		"ru_name": "Ванильные саженцы",
+		"ru_desc": "Ты заставнился в пустыне и нуждаешься в саженцах дуба или берёзы? Не беда! Всего за 5 лесничих монет ты можешь купить любые ванильные саженцы."
 	},
 	"1087:10": {
 		"eng_name": "Potato Cakes",
 		"eng_desc": "Potatoes, onions, butter and a skillet make very tasty potato cakes.",
-		"ru_name": "Картофельные торты",
-		"ru_desc": "Картофель, лук, масло и сковорода делают очень вкусные картофельные торты."
+		"ru_name": "Картофельные запеканки",
+		"ru_desc": "Картофель, лук, масло и сковорода - весь рецепт крайне вкусных картофельных пирогов."
 	},
 	"1088:10": {
 		"eng_name": "Fried Eggs",
 		"eng_desc": "So easy, skillet and an egg.... fried egg.",
 		"ru_name": "Жареные яйца",
-		"ru_desc": "Так просто, сковорода и яйцо .... жареное яйцо."
+		"ru_desc": "Так просто, сковорода и яйцо.... жареное яйцо."
 	},
 	"1099:10": {
 		"eng_name": "Temp Warp Remover Soap",
 		"eng_desc": "This soap is very special. It will remove temporary warp and has a small chance to also remove some normal warp, if you are lucky. Taking a bath first increases your chances.\n\nHint: You need to chisel your tallow block for the recipe to work.",
-		"ru_name": "Temp Warp Remover Soap",
-		"ru_desc": "Это мыло очень особенное. Он удалит временный варп и имеет небольшой шанс, чтобы также удалить некоторые обычные WARP, если вам повезет. Принимая ванну сначала увеличивает ваши шансы.\n\nПодсказка: вам нужно доложить ваш салон для рецепта для работы."
+		"ru_name": "Мыло, убирающее временный варп",
+		"ru_desc": "Это крайне необычное мыло. Оно уберёт временный варп и, с небольшим шансом, уберёт и обычный варп, если тебе достаточно везёт. Шансы повысятся если ты помоешься.\n\nПодсказка: Измени вариант блока жира при помощи чизеля для этого рецепта."
 	},
 	"1102:10": {
 		"eng_name": "Beacon",
 		"eng_desc": "With your new wand you are able to create a beacon. The beacon recipe is found on the GTNH Thaumcraft Page. Activate it in your base to gain various positive effects.",
 		"ru_name": "Маяк",
-		"ru_desc": "С вашей новой палочкой вы можете создать маяк. Рецепт маяка найден на странице GTNH Thaumcraft. Активируйте его в вашей базе, чтобы получить различные положительные эффекты."
+		"ru_desc": "Ты можешь создать маяк со своим новым жезлом. Рецепт маяка находится в таумономиконе на вкладке GTNH. Активируй его на базе для получения разных хороших эффектов."
 	},
 	"1111:10": {
 		"eng_name": "A Chest for Bees",
 		"eng_desc": "A chest for bees only. It can hold up to 125 different bees in one chest.",
 		"ru_name": "Сундук для пчел",
-		"ru_desc": "Только сундук для пчел. Он может вместить до 125 различных пчел в одной груди."
+		"ru_desc": "Сундук исключительно для пчел. Может содержать до 125 разных пчел в одном сундуке"
 	},
 	"1112:10": {
 		"eng_name": "Frames",
 		"eng_desc": "Untreated frames are the simplest frames. They do not work in bee houses, only in apiaries or alvearies. You will need them to craft bee houses.\n\nThey increase the bee's performance. Each untreated frame will double a bee's productivity.",
-		"ru_name": "Кадры",
-		"ru_desc": "Необработанные рамки являются простейшими кадрами. Они не работают в пчелиных домах, только в апартаментах или Alvearies. Вы понадобится их ремесленные дома.\n\nОни увеличивают производительность пчелы. Каждая необработанная рамка будет удвоить производительность пчелы."
+		"ru_name": "Рамки",
+		"ru_desc": "Необработанные рамки - самые простые. Они не работают в пчелиных домиках, лишь в пасеках и ульях. Но они нужны тебе для крафта пчелиных домиков.\n\nОни улучшат работу пчёл. Каждая необработанная рамка удвоит производительность пчёл."
 	},
 	"1113:10": {
 		"eng_name": "Impregnated Frames",
 		"eng_desc": "Impregnated Frames are even better than untreated Frames. \nEach frame doubles the bee's productivity. It has a longer durability than the untreated frame, but a shorter one compared to the proven frame.",
-		"ru_name": "Пропитанные кадры",
-		"ru_desc": "Пропитанные кадры даже лучше, чем не леченные рамки.\nКаждый кадр удваивает производительность пчелы. Он имеет более длительную прочность, чем необработанная рама, но более короткий по сравнению с проверенной рамкой."
+		"ru_name": "Пропитанные рамки",
+		"ru_desc": "Пропитанные рамки куда лучше, чем необработанные.\nКаждая рамка удваивает производительность пчел. Пропитанные рамки прочнее необработанных, но менее прочные сравнивая с проверенными."
 	},
 	"1114:10": {
 		"eng_name": "Production Frames",
