@@ -3,7 +3,7 @@
 		"eng_name": "§1§lWhere's the Flint?",
 		"eng_desc": "As you might have noticed, while collecting gravel, no flint dropped for you. Well, there is a... recipe for that. Look up flint in NEI and craft some!",
 		"ru_name": "§1§lГде же кремень?",
-		"ru_desc": "Вы наверное заметили, пока собирали гравий, вам не выпало ни кусочка кремня. Ну, для этого нужно... скрафтить его. Поищите кремень в NEI и скрафтите немного!"
+		"ru_desc": "Вы наверное заметили, пока собирали гравий, что вам не выпало ни кусочка кремня. Ну, для этого его нужно... скрафтить. Поищите кремень в NEI и скрафтите немного!"
 	},
 	"3:10": {
 		"eng_name": "§1§lStorage For Days",
@@ -15,25 +15,25 @@
 		"eng_name": "§1§lTools",
 		"eng_desc": "Now that you've got a shelter and a crafting table, you should make some tools. (Unless you'd like to continue punching trees with your bare hand...)\n\nNOTE: Make sure to use vanilla sticks, not Natura sticks.\n\n§3You should probably make the shovel first so you can get gravel for the rest more easily.",
 		"ru_name": "§1§lИнструменты",
-		"ru_desc": "Теперь у вас есть убежище и верстак, так что пора создать инструменты. (Если вы не хотите и дальше избивать деревья голыми руками...)\n\nЗамечание: Убедитесь, что вы сделали ванильные палки, не Natura'овские..\n\n§3Лучше всего сначала сделайте лопату, чтобы выкопать оставшийся гравий куда быстрее."
+		"ru_desc": "Теперь у вас есть убежище и верстак, так что пора создать инструменты. (Если вы не хотите и дальше избивать деревья голыми руками...)\n\nЗамечание: Убедитесь, что вы сделали ванильные палки, а не из Natura.\n\n§3Лучше всего сначала сделайте лопату, чтобы копать гравий куда быстрее."
 	},
 	"7:10": {
 		"eng_name": "§1§l...What You Sow",
 		"eng_desc": "If you, by chance, did read the previous quest and planted the carrot I gave you, then you're fine. Meanwhile, you should turn some more fruits and vegetables into seeds, and increase the size of your farm to get a steady supply of food.",
 		"ru_name": "§1§l...То и пожнёшь",
-		"ru_desc": "Если, вдруг, вы читали предыдущий квест и посадили морковь, что я вам дал, всё в порядке. Пока она растёт, вам стоит превратить фрукты и овощи в семена и увеличить вашу ферму, чтобы иметь постоянный источник еды."
+		"ru_desc": "Если, вдруг, вы читали предыдущий квест и посадили морковь, что вы получили, то всё в порядке. Пока она растёт, вам стоит превратить фрукты и овощи в семена, чтобы увеличить вашу ферму и иметь постоянный источник еды."
 	},
 	"8:10": {
 		"eng_name": "§1§lGet That Stone",
 		"eng_desc": "Look at you, with your shiny flint pickaxe! Time to mine some cobblestone. Yay! (And maybe you can improve this dirt-hut too...)",
 		"ru_name": "§1§lХватай камень",
-		"ru_desc": "Взгляните на себя и на свою блестящую кремневую кирку! Пора копать булыжники. Ура! (А ещё вы можете улучшить свою коробку из грязи...)"
+		"ru_desc": "Взгляните на себя и на свою блестящую кремневую кирку! Пора копать булыжник. Ура! (А ещё вы можете улучшить свою коробку из грязи...)"
 	},
 	"9:10": {
 		"eng_name": "§1§lFire, Fire, Grandpa!",
 		"eng_desc": "Time to burn some stuff, isn't it? You can't make charcoal in it, but you sure will find some usage for it soon(tm).",
 		"ru_name": "§1§lОгонь, огонь, дедуль!",
-		"ru_desc": "Не пора ли сжечь немного хлама? Вы не можете создавать древесный уголь, но вы наверняка скоро найдёте ей применение"
+		"ru_desc": "Не пора ли сжечь немного хлама? Вы не можете создавать древесный уголь, но вы наверняка скоро найдёте применение"
 	},
 	"10:10": {
 		"eng_name": "§1§lRest in Pieces",
@@ -51,7 +51,7 @@
 		"eng_name": "§1§lWhat's That...?",
 		"eng_desc": "You've seen a lot of trees, but there are a few that look really special. You are sure that these trees are much more than just wood to build your home with or used to get charcoal. You're sure that these will be Very Important soon™.\n\nThe best place to find them is in a Magical Forest, but if you can't find one you can try a Garden or Cherry Wood Grove. Or just randomly everywhere.\n\nIf you have trouble finding them, you can build a special compass in LV to help you locate the biomes.",
 		"ru_name": "§3§5§lЧто это такое...?",
-		"ru_desc": "Вы повидали немало деревьев, но эти выглядят и правда необычно. Вы уверены, что эти деревья - нечто большее, чем та древесина, которую вы используете для построек или древесного угля. Оно вам точно пригодится очень скоро.\n\nИх проще всего найти в магическом лесу, но если вы не можете найти его - попробуйте Сад или Вишнёвую рощу. Или просто поищите где угодно.\n\nЕсли у вас возники проблемы с поиском биомов - вы сможете сделать специальный компас в LV, которй поможет вам в этом деле."
+		"ru_desc": "Вы повидали немало деревьев, но эти выглядят и правда необычно. Вы уверены, что эти деревья - нечто большее, чем та древесина, которую вы используете для построек или древесного угля. Оно вам точно очень скоро пригодится .\n\nИх проще всего найти в магическом лесу, но если вы не можете найти его - попробуйте поискать в биомах Сад или Вишнёвая роща. Или просто поищите где угодно.\n\nЕсли у вас возники проблемы с поиском биомов - вы сможете сделать специальный компас в LV-тире, которй поможет вам в этом деле."
 	},
 	"15:10": {
 		"eng_name": "§2§lReady, Set, Go!",
@@ -63,12 +63,12 @@
 		"eng_name": "§2§lSand: The Gathering",
 		"eng_desc": "In a strange vision you saw a big structure which would allow you to make charcoal. Finally some torches! According to your calculations, you will need a lot of sand for that.",
 		"ru_name": "§2§lПесок: Сбор",
-		"ru_desc": "В необычном сне вы видели большую структуру, которая позволит вам делать древесный уголь. Наконец-то, факелы! Согласно моим рассчётам, для этого вам понадобится куча песка."
+		"ru_desc": "В необычном сне вы видели большую структуру, которая позволит вам делать древесный уголь. Наконец-то, факелы! Согласно вашим рассчётам, для этого вам понадобится куча песка."
 	},
 	"18:10": {
 		"eng_name": "§2§lBasic Processing",
 		"eng_desc": "Most things are unavailable at the moment, so let's begin with something simple. Take some of your cobblestone and smelt it into regular stone. Since this modpack is evil, you'll need to use wood for that. How much fun is that?!",
-		"ru_name": "§2§lОсновная обработка",
+		"ru_name": "§2§lБазовая обработка",
 		"ru_desc": "Большинство вещей вам сейчас недоступны, так что начнём с чего-то попроще. Возьмите булыжник и переплавьте его в обычный камень. Так как эта сборка злая, вам нужно использовать брёвна как топливо. И насколько же это весело?!"
 	},
 	"19:10": {
@@ -93,19 +93,19 @@
 		"eng_name": "§2§lFinite Water!?",
 		"eng_desc": "Finite water is a problem, that's for sure. Last night, you had an idea. If you can drink cacti, you should also be able make water out of 8 cacti and use that for most recipes that require water. How cool is that? So what about another trade? 10 wood for... 3 cacti so you can setup a farm. Deal?\n\nTo automate the farm, place a string next to the cactus and a sand on top of the string. Now when the cactus grows, it will automatically break!  You can stack this horizontally and vertically to make a very efficient cactus farm.  Use water to redirect the cactus to a convenient pickup location or to above a hopper.\n\nFirst player to make a base running off of only cactus water gets a cape!",
 		"ru_name": "§2§lКонечная вода!?",
-		"ru_desc": "Ограниченная вода - это действительно проблема. Прошлой ночью вам пришла гениальная идея. Если вы можете пить кактусовый сок, вы также сможете сделать воду из 8 кактусов и использовать её для большинства рецептов, которые требуют воды. Круто, да? Что насчёт ещё одной сделки? 10 древесины за... 3 кактуса, чтобы вы могли построить ферму. По рукам?\n\nЧтобы автоматизировать ферму, поместите нитку рядом с кактусом и песок сверху нитки. Теперь, когда кактус вырастет, он автоматически сломается! Вы можете расширять эту схему горизонтально и вертикально, чтобы сделать очень эффективную ферму кактуса. Используйте воду, чтобы перенаправить кактус к удобному расположению сбора или над воронкой.\n\nПервый игрок, который сделает базу, работающую исключительно на кактусовой воде, получит плащ!"
+		"ru_desc": "Конечная вода - это действительно проблема. Прошлой ночью вам пришла гениальная идея. Если вы можете пить кактусовый сок, то вы также сможете сделать воду из 8 кактусов и использовать её для большинства рецептов, которые требуют воды. Круто, да? Что насчёт ещё одной сделки? 10 древесины за... 3 кактуса, чтобы вы могли построить ферму. По рукам?\n\nЧтобы автоматизировать ферму, поместите нитку рядом с кактусом и песок на нитку. Теперь, когда кактус вырастет, он автоматически сломается! Вы можете расширять эту схему горизонтально и вертикально, чтобы сделать очень эффективную ферму кактусов. Используйте потоки воды, чтобы перенаправить кактус к удобному расположению сбора или на воронку.\n\nПервый игрок, который сделает базу, работающую исключительно на кактусовой воде, получит плащ!"
 	},
 	"23:10": {
 		"eng_name": "§2§lSomething to Carry Liquids",
 		"eng_desc": "You tried to move water with your bare hands, which didn't work at all. Luckily, you remember how to make a bucket out of clay dust.\n\nPut it in a mortar to get small clay dust which can be crafted to clay dust.",
 		"ru_name": "§2§lЧто-то для переноса жидкостей",
-		"ru_desc": "Вы пытались перенести воду в руках, и это почему-то не сработало. К счастью, вы вспоминаете как сделать ведро из глиняной пыли.\n\nПоложите глину в ступку, чтобы получить маленькую глиняную пыль, из которой можно сделать нормальную."
+		"ru_desc": "Вы пытались перенести воду в руках, и это почему-то не сработало. К счастью, вы догадываетесь как можно сделать ведро из глиняной пыли.\n\nПоложите глину в ступку, чтобы измельчить её в маленькую глиняную пыль, из которой можно сделать нормальную."
 	},
 	"24:10": {
 		"eng_name": "§1§2§lGetting (Char)coal",
 		"eng_desc": "It's time to get yourself some charcoal. For that, we're going to build a coke oven. Good that you just collected a lot of resources! (What a coincidence...)\n\n§3Even though Waila says you can't, you can punch these blocks to get them back if you mess up the placement before you have a metal pickaxe.",
-		"ru_name": "§1§2§lПолучение (Древесного) угля",
-		"ru_desc": "Самое время добыть древесный уголь. Для этого мы построим коксовую печь. Хорошо, что вы только что собрали много ресурсов! (Какое совпадение...)\n\nНесмотря на то, что Waila говорит, что вы не можете, вы можете ломать эти блоки чтобы вернуть их, если вы ошибётесь с постройкой не имея металлической кирки."
+		"ru_name": "§1§2§lПолучение древесного угля",
+		"ru_desc": "Самое время добыть древесный уголь. Для этого нужно построить коксовую печь. Хорошо, что вы только что собрали много ресурсов! (Какое совпадение...)\n\nБудьте осторожней, так как если вы ошибётесь в установке блока, то не сможете его переставить до получения металлической кирки."
 	},
 	"25:10": {
 		"eng_name": "§2§lAnother Brick in the Wall",
@@ -134,8 +134,8 @@
 	"35:10": {
 		"eng_name": "§2§lMaking Bronze",
 		"eng_desc": "Now that you've found copper and tin, you should make yourself some bronze. Use your macer... mortar to grind up some copper and tin ingots, and mix them together!",
-		"ru_name": "§2§lДелать бронзу",
-		"ru_desc": "Теперь, когда у вас есть медь и олово, вам стоит создатьа бронзу. Используйте свой дроб...свою ступку, чтобы измельчить медные и оловянные слитки и смешать их вместе!"
+		"ru_name": "§2§lСоздание бронзы",
+		"ru_desc": "Теперь, когда у вас есть медь и олово, вам стоит сделать бронзу. Используйте свой дроб... свою ступку, чтобы измельчить медные и оловянные слитки, а затем перемешать их!"
 	},
 	"39:10": {
 		"eng_name": "§2§lBetter Storage",
@@ -147,7 +147,7 @@
 		"eng_name": "§2§r§2§lCow Tipper",
 		"eng_desc": "Before you had to kill some pigs and sheep to complete quests. Now it's time to kill some cows and hopefully get some leather. If you are lucky and get a cow trophy you may never need to kill another cow in the future.",
 		"ru_name": "§2§r§2§lУбийца коров",
-		"ru_desc": "Ранее вам надо было убивать овец и свиней для выполнения квестов. Теперь пора поубивать коров для кожи. Если вам повезёт получить трофей коровы, вам никогда не придётся убивать их в будущем."
+		"ru_desc": "Ранее вам надо было убивать овец и свиней для выполнения квестов. Теперь пора поубивать коров для кожи. Если вам повезёт получить трофей коровы, вам больше никогда не придётся их убивать."
 	},
 	"48:10": {
 		"eng_name": "§3§lA Very Important Alloy",
@@ -159,25 +159,25 @@
 		"eng_name": "§3§lThe Hell is That?",
 		"eng_desc": "In order to get more machines, you'll need pistons. But not those amateurish ones, you need special ones, and I shall guide you in the making of them.\n\n§3PS: Infernals can drop them, though you won't get credit for the quest that way.",
 		"ru_name": "§3§lЧто это за чертовщина?",
-		"ru_desc": "Чтобы получить больше механизмов вам понадобятся поршни. Но не эти ваши любительские, вам нужны особенные поршни, и я объясню вам как их сделать.\n\nPS: Инферналы могут дропнуть их, хотя вы не выполните квест таким образом."
+		"ru_desc": "Чтобы получить больше механизмов вам понадобятся поршни. Но не эти ваши любительские, вам нужны особенные поршни, и я научу вас как их сделать.\n\nPS: Они могут выпасть с инфернальных монстров, хотя вы не выполните квест таким образом."
 	},
 	"50:10": {
 		"eng_name": "§3§lMacerator v1.0!",
 		"eng_desc": "Finally you are able to make a device that will replace your mortar. However, the \"no-durability\" feature of this device comes with a cost: You need 2 diamonds for the grinding heads.\n\nThe macerator will double your ore output. Put ores through it instead of smelting directly.\n\nNOTE: Remember, don't block the output port and don't stand behind it.",
 		"ru_name": "§3§lДробитель v1.0!",
-		"ru_desc": "Наконец, вы можете сделать устройство, которое заменит вашу ступку. Тем не менее, функция «неломаемости» этого устройства имеет свою цену: вам нужны 2 алмаза для шлифовальных головок.\n\nДробитель удвоит ваши руды. Используйте его перед плавкой.\n\nПримечание. Запомните, не блокируйте выход пара и не стойте за ним."
+		"ru_desc": "Наконец, вы можете сделать устройство, которое заменит вашу ступку. Тем не менее, особенность «неломаемости» этого устройства имеет свою цену: вам нужны 2 алмаза для шлифовальных головок.\n\nДробитель удвоит ваши руды. Используйте его перед плавкой.\n\nПримечание: запомните, не блокируйте выход пара и не стойте перед ним."
 	},
 	"51:10": {
 		"eng_name": "§3§lExtracting Stuff",
 		"eng_desc": "As you'll need rubber later to make cables from wires, you should get yourself a steam extractor. You can also use this machine to get more dyes from flowers, or process different fruits into juice.",
 		"ru_name": "§3§lИзвлечение материалов",
-		"ru_desc": "Как только вам потребуется резина для создания кабелей из проводов, вам придётся создать паровой экстрактор. Вы также можете использовать его, чтобы получать больше красителей из цветов или выжимать сок из фруктов."
+		"ru_desc": "Как только вам потребуется резина для покрытия проводов изоляцией для получения кабелей, то вам придётся создать паровой экстрактор. Вы также можете использовать его для получения большего колличества красителей из цветов или же выжимки сока из фруктов."
 	},
 	"53:10": {
 		"eng_name": "§3§lHammer time v2",
 		"eng_desc": "Using 6 ingots to craft a hammer seems pretty wasteful, as this tool has durability. How nice would it be to have a machine that does the same but without having durability and using three ingots to make two plates? Guess what, there is one! And you should totally get one.",
 		"ru_name": "§3§lВремя молота v2",
-		"ru_desc": "Несколько расточительно тратить 6 слитков для создания молота, который ещё и ломается. Было бы неплохо иметь механизм, который умеет всё то же, что и молот, но без траты прочности и с экономией металлов для пластин (3 слитка к 2 пластинам)? Не поверите, у нас есть такой! И вы определённо должны его сделать."
+		"ru_desc": "Несколько расточительно тратить 6 слитков для создания молота, который ещё и ломается. Было бы неплохо иметь механизм, который умеет всё то же самое, что и молот, но без траты прочности и с экономией металла для пластин (3 слитка к 2 пластинам)? Не поверите, у нас есть такой! И определённо вы должны его сделать."
 	},
 	"54:10": {
 		"eng_name": "§4§3§lCompressing Stuff",
@@ -189,19 +189,19 @@
 		"eng_name": "§3§lUpgrade: Coal Boiler",
 		"eng_desc": "This is basically just an upgrade to your current coal boiler, however it produces more than twice as much steam. Something you should consider building if you're planning to get some of the upgraded machines.",
 		"ru_name": "§3§lОбновление: Угольный Бойлер",
-		"ru_desc": "В целом, это просто улучшение вашего парового бойлера, но теперь он производит в два раза больше пара. Было бы неплохо собрать его, если вы хотите использовать улучшенные машины."
+		"ru_desc": "В целом, это просто улучшение вашего парового бойлера, но теперь он производит в два раза больше пара. Было бы неплохо собрать его, если вы хотите использовать машины получше."
 	},
 	"61:10": {
 		"eng_name": "§3§lAnother Use for Java, I Mean Lava",
 		"eng_desc": "With a more durable steel casing, you can use lava to make steam.",
-		"ru_name": "§3§lДругое использование для джавы, всмысле, лавы",
+		"ru_name": "§3§lДругое использование для Джавы, всмысле, лавы",
 		"ru_desc": "С более прочным стальным корпусом вы можете использовать лаву для создания пара."
 	},
 	"62:10": {
 		"eng_name": "§3§lThe Power of the Sun",
 		"eng_desc": "The sun has quite a bit of power, so why not use it to produce steam? \n\nFill it with water on the bottom side to produce steam. Unlike the other boilers, this only outputs steam on the output port side.\n\n§4Hint: The solar boiler calcifies and becomes less efficient over time. It will heat up fast, so make sure you are ready with water.",
 		"ru_name": "§3§lСила солнца",
-		"ru_desc": "Солнце даёт достаточно тепла, так почему бы не использовать его для производства пара?\n\nЗаполняйте его водой снизу, чтобы получать пар. В отличие от других бойлеров, этот выдаёт пар только с одной стороны.\n\nПодсказка: солнечный бойлер покрывается известь и теряет эффективность со временем. Нагревается он достаточно быстро, так что убедитесь, что у вас достаточно воды."
+		"ru_desc": "Солнце даёт достаточно тепла, так почему бы не использовать его для производства пара?\n\nЗаполняйте его водой снизу, чтобы получать пар. В отличие от других бойлеров, этот выдаёт пар только с одной стороны.\n\nПодсказка: солнечный бойлер покрывается известью и теряет эффективность со временем. Нагревается он достаточно быстро, так что убедитесь, что у вас достаточно воды."
 	},
 	"63:10": {
 		"eng_name": "§3§lUsing Steam to Cook Things",
@@ -213,7 +213,7 @@
 		"eng_name": "§3§lTime For Some Logic",
 		"eng_desc": "Good news! You are now able to advance to the next tier! Bad news: You still have to craft a lot of things before you can begin. Fear not mortal, I shall guide you!",
 		"ru_name": "§3§lВремя логики",
-		"ru_desc": "Хорошие новости! Теперь вы можете перейти на следующий тир! Плохая новость: Вам всё ещё надо скрафтить много вещей, прежде чем вы сможете начать. Не бойся, смертный, Я научу тебя!"
+		"ru_desc": "Хорошие новости! Теперь вы можете перейти на следующий тир! Плохая новость: Вам всё ещё нужно скрафтить много вещей, прежде чем вы сможете начать. Не бойся, смертный, Я научу тебя!"
 	},
 	"68:10": {
 		"eng_name": "§3§lYour First Electronic Circuit",
@@ -225,73 +225,73 @@
 		"eng_name": "§3§lWire-Wrap",
 		"eng_desc": "Placing wires without insulation seems to be a bad idea. Now that you have an extractor to extract raw rubber out of sticky resin and an alloy smelter to further process it using sulfur, you should work on getting some insulating rubber sheets.",
 		"ru_name": "§3§lИзоляция",
-		"ru_desc": "Размещение проводов без изоляции кажется плохой идеей. Теперь, когда у вас есть экстрактор для извлечения сырой резины из липкой смолы и завод сплавов для обработки резины используя серу, займитесь изоляцией при помощи резиновых листов."
+		"ru_desc": "Размещение проводов без изоляции кажется плохой идеей. Теперь, когда у вас есть экстрактор для извлечения необработанной резины из липкой смолы и завод сплавов для обработки резины, используйте серу и займитесь изоляцией при помощи резиновых листов."
 	},
 	"71:10": {
 		"eng_name": "§3§lBasic Crafting: Motors",
 		"eng_desc": "Motors are little devices that can turn electrical power into rotational energy. Very useful for all kind of machines, and not that difficult to craft. The pattern is always the same, only the materials change with tiers. For now you can use redstone to magnetize your iron rod. Later on you will build an Electromagnetic Polarizer.",
 		"ru_name": "§3§lБазовые крафты: Моторы",
-		"ru_desc": "Моторы - это маленькие устройства, которые могут превратить электроэнергию в ротационную. Полезны для любой машины, при этом их не так и сложно скрафтить. Шаблон всегда тот же, меняются лишь материалы в зависимости от тира. Сейчас вы можете намагнитить ваши железные стержни редстоуном. Позже у вас появится электромагнитный поляризатор."
+		"ru_desc": "Моторы - это маленькие устройства, которые могут преобразовать электрическую энергию в кинетическую. Полезны для любой машины, при этом их не так уж и сложно сделать. Шаблон всегда тот же, меняются лишь материалы в зависимости от тира. Сейчас вы можете намагнитить железные стержни редстоуном. Позже у вас появится электромагнитный поляризатор."
 	},
 	"72:10": {
 		"eng_name": "§3§lBasic Crafting: Rotors",
 		"eng_desc": "Rotors are also crafted using an identical pattern with different materials. A bit annoying to craft at the moment, but you don't need a lot of them anyway.",
 		"ru_name": "§3§lБазовые крафты: Роторы",
-		"ru_desc": "Роторы также создаются по тому же шаблону с разными материалами. Немного раздражающий крафт, но вам всё равно надо не так уж и много."
+		"ru_desc": "Роторы создаются по тому же шаблону с разными материалами. Немного раздражающий крафт, но вам всё равно надо не так уж и много."
 	},
 	"73:10": {
 		"eng_name": "§3§lBasic Crafting: Machine Hulls",
 		"eng_desc": "All machines need a hull to keep their private parts together. Good news is: They are crafted in the same way for every tier, only the materials change.\n\n§3As noted on the tooltip, you can also use a machine hull to pass EU through, at 1A. This can be useful for a 1A diode on Thermos servers, splitting cables from 4A->1A or in a cleanroom later. You can also pass items or fluids through it.",
 		"ru_name": "§3§lБазовые крафты: Корпусы",
-		"ru_desc": "Любой машине нужен корпус чтобы держать все детали вместе. Хорошие новости: от тира к тиру меняются лишь материалы, шаблон тот же.\n\nКак и написано в тултипе, вы можете использовать корпус чтобы пропускать 1А EU. Это может быть полезно как диод на 1А на Thermos серверах, разделения кабелей 4А->1А или позже в клинруме. Корпус так же пропускает жидкости и предметы."
+		"ru_desc": "Любой машине нужен корпус чтобы держать все детали вместе. Хорошие новости: от тира к тиру меняются лишь материалы, шаблон тот же.\n\nКак и написано в тултипе, вы можете использовать корпус чтобы пропускать 1А EU. Это может быть полезно как диод на 1А на Thermos серверах, разделения кабелей 4А->1А или позже для Чистой комнаты. Корпус так же пропускает жидкости и предметы."
 	},
 	"80:10": {
 		"eng_name": "§6§lCompress All the Things",
 		"eng_desc": "Martin's (DreamMasterXXL) favourite machine. Compress ALL the things! With explosives, of course. Boom today!\n\nNote: You might want to put this far from your living quarters, the pollution can get high really fast.",
 		"ru_name": "§6§lСжать всё",
-		"ru_desc": "Любимая машина Мартина's (DreamMasterXXL). Сжимайте всё! Взрывчаткой, естественно. Бахнем сегодня!\n\nПРИМЕЧАНИЕ: Вы точно хотите поставить его подальше от основной базы, загрязнение может подняться крайне быстро."
+		"ru_desc": "Любимая машина Мартина (DreamMasterXXL). Сжимайте всё! Взрывчаткой, естественно. Давайте же Бахнем сегодня!\n\nПримичание: Вы точно захотите поставить его подальше от основной базы, ведь загрязнение может подняться крайне быстро."
 	},
 	"83:10": {
 		"eng_name": "§6§lHigh-Speed Charcoal",
 		"eng_desc": "Sure, those coke ovens are nice, but they aren't even remotely fast enough to keep up with a large steam boiler. Luckily, there is an upgrade available! The creosote oil will not be produced, but the process will speed up dramatically. Who needs that nasty yellowish flammable stuff anyway...",
-		"ru_name": "§6§lВысокоскоростной древесный уголь",
-		"ru_desc": "Коксовые печи и правда хороши, но даже их даже близко не хватит для большого парового бойлера. Как же хорошо, что существует улучшенная версия! Скорость вырастет невероятно, но никакого более креозота. Кому вообще сладась эта мерзкая желтоватая легковоспламеняемая дрянь..."
+		"ru_name": "§6§lБыстрополучаемый древесный уголь",
+		"ru_desc": "Коксовые печи и правда хороши, но даже их и близко не хватит для большого парового бойлера. Как же хорошо, что существует улучшенная версия! Скорость вырастет невероятно, но никакого более креозота. Кому вообще сдалась эта мерзкая желтоватая легковоспламеняемая дрянь..."
 	},
 	"84:10": {
 		"eng_name": "§3§lWhere Can I Put All the Liquids?",
 		"eng_desc": "With your brand new alloy smelter you are able to combine two materials. What happens if you mix some obsidian dust and thickened glass? Obsidian glass, great. Your first tank that you can make would be a Buildcraft tank. This tank can carry up 16 buckets of a single fluid. It's possible to upgrade those tanks so they can hold up to 64 buckets.\nYou can also stack the tanks to increase capacity.",
 		"ru_name": "§3§lГде хранить все эти жидкости?",
-		"ru_desc": "Теперь у вас есть завод сплавов и вы можете соиденять два материала. Что случится, если вы объедините обсидиановую пыль и уплотнённое стекло? Обсидиановое стекло, класс. Первый резервуар что вы можете сделать - BuildCraft'овский. В нём помещается до 16 вёдер жидкости одного типа. Вы можете улучшать их вплоть до 64 вёдер.\nТак же вы можете размещать их друг на друге для увеличения объёма."
+		"ru_desc": "Теперь у вас есть завод сплавов, а значет вы можете сплавливать два материала. Что случится, если вы объедините обсидиановую пыль и уплотнённое стекло? Обсидиановое стекло, класс. Первый резервуар, который вы можете сделать - это BuildCraft'овский. В нём помещается до 16 вёдер жидкости одного типа. Вы можете улучшать их вплоть до 64 вёдер.\nТак же вы можете размещать их друг на друге для увеличения объёма."
 	},
 	"86:10": {
 		"eng_name": "§6§lTungstensteel Coil Upgrade",
 		"eng_desc": "To process more advanced materials like enderium, enriched naquadah or niobium-titanium you need more than 3600K. Time to upgrade your EBF... again.",
 		"ru_name": "§6§lВольфрамстальные катушки",
-		"ru_desc": "Для обработки материалов вроде эндериума, обогащённого наквадаха или ниобий-титана вам потребуется разогревать ебф свыше 3600К. Пора улучшать ебф... снова."
+		"ru_desc": "Для обработки материалов вроде эндериума, обогащённого наквадаха или ниобий-титана вам потребуется нагреть EBF свыше 3600К. Пора улучшать EBF... снова."
 	},
 	"89:10": {
 		"eng_name": "§6§lMV Steam Turbine",
 		"eng_desc": "If you decide to use steam in MV tier then it's time to build a steam turbine.",
 		"ru_name": "§6§lMV Паровая турбина",
-		"ru_desc": "Если вы желаете использовать пар в MV, сделайте себе паровую турбину."
+		"ru_desc": "Если вы желаете использовать пар в MV-тире, то сделайте себе паровую турбину."
 	},
 	"90:10": {
 		"eng_name": "§5§lDamn You, Wire Cutter!",
 		"eng_desc": "After the Bending Machine, this should be your next step. You get 2 wires for every ingot. You can run them back through to get 4 fine wires each if you want those.",
 		"ru_name": "§5§lДа ну вас, кусачки!",
-		"ru_desc": "Это то, что вам стоит сделать после прокатного стана. Вы получите 2 провода за слиток. Прогнав их снова получите 4 тонких провода за каждый обычный."
+		"ru_desc": "Это то, что вам стоит сделать после прокатного станка. Вы получите 2 провода за слиток. Прогнав их снова получите 4 проволки за каждый провод."
 	},
 	"91:10": {
 		"eng_name": "§5§lYou're Gonna Hate This #1",
 		"eng_desc": "The first item you'll need a lot of. If you want to pull items out of chests or barrels you'll need one. \n\nHint: Goes pretty well with item pipes or GT machines, adjust with a screwdriver.\n\n§3PS: Covers have a Shift-Right-Click interface now!",
 		"ru_name": "§5§lТы возненавидишь это #1",
-		"ru_desc": "Первое, что вам понадобится в невообразимых количествах. Могут вытаскивать вещи из сундуков и иных инвентарей.\n\nПодсказка: хорошо работают с трубами для предметов или греговыми машинами, настраиваются отвёрткой.\n\nPS: Теперь у модулей есть интерфейс через шифт-ПКМ!"
+		"ru_desc": "Первое, что вам понадобится в невообразимых количествах. Они могут вытаскивать вещи из сундуков и иных инвентарей.\n\nПодсказка: хорошо работают с трубами для предметов или греговскими машинами, настраиваются отвёрткой.\n\nPS: Теперь у модулей есть интерфейс через шифт-ПКМ!"
 	},
 	"98:10": {
 		"eng_name": "§5§lNo More Filing",
 		"eng_desc": "Why waste a full ingot to make a rod by using a tool which loses durability and takes even MORE ingots? With this little device, all your rod-needs shall be fulfilled (for now at least, the MV Extruder is the next step for rods).",
-		"ru_name": "§5§lНикакой опиловки",
-		"ru_desc": "Зачем тратить целый слиток на стержень, ещё и расходуя прочность инструмента, тратя ещё больше слитков? Это небольшое устройство удовлетворит все ваши стрежневые нужды (по крайней мере сейчас, дальше можно использовать MV экструдер)."
+		"ru_name": "§5§lБольше никаких напильников",
+		"ru_desc": "Зачем тратить целый слиток на стержень, ещё и расходуя прочность инструмента, при этом тратя ещё больше слитков? Это небольшое устройство удовлетворит все ваши стержневые нужды (по крайней мере сейчас, дальше можно использовать MV экструдер)."
 	},
 	"99:10": {
 		"eng_name": "Bzzz... Whoom... (Defunct do not complete)",
@@ -303,13 +303,13 @@
 		"eng_name": "§5§lPress All the Things",
 		"eng_desc": "With the basic forming press you can make different food items, glass arrows and some Project Red components. \n\nAt MV/HV stage you can make rotors, various AE components and make copies of your molds and extruder shapes.",
 		"ru_name": "§5§lСпрессовать всё",
-		"ru_desc": "Вы можете создавать разную еду, стеклянные стрелы и вещи из ProjectRed при помощи базового формовочного пресса.\n\nДостигнув MV/HV вы сможете делать роторы, детали из AE и делать копии литейных и экструдеровых форм."
+		"ru_desc": "Вы можете создавать разную еду, стеклянные стрелы и вещи из ProjectRed при помощи базового формировочного пресса.\n\nДостигнув MV/HV, вы сможете делать роторы, компоненты для AE, а так же делать копии литейных форм и форм для экструдера."
 	},
 	"107:10": {
 		"eng_name": "Cart Modules: Coal Power",
 		"eng_desc": "Your cart needs power, obviously. A cart can be powered via coal, solar, or lava. But for now you have to use a simple coal engine.",
 		"ru_name": "Модули вагонеток: Энергия угля",
-		"ru_desc": "Вашей вагонетке, очевидно, нужна энергия. Запитывать вагонетки можно углём, лавой или солнечной энергией. Но пока вам доступен только простой угольный движок."
+		"ru_desc": "Вашей вагонетке, очевидно, нужна энергия. Запитывать вагонетки можно углём, лавой или солнечной энергией. Но пока вам доступен только лишь простой угольный движок."
 	},
 	"108:10": {
 		"eng_name": "Automated (un-)Loading",
@@ -321,7 +321,7 @@
 		"eng_name": "Cart Modules: Farming",
 		"eng_desc": "Unfortunately, the basic farmer can't farm anything besides wheat, carrots and potatoes. It's not expensive at all, and probably the cheapest solution to give your automated food production a nice boost.",
 		"ru_name": "Модули вагонеток: Фермерство",
-		"ru_desc": "Увы, базовый фермер не может выращивать ничего кроме пшена, моркови и картофеля. Это достаточно дёшево, наверное самое дешёвое решение для улучшения вашего производства еды"
+		"ru_desc": "Увы, базовый фермер не может выращивать ничего кроме пшеницы, моркови и картофеля. Это достаточно дёшево, наверное самое дешёвое решение для автоматического производства еды"
 	},
 	"110:10": {
 		"eng_name": "Cart Modules: Storage",
@@ -333,13 +333,13 @@
 		"eng_name": "A Simple Cart",
 		"eng_desc": "In order to create or customize your cart you need a hull to attach your desired upgrades to. The wooden one can be used for really simple applications, but to farm wheat or wood, you need at least an iron one.\n\n§c§lWARNING: §r§cUnprotected carts can be knocked off their rails by lightning. Cover the area with glass (or any solid block) to prevent carts from disappearing.\n\nAlso, make sure to keep your cart in one chunk, or use chunkloaders covering the whole area the cart works within. Loading/unloading chunks may cause carts to disappear or duplicate.",
 		"ru_name": "Простая вагонетка",
-		"ru_desc": "Для создания или улучшения вагонеток вам нужен корпус, к которому вы будете присоиденять улучшения. К деревяному можно прикрепить только очень простые модули, но для добычи пшена или дерева вам надо как минимум железный.\n\n§c§lПРЕДУПРЕЖДЕНИЕ: §r§cНенакрытые вагонетки могут быть сломаны попаданием в них молнии. Накройте зону их работы стеклом (или любым твердым блоком) чтобы предотвратить пропажу вагонеток.\n\nУбедитесь, что ваши вагонетки всегда находятся в прогруженных чанках. В ином случае вагонетка может пропасть или дублироваться."
+		"ru_desc": "Для создания или улучшения вагонеток вам нужен корпус, к которому вы будете присоиденять улучшения. К деревяному можно прикрепить только очень простые модули, но для добычи пшеницы или дерева вам надо как минимум железный.\n\n§c§lПРЕДУПРЕЖДЕНИЕ: §r§cНенакрытые вагонетки могут быть сломаны попаданием в них молнии. Накройте зону их работы стеклом (или любым твердым блоком) чтобы предотвратить пропажу вагонеток.\n\nУбедитесь, что ваши вагонетки всегда находятся в прогруженных чанках. В ином случае вагонетка может пропасть или задублироваться."
 	},
 	"112:10": {
 		"eng_name": "Cart Modules: Wood Cutter",
 		"eng_desc": "The basic wood cutter will break after a while, but you never have to replace it. It can easily be repaired with diamonds.",
 		"ru_name": "Модули вагонеток: Резак по дереву",
-		"ru_desc": "Стандартный резак по дереву сломается со временем, но вам не придётся заменять его. Просто почините его алмазами."
+		"ru_desc": "Стандартный резак по дереву со временем сломается, но вам не придётся его заменять. Просто почините его алмазами."
 	},
 	"114:10": {
 		"eng_name": "§5§lBasic Transport: Items",
@@ -351,7 +351,7 @@
 		"eng_name": "§5§lBasic Transport: Fluids",
 		"eng_desc": "Just like item nodes, liquid nodes transfer... liquids. But probably the best thing: They can all utilize the same transfer pipe!",
 		"ru_name": "§5§lБазовая транспортировка: Жидкости",
-		"ru_desc": "Так же, предметные ноды, жидкостные перемещают... жидкости. Но, что важнее всего, они используют те же трубы!"
+		"ru_desc": "Так же, как предметные ноды, жидкостные перемещают... жидкости. Но, что важнее всего, они используют те же трубы!"
 	},
 	"116:10": {
 		"eng_name": "§5§lAlloy Smelter",
@@ -363,19 +363,19 @@
 		"eng_name": "§5§lProtect Your Base: Tier 1",
 		"eng_desc": "One needs proper protection for ones home. So why not get some turrets for safety? At the moment, 2 Turrets are available: \"Potato\" and \"disposable item\". I assume you can guess what they do and how they work...",
 		"ru_name": "§5§lЗащита базы: Уровень 1",
-		"ru_desc": "Ваш дом нуждается в достойной защите. Так почему бы не создать несколько турелей? Сейчас вам доступно 2 турели: \"Картошка\" и \"Выброшенный предмет\". Полагаю, вы догадываетесь что они делают и как работают..."
+		"ru_desc": "Ваш дом нуждается в достойной защите. Так почему бы не создать несколько турелей? Сейчас вам доступно 2 турели: \"Картофельный\" и \"Метатель предметов\". Полагаю, вы догадываетесь что они делают и как работают..."
 	},
 	"122:10": {
 		"eng_name": "§4§5§lTurret Base",
 		"eng_desc": "Turrets must be placed on top of a turret base. Only the player who initially placed the base can access and configure the turret. So don't worry about people taking your ammunition.",
-		"ru_name": "§4§5§lТурельная база",
-		"ru_desc": "Турели размещаются на турельных базах. Только игрок, который поставил базу, может размещать и настраивать турель. Так что не переживай, снаряды у тебя не украдут."
+		"ru_name": "§4§5§lОснова для турели",
+		"ru_desc": "Турели размещаются на основе для турели. Только игрок, который поставил основу, может размещать и настраивать турель. Так что не переживай, снаряды у тебя не украдут."
 	},
 	"123:10": {
 		"eng_name": "§5§lWho Needs That Dirt Anyway",
 		"eng_desc": "You probably have a ton of items floating around in your base. So why not use them to kill your enemies?",
 		"ru_name": "§5§lКому вообще нужна эта грязь",
-		"ru_desc": "Вокруг вашей базы наверняка лежит куча вещей. Почему бы не использовать их для убийства ваших врагов?"
+		"ru_desc": "Возле вашей базы наверняка есть куча грязи и ненужных предметов. Почему бы не использовать их для убийства ваших врагов?"
 	},
 	"124:10": {
 		"eng_name": "§5§lDon't Play With Your Food!",
@@ -386,20 +386,20 @@
 	"125:10": {
 		"eng_name": "§5§lUpgrading Intensifies",
 		"eng_desc": "Your turrets probably need more space to hold more ammunition, so why not get an upgrade for that?",
-		"ru_name": "§5§lПрокачка набирает обороты",
+		"ru_name": "§5§lУлучшения набирают обороты",
 		"ru_desc": "Вашим турелям нужно больше места чтобы хранить больше боеприпасов, так почему бы не улучшить их?"
 	},
 	"129:10": {
 		"eng_name": "§6§lMachine Chassis",
 		"eng_desc": "All EnderIO machines still require the basic chassis, and it's almost the same recipe as before; Except that you need plates instead of ingots. But that shouldn't be a problem at all...",
-		"ru_name": "§6§lМашинное шасси",
-		"ru_desc": "Всем машинам из EnderIO нужно базовое шасси, рецепт которого всё ещё не изменился; Правда вам всё равно нужны пластины вместо слитков. Но вряд-ли это такая уж проблема..."
+		"ru_name": "§6§lКорпус механизма",
+		"ru_desc": "Всем машинам из EnderIO нужен бызовый корпус, рецепт который всё ещё не изменился. Правда вам всё равно нужны пластины вместо слитков. Но вряд-ли это такая уж проблема..."
 	},
 	"135:10": {
 		"eng_name": "§6§lYet Another Wrench",
 		"eng_desc": "The Yeta Wrench is more than just a regular wrench. While holding it, you are able to switch between conduit types, eventually allowing you to remove one specific conduit type from a bundle of many. Ctrl-Mousewheel will switch modes, also Shift-Leftclick allows you to open the configuration interface even if you don't have access to that side of the conduit.",
 		"ru_name": "§6§lОчередной ключ",
-		"ru_desc": "Ключ Yeta - это нечто большее, чем просто ключ. Возьмите его в руки чтобы увидеть связи между разными кондуитами, что позволит вам убирать связи определенных кондуитов. Переключение режимов через Ctrl+колёсико мыши, Шифт+ЛКМ чтобы открыть интерфейс настроек, даже если у вас нет доступа к нужной стороне кондуита"
+		"ru_desc": "Ключ Yeta - это нечто большее, чем просто ключ. Возьмите его в руки чтобы увидеть связи между разными кондуитами, что позволит вам убирать связи определенных кондуитов. Переключение режимов через Ctrl + Колёсико мыши, Шифт + ЛКМ чтобы открыть интерфейс подключений, даже если у вас нет доступа к нужной стороне кондуита"
 	},
 	"138:10": {
 		"eng_name": "§5§6§lCome to the Dark Side...",
@@ -411,7 +411,7 @@
 		"eng_name": "Luke, I'm Your Father",
 		"eng_desc": "With that dark steel you got, you may now craft yourself a new set of armor. While pretty basic at first, it can be upgraded later to unlock powerful features.",
 		"ru_name": "Люк, я твой отец",
-		"ru_desc": "Вы можете скрафтить себе новую броню из тёмной стали. Поначалу она вполне обычная, но может быть улучшена, получив мощные способности."
+		"ru_desc": "Вы можете скрафтить себе новую броню из тёмной стали. Поначалу она вполне обычная, но если её улучшить, то она даст вам мощные способности."
 	},
 	"146:10": {
 		"eng_name": "§9§lTorture Device",
@@ -429,7 +429,7 @@
 		"eng_name": "§6§lHootch",
 		"eng_desc": "The lowest tier of renewable, burnable fluid. Generates 60 RF/t, but can be automated for \"green\" infinite power.",
 		"ru_name": "§6§lСамогон",
-		"ru_desc": "Самая слабая возобновляемая легковоспламеняемая жидкость. Генерирует всего 60 RF/тик, но можно автоматизировать для получения бесконечной \"зелёной\" энергии."
+		"ru_desc": "Самая слабая, возобновляемая и легковоспламеняемая жидкость. Генерирует всего лишь 60 RF/тик, но можно автоматизировать для получения бесконечной \"зелёной\" энергии."
 	},
 	"154:10": {
 		"eng_name": "§6§lSimple Fluid Transfer",
@@ -440,26 +440,26 @@
 	"155:10": {
 		"eng_name": "§6§lHarder, Stronger, Faster",
 		"eng_desc": "No, actually not faster. But more durable than tier 1.",
-		"ru_name": "§6§lСложнее, сильнее, быстрее",
+		"ru_name": "§6§lСложнее, Сильнее, Быстрее",
 		"ru_desc": "Увы, не быстрее. Но прочнее, чем первый тир."
 	},
 	"156:10": {
 		"eng_name": "§6§lProtect Your Base: Tier 2",
 		"eng_desc": "Slightly better protection. Now with a real gun. No more wasting food.",
 		"ru_name": "§6§lЗащита базы: Уровень 2",
-		"ru_desc": "Защита получше. Теперь с настоящими пушками. Хватит выбрасывать еду."
+		"ru_desc": "Защита получше. Теперь с настоящими пушками, еда больше не будет выбрасываться просто так"
 	},
 	"157:10": {
 		"eng_name": "§6§lTier 2 Turret Base",
 		"eng_desc": "Nothing to see here. Proceed...",
-		"ru_name": "§6§lТурельная база 2го уровня",
+		"ru_name": "§6§lОснова для турели 2-го уровня",
 		"ru_desc": "Ничего необычного. Продолжай..."
 	},
 	"158:10": {
 		"eng_name": "§6§lSometimes, a Bullet Will Do",
 		"eng_desc": "They hit hard. You have been warned.",
 		"ru_name": "§6§lВ целом, пули сойдут",
-		"ru_desc": "Но больно бьют. Вас предупредили."
+		"ru_desc": "Они больно бьют. Вас предупредили."
 	},
 	"159:10": {
 		"eng_name": "§6§lBurn Them. Burn Them All!",
@@ -470,31 +470,31 @@
     "161:10": {
         "eng_name": "Paying the Highest Price",
         "eng_desc": "When regular magic just isn't enough, you need something... stronger. Which is paid with blood. Your blood, and maybe others'.\n\nIn tier 1 you only need to place the blood altar. Plan for the configuration to grow in size up to 23x23 for a single altar.\n\nKeep in mind that you get less blood, and use more when crafting in GTNH. Plan for pain and frustration too.\n\nThe altar has a 10,000L blood tank, plus a 1,000L I/O buffer (you can pump in and out, but the rate is pitifully low at the start). Blood will flow to the I/O buffer until it's full, so be aware of that before your first craft.",
-        "ru_name": "Оплата высочайшей ценой",
-        "ru_desc": "Когда обычной магии просто недостаточно, вам нужно что-то... сильнее. Что оплачивается кровью. Вашей кровью, а может быть, чужой.\n\nНа 1 уровне вам нужно просто разместить кровавый алтарь. Планируйте конфигурацию, чтобы увеличить его в размере до 23x23 для одного алтаря.\n\nИмейте в виду, что вы получаете меньше крови, и тратите больше при крафте в GTNH. Готовьтесь к боли и страданиям.\n\nАлтарь имеет бак для крови на 10,000L, плюс буфер ввода/вывода в 1,000L (вы можете перекачивать кровь внутрь и наружу, но скорость предельно низкая в начале развития). Кровь будет течь к буферу ввода/вывода, пока он не будет запонен, убедитесь в этом перед вашим первым крафтом."
+        "ru_name": "Оплата по самой высокой цене",
+        "ru_desc": "Когда обычной магии просто недостаточно, вам нужно что-то... сильнее. Что оплачивается кровью. Вашей кровью, а может быть, чужой.\n\nНа 1 уровне вам нужно просто разместить кровавый алтарь. Планируйте конфигурацию так, чтобы увеличить алтарь в размере до 23x23.\n\nИмейте в виду, что вы получаете меньше крови, и тратите больше при крафте в GTNH-сборке. Готовьтесь к боли и страданиям.\n\nАлтарь имеет хранилище для крови на 10 000л, плюс буфер ввода/вывода в 1 000L (вы можете перекачивать кровь внутрь и наружу, но в начале развития скорость очень низкая). Кровь будет течь к буферу ввода/вывода, пока он не будет запонен, убедитесь в этом перед вашим первым крафтом."
     },
     "164:10": {
         "eng_name": "Portable Battery...",
         "eng_desc": "Using this binds it to you (expect to do that a lot), and consumes one heart while depositing 200LP in your 'soul network'. You can draw upon the soul network for anything that needs LP such as Alchemy or Rituals. If you want to automate it, you can put it into your altar for a 1:1 conversion of blood. \n\nThe highest tier orb you have bound will be considered the maximum limit to LP in your network, but you'll need to put it into the appropriately tiered altar to keep absorbing blood.",
         "ru_name": "Портативная батарея ...",
-        "ru_desc": "Использование этого связывает его с вами (ожидайте делать это часто), и потребляет одно сердце, перенося 200LP в вашу \"сеть души\". Вы можете использовать сеть души для всего, что требует LP, например, для алхимии или ритуалов. Если вы хотите автоматизировать это, вы можете поместить кровавый шар в свой алтарь для передачи крови 1:1 из алтаря в сеть.\n\nСамый высокий уровень кровавого шара, с которым вы связаны, будет считаться максимальным пределом LP в вашей сети, но вам нужно будет поместить его в алтарь соответствующего уровня, чтобы поглощать кровь."
+        "ru_desc": "Используя это, вы привязываете его к себе (ожидайте, что вам придется делать это часто) и расходуете одно сердце, так же 200LP помещаете в свою \"сеть души\". Вы можете использовать сеть души для всего, что требует LP, например, для алхимии или ритуалов. Если вы хотите автоматизировать процесс, вы можете поместить его в алтарь для наполнения его кровью (1:1). \n\n\nШар самого высокого уровня, которую вы связали с собой, будет считаться максимальным пределом LP в вашей сети, но вам нужно будет поместить еге в алтарь соответствующего уровня, чтобы продолжить наполнять его кровью."
     },
 	"171:10": {
 		"eng_name": "§9§lAlmost Like Steel",
 		"eng_desc": "Next-gen protection against nasty zombies, creepers and other \"stuff\".",
 		"ru_name": "§9§lПочти что сталь",
-		"ru_desc": "Защита нового поколения от назойливых зомби, криперов и прочего \"мусора\"."
+		"ru_desc": "Защита нового поколения от назойливых зомби, криперов и прочего \"отребья\"."
 	},
 	"172:10": {
 		"eng_name": "§9§lProtect Your Base: Tier 3",
 		"eng_desc": "Now we're talking: Grenades! The next in big badda boom hardware.",
 		"ru_name": "§9§lЗащита базы: Уровень 3",
-		"ru_desc": "Вот это уже наш разговор: Гранаты! Следующий шаг в бум и бабах."
+		"ru_desc": "Вот это уже наш разговор: Гранаты! Следующий шаг: подорвать всё и вся"
 	},
 	"173:10": {
 		"eng_name": "§9§lTier 3 Base",
 		"eng_desc": "More storage, more power, and a lot more slots for possible upgrades.",
-		"ru_name": "§9§lТурельная база 3-го уровня",
+		"ru_name": "§9§lОснова для турели 3-го уровня",
 		"ru_desc": "Больше вместимости, энергии и слотов улучшений."
 	},
 	"181:10": {
@@ -513,31 +513,31 @@
 		"eng_name": "Cables",
 		"eng_desc": "To have access to your applied energistics network from your entire base, you'll need cables. A lot of them. For now, the basic ones will do, but eventually, you'll end up using dense cables and p2p channels. Glass and Covered cables are functionally identical, just different in looks. Each can carry 8 channels.  Quartz fibers don't carry channels but can carry energy. This is useful for providing power from your main network to independant subnetworks.\n\nYou can also color your cables - cables with different colors will not connect, so those can be used to expand network capacity by running parallel cables. Only fluix colored cables connect to all other colors. Later it will probably be more efficient to use P2P channels to jam a bunch of channels into 1.\n\nAnchors are like covers, keeping things from connecting when you don't want them to.",
 		"ru_name": "Кабели",
-		"ru_desc": "Вам нужны кабели для доступа к МЭ-сети по всей базе. Много кабелей. Пока сойдут и обычные, но скоро вы точно начнёте использовать плотные кабели и p2p-каналы. Стеклянные и закрытые кабели работают одинаково, разница лишь в визуале. Кварцевые волокна не передают каналы, лишь энергию. Это может оказаться полезно для запитки независимых подсетей от основной сети.\n\nА ещё вы можете красить кабели - кабели разного цвета не соиденятся, что может быть использовано для расширения ёмкости сети за счёт проведения паралельных кабелей. Лишь стеклянные кабели будут соиденяться вне зависимости от цвета. Позже разумнее будет использовать P2P каналы для сжатия кучи каналов в один.\n\nЯкоря работают как модули, запрещая кабелям соиденяться когда вам это не нужно."
+		"ru_desc": "Вам нужны кабели для доступа к МЭ-сети по всей базе. Много кабелей. Пока сойдут и обычные, но скоро вы точно начнёте использовать плотные кабели и p2p-каналы. Стеклянные и изолированные кабели работают одинаково, разница лишь во внешном виде. Кварцевые волокна не передают каналы, лишь энергию. Это может оказаться полезно для запитки независимых подсетей от основной сети.\n\nА ещё вы можете красить кабели - кабели разного цвета не соиденятся друг с другом, что может быть использовано для увеличения каналов в сети, за счёт проведения паралельных кабелей. Лишь некрашенные кабели будут соиденяться вне зависимости от цвета. Позже разумнее будет использовать P2P каналы для сжатия кучи каналов в один.\n\nЯкоря работают как модули, запрещая кабелям соиденяться, когда вам это не нужно."
 	},
 	"185:10": {
 		"eng_name": "Basic Terminals",
 		"eng_desc": "The ME Terminal is an interface which gives you access to an ME network's networked storage. It has the ability to sort and search, as well as filter by using a view cell.\n\nThe ME Crafting Terminal is the upgraded version of the ME terminal which has an integrated crafting grid with access to an ME network's networked storage.\n\nThe ME Interface Terminal gives remote access to all interface pattern slots on your network separated by which type of machine they are on. It will show the type of machine in the terminal, however you can name the ME interface in the inscriber or an anvil to alter the name displayed in the ME interface terminal. If you use Ender Chests to send stuff elsewhere to be processed a lot, this may help with reducing confusion. You can also search for a specific device.",
 		"ru_name": "Основные терминалы",
-		"ru_desc": "ME терминалы - интерфейс, который может дать вам доступ к хранилищу МЭ-сети. Они умеют сортировать, искать и фильтровать содержимое.\n\nМЭ терминал крафта - улучшенная версия МЭ терминала, который имеет встроенную решетку крафта с доступом к хранилищу МЭ-сети.\n\nМЭ терминал интерфейса позволяет удалённо просматривать все шаблоны в сети с разделением по машинам, в которых они установлены. Он отобразит тип машины, но, если вам нужно изменить название, отображаемое в терминале, вы можете переименовать МЭ интефейс в высекатели или на наковальне. Вы можете использовать эндер сундуки для того, чтобы перемещать тонны ресурсов на переработку. Так же, вы можете вести поиск по определенным машинам."
+		"ru_desc": "ME терминал - это интерфейс, который может дать вам доступ к хранилищу МЭ-сети. Он умеют сортировать, искать и фильтровать содержимое.\n\nМЭ терминал крафта - улучшенная версия МЭ терминала, который имеет встроенную сетку для крафта с доступом к хранилищу МЭ-сети.\n\nМЭ терминал интерфейсов позволяет удалённо просматривать все шаблоны в сети с разделением по машинам, в которых они установлены. Он отобразит тип машины, но если вам нужно изменить название, отображаемое в терминале, вы можете переименовать МЭ интефейс применив на нём Нож из кварца. Вы можете использовать эндер сундуки для того, чтобы перемещать тонны ресурсов на переработку. Так же, вы можете вести поиск по определенным машинам."
 	},
 	"186:10": {
 		"eng_name": "§a§lDimensional Goal: Mars",
 		"eng_desc": "Mars has a few new ores you need to find like tungsten, uranium and desh. You can centrifuge uranium-238 for U-235 and plutonium-239, which can also be centrifuged to get Pu-241 if you happen to need it.",
-		"ru_name": "§a§lЦелевые измерения: Марс",
-		"ru_desc": "На марсе вам нужно будет добыть несколько новых руд: вольфрамовые, урановые и деш. Вы можете центрифугировать уран-238 для получения U-235 и плутония-239, который так же может быть обработан для добычи Pu-241, если они вам понадобятся."
+		"ru_name": "§a§lЦель: посетить Марс",
+		"ru_desc": "На марсе вам нужно будет добыть несколько новых руд: вольфрамовой, урановой и дешовой. Вы можете центрифужить уран-238 для получения U-235 и плутония-239, который так же может быть обработан для добычи Pu-241, если они вам понадобятся."
 	},
 	"191:10": {
 		"eng_name": "Standard Nuclear Fuel: Uranium",
 		"eng_desc": "Just \"regular\" uranium fuel, nothing special about it. It produces 5x the power, and 4x the heat of thorium, while lasting 2/5 the time.\n\nMost fuel rods are basically this, but slightly modified. You generally get this from Mars and it's moons, but you can get a little from centrifuging thorium if you want.\n\nBTW, one of the reactor types 'pulses' the reactor to turn it off once it gets too hot. You can pack in the rods and then cool it off for a while to get higher efficiency out of each rod. Try it if you like explosions.",
 		"ru_name": "Стандартное ядерное топливо: Уран",
-		"ru_desc": "\"Обычное\" урановое топливо, ничего выдающегося. Создаёт в 5 раз больше энергии и в 4 раза больше тепла, сравнивая с торием, но расходуется в 2.5 раза быстрее.\n\nБольшинство топливных стержней работают так же, но с небольшими различиями. "
+		"ru_desc": "\"Обычное\" урановое топливо, ничего выдающегося. Создаёт в 5 раз больше энергии и в 4 раза больше тепла, если сравнивать с торием, но расходуется в 2.5 раза быстрее.\n\nБольшинство топливных стержней работают так же, но с небольшими различиями. "
 	},
 	"192:10": {
 		"eng_name": "Tricky Nuclear Fuel: MOX",
 		"eng_desc": "Under normal conditions, produces the same amount of power as uranium, but MOX produces more power the more you let the reactor heat up. Try to come up with a heat-neutral design as close to the limit as possible to take advantage of this. It lasts 1/2 the time, and produces more heat once the reactor is over 50%. A fuel for all the engineers out there.\n\n§3You'll need to run a uranium reactor for a while to get some plutonium if you don't have another way to get it. Remember that there's more than 1 type!\n\n§4Make sure to test in creative and/or use protection against explosions!",
-		"ru_name": "Каверзное ядерное топливо: Mox",
-		"ru_desc": "В обычных условиях производит столько же энергии, сколько и уран, но МОХ-топливо производит тем больше энергии, чем сильнее вы разогреваете реактор. Попробуйте разработать нейтральный к теплу дизайн, близкий к безопасному пределу тепла настолько, насколько это возможно. МОХ-топливо расходуется в 2 раза быстрее чем уран, создавая в 150% больше тепла. Топливо для всех местных инженеров.\n\n§3Для получения плутония прогоните уран в реакторе, если у вас нет иных путей его добычи. Не забывайте, плутоний бывает разных типов!\n\n§4Не забудьте проверить в креативе и/или используйте защиту от взрывов!"
+		"ru_name": "Каверзное ядерное топливо: MOX",
+		"ru_desc": "В обычных условиях производит столько же энергии, сколько и уран, но МОХ-топливо производит куда больше энергии, если вы хорошо так нагреете реактор. Попробуйте разработать нейтральный к теплу схему, близкую к безопасному пределу тепла настолько, насколько это возможно. МОХ-топливо расходуется в 2 раза быстрее чем уран, создавая на 150% больше тепла. Топливо для всех местных инженеров.\n\n§3Для получения плутония прогоните уран в реакторе, если у вас нет иных путей его добычи. Не забывайте, плутоний бывает разных типов!\n\n§4Не забудьте проверить в креативе и/или используйте защиту от взрыва!"
 	},
 	"195:10": {
 		"eng_name": "§a§lIncreasing the Capacity",
