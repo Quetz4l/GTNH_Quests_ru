@@ -3524,146 +3524,146 @@
 	"1114:10": {
 		"eng_name": "Production Frames",
 		"eng_desc": "You can make proven frames or purchase them from a villager. If you can't find a beekeeper, there are couple of different options to get one. Rescue a zombie villager, add doors to a village to get them to make kids, or perhaps use a cupid's bow and arrow...\n\nAbout magic frames:\nThey're the core of magically endowed frames. They also have a special ability - no maximum production chance. Normal frames are ineffective to get above 16x production (4 frames) but with magic frames you can keep going - just watch out, above 16x you'll be working your bees so hard they have a chance to degenerate into ignoble ones. This can happen any bee tick, not just when they die. Frames to lower genetic decay will lower the chances of this happening.\n\nOf course, with very long lifespans, high production genes, swarmers, and tons of frames, you may think this is worth it.\n\nNote that normal products have a cap of 200% produced, and specialties 100%.",
-		"ru_name": "Рамки производства",
-		"ru_desc": "Вы можете сделать доказанные рамки или покупать их из деревни. Если вы не можете найти пчеловод, есть пара разных вариантов, чтобы получить один.Rescue Zombie Willager, добавьте двери в деревню, чтобы заставить их заставить детей, или, возможно, использовать лук и стрелкой купидона ...\n\nО волшебных рамках:\nЭто ядро магически наделенных кадров. У них также есть особая способность - не максимальный шанс производства. Нормальные рамки неэффективны, чтобы преодолеть выше 16x производства (4 кадра), но с магическими кадрами вы можете продолжать идти - просто следить, выше 16x вы так сильно работаете, у них есть шанс вырождаться в неблагородных. Это может произойти любая пчела, а не только когда они умирают. Рамки для снижения генетического распада снизит шансы этого происхождения.\n\nКонечно, с очень долгими проживаниями, высокими производственными генами, сельскими и тоннами кадров, вы можете подумать, что это того стоит.\n\nОбратите внимание, что обычные продукты имеют колпачок 200%, а специальностей 100%."
+		"ru_name": "Производственные рамки",
+		"ru_desc": "Проверенные рамки можно создавать или покупать у жителей. Если ты не можешь найти пчеловода - есть и альтернативные варианты. Спасти зомби жителя, наполнить деревню дверями, чтобы жители размножались, или, наверное, использовать лук и стрелы купидона...\n\nПо поводу магических рамок:\nОни - ядро всех наделённых магией рамок. Так же у них есть особенная способность - у них нет максимума производительности. Обычные рамки не способны выдать выше, чем 16х производительности (4 рамки), но с магическими рамками можно преодолеть сий предел. Только учти, при производительности свыше 16х твои пчёлы будут работать столь усердно, что у них появится шанс деградировать в низкую породу. Это может произойти каждые 27.5 секунд, а не только после смерти. Снизить шанс деградации могут рамки с меньшим генетическим распадом.\n\nЕстественно, с большой выживаемостью, высокой производительностью, роевнями и кучей рамок, оно может того стоить.\n\nСтоит заметить, что обычные продукты ограничены выработкой в 200%, а дополнительные - в 100%."
 	},
 	"1118:10": {
 		"eng_name": "Breed some noble bees",
 		"eng_desc": "Cross breeding common and cultivated bees can result in noble bees. \n\nNoble bees produce dripping combs every 3.8 minutes and honeydew. Note that production times are an approximation based on the bee's base production speed and the product's rarity. They do not reflect actual production time. \n\nYou've heard of a drunk beekeeper saying he has perfected a method of creating proven frames using Honeydew and a little magic. It might be worth your time to try experimenting yourself.",
-		"ru_name": "Покройте некоторые благородные пчелы",
-		"ru_desc": "Крест разведение обыкновенные и культивируемые пчелы могут привести к благородным пчетам.\n\nБлагородные пчелы производят капание COMBS каждые 3,8 минуты и роса. Обратите внимание, что время производства - это приближение, основанное на скорости производства базовой продукции пчелиной продукции и редкостью продукта. Они не отражают фактическое производственное время.\n\nВы слышали о пьяном пчеловоде, говоря, что он усовершенствовал способ создания доказанных кадров, используя Honeydew и маленькую магию. Это может стоить ваше время, чтобы попробовать экспериментировать сами."
+		"ru_name": "Выведи знатных пчёл",
+		"ru_desc": "Скрестив обычных и развитых пчёл можно получить знатных.\n\nЗнатные пчёлы производят капающие соты каждые 3.8 минуты, а так же медвяную росу. Замечу, что время производства зависит от скорости производства пчелы и редкости продукта. Это не влияет на реальное время производства.\n\nКак-то раз пьяный пчеловод рассказывал, что он довёл до идеала способ создания проверенных рамок при помощи медвяной росы и небольшого количества магии. Быть может, тебе бы тоже стоило поэкспериментировать с этим."
 	},
 	"1119:10": {
 		"eng_name": "Dripping Combs",
 		"eng_desc": "Your noble bees produce some dripping combs.\nA good source for honey, and if have a magical mind, honeydew for proven frames.",
-		"ru_name": "Капание Combs.",
-		"ru_desc": "Ваши благородные пчелы производят капающие расчеты.\nХороший источник для меда, и если у меня есть волшебный ум, Honeydew для доказанных кадров."
+		"ru_name": "Капающие соты",
+		"ru_desc": "Знатные пчёлы производят капающие соты.\nНеплохой источник мёда, а так же, если вы способны использовать магию, медвяной росы для проверенных рамок."
 	},
 	"1122:10": {
 		"eng_name": "Royal Jelly",
 		"eng_desc": "Royal jelly is a honey bee secretion that is used in the nutrition of larvae, as well as adult queens. It is only produced by the imperial bee. It's production can be increased with proven frames or any other kind of frames except for the soul frame. Royal jelly is also useful because it can craft ambrosia, which fills 8 hunger points (4 full food icons) and gives Regeneration I for 40 seconds. Royal jelly is used to craft scented paneling which are required in the creation of alveary blocks.",
-		"ru_name": "Королевский желе",
-		"ru_desc": "Royal Jelly - это секреция медового пчела, который используется в питании личинок, а также взрослых королев. Он производится только имперской пчелой. Это производство может быть увеличено с доказанными кадрами или любыми другими видами кадров, кроме кадра души.Royal Jelly также полезен, потому что он может реместить Ambrosia, которые заполняют 8 очков голода (4 полных иконках еды) и дает регенерацию I в течение 40 секунд. Королевский желе используется для создания ароматных панелей, которые требуются в создании алвиористых блоков."
+		"ru_name": "Маточное молочко",
+		"ru_desc": "Маточное молочко - используемое для питания личинок и взрослых королев выделение пчёл. Его производят лишь имперские пчелы. Производство можно ускорить при помощи проверенных рамок или любыми иными рамками кроме душевной. Маточное молочко так же можно использовать для крафта амброзии, восстанавливающей 8 единиц насыщения и дающей эффект регенерации I на 40 секунд. Ещё молочко используется для крафта пропитанной обшивки, необходимой для создания пчелиного улья."
 	},
 	"1123:10": {
 		"eng_name": "Alvearies",
 		"eng_desc": "The alveary is an advanced variant of the apiary. The alveary allows for combs to be produced faster due to its natural speed increase to production (as well as the ability to add up to six frames via the Extra Bees frame housings) and due to its ability to be modified by other blocks. \n\nIt is possible to adjust the internal temperature of the alveary using the alveary heater or alveary fan in order to accommodate bees that require hotter or colder climates.\n\nCertain bees will not produce their specialty items unless they are Jubilant. This requires matching their preferred Temperature/Humidity, without any genetic modifiers. Some bees also need a block of something beneath them as well.\n\nIt is also possible to use mutators to increase chances of mutation, alveary lighting and alveary rain shield to allow bees without the nocturnal and tolerant flyer traits to work during the night and rain, respectively, and the swarmer to use excess royal jelly to create princesses that last for a limited number of generations.\n\n§3If you're mutating bees that need a specific block in it, you need to place the required block under the middle bottom, and have the one directly above be a normal alveary block.",
-		"ru_name": "Alvearies.",
-		"ru_desc": "Alvary - это расширенный вариант пасеки. Alvary позволяет получать COMBS быстрее благодаря его естественному увеличению скорости до производства (а также способность добавлять до шести кадров через дополнительные корпуса кадров пчел) и благодаря его способности модифицироваться другими блоками.\n\nМожно регулировать внутреннюю температуру Alvary, используя алвиарийный нагреватель или альвиористый вентилятор, чтобы приспособиться к пчелам, которые требуют горячей или холодного климата.\n\nНекоторые пчелы не будут производить свои специальные предметы, если они не являются юбилантными. Это требует сопоставления их предпочтительной температуры / влажности без каких-либо генетических модификаторов. Некоторые пчелы также нуждаются в блоке чего-то под ними.\n\nТакже возможно использовать мутаторы для увеличения шансов на мутацию, альвиористые освещение и альвиористый дождь, чтобы позволить пчелам без ночных и толерантных листовок, чтобы работать в течение ночи и дождя, соответственно, и Swarmer использовать избыточные королевские желе, чтобы создать принцессы Это в последний раз для ограниченного количества поколений.\n\nЕсли вы мутируете пчелы, которые нуждаются в нем определенного блока, вам нужно разместить необходимый блок под среднее нижнее дно, и приведен непосредственно выше альпарривый блок."
+		"ru_name": "Пчелиный улей",
+		"ru_desc": "Пчелиный улей - улучшенный вариант пасек. Благодаря ульям можно производить соты гораздо быстрее, сравнивая с обычным ускорением (А так же возможность использовать до 6 рамок при помощи хранителя рамок улья из Extra Bees), а так же ульи можно модифицировать при помощи других блоков.\n\nИспользуя обогреватель или охладитель улья можно регулировать температуру в улье ради создания комфортных условий для пчёл, требующих более теплый или холодный климат.\n\nНекоторые пчёлы перестанут производить свои продукты в том случае, если они не довольны. Для предотвращения этого тебе нужны определенные температура/влажность, без генетических мутаций. Некоторым пчёлам так же нужен конкретный под ними.\n\nВ ульях можно использовать мутаторы для увеличения шансов мутаций. Осветитель и навес позволят пчёлам, которые не являются ночными и устойчивыми работать ночью и во время дождя соответственно. Роевня позволит ценой маточного молочка создавать принцесс, которые живут ограниченное количество поколений.\n\n§3Если для мутации тебе нужен определённый блок - поставь его под центральный нижний блок структуры (который должен быть обычным блоком пчелиного улья)."
 	},
 	"1126:10": {
 		"eng_name": "§3§lAlumite",
 		"eng_desc": "It's upgrade time again. You can make alumite like modpack Moron by mixing obsidian, steel and alumin(i)um in the smeltery, or you can be a GregTech hero and search NEI for an alternate recipe using dusts. Alumite pickaxes are able to mine ardite in the Nether.\n\nLeave the rest of your Alumite as liquid in your smeltery, you'll want it to make the Tool Forge. You need 16 ingots in the smeltery to make 2 Large Plates.",
 		"ru_name": "§3§lАлюмит",
-		"ru_desc": "Это снова обновление времени. Вы можете сделать Alumite, как Modpack Morn, смешивая обсидиана, сталь и алюмин (I) UM в ликвидации, или вы можете быть героем Gregtech и поиск NEI для альтернативного рецепта, используя пыль.Alumite Pickaxes способны моим ардитом в пустыне.\n\nОставьте оставшуюся часть своего алюмита в качестве жидкости в своем леске, вы захотите, чтобы сделать инструмент. Вам нужны 16 слитков в ярмарке, чтобы сделать 2 больших тарелки."
+		"ru_desc": "И снова обновляться. Ты можешь создавать алюмит как простофиля, смешав обсидиан, сталь и алюминий в плавильне, или можешь быть героем GregTech'а и найти в NEI альтернативный рецепт, в котором используются пыли. Алюмитовые кирки могут копать ардит в аду.\n\nОставь остатки алюмита в плавильне, тебе он пригодится для создания инженерной кузни. Тебе нужно расплавить 16 слитков для создания 2 больших пластин."
 	},
 	"1129:10": {
 		"eng_name": "§2§lRedstone? Haste!",
 		"eng_desc": "Mining and digging can be soooo slow. Get some redstone on your pick, shovel or axe to make it faster. You can use the Crafting Station to upgrade your tool 8 dust at a time. Later when you get a compressor you can use blocks to do 9 per block.",
 		"ru_name": "§2§lРедстоун? Ускорение!",
-		"ru_desc": "Добыча и копание могут быть ооочень медленным. Получите немного красного камня на ваш выбор, лопату или топор, чтобы сделать его быстрее. Вы можете использовать станцию крафта, чтобы обновить ваш инструмент 8 пыли за раз. Позже, когда вы получите компрессор, вы можете использовать блоки, чтобы сделать 9 за блок."
+		"ru_desc": "Шахтёрство и копание это тааак медленно. Чтобы ускорить это - добавь редстоун на кирку, лопату или топор. Используй верстак инженера, чтобы улучшать инструмент 8 пылями за раз. Потом, создав компрессор, ты сможешь использовать блоки редстоуна."
 	},
 	"1137:10": {
 		"eng_name": "§9§lKinetic Power HV",
 		"eng_desc": "The Kinetic Generator will transform mechanical energy into electricity. The EU output depends on the KU input. It is most commonly used together with a Kinetic Wind Generator or Kinetic Water Generator. The Kinetic Steam Generator only has one tier, so your should probably use a Steam Turbine instead.\n\nWhen placing a kinetic generator, any time, the \"input\" side is the side facing you.  So you will place the kinetic generator, then the wind/water/steam gen, and then place a rotor inside. Power can be drawn from any side of the kinetic generator, up to the rated amount per side. \n\nWARNING: Breaking a kinetic generator improperly will not return the generator.  Use a GT wrench, and right-CLICK it.  It should drop immediately.  Try again if it just changed directions. ",
-		"ru_name": "§9§lКинетическая сила HV.",
-		"ru_desc": "Кинетический генератор преобразует механическую энергию в электричество. Выход EU зависит от ввода KU. Чаще всего используется вместе с кинетическим ветрогенератором или генератором кинетической воды. У кинетического парогенератора есть только один уровень, поэтому ваше вместо этого следует использовать паровую турбину.\n\nПри размещении кинетического генератора в любое время «входная» сторона - это сторона, обращаясь к вам. Таким образом, вы разместите кинетическую генератор, затем ветер / водный / паровой балл, а затем поместите ротор внутри. Мощность может быть натянута с любой стороны кинетического генератора, до номинальной суммы на стороне.\n\nПредупреждение: нарушение кинетического генератора неправильно не вернет генератор. Используйте гаечный ключ GT и щелкните правой кнопкой мыши. Это должно отказаться немедленно. Попробуйте еще раз, если это просто изменило направления."
+		"ru_name": "§9§lКинетическая энергия в HV.",
+		"ru_desc": "При помощи кинетического генератора можно преобразовывать механическую энергию в электричество. Выход энергии зависит от подачи KU. Обычно его используют вместе с ветрогенератором или гидрогенератором. Кинетический парогенератор бывает лишь одного уровня, так что тебе лучше использовать паровые турбины.\n\nРазмещая кинетический генератор учитывай, что сторона \"входа\" повёрнута к тебе. Так что тебе стоит размещать кинетический генератор, а потом ветро-/гидро-/парогенератор, поместив внутрь ротор. Вывод энергии возможен с любой из сторон, вплоть до определенного объёма энергии на сторону.\n\nПРЕДУПРЕЖДЕНИЕ: Если сломать кинетический генератор неправильно - ты не получишь его обратно. Используй GT-ключ и ПКМ (!!!) по блоку. Тогда генератор выпадет мгновенно. Попробуй снова, если поменял направление."
 	},
 	"1139:10": {
 		"eng_name": "§9§lKinetic Water Power HV",
 		"eng_desc": "The Kinetic Water Generator allows Kinetic Units to be produced via the movement of water in river and ocean biomes. As with the Kinetic Wind Generator, it requires either Gearbox Rotor. Search NEI for appropriate options.\n\nIf the Kinetic Water Generator's Rotor isn't entirely submerged in water, it will alert you there is \"no room for the rotor\". If the Kinetic Water Generator isn't placed in a river, ocean or deep ocean biome, it will alert you it \"must be placed in a river or ocean biome\". Check the Game Mechanics spreadsheet on Discord for a list of biomes and their tags.\n\nWhile inconvenient, the Water Generator runs more consistently.\n\n§4You can use Witchery (for example) to convert biomes.",
-		"ru_name": "§9§lКинетическая вода мощность HV",
-		"ru_desc": "Генератор кинетической воды позволяет получать кинетические агрегаты через движение воды в биомесах реки и океана. Как и с помощью кинетического ветрогенератора, он требует либо ротора коробки передач. Поиск NEI для соответствующих вариантов.\n\nЕсли ротор кинетического водяного генератора не полностью погружен в воду, он предупреждает вас, что нет места для ротора \". Если генератор кинетической воды не размещен в биоме реки, океана или глубокого океана, он предупреждает вас о том, что он должен быть размещен в биоме реки или океана ». Проверьте электронную таблицу Mechanics на раздоре для списка биомов и их тегов.\n\nХотя неудобный, водный генератор проходит более последовательно.\n\nВы можете использовать Coitchery (например) для преобразования биомесов."
+		"ru_name": "§9§lКинетическая энергия воды в HV",
+		"ru_desc": "Гидрогенератор позволяет производить Кинетические Единицы (KU) при помощи движения воды в биомах рек и океанов. Как и ветрогенератор, гидрогенератору нужен ротор. Посмотри подходящие варианты в NEI.\n\nЕсли ротор гидрогенератора погружён в воду неправильно - будет написано, что \"недостаточно места для ротора\". Если же гидрогенератор размещён не в биоме реки, океана или глубокого океана - будет написано, что \"должен быть размещен в биоме реки или океана\". Для просмотра списка биомов и их тегов найди таблицы игровых механик в Discord'e.\n\nХоть гидрогенераторы несколько неудобны, но зато они работают куда стабильнее.\n\n§4Ты можешь использовать, к  примеру, Witchery, чтобы изменить биом."
 	},
 	"1140:10": {
 		"eng_name": "§c§9§lRotor",
 		"eng_desc": "The Kinetic Wind and Water Generators need Gearbox Rotors to function.  They can be added and removed with standard automation. Higher tier rotors will last longer. In addition, the iridium ones don't break. The IC2 ones might bug out for durability loss though. Energetic is probably the best for now, since it can give out a full amp, and more is wasted.\n\n§3You only need to make one rotor to complete this quest.",
 		"ru_name": "§c§9§lРотор",
-		"ru_desc": "Кинетические ветровые и водные генераторы нуждаются в роторах редукторов для функции. Они могут быть добавлены и удалены со стандартной автоматизацией. Роторы более высоких уровней будут длиться дольше. Кроме того, иридий не ломается. Тесты IC2 могут быть ошибка для потери долговечности, хотя.Energetic, вероятно, лучшее сейчас, поскольку он может выдать полный усилитель, и больше потрачен впустую.\n\nВам нужно только сделать один ротор, чтобы завершить этот квест."
+		"ru_desc": "Для того, чтобы ветрогенераторы и гидрогенераторы работали, нужны роторы. Их можно добавлять и забирать обычной автоматизацией. Высокоуровневые роторы работают дольше. Иридиевые же не ломаются вовсе. Хотя у роторов из IC2 есть баг, из-за которого они могут потерять прочность. Роторы из энергетического сплава лучшие на данный момент, так как могут выдать полный ампер.\n\n§3Ты должен сделать лишь один из роторов для завершения квеста."
 	},
 	"1145:10": {
 		"eng_name": "§9§lSending the Power Back",
 		"eng_desc": "Kinetic generator compatibility has been improved so that you no longer need transformers, you can connect directly with a cable. But why not use your transformer to send the power back to base more efficiently, it's a loss of about 57/512EU per A just going from 160 straight down to 63 without it. If you transform up (after going through 1 block of cable to transform it to GT power), you only lose about 57/2048EU per A, much better.\n\n§4IC2 machines don't care about rain, but remember to cover your transformer.",
-		"ru_name": "§9§lОтправка власти назад",
-		"ru_desc": "Совместимость в кинетической генератор была улучшена, так что вы больше не нуждаетесь в трансформаторах, вы можете подключиться напрямую с кабелем. Но зачем не использовать свой трансформатор для более эффективной отправки мощности к базе, это потеря около 57 / 512eu на то, что он просто собирается от 160 прямо до 63 без него. Если вы преобразуете (после прохождения 1 блок кабеля, чтобы преобразовать его в GT Power), вы теряете только около 57 / 2048eu на гораздо лучше.\n\nМашины IC2 не заботятся о дожде, но не забывайте покрыть ваш трансформатор."
+		"ru_name": "§9§lОтправка энергии обратно",
+		"ru_desc": "Совместимость с кинетическим генератором улучшена, и теперь тебе не нужны трансформаторы, ты можешь подключаться просто при помощи кабелей. Но почему бы не использовать трансформатор для более эффективной передачи энергии на базу. Обычно ты бы терял около 57/512EU за каждый ампер, спускаясь с 160й высоты до 63. Если же ты преобразуешь вверх (между генератором и трансформатором должен быть 1 кабель, чтобы IC2 энергия превратилась в GT энергию), ты будешь терять всего лишь 57/2048 EU за ампер, куда лучше.\n\n§4Механизмы из IC2 не взорвутся из-за дождя, но тебе всё ещё нужно накрыть трансформатор."
 	},
 	"1152:10": {
 		"eng_name": "§5§lFiery Bowstring",
 		"eng_desc": "Why not upgrade your bowstring too? You got some from the last quest, but will need to find some more in the Nether by killing spiders. Craft some fiery bowstring with it.",
-		"ru_name": "§5§lBeery BatString",
-		"ru_desc": "Почему бы не модернизировать свой бойстром тоже? Вы получили некоторые из последних квестов, но нужно будет найти еще несколько в предыдущей стране, убивая пауков. Составите немного огненной бабочки с ним."
+		"ru_name": "§5§lПылающая тетива",
+		"ru_desc": "Почему бы не улучшить и тетиву? Хоть ты и получил немного за прошлый квест, тебе всё ещё надо добыть больше нитей из пауков в аду. Создай из нитей тетиву."
 	},
 	"1162:10": {
 		"eng_name": "Tin Cable",
 		"eng_desc": "Want some tin cable? Buy some!",
-		"ru_name": "Олово кабель",
-		"ru_desc": "Хотите немного олова? Купи немного!"
+		"ru_name": "Оловяный кабель",
+		"ru_desc": "Хочешь оловяных кабелей? Купи немного!"
 	},
 	"1163:10": {
 		"eng_name": "Copper Wire",
 		"eng_desc": "Want some copper wires? Buy some!",
-		"ru_name": "Медная проволока",
-		"ru_desc": "Хотите несколько медных проводов? Купи немного!"
+		"ru_name": "Медный провод",
+		"ru_desc": "Хочешь медных проводов? Купи немного!"
 	},
 	"1165:10": {
 		"eng_name": "Rubber Ingots",
 		"eng_desc": "Want some rubber ingots? Buy some!",
 		"ru_name": "Резиновые слитки",
-		"ru_desc": "Хотите некоторые резиновые слитки? Купи немного!"
+		"ru_desc": "Хочешь резиновых слитков? Купи немного!"
 	},
 	"1167:10": {
 		"eng_name": "§4§5§lLithium",
 		"eng_desc": "Lithium can be washed out of Lepidolite Ore or centrifuged out of Spodumene Ore. At MV you can electrolyze clay dust for it. Look for canyons to find hardened clay and macerate it for dust.",
 		"ru_name": "§4§5§lЛитий",
-		"ru_desc": "Литий можно вымыть из лепедолита руды или центрифугирован из сподукеменовой руды. На MV вы можете электролировать пыль для него. Ищите каньоны, чтобы найти закаленную глину и покинуть его для пыли."
+		"ru_desc": "Литий можно получить промывая лепидолит или центрифугируя сподумен. Перейдя в MV-тир можно будет электролизировать глиняную пыль для получения лития. Поищите каньоны, в них много обожжённой глины, которую можно передробить в пыль."
 	},
 	"1168:10": {
 		"eng_name": "§4§5§lSodium",
 		"eng_desc": "Sodium can be washed out of Glauconite Ore and Sand. It can also be electrolyzed out of salt.",
 		"ru_name": "§4§5§lНатрий",
-		"ru_desc": "Натрий можно вымыть из глауконитовой руды и песка. Это также может быть электролизовано из соли."
+		"ru_desc": "Натрий можно вымыть из глауконитовой руды и песка. Так же его можно электролизировать из соли."
 	},
 	"1171:10": {
 		"eng_name": "Damascus Steel Ingots",
 		"eng_desc": "Damascus Steel is very durable and useful for GT tools. Buy some.",
-		"ru_name": "Дамаск стальные слитки",
-		"ru_desc": "Дамаск сталь очень долговечна и полезна для инструментов GT. Купи немного."
+		"ru_name": "Дамасская сталь",
+		"ru_desc": "Дамаск крайне прочен, что полезно для GT инструментов. Купи немного."
 	},
 	"1173:10": {
 		"eng_name": "Wrought Iron Ingots",
 		"eng_desc": "Want some wrought iron ingots? Buy some!",
-		"ru_name": "Кованые слитки",
-		"ru_desc": "Хотите некоторые кованые слитки? Купи немного!"
+		"ru_name": "Кованое железо",
+		"ru_desc": "Хочешь кованого железа? Купи немного!"
 	},
 	"1174:10": {
 		"eng_name": "Steel Ingots",
 		"eng_desc": "Want some steel ingots? Buy some!",
-		"ru_name": "Стальные слитки",
-		"ru_desc": "Хотите некоторые стальные слитки? Купи немного!"
+		"ru_name": "Сталь",
+		"ru_desc": "Хочешь стали? Купи немного!"
 	},
 	"1175:10": {
 		"eng_name": "Aluminium Ingots",
 		"eng_desc": "Want some aluminium ingots? Buy some!",
-		"ru_name": "Алюминиевые слитки",
-		"ru_desc": "Хотите некоторые алюминиевые слитки? Купи немного!"
+		"ru_name": "Алюминий",
+		"ru_desc": "Хочешь алюминия? Купи немного!"
 	},
 	"1176:10": {
 		"eng_name": "Stainless Steel Ingots",
 		"eng_desc": "Want some stainless steel ingots? Buy some!",
-		"ru_name": "Из нержавеющей стали слитки",
-		"ru_desc": "Хотите некоторые слитки из нержавеющей стали? Купи немного!"
+		"ru_name": "Нержавеющая сталь",
+		"ru_desc": "Хочешь нержавейки? Купи немного!"
 	},
 	"1184:10": {
 		"eng_name": "Steam Locomotive",
 		"eng_desc": "The steam locomotive is much better than the furnace cart. You can control the speed and the direction the locomotive will move. You need to put water and coal inside to make steam to power the locomotive.",
 		"ru_name": "Паровоз",
-		"ru_desc": "Паровая локомотива намного лучше, чем корзина печи. Вы можете контролировать скорость и направление движутся локомотив. Вам нужно поставить воду и уголь внутри, чтобы сделать пар для питания локомотива."
+		"ru_desc": "Паровой локомотив работает куда лучше вагонетки с печкой. Ты можешь контролировать скорость и направление движения. Тебе нужно поместить в паровоз воду и уголь, чтобы производился пар, питающий паровоз."
 	},
 	"1185:10": {
 		"eng_name": "Electric Locomotive",
 		"eng_desc": "Electric Locomotives are much better than steam ones. You need electric rail for it.",
-		"ru_name": "Электрические локомотивы",
-		"ru_desc": "Электрические локомотивы намного лучше, чем паровые. Вам нужна электрическая рельс для него."
+		"ru_name": "Электрический локомотив",
+		"ru_desc": "Электрические локомотивы куда лучше паровых. Для его использования тебе нужны электрорельсы."
 	},
 	"1190:10": {
 		"eng_name": "Electric Feeder Unit",
