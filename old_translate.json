@@ -33,7 +33,7 @@
 		"eng_name": "§1§lFire, Fire, Grandpa!",
 		"eng_desc": "Time to burn some stuff, isn't it? You can't make charcoal in it, but you sure will find some usage for it soon(tm).",
 		"ru_name": "§1§lОгонь, огонь, дедуль!",
-		"ru_desc": "Не пора ли сжечь немного хлама? Вы не можете создавать древесный уголь, но вы наверняка скоро найдёте применение"
+		"ru_desc": "Не пора ли сжечь немного хлама? Вы не можете создавать древесный уголь, но вы наверняка скоро найдёте ей применение"
 	},
 	"10:10": {
 		"eng_name": "§1§lRest in Pieces",
@@ -249,7 +249,7 @@
 		"eng_name": "§6§lCompress All the Things",
 		"eng_desc": "Martin's (DreamMasterXXL) favourite machine. Compress ALL the things! With explosives, of course. Boom today!\n\nNote: You might want to put this far from your living quarters, the pollution can get high really fast.",
 		"ru_name": "§6§lСжать всё",
-		"ru_desc": "Любимая машина Мартина (DreamMasterXXL). Сжимайте всё! Взрывчаткой, естественно. Давайте же Бахнем сегодня!\n\nПримичание: Вы точно захотите поставить его подальше от основной базы, ведь загрязнение может подняться крайне быстро."
+		"ru_desc": "Любимая машина Мартина (DreamMasterXXL). Сжимайте всё! Взрывчаткой, естественно. Давайте же Бахнем сегодня!\n\nПРИМЕЧАНИЕ: Вы точно захотите поставить его подальше от основной базы, ведь загрязнение может подняться крайне быстро."
 	},
 	"83:10": {
 		"eng_name": "§6§lHigh-Speed Charcoal",
@@ -525,7 +525,7 @@
 		"eng_name": "§a§lDimensional Goal: Mars",
 		"eng_desc": "Mars has a few new ores you need to find like tungsten, uranium and desh. You can centrifuge uranium-238 for U-235 and plutonium-239, which can also be centrifuged to get Pu-241 if you happen to need it.",
 		"ru_name": "§a§lЦель: посетить Марс",
-		"ru_desc": "На марсе вам нужно будет добыть несколько новых руд: вольфрамовой, урановой и дешовой. Вы можете центрифужить уран-238 для получения U-235 и плутония-239, который так же может быть обработан для добычи Pu-241, если они вам понадобятся."
+		"ru_desc": "На марсе вам нужно будет добыть несколько новых руд: вольфрамовую, урановую и дешовую. Вы можете центрифугировать уран-238 для получения U-235 и плутония-239, который так же может быть обработан для добычи Pu-241, если они вам понадобятся."
 	},
 	"191:10": {
 		"eng_name": "Standard Nuclear Fuel: Uranium",
