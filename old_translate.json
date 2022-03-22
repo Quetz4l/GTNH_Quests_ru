@@ -309,7 +309,7 @@
 		"eng_name": "Cart Modules: Coal Power",
 		"eng_desc": "Your cart needs power, obviously. A cart can be powered via coal, solar, or lava. But for now you have to use a simple coal engine.",
 		"ru_name": "Модули вагонеток: Энергия угля",
-		"ru_desc": "Вашей вагонетке, очевидно, нужна энергия. Запитывать вагонетки можно углём, лавой или солнечной энергией. Но пока вам доступен только лишь простой угольный движок."
+		"ru_desc": "Вашей вагонетке, очевидно, нужна энергия. Запитывать вагонетки можно углём, лавой или солнечной энергией. Но пока вам доступен только лишь простой угольный двигатель."
 	},
 	"108:10": {
 		"eng_name": "Automated (un-)Loading",
@@ -3662,152 +3662,152 @@
 	"1185:10": {
 		"eng_name": "Electric Locomotive",
 		"eng_desc": "Electric Locomotives are much better than steam ones. You need electric rail for it.",
-		"ru_name": "Электрический локомотив",
+		"ru_name": "Электровоз",
 		"ru_desc": "Электрические локомотивы куда лучше паровых. Для его использования тебе нужны электрорельсы."
 	},
 	"1190:10": {
 		"eng_name": "Electric Feeder Unit",
 		"eng_desc": "To get your tracks electrified you need an electric feeding unit, shunting wires and some support frames. You can use an MFE or a transformer to get GT energy into the feeder unit.",
-		"ru_name": "Электрический фидер",
-		"ru_desc": "Чтобы выбрать свои треки, вам нужен электрический блок питания, шунтирующие провода и некоторые опорные рамки. Вы можете использовать MFE или трансформатор для получения энергии GT в устройство подачи."
+		"ru_name": "Электрическое питающее устройство",
+		"ru_desc": "Для запитки электрических путей вам нужно электрическое питающее устройство, шунтирующие провода и опорные каркасы. Используйте MFE или трансформатор, чтобы запитать его GT-энергией."
 	},
 	"1191:10": {
 		"eng_name": "Magic \"Staffter\"",
 		"eng_desc": "It is also possible to create a bizarre hybrid of staff and scepter (sometimes called a \"staffter\"), by using a staff core instead of a wand core in the scepter recipe. The resulting device can neither hold a focus nor be placed in a crafting table, but it can still be used to activate constructs, or as a \"vis battery\" for Repair-enchanted equipment or Runic shielding.",
-		"ru_name": "Волшебный \"кафедрой\"",
-		"ru_desc": "Также можно создать причудливый гибрид персонала и скипетра (иногда называемый «кафедром»), используя основной сердечник вместо сердечника палочки в рецепте SCEPTER. Полученное устройство не может удерживать фокусировку и не быть помещено в таблицу крафта, но он все еще может использоваться для активации конструкций или как «батарея VIS» для ремонтного оборудования или рунического экрана."
+		"ru_name": "Магический \"Скипосох\"",
+		"ru_desc": "А ещё ты можешь создать причудливый гибрид посоха и скипетра (иногда его называют \"Скипосох\"), используя ядро посоха вместо ядра жезла в рецепте скипетра. В итоге вы получите приспособление, которые нельзя использовать ни для набалдашников, ни в верстаке, но оно всё ещё способно активировать структуры или служить \"вис-батарейкой\" для зачарованных на починку вещей или рунной защиты."
 	},
 	"1192:10": {
 		"eng_name": "Aluminum Berries",
 		"eng_desc": "And a few aluminum berries for cash.",
 		"ru_name": "Алюминиевые ягоды",
-		"ru_desc": "И несколько алюминиевых ягод для наличных."
+		"ru_desc": "Немного алюминиевых ягод за неплохую цену."
 	},
 	"1193:10": {
 		"eng_name": "Gold Berries",
 		"eng_desc": "And a few gold berries for cash.",
 		"ru_name": "Золотые ягоды",
-		"ru_desc": "И несколько золотых ягод для наличных."
+		"ru_desc": "Немного золотых ягод за неплохую цену."
 	},
 	"1194:10": {
 		"eng_name": "Iron Berries",
 		"eng_desc": "And a few iron berries for cash.",
 		"ru_name": "Железные ягоды",
-		"ru_desc": "И несколько железных ягод для наличных."
+		"ru_desc": "Немного железных ягод за неплохую цену."
 	},
 	"1195:10": {
 		"eng_name": "Copper Berries",
 		"eng_desc": "And a few copper berries for cash.",
 		"ru_name": "Медные ягоды",
-		"ru_desc": "И несколько медных ягод для наличных."
+		"ru_desc": "Немного медных ягод за неплохую цену."
 	},
 	"1196:10": {
 		"eng_name": "Tin Berries",
 		"eng_desc": "And a few tin berries for cash.",
-		"ru_name": "Вибрины",
-		"ru_desc": "И несколько оловянных ягод для наличных."
+		"ru_name": "Оловяные ягоды",
+		"ru_desc": "Немного оловяных ягод за неплохую цену."
 	},
 	"1202:10": {
 		"eng_name": "I Put Fusion in Your Fusion so you Can Fusion While You Fusion",
 		"eng_desc": "To make Oganesson for your Void Miners, you'll need to make Californium, to make that, you'll need Beryllium and Plutonium 239, all in the Reactor.\n\nSeriously consider replicating it after the first cell.",
-		"ru_name": "Я положил Fusion в вашем фьюжре, чтобы вы могли сплавить, пока вы слияете",
-		"ru_desc": "Чтобы сделать Оганессон для своих пустовых шахтеров, вам нужно сделать калифорний, чтобы сделать это, вам понадобится бериллия и плутоний 239, все в реакторе.\n\nСерьезно считают репликацией его после первой клетки."
+		"ru_name": "Я поместил синтез в ваш синтез, чтобы вы могли синтезировать пока синтезируете",
+		"ru_desc": "Чтобы производить оганессон для пустотных шахтёров вам нужен калифорний, для которого необходимо поместить бериллий и 239-й плутоний в реактор.\n\nСерьёзно задумайтесь о репликации материей после получения первой ячейки."
 	},
 	"1204:10": {
 		"eng_name": "§1§lCrafting Time",
 		"eng_desc": "It's time to get yourself a 3x3 crafting area. Use your flint and some wood, and build one!",
-		"ru_name": "§1§lВремя избрания",
-		"ru_desc": "Пришло время получить себе зону крафта 3x3. Используйте свой флинт и немного дерева и постройте один!"
+		"ru_name": "§1§lПора крафтить",
+		"ru_desc": "Самое время получить 3х3 поле крафта. Собери верстак, используя кремень и немного дерева!"
 	},
 	"1206:10": {
 		"eng_name": "Light Fuel",
 		"eng_desc": "Want some light fuel? Buy some!",
 		"ru_name": "Легкое топливо",
-		"ru_desc": "Хотите немного легкого топлива? Купи немного!"
+		"ru_desc": "Хочешьлегкого топлива? Купи немного!"
 	},
 	"1207:10": {
 		"eng_name": "Heavy Fuel",
 		"eng_desc": "Want some heavy fuel? Buy some!",
 		"ru_name": "Тяжелое топливо",
-		"ru_desc": "Хотите некоторое тяжелое топливо? Купи немного!"
+		"ru_desc": "Хочешь тяжелого топлива? Купи немного!"
 	},
 	"1208:10": {
 		"eng_name": "Cart Modules: Solar Power",
 		"eng_desc": "Your cart needs power, obviously. A cart can be powered via coal, solar or lava. If you are able to make solar panels you can power your cart with the sun.",
-		"ru_name": "Модули корзины: солнечная энергия",
-		"ru_desc": "Ваша корзина нужна власть, очевидно. Корзина может быть включена на уголь, солнечную или лаву. Если вы можете сделать солнечные панели, вы можете включить вашу тележку на солнце."
+		"ru_name": "Модули вагонеток: Солнечная энергия",
+		"ru_desc": "Вашей вагонетке, очевидно, нужна энергия. Запитывать вагонетки можно углём, лавой или солнечной энергией. Если ты можешь делать солнечные панели - ты можешь запитать вагонетку солнцем."
 	},
 	"1209:10": {
 		"eng_name": "Cart modules: Digging",
 		"eng_desc": "Want to automate digging for ores ? A drill head made out of iron is the cheapest alternative.",
-		"ru_name": "Модули корзины: копание",
-		"ru_desc": "Хотите автоматизировать копание для руд? Сверла, сделанная из железа, самая дешевая альтернатива."
+		"ru_name": "Модули вагонеток: Шахтёрство",
+		"ru_desc": "Хочешь автоматизировать добычу руды? Железная бурильная головка - самый дешёвый вариант."
 	},
 	"1210:10": {
 		"eng_name": "Cart Modules: Thermal Engine",
 		"eng_desc": "Your cart needs power, obviously. A cart can be powered via coal, solar or lava. Why not power your cart with lava?",
-		"ru_name": "Модули корзины: тепловой двигатель",
-		"ru_desc": "Ваша корзина нужна власть, очевидно. Корзина может быть включена на уголь, солнечную или лаву. Почему бы не власть вашу тележку с лавой?"
+		"ru_name": "Модули вагонеток: Тепловой двигатель",
+		"ru_desc": "Вашей вагонетке, очевидно, нужна энергия. Запитывать вагонетки можно углём, лавой или солнечной энергией. Почему бы не запитать вагонетку лавой?"
 	},
 	"1211:10": {
 		"eng_name": "Cart Modules: More Storage",
 		"eng_desc": "After you craft side chests you can add more different chests to the cart. Some sides are reserved for tools so no chest can be placed there.",
-		"ru_name": "Тележка Модули: больше хранения",
-		"ru_desc": "После того, как вы ременете боковые сундуки, вы можете добавить больше различных сундуков в корзину. Некоторые стороны зарезервированы для инструментов, чтобы ни один грудь не может быть размещен там."
+		"ru_name": "Модули вагонеток: Большее хранилище",
+		"ru_desc": "Помимо боковых сундуков вы можете добавить и другие сундуки в вагонетку. Некоторые из сторон заняты инструментами, так что вы не сможете поместить туда сундук."
 	},
 	"1212:10": {
 		"eng_name": "§l§c§lStarting Fusion",
 		"eng_desc": "Now that your power needs are increasing, you need a way to keep up with demand. To generate over 1A ZPM with a single machine you have two options: solars, and fusion.\n\nWhile solars are simpler to set up, solars cap out at 524288 EU/t. Fusion can reach levels close to eight times that with the right setup. \n\nFor your first reactor, you will need a controller, 2-16 fluid input hatches, 1-16 fluid output hatches, and 16 energy hatches. All hatches have to be LuV tier or better. Each hatch provides 2048 EU/t for the recipe, and has a storage capacity of 10M eu. \n\nThis means you can do any fusion recipe that takes less than 32768 EU/t or less, and has a startup cost of 160M EU or less. Using more fluid hatches means you need less fusion casings. While this doesn't matter as much for the mk1 reactor, this principle helps tremendously with the higher reactor tiers. ",
-		"ru_name": "§l§c§lНачало Fusion",
-		"ru_desc": "Теперь, когда ваши потребности в силах увеличиваются, вам нужен способ отказаться от спроса. Для генерации более 1а ZPM с одной машиной у вас есть два варианта: солнечные луки и слияние.\n\nХотя солдаты проще настраиваются, солнечные выпуклины на 524288 EU / т.Fusion может достигать уровнях близких к восемь раз, что с правильной настройкой.\n\nДля вашего первого реактора вам понадобится контроллер, 2-16 жидкостных входных люков, 1-16 жидких выходных люков и 16 энергетических люков. Все люки должны быть любого уровня или лучше. Каждый люк обеспечивает 2048 EU / T для рецепта и имеет емкость хранения 10 м ЕС.\n\nЭто означает, что вы можете сделать любой рецепт Fusion, который занимает менее 32768 ев / т или меньше, и имеет затраты запуска 160 М EU или меньше. Использование более жидких люков означает, что вам нужно меньше кожух Fusion. Хотя это не имеет значения для реактора MK1, этот принцип чрезвычайно помогает более высоким ящаческим ящаркам."
+		"ru_name": "§l§c§lНачало синтеза",
+		"ru_desc": "Теперь, когда твои нужды в энергии растут, тебе надо как-то поспевать за потреблением. Чтобы производить более 1 ZPM ампера одним генератором у тебя есть два варианта: солнечные панели и синтез.\n\nХоть солнечные панели и проще использовать, их максимум - 524228 EU/тик. Синтез, при правильной сборке, может достигать мощностей, которые больше почти в восемь раз.\n\nДля первого реактора тебе потребуется контроллер, 2-16 жидкостных шлюзов и 16 приёмников энергии. Все приёмники должны быть как минимум Luv-тира. Каждый приёмник предоставляет рецепту 2048 EU/тик и хранит в себе 10 миллионов EU.\n\nЭто значит, что ты можешь запускать любой рецепт,тратящий менее 32768 EU/тик во время рецептра и менее 160 миллионов EU для запуска. Используя больше жидкостных шлюзов ты можешь сэкономить на корпусе. Хоть это не так и важно для первого реактора, этот принцип чрезвычайно важен для более мощных реакторов."
 	},
 	"1213:10": {
 		"eng_name": "§b§9§d§l§b§c§lGetting Europium",
 		"eng_desc": "To make a mk2 reactor, ender quarry, T5 rocket, unlock ZPM, or other things, you will need europium. Once you make a t5 rocket you will be able to find this as part of a very rare ore. Until then you need to produce it in the reactor. But it's probably not worth it to look for the ore anyway.",
-		"ru_name": "§b§9§d§l§b§c§lПолучить европию",
-		"ru_desc": "Чтобы сделать реактор MK2, консервию, ракета T5, разблокировать ZPM или другие вещи, вам понадобится европийский. После того, как вы сделаете ракета T5, вы сможете найти это как часть очень редкой руды. До тех пор вам нужно производить его в реакторе. Но, вероятно, не стоит того, чтобы искать руду в любом случае."
+		"ru_name": "§b§9§d§l§b§c§lДобыча Европия",
+		"ru_desc": "Тебе нужен европий для создания реактора 2-го уровня, карьера края, Т5 ракеты, разблокировки ZPM и прочего. Сделав Т5 ракету ты сможешь добывать европий из очень редкой руды. До тех пор тебе придётся добывать его синтезом. Но не то, чтобы добыча руды впринципе стоила твоего времени."
 	},
 	"1214:10": {
 		"eng_name": "Clockwork Engine",
 		"eng_desc": "Producing RF Power by hand is a good idea for making one or two recipes in the Forestry machines. The turrets can be charged with it too.",
 		"ru_name": "Заводной двигатель",
-		"ru_desc": "Производство электроэнергии РФ вручную - хорошая идея для создания одного или двух рецептов в лесных машинах. Туреты могут быть заряжены этим тоже."
+		"ru_desc": "Для выполнения пары рецептов в Forestry машинах будет достаточно ручного производсва RF. Так же этим можно заряжать турели."
 	},
 	"1215:10": {
 		"eng_name": "Bio Gas Engine",
 		"eng_desc": "Producing RF Power with Lava is possible with the Biogas engine. You need Water, Seedoil, Milk, Sap Cresote or FR Biomass in the other slot. The engine outputs 50RF/t depends on the fluid you put in.\n\nFuel /Lava /  Usage Energy Ticks\nWater Constant 10 RF/t 1000\nFruit Juice Startup/Restart Only 10 RF/t 2500\nLiquid Honey Startup/Restart Only 20 RF/t 2500\nMilk Constant 10 RF/t 10000\nSeed Oil Startup/Restart Only 30 RF/t 2500\nBiomass Startup/Restart Only 50 RF/t 2500",
-		"ru_name": "Био газовый двигатель",
-		"ru_desc": "Производство электроэнергии с помощью Lava возможно с двигателем Biogas. Вам нужна вода, седая, молоко, SAP Cresote или биомасса FR в другом слоте. Выходы двигателя 50RF / T зависят от введенного вами жидкости.\n\nТопливо / лава / Использование Энергетика клещ\nПостоянная постоянная вода 10 РФ / т 1000\nФруктовый сок Запуск / Перезапуск всего 10 RF / T 2500\nЗапуск / перезапуск / перезапуск жидкости 35 RF / T 2500\nКонстанта молока 10 RF / T 10000\nЗапуск семенного масла / перезапуск всего 30 RF / T 2500\nЗапуск биомассы / перезапуск всего 50 RF / T 2500"
+		"ru_name": "Биогазовый двигатель",
+		"ru_desc": "При помощи биогазового двигателя можно производить RF энергию из лавы. Тебе потребуется вода, растительное масло, молоко, креозот или биомасса в одной из ячеек. Двигатель производит до 50 RF/тик в зависимости от жидкости.\n\nТопливо|Использование лавы|Энергия|Тики\nВода|Постоянно|10RF/тик|1000\nФруктовый сок|Только при запуске|30RF/тик|2500\nМёд|Только при запуске|20RF/тик|2500\nМолоко|Постоянно|10RF/тик|10000\nРастительное масло|Только при запуске|30RF/тик|2500\nБиомасса|Только при запуске|50RF/тик|2500"
 	},
 	"1216:10": {
 		"eng_name": "Peat Fired Engine",
 		"eng_desc": "Peat fired engines use Peat or Bituminous Peat to run. Peat burns for 5000 ticks and produces 10 RF every tick, 1 peat makes 0.66 Ash, so you get 2 Ash for burning 3 peat. Bituminous Peat burns for 6000 ticks and produces 20 RF/tick.\n\nPeat Farms can be setup by using a managed farm with tin electron tubes. It is possible with a manual farm too.",
-		"ru_name": "Торф уволенный двигатель",
-		"ru_desc": "Торфетные двигатели используют торфы или битумный торф. Торфер ожогов для 5000 клещей и производит 10 РЧ Каждый тик, 1 торф составляет 0,66 зола, поэтому вы получаете 2 зола для сжигания 3 торфа. Битумные торфяные ожоги на 6000 клещей и производит 20 РФ / тик.\n\nТорфы фермы могут быть установлены с помощью управляемой фермы с оловянными электронными трубками. Это возможно с ручной фермой."
+		"ru_name": "Торфяной двигатель",
+		"ru_desc": "Торфяные двигатели используют торф или смолистый торф для работы. Торф горит на протяжении 5000 тиков, производя 10RF/тик и 0,66 золы, так что вы получаете 2 золы сжигая 3 торфа. Смолистый торф горит на протяжении 6000 тиков производя 20RF/тик.\n\nТорфяные фермы обустраиваются при помощи управляемой фермы с оловяными электронными лампами. Так же можно использовать ручную ферму."
 	},
 	"1217:10": {
 		"eng_name": "Copper, Tin, Bronze Tubes",
 		"eng_desc": "Electron tubes are used to set farms to a special kind of crop and can be used in engines, alvearies and some crafting recipes.\n\nUse a soldering iron to attach an electron tube to a circuit board.",
-		"ru_name": "Медь, олово, бронзовые трубки",
-		"ru_desc": "Электронные трубки используются для установки фермерских хозяйств в особый вид урожая и могут быть использованы в двигателях, Alvearies и некоторых рецептах крафта.\n\nИспользуйте паяльник, чтобы прикрепить электронную трубку к печатной плате."
+		"ru_name": "Медные, оловяные, бронзовые электронные лампы",
+		"ru_desc": "Электронные лампы используются для настройки ферм на определённые виды растений, настройки двигателей, ульев и некоторых рецептов.\n\nИспользуй паяльник для того, чтобы прикрепить лампу на печатную плату."
 	},
 	"1218:10": {
 		"eng_name": "Iron, Golden, Diamantine Tubes",
 		"eng_desc": "Electron tubes are used to set farms to a special kind of crop and can be used in engines, alvearies and some crafting recipes.\n\nUse a soldering iron to attach an electron tube to a circuit board.",
-		"ru_name": "Железо, золотые, диамантиновые трубки",
-		"ru_desc": "Электронные трубки используются для установки фермерских хозяйств в особый вид урожая и могут быть использованы в двигателях, Alvearies и некоторых рецептах крафта.\n\nИспользуйте паяльник, чтобы прикрепить электронную трубку к печатной плате."
+		"ru_name": "Железные, золотые, алмазные электронные лампы",
+		"ru_desc": "Электронные лампы используются для настройки ферм на определённые виды растений, настройки двигателей, ульев и некоторых рецептов.\n\nИспользуй паяльник для того, чтобы прикрепить лампу на печатную плату."
 	},
 	"1219:10": {
 		"eng_name": "Rubberised, Obsidian, Lapis Tubes",
 		"eng_desc": "Electron tubes are used to set farms to a special kind of crop and can be used in engines, alvearies and some crafting recipes.\n\nUse a soldering iron to attach an electron tube to a circuit board.",
-		"ru_name": "Прорезин, обсидиан, лапис",
-		"ru_desc": "Электронные трубки используются для установки фермерских хозяйств в особый вид урожая и могут быть использованы в двигателях, Alvearies и некоторых рецептах крафта.\n\nИспользуйте паяльник, чтобы прикрепить электронную трубку к печатной плате."
+		"ru_name": "Прорезиненные, обсидиановые и лазуритовые электронные лампы",
+		"ru_desc": "Электронные лампы используются для настройки ферм на определённые виды растений, настройки двигателей, ульев и некоторых рецептов.\n\nИспользуй паяльник для того, чтобы прикрепить лампу на печатную плату."
 	},
 	"1220:10": {
 		"eng_name": "Blazing, Ender, Emerald Tubes",
 		"eng_desc": "Electron tubes are used to set farms to a special kind of crop and can be used in engines, alvearies and some crafting recipes.\n\nUse a soldering iron to attach an electron tube to a circuit board.",
-		"ru_name": "Blazing, Ender, изумрудные трубы",
-		"ru_desc": "Электронные трубки используются для установки фермерских хозяйств в особый вид урожая и могут быть использованы в двигателях, Alvearies и некоторых рецептах крафта.\n\nИспользуйте паяльник, чтобы прикрепить электронную трубку к печатной плате."
+		"ru_name": "Огненные, эндер, изумрудные электронные лампы",
+		"ru_desc": "Электронные лампы используются для настройки ферм на определённые виды растений, настройки двигателей, ульев и некоторых рецептов.\n\nИспользуй паяльник для того, чтобы прикрепить лампу на печатную плату."
 	},
 	"1227:10": {
 		"eng_name": "§6§lHCL",
