@@ -3812,140 +3812,140 @@
 	"1227:10": {
 		"eng_name": "§6§lHCL",
 		"eng_desc": "HCl becomes important for your epoxid production in HV/EV tier.",
-		"ru_name": "§6§lHCl",
-		"ru_desc": "HCl становится важным для вашего эпоксидной продукции в HV / EV-уровне."
+		"ru_name": "§6§lСоляная кислота",
+		"ru_desc": "Соляная кислота нужна для производства эпоксидной смолы в HV/EV."
 	},
 	"1228:10": {
 		"eng_name": "§a§lEpichlorohydrin",
 		"eng_desc": "Epichlorohydrin is another product needed in your epoxid production. By now you should be experienced enough to figure out which path is best for your setup using NEI.",
 		"ru_name": "§a§lЭпихлоргидрин",
-		"ru_desc": "Эпихлоргидрин является еще одним продуктом, необходимым в вашем эпоксидном производстве. К настоящему времени вы должны быть достаточно опытными, чтобы понять, какой путь лучше всего подходит для вашей настройки, используя NEI."
+		"ru_desc": "Эпихлоргидрин - это ещё одно вещество, которое необходимо для производства эпоксидной смолы. Ты уже достаточно опытен, чтобы самому собрать лучшую схему произсодтва эпихлоргидрина."
 	},
 	"1229:10": {
 		"eng_name": "§a§lPhenol",
 		"eng_desc": "The easiest way is to get phenol out of heavy fuel. There are other ways, like getting it out of wood tar from a pyrolyse oven, isopropylbenzene and oxygen, or chlorobenzene and water.",
 		"ru_name": "§a§lФенол",
-		"ru_desc": "Самый простой способ состоит в том, чтобы получить фенол из тяжелого топлива. Есть и другие способы, как выходя из древесной смолы из пиролисной духовки, изопропилбензола и кислорода или хлорбензола и воды."
+		"ru_desc": "Проще всего получать фенол из тяжёлого топлива. Есть и другие методы, вроде получения фенола из дёгтя, полученного в пиролизной печи, изопропилбензола и кислорода или хлорбензола и воды."
 	},
 	"1230:10": {
 		"eng_name": "§a§lBisphenol A",
 		"eng_desc": "To get Bisphenol A you need to combine Phenol, Acetone and HCl in a chemical reactor.",
 		"ru_name": "§a§lБисфенол А.",
-		"ru_desc": "Чтобы получить бисфенол А вам нужно объединить фенол, ацетон и HCl в химическом реакторе."
+		"ru_desc": "Чтобы получить бисфенол А тебе нужно объединить фенол, ацетон и соляную кислоту в химическом реакторе."
 	},
 	"1233:10": {
 		"eng_name": "§9§lEnder Eyes",
 		"eng_desc": "Ender eyes are available at HV in the chemical reactor. Combine some ender pearls with blaze powder.",
-		"ru_name": "§9§lЭндерс глаза",
-		"ru_desc": "Эндерс глаза доступны в HV в химическом реакторе. Объедините некоторые жемчужины с порошком Blaze."
+		"ru_name": "§9§lГлаза края",
+		"ru_desc": "Глаза края можно сделать в HV химреакторе. Смешайте эндержемчуг с огненным порошком."
 	},
 	"1243:10": {
 		"eng_name": "§a§lReactor Fuels",
 		"eng_desc": "For impure radioactive ores for your nuclear reactor, you can look for pitchblende and uraninite. You can find them on Mars and Phobos at Y 30-60.",
-		"ru_name": "§a§lРеактор топливо",
-		"ru_desc": "Для непростых радиоактивных руд для вашего ядерного реактора вы можете искать PitchBlende и Uraninite. Вы можете найти их на Марсе и Фобосе на Y 30-60."
+		"ru_name": "§a§lРеакторное топливо",
+		"ru_desc": "Для ядерного топлива тебе потребуются грязные радиоактивные руды, например настуран и уранит. Ты можешь найти их на Марсе и Фобосе на высоте 30-60."
 	},
 	"1244:10": {
 		"eng_name": "§a§lOther Ores",
 		"eng_desc": "You can find several other ores on these planets (some of which actually don't have a use, honestly), but the most useful right now are probably the ones on the right. There's also Draconium, Jade, Mirabilite, Tanzanite, Vinteum, and Vyroxes.",
 		"ru_name": "§a§lДругие руды",
-		"ru_desc": "Вы можете найти несколько других руд на этих планетах (некоторые из которых на самом деле не имеют использования, честно говоря, но теперь наиболее полезны, вероятно, являются теми справа. Существует также драконий, нефритовый, мирубил, танзанит, Виндент и вырокс."
+		"ru_desc": "Ты можешь найти разные руды на этих планетах (некоторые из них вовсе не используются, честно говоря), но самые полезные на данный момент ты можешь увидеть справа. Там так же есть Драконий, Нефрит, Мирабилит, Танзанит, Винтеум и Вирокс."
 	},
 	"1247:10": {
 		"eng_name": "§a§lQuantum Eye",
 		"eng_desc": "Quantum eyes are required in EV emitters and sensors. Just infuse your ender eye with radon to get one.",
 		"ru_name": "§a§lКвантовый глаз",
-		"ru_desc": "Квансовые глаза требуются в EV излучателях и датчиках. Просто наполните свой глаз с Радоном, чтобы получить один."
+		"ru_desc": "Квансовые глаза нужны для EV излучателей и сенсоров. Просто наполните глаза края радоном для получения квантовых глаз."
 	},
 	"1252:10": {
 		"eng_name": "§a§lHV Chemical Bath",
 		"eng_desc": "An HV chemical bath or better is needed for the quantum eye.",
-		"ru_name": "§a§lHV Chemical Bath",
-		"ru_desc": "Химическая ванна HV или лучше необходима для квантового глаза."
+		"ru_name": "§a§lHV Химическая ванна",
+		"ru_desc": "Для создания квантового глаза тебе нужна как минимум химванна HV-тира."
 	},
 	"1253:10": {
 		"eng_name": "16k Component",
 		"eng_desc": "Second largest vanilla storage component, used to make 16k ME storage cells, or can be upgraded to make 64k ME storage components. Can be recovered from a crafted 16k ME storage cell by fully emptying the storage cell, and shift clicking it in your hand.",
-		"ru_name": "16K компонент",
-		"ru_desc": "Второй по величине компонент Vanilla Storage, используемый для создания ячейки хранения 16K ME, или может быть обновлен, чтобы сделать 64K ME ME COMCOLTION. Может быть восстановлен от ячейки хранения 16k Me Me Me, полностью опорожняя ячейку хранения и переключайте его в руке."
+		"ru_name": "16к компонент памяти",
+		"ru_desc": "Второй по размеру ванильный компонент памяти, используемый для создания 16к МЭ ячеек памяти или для улучшения в 64к МЭ компонентов памяти. Можно получить из 16к МЭ ячейки памяти, если опустошить её и нажать Шифт+ПКМ держа её в руке."
 	},
 	"1254:10": {
 		"eng_name": "16k Crafting Storage",
 		"eng_desc": "Component of the crafting CPU which provides 16,384 bytes of storage for crafting.",
-		"ru_name": "16k Crafting Storage",
-		"ru_desc": "Компонент CRAFTING CPU, который обеспечивает 16 384 байта хранения для крафта."
+		"ru_name": "16к хранилище создания",
+		"ru_desc": "Компонент крафтового процессора, обеспечивающий 16,384 байта хранилища для крафта."
 	},
 	"1256:10": {
 		"eng_name": "64k Component",
 		"eng_desc": "Largest vanilla storage component, used to make 64k ME storage cells. Can be recovered from a crafted 64k ME storage cell by fully emptying the storage cell, and shift clicking it in your hand.",
 		"ru_name": "64K компонент",
-		"ru_desc": "Крупнейший ванильный компонент для хранения, используемый для проведения 64K мне ячейки хранения мне. Может быть восстановлен из ячейки хранения 64K ME 64K, полностью опорожняя ячейку хранения и переключайте ее в руке."
+		"ru_desc": "Крупнейший ванильный компонент памяти, используемый для создания 64к МЭ ячеек памяти. Можно получить из 64к МЭ ячейки памяти, если опустошить её и нажать Шифт+ПКМ держа её в руке."
 	},
 	"1257:10": {
 		"eng_name": "64k Crafting Storage",
 		"eng_desc": "Component of the crafting CPU which provides 65,536 bytes of storage for crafting.",
-		"ru_name": "64k Crafting Storage",
-		"ru_desc": "Компонент CRAFTING CPU, который обеспечивает 65 536 байтов хранения для создания."
+		"ru_name": "64k хранилище создания",
+		"ru_desc": "Компонент крафтового процессора, обеспечивающий 65,536 байтов хранилища для крафта."
 	},
 	"1259:10": {
 		"eng_name": "Filling Tanks",
 		"eng_desc": "Export bus for fluids only.",
 		"ru_name": "Заполнение резервуаров",
-		"ru_desc": "Экспортная шина только для жидкостей."
+		"ru_desc": "Экспортная шина для жидкостей."
 	},
 	"1260:10": {
 		"eng_name": "Crafting Monitor",
 		"eng_desc": "Component of the crafting CPU which displays the top level job and its current progress so you can monitor at a glance how your crafting jobs are progressing.",
-		"ru_name": "Ремесленный монитор",
-		"ru_desc": "Компонент CRAFTING CPU, который отображает рабочую силу верхнего уровня и его текущий прогресс, поэтому вы можете отслеживать, как прогрессируются ваши крафтационные рабочие места."
+		"ru_name": "Монитор создания",
+		"ru_desc": "Компонент крафтового процессора, отображающий задачу и прогресс крафта, благодаря которому вы сможете легко отслеживать процесс крафтов."
 	},
 	"1272:10": {
 		"eng_name": "Wheaty Juice",
 		"eng_desc": "The first step to brew beer or other alcoholic fluids is wheaty juice.",
 		"ru_name": "Пшеничный сок",
-		"ru_desc": "Первый шаг к варевому пиво или другие алкогольные жидкости - это пшеничный сок."
+		"ru_desc": "Первый шаг варки пива и иных алкогольных напитков - пшеничный сок."
 	},
 	"1273:10": {
 		"eng_name": "§5§lBrewing, the Industrial Way",
 		"eng_desc": "If you want brews or alcohol, I recommend you to build one of these. You might have noticed that you cannot build a brewing stand without Thaumcraft. But fear not, you can still find them in secret rooms on the first floor of some roguelike dungeons or ur-ghast towers. Better get searching...",
-		"ru_name": "§5§lЗаваривать, промышленный путь",
-		"ru_desc": "Если вы хотите заваривать или алкоголь, я рекомендую вам построить один из них. Возможно, вы заметили, что вы не можете построить пивоваренный стенд без Thaumcraft. Но не бойся, вы все равно можете найти их в секретных комнатах на первом этаже некоторых роголийских подземелья или ур-гастые башни. Лучше получить поиск ..."
+		"ru_name": "§5§lВарка, промышленный путь",
+		"ru_desc": "Рекомендую собрать такой, если ты хочешь варить зелья или алкоголь. Ты, должно быть, заметил, что ты не можешь создать варочную стойку без таумкрафта. Но не бойся, ты всё ещё можешь найти их в секретных комнатах на первом этаже данжей или в башне Ур-Гаста. Лучше бы ты начинал искать..."
 	},
 	"1274:10": {
 		"eng_name": "§5§lFerment Your Brew!",
 		"eng_desc": "What's better than lame brews? Alcoholic brews! Get one of these to make beer, rum or even vodka.",
-		"ru_name": "§5§lБродить вашу варушку!",
-		"ru_desc": "Что лучше, чем хромые варены? Алкогольные Brews! Получите один из них, чтобы сделать пиво, ром или даже водку."
+		"ru_name": "§5§lФерментируй своё варево!",
+		"ru_desc": "Что может быть лучше слабого варева? Алкоголь! Соберите этот механизм чтобы варить пиво, ром или даже водку."
 	},
 	"1275:10": {
 		"eng_name": "Fake Jagermeister",
 		"eng_desc": "Jagermeister is a common drink in Germany, why don't you grab a bottle? This one seems to be a cheap fake tho...",
-		"ru_name": "Поддельный ягермастер",
-		"ru_desc": "Jagermeister - это обычный напиток в Германии, почему бы вам не схватить бутылку? Этот, кажется, дешевый поддельный ..."
+		"ru_name": "Поддельный Егермейстер",
+		"ru_desc": "Егерьмейстер - обычный напиток в германии, так что почему бы и тебе не заиметь бутылочку? Правда этот выглядит как дешёвая подделка..."
 	},
 	"1276:10": {
 		"eng_name": "Korn and Doppelkorn",
 		"eng_desc": "Korn is german for wheat. That's why this special alcoholic brew is named like this. Doppelkorn means double-wheat.",
-		"ru_name": "Кукуруза и доппелькорн.",
-		"ru_desc": "Корн немецкий для пшеницы. Вот почему этот специальный алкогольный завар назван таким образом. Доппелькорн означает двойную пшеницу."
+		"ru_name": "Корн и Доппелькорн",
+		"ru_desc": "\"Корн\" - это пшеница на немецком. Именно поэтому этот алкогольный напиток назван именно так. Доппелькорн значит \"двойная пшеница\""
 	},
 	"1277:10": {
 		"eng_name": "Sugarcanes",
 		"eng_desc": "Sugarcanes are a source of sugar, and therefore alcohol. If you want some rum or sugar, you'll need these.",
-		"ru_name": "Сахарный след",
-		"ru_desc": "Сахарники являются источником сахара, а следовательно, алкоголь. Если вы хотите немного рома или сахара, вам понадобится эти."
+		"ru_name": "Сахарный тростник",
+		"ru_desc": "Сахарный тростник являтся источником сахара и, поэтому, алкоголя. Если ты хочешь рома или сахара - тебе нужен тростник."
 	},
 	"1278:10": {
 		"eng_name": "Vodka",
 		"eng_desc": "Vodka is Russian for \"small water\". It is a rather high proof alcoholic fluid.",
 		"ru_name": "Водка",
-		"ru_desc": "Водка русская для «небольшой воды». Это довольно высокая достойная алкогольная жидкость."
+		"ru_desc": "Водка значит \"небольшой водоём\". На деле это очень крепкий алкогольный напиток."
 	},
 	"1280:10": {
 		"eng_name": "The industrial way",
 		"eng_desc": "Making rum can be automated, but you need to follow this industrial way for it.",
 		"ru_name": "Промышленный путь",
-		"ru_desc": "Делая ром можно автоматизировать, но вам нужно следовать этому промышленному способу для него."
+		"ru_desc": "Производство рома может быть автоматизировано, но тебе надо следовать промышленному пути."
 	},
 	"1281:10": {
 		"eng_name": "Rum",
@@ -3956,62 +3956,62 @@
 	"1282:10": {
 		"eng_name": "The gathering: Sugar",
 		"eng_desc": "Stockpiling sugar might be a good idea if you have a sweet tooth. Or not?",
-		"ru_name": "Сбор: сахар",
-		"ru_desc": "Записок сахара может быть хорошей идеей, если у вас сладкий зуб. Или нет?"
+		"ru_name": "Сбор: Сахар",
+		"ru_desc": "Если вы сладкоешка - было бы неплохо накопить побольше сахара. Или нет?"
 	},
 	"1283:10": {
 		"eng_name": "Honey for sugar.",
 		"eng_desc": "Since honey contains a lot of sugar, it might be a good idea to get some honey.",
-		"ru_name": "Мед для сахара.",
-		"ru_desc": "Поскольку мед содержит много сахара, это может быть хорошая идея, чтобы получить мед."
+		"ru_name": "Мёд для сахара.",
+		"ru_desc": "Поскольку мёд содержит много сахара, было бы неплохо получить немного мёда."
 	},
 	"1284:10": {
 		"eng_name": "Wasps honey",
 		"eng_desc": "Giant wasps can be found in the Nether. Quick! Sneak into their hive and steal some honey!",
-		"ru_name": "Осы мед",
-		"ru_desc": "Гигантские осы могут быть найдены в Нидер. Быстро! Красться в их улей и украсть медовый!"
+		"ru_name": "Осиный мёд",
+		"ru_desc": "Гигантские осы живут в Аду. Быстрее! Прокрадись в их улей и укради немного мёда!"
 	},
 	"1288:10": {
 		"eng_name": "Hops, the Source of Beer",
 		"eng_desc": "If you don't want pure alcohol, but beer, get some hops by crossbreeding IC2 crops.",
 		"ru_name": "Хмель, источник пива",
-		"ru_desc": "Если вы не хотите чистый алкоголь, но пиво, возьмите несколько прыжков, скрещивая Crosgbreding Croups Crops."
+		"ru_desc": "Если вы хотите не чистого алкоголя, а пива - добудьте немного хмеля скрещивая культуры из IC2."
 	},
 	"1291:10": {
 		"eng_name": "Keeping Your Network Happy",
 		"eng_desc": "Helps with fluctuating power. Energy cells store up to 200,000 AE. They do not accept power directly but are used to buffer some power in an already existing ME network. Energy Cells do not use a channel.",
-		"ru_name": "Держать свою сеть счастливым",
-		"ru_desc": "Помогает с колебанием власти. Энергетические клетки хранят до 200 000 AE. Они не принимают питание напрямую, но используются для буфера некоторой мощности в уже существующей сети ME. Энергетические клетки не используют канал."
+		"ru_name": "Держи свою сеть счастливой",
+		"ru_desc": "Помогает с нестабильной энергией. Энергетические ячейки хранят вплоть до 200,00 AE. Они не принимают энергию напрямую, но используются для хранения небольшого количества энергии в существующей сети. Не используют канал."
 	},
 	"1292:10": {
 		"eng_name": "Storing Your ME Data",
 		"eng_desc": "A block designed to do one thing, store storage cells. This block holds 10 storage cells so you can tightly pack your storage into a very small space. ME drives show their contents and the storage cell status on the front of the drive face.\n\nRed - Indicates the storage cell is full.\nOrange - Indicates the storage cell cannot hold any more types, but it can store more items.\nGreen - Indicates the cell can hold more types, or more items.\nBlack - Indicates there is no channel, or power is offline.\n\nIt's important to note, that without an ME Network this block does nothing. It's only useful when combined with a way to input, and output items, and requires 2 AE/t power to function, and additional power for each storage cell stored inside it.\n\nAbout Priority: Many devices in AE2 have a priority setting, this determines what gets items first. This is useful in some situations, but not so much in others. Higher number = higher priority.",
 		"ru_name": "Хранение ваших данных",
-		"ru_desc": "Блок предназначен для того, чтобы сделать одну вещь, хранить хранения клетки. Этот блок содержит 10 ячейки хранения, чтобы вы могли плотно упаковать хранение в очень небольшое пространство. Меня приводы показывают свое содержимое и состояние хранения ячейки на передней части привода.\n\nКрасный - указывает, что ячейка хранения заполнена.\nОранжевый - указывает, что ячейку хранения не может удерживать больше типов, но он может хранить больше предметов.\nЗеленый - указывает, что ячейка может удерживать больше типов или более элементов.\nЧерный - указывает, что нет канала, или мощность вне форума.\n\nВажно отметить, что без меня сеть этого блока ничего не делает. Это полезно только в сочетании с способом ввода и выводами элементами и требует 2 мощности AE / T для функции, а также дополнительную мощность для каждой камеры хранения, хранящейся внутри него.\n\nО приоритете: многие устройства в AE2 имеют приоритетную настройку, это определяет, что первым получает элементы. Это полезно в некоторых ситуациях, но не столько в других. Более высокое число = более высокий приоритет."
+		"ru_desc": "Блок, существующий для одной задачи, хранить ячейки памяти. Этот блок держит 10 ячеек, так что ты можешь плотно разместить своё хранилище в очень маленьком пространстве. МЭ накопители показывают хранимые ячейки и их заполнение на передней стороне блока.\n\nКрасный - ячейка полна.\nОранжевый - ячейка достигла максимума типов, но ещё может хранить предметы.\nЗелёный - ячейка может вместить больше типов и предметов.\nЧёрный - отсутствие канала или питания.\n\nСтоит уточнить, что  без МЭ-сети этот блок ничего не делает. Он полезен лишь когда имеет способы получать и отдавать предметы, требуя 2 AE/тик для работы, плюс дополнительная энергия за каждую ячейку памяти внутри.\n\nНасчёт приоритетов: Многие AE2 приборы имеют настройки приоритета, обозначающие какие хранилища получат предмет первыми. Это полезно в некоторых ситуациях, но не так сильно в других. Выше число = выше приоритет."
 	},
 	"1293:10": {
 		"eng_name": "Safety First!",
 		"eng_desc": "This storage cell housing is blast proof and stores only 3 cells.\n\n§4Also super buggy (graphically).",
 		"ru_name": "Безопасность прежде всего!",
-		"ru_desc": "Этот корпус хранения клеток является доказательством доступа и хранит только 3 клетки.\n\nТакже супер багги (графически)."
+		"ru_desc": "Этот накопитель взрывоустойчив, но хранит лишь 3 ячейки.\n\nПри этом очень багованный (графически)."
 	},
 	"1294:10": {
 		"eng_name": "Speeding Up Growth",
 		"eng_desc": "Used to accelerate the process of purifying crystals, which allows you to create pure certus quartz crystal, pure nether quartz crystal and pure fluix crystal. Must be powered by an ME Network via the sides with the +, and consumes a steady 8 ae/t while plugged in. Crystal Seeds must be in an adjacent water block to be affected - the seeds will shimmer more rapidly when in the presence of a powered crystal growth accelerator. These do not use a channel.",
 		"ru_name": "Ускорение роста",
-		"ru_desc": "Используется для ускорения процесса очистки кристаллов, что позволяет создавать чистый кристалл CERTUS кварцевый, чистый кристалл преследующего кварца и кристалл чистого флуса. Должен быть включенным в сеть ME через боковых сторон с + и потребляет устойчивую 8 Ae / T во время подключения. Кристальные семена должны быть в соседнем блоке водного блока - семена будут мерцать более быстро, когда в присутствииАкселеритор роста роста силового хрусталя. Это не используют канал."
+		"ru_desc": "Используется для ускорения процесса очистки кристаллов, который позволяет создавать Чистый кристалл истинного кварца, Чистый кристалл кварца Нижнего мира и Чистый изменчивый кристалл. Должен быть подключён к МЭ-сети, поглощает 8 AE/тик когда подключён. Для работы семена кристаллов должны находиться в прилегающем блоке воды - Семена начнут мерчать чаще при наличии запитанного ускорителя роста кристаллов. Не использует канал."
 	},
 	"1295:10": {
 		"eng_name": "Perfecting Crystal Growth",
 		"eng_desc": "The crystal growth chamber is used for fast crystal growth, and it is possible to increase its speed by installing acceleration cards in an upgrade slot. It works more like a normal device, with the crystals growing in its internal inventory. Unlike the more primitive versions, it doesn't use power when not in use. It also doesn't use a channel.",
-		"ru_name": "Совершенствование кристаллического роста",
-		"ru_desc": "Камера роста Crystal используется для роста быстрого кристалла, и можно увеличить его скорость, установив карты ускорения в слот для обновления. Он работает больше похоже на нормальное устройство с кристаллами, растущими во внутреннем инвентаре. В отличие от более примитивных версий, он не использует питание при отсутствии использования. Это также не использует канал."
+		"ru_name": "Совершенствование роста кристаллов",
+		"ru_desc": "Камера роста кристаллов используется для быстрого выращивания кристаллов, позволяя увеличивать скорость при помощи карт ускорения в ячейках для улучшений. Работает как обычное устройство, с кристаллами растущими в его инвентаре. В отличии от более примитивных устройств, камера не использует энергию когда не используется. Не использует канал."
 	},
 	"1297:10": {
 		"eng_name": "Dragon Essense",
 		"eng_desc": "Need some Dragon essense? Buy some!",
-		"ru_name": "Сущность дракона",
-		"ru_desc": "Нужна эссенция дракона? Купи немного!"
+		"ru_name": "Драконья эссенция",
+		"ru_desc": "Нужна драконья эссенция? Купи немного!"
 	},
 	"1298:10": {
 		"eng_name": "Wireless Setup",
